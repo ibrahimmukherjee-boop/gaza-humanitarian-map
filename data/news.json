@@ -1,67 +1,87 @@
 [
   {
-    "id": "news-1",
-    "title_en": "UN OCHA: Humanitarian access update for Gaza",
-    "title_ar": "أون أوشا: تحديث الوصول الإنساني لغزة",
-    "excerpt_en": "Latest coordination report on aid delivery and infrastructure status across the Gaza Strip.",
-    "excerpt_ar": "أحدث تقرير تنسيق حول توصيل المساعدات وحالة البنية التحتية في قطاع غزة.",
-    "source": "UN OCHA",
-    "timestamp": "2026-07-01T14:00:00Z",
-    "url": "https://www.unocha.org",
-    "tags": ["humanitarian", "aid"],
-    "location_tags": ["Gaza Strip"],
+    "id": "c46385fd7c4b",
+    "title_en": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
+    "title_ar": "",
+    "excerpt_en": "The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-30T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
     "credibility": "high"
   },
   {
-    "id": "news-2",
-    "title_en": "WHO: Health cluster weekly situation report",
-    "title_ar": "منظمة الصحة العالمية: تقرير أسبوعي عن مجموعة الصحة",
-    "excerpt_en": "Summary of medical facility status and health sector needs from verified sources.",
-    "excerpt_ar": "ملخص حالة المنشآت الطبية واحتياجات قطاع الصحة من مصادر موثقة.",
-    "source": "WHO",
-    "timestamp": "2026-07-01T10:30:00Z",
-    "url": "https://www.who.int/emergencies",
-    "tags": ["health", "humanitarian"],
-    "location_tags": ["Gaza City"],
+    "id": "9b3c6b7575f8",
+    "title_en": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process and two civil society representatives. Stay tuned for live updates.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-29T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
     "credibility": "high"
   },
   {
-    "id": "news-3",
-    "title_en": "UNICEF: Water and sanitation update",
-    "title_ar": "يونيسف: تحديث المياه والصرف الصحي",
-    "excerpt_en": "Report on water access points and sanitation infrastructure from field assessments.",
-    "excerpt_ar": "تقرير عن نقاط الوصول للمياه والبنية التحتية للصرف الصحي من تقييمات ميدانية.",
-    "source": "UNICEF",
-    "timestamp": "2026-06-30T16:00:00Z",
-    "url": "https://www.unicef.org/emergencies",
-    "tags": ["infrastructure", "humanitarian"],
-    "location_tags": ["Khan Younis"],
+    "id": "5375995620fa",
+    "title_en": "Israel continues to commit genocide, atrocity crimes by deliberately targeting Palestinian children, UN independent commission finds",
+    "title_ar": "",
+    "excerpt_en": "Israeli authorities and security forces have deliberately targeted Palestinian children, resulting in genocide and atrocity crimes in the Gaza Strip and war crimes in the West Bank, a UN independent commission of inquiry said in its latest report released on Tuesday.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-23T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
     "credibility": "high"
   },
   {
-    "id": "news-4",
-    "title_en": "ReliefWeb: Displacement figures update",
-    "title_ar": "ReliefWeb: تحديث أرقام النزوح",
-    "excerpt_en": "Aggregated displacement data from UN agency reports. Figures attributed to original sources.",
-    "excerpt_ar": "بيانات نزوح مجمعة من تقارير وكالات الأمم المتحدة. الأرقام منسوبة للمصادر الأصلية.",
-    "source": "ReliefWeb",
-    "timestamp": "2026-06-30T09:00:00Z",
-    "url": "https://reliefweb.int",
-    "tags": ["displacement", "humanitarian"],
-    "location_tags": ["Gaza Strip"],
+    "id": "1adae3009174",
+    "title_en": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+    "title_ar": "",
+    "excerpt_en": "After another deadly night of clashes in Lebanon, aid agencies issued a new alert for Gaza, where 265 Palestinian children have been killed since a ceasefire was announced in October 2025.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-19T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167760",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
     "credibility": "high"
   },
   {
-    "id": "news-5",
-    "title_en": "WFP: Food assistance distribution report",
-    "title_ar": "برنامج الأغذية العالمي: تقرير توزيع المساعدات الغذائية",
-    "excerpt_en": "Weekly summary of food distribution activities and supply chain status.",
-    "excerpt_ar": "ملخص أسبوعي لأنشطة توزيع الغذاء وحالة سلسلة الإمداد.",
-    "source": "WFP",
-    "timestamp": "2026-06-29T12:00:00Z",
-    "url": "https://www.wfp.org",
-    "tags": ["aid", "humanitarian"],
-    "location_tags": ["Rafah"],
+    "id": "6dc8ea99e677",
+    "title_en": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
+    "title_ar": "",
+    "excerpt_en": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory's humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told amb",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-18T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
     "credibility": "high"
   }
 ]
