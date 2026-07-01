@@ -13,7 +13,17 @@
     "hotlines": "Hotlines",
     "timeline": "Information Timeline",
     "sources": "Data Sources",
-    "about": "About & Ethics"
+    "about": "About & Ethics",
+    "children_game": "Children's Game"
+  },
+  "children_game": {
+    "title": "Children's Game",
+    "subtitle": "Help the squirrel jump and collect nuts!",
+    "controls": "Arrow keys or buttons: move ← → and jump ↑. Collect all the nuts!",
+    "loading": "Loading 3D game...",
+    "score": "Nuts collected",
+    "win_title": "All nuts collected!",
+    "play_again": "Play again"
   },
   "home": {
     "primary": "Essential — works offline",

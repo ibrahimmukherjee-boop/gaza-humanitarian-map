@@ -14,6 +14,7 @@ const navItems = [
   { to: "/hotlines", key: "nav.hotlines" },
   { to: "/islamic-guidance", key: "nav.islamic" },
   { to: "/violence-safety", key: "nav.violence_safety" },
+  { to: "/children-game", key: "nav.children_game" },
   { to: "/map", key: "nav.map", liteHidden: true },
   { to: "/about", key: "nav.about" },
 ] as const;

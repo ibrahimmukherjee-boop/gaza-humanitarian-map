@@ -15,6 +15,7 @@ const AboutPage = lazy(() => import("./pages/AboutPage"));
 const PoliticalNewsPage = lazy(() => import("./pages/PoliticalNewsPage"));
 const ViolenceSafetyPage = lazy(() => import("./pages/ViolenceSafetyPage"));
 const IslamicGuidancePage = lazy(() => import("./pages/IslamicGuidancePage"));
+const ChildrenGamePage = lazy(() => import("./pages/ChildrenGamePage"));
 
 function PageLoader() {
   const { t } = useTranslation();
@@ -43,6 +44,7 @@ export default function App() {
             <Route path="timeline" element={<TimelinePage />} />
             <Route path="sources" element={<SourcesPage />} />
             <Route path="about" element={<AboutPage />} />
+            <Route path="children-game" element={<ChildrenGamePage />} />
           </Route>
         </Routes>
       </Suspense>
