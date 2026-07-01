@@ -15,13 +15,7 @@ function PopSquirrel() {
 
   return (
     <group ref={group} position={[0, -0.15, 0.8]} scale={1.35} rotation={[0.1, 0.3, 0]}>
-      <SquirrelModel
-        facing={1}
-        velocityY={0}
-        onGround
-        eating={false}
-        velocityX={0}
-      />
+      <SquirrelModel facing={1} onGround eating={false} velocityX={0} />
     </group>
   );
 }

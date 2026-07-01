@@ -5,7 +5,6 @@ import type { Group } from "three";
 
 interface SquirrelModelProps {
   facing: 1 | -1;
-  velocityY: number;
   onGround: boolean;
   eating: boolean;
   velocityX: number;
@@ -13,7 +12,6 @@ interface SquirrelModelProps {
 
 export default function SquirrelModel({
   facing,
-  velocityY,
   onGround,
   eating,
   velocityX,
@@ -32,14 +30,15 @@ export default function SquirrelModel({
   useFrame(({ clock }) => {
     const t = clock.getElapsedTime();
     if (group.current) {
-      const runBob = Math.abs(velocityX) > 0.5 && onGround ? Math.sin(t * 14) * 0.04 : 0;
-      const jumpStretch = !onGround ? 1 + velocityY * 0.02 : 1;
+      const runBob =
+        Math.abs(velocityX) > 1 && onGround ? Math.sin(t * 12) * 0.025 : 0;
       group.current.position.y = runBob;
-      group.current.scale.y = THREE.MathUtils.lerp(group.current.scale.y, jumpStretch, 0.15);
+      const targetScaleY = !onGround ? 1.05 : 1;
+      group.current.scale.y = THREE.MathUtils.lerp(group.current.scale.y, targetScaleY, 0.1);
       group.current.scale.x = THREE.MathUtils.lerp(
         group.current.scale.x,
-        onGround ? 1 : 0.92,
-        0.15
+        onGround ? 1 : 0.95,
+        0.1
       );
     }
     if (tail.current) {

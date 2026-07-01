@@ -10,47 +10,15 @@ import {
   GRAVITY,
   JUMP_FORCE,
   MOVE_SPEED,
-  SQUIRREL_W,
   SQUIRREL_H,
   INITIAL_STATE,
   type GameState,
   type Nut,
   type Platform,
 } from "./types";
+import { resolveVertical, resolveHorizontal, clampWorld } from "./physics";
 
 type Keys = { left: boolean; right: boolean; jump: boolean };
-
-function collideAABB(
-  px: number,
-  py: number,
-  pw: number,
-  ph: number,
-  plat: Platform
-): { hit: boolean; top?: number } {
-  const pl = plat.x - plat.width / 2;
-  const pr = plat.x + plat.width / 2;
-  const pb = plat.y;
-  const pt = plat.y + plat.height;
-
-  const sl = px - pw / 2;
-  const sr = px + pw / 2;
-  const sb = py;
-  const st = py + ph;
-
-  if (sr < pl || sl > pr || st < pb || sb > pt) return { hit: false };
-
-  const overlapTop = st - pb;
-  const overlapBottom = pt - sb;
-  const overlapLeft = sr - pl;
-  const overlapRight = pr - sl;
-
-  const minOverlap = Math.min(overlapTop, overlapBottom, overlapLeft, overlapRight);
-
-  if (minOverlap === overlapTop && overlapTop < 0.4) {
-    return { hit: true, top: pb };
-  }
-  return { hit: true };
-}
 
 function NutMesh({ nut, visible }: { nut: Nut; visible: boolean }) {
   const ref = useRef<THREE.Group>(null);
@@ -148,12 +116,15 @@ function GameWorld({
   const state = useRef<GameState>({ ...INITIAL_STATE });
   const nuts = useRef<Nut[]>(createNuts());
   const squirrelPos = useRef(new THREE.Group());
-  const [, tick] = useState(0);
+  const jumpHeld = useRef(false);
+  const coyoteTimer = useRef(0);
 
   useFrame((_, delta) => {
-    const dt = Math.min(delta, 0.05);
+    const dt = Math.min(delta, 0.033);
     const s = state.current;
     const keys = keysRef.current;
+    const prevX = s.x;
+    const prevY = s.y;
 
     if (s.eating) {
       s.eatTimer -= dt;
@@ -166,13 +137,25 @@ function GameWorld({
         s.vx = MOVE_SPEED;
         s.facing = 1;
       } else {
-        s.vx *= 0.82;
+        s.vx *= 0.75;
+        if (Math.abs(s.vx) < 0.05) s.vx = 0;
       }
 
-      if (keys.jump && s.onGround) {
+      if (s.onGround) coyoteTimer.current = 0.12;
+      else coyoteTimer.current -= dt;
+
+      const wantsJump = keys.jump && !jumpHeld.current;
+      jumpHeld.current = keys.jump;
+
+      if (wantsJump && (s.onGround || coyoteTimer.current > 0)) {
         s.vy = JUMP_FORCE;
         s.onGround = false;
-        s.jumpCount++;
+        coyoteTimer.current = 0;
+      }
+
+      // Variable jump — release early for shorter hop
+      if (!keys.jump && s.vy > 4) {
+        s.vy = 4;
       }
     }
 
@@ -180,21 +163,14 @@ function GameWorld({
     s.x += s.vx * dt;
     s.y += s.vy * dt;
 
-    s.onGround = false;
-    for (const plat of PLATFORMS) {
-      const col = collideAABB(s.x, s.y, SQUIRREL_W, SQUIRREL_H, plat);
-      if (col.hit && col.top !== undefined && s.vy <= 0) {
-        s.y = col.top;
-        s.vy = 0;
-        s.onGround = true;
-      } else if (col.hit && s.vy > 0) {
-        s.vy = -2;
-      }
-    }
+    resolveHorizontal(s, prevX);
+    resolveVertical(s, prevY);
+    clampWorld(s);
 
     if (s.y < -2) {
       Object.assign(s, { ...INITIAL_STATE });
       nuts.current = createNuts();
+      coyoteTimer.current = 0;
     }
 
     if (!s.eating) {
@@ -216,12 +192,11 @@ function GameWorld({
     if (nuts.current.every((n) => n.collected)) onWin();
 
     if (squirrelPos.current) {
-      const z = popOut ? 0.85 + (s.eating ? 0.2 : 0) : 0.3;
-      const scale = popOut ? 1.25 : 1;
-      squirrelPos.current.position.set(s.x, s.y + SQUIRREL_H / 2 - 0.1, z);
+      const z = popOut ? 0.85 + (s.eating ? 0.15 : 0) : 0.3;
+      const scale = popOut ? 1.2 : 1;
+      squirrelPos.current.position.set(s.x, s.y + SQUIRREL_H / 2 - 0.05, z);
       squirrelPos.current.scale.setScalar(scale);
     }
-    tick((n) => n + 1);
   });
 
   const s = state.current;
@@ -258,7 +233,6 @@ function GameWorld({
       <group ref={squirrelPos}>
         <SquirrelModel
           facing={s.facing}
-          velocityY={s.vy}
           onGround={s.onGround}
           eating={s.eating}
           velocityX={s.vx}
