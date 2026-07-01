@@ -1,0 +1,69 @@
+@import "leaflet/dist/leaflet.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: #f8fafc;
+  color: #0f172a;
+}
+
+.leaflet-container {
+  font-family: inherit;
+  z-index: 0;
+}
+
+[dir="rtl"] .nav-link {
+  text-align: right;
+}
+
+.lite-mode img,
+.lite-mode .leaflet-container {
+  display: none !important;
+}
+
+.lite-mode .card {
+  box-shadow: none;
+}
+
+body.lite-mode {
+  background: #fff;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply px-3 py-1.5 rounded-md text-sm font-medium transition-colors;
+  }
+  .btn-primary {
+    @apply bg-blue-700 text-white hover:bg-blue-800;
+  }
+  .btn-ghost {
+    @apply bg-transparent hover:bg-slate-100 text-slate-700;
+  }
+  .card {
+    @apply bg-white rounded-lg border border-slate-200 shadow-sm p-4;
+  }
+  .badge {
+    @apply inline-flex items-center px-2 py-0.5 rounded text-xs font-medium;
+  }
+}

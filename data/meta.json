@@ -1,0 +1,8 @@
+{
+  "last_updated": "2026-07-01T16:00:00Z",
+  "sources": ["OpenStreetMap", "ReliefWeb", "UN OCHA", "Curated hotlines"],
+  "facilities_count": 0,
+  "news_count": 0,
+  "note_en": "Verify all locations and phone numbers locally before acting. Data may be delayed.",
+  "note_ar": "تحقق من جميع المواقع وأرقام الهاتف محلياً قبل التصرف. قد تتأخر البيانات."
+}

@@ -1,0 +1,420 @@
+{
+  "title": "Humanitarian Situation & Survival Map",
+  "subtitle": "Verified humanitarian information — not predictive intelligence",
+  "nav": {
+    "home": "Home",
+    "map": "Map",
+    "news": "Live News",
+    "political": "Political News",
+    "violence_safety": "Violence Safety",
+    "islamic": "Islamic Guidance",
+    "resources": "Resources",
+    "survival": "Survival Guides",
+    "hotlines": "Hotlines",
+    "timeline": "Information Timeline",
+    "sources": "Data Sources",
+    "about": "About & Ethics"
+  },
+  "home": {
+    "primary": "Essential — works offline",
+    "secondary": "More information",
+    "data_updated": "Data last updated",
+    "facilities": "facilities",
+    "news_items": "news items",
+    "links": {
+      "resources": "Find water, food, medical & shelter by area",
+      "survival": "Water, sanitation & first aid guides",
+      "hotlines": "Emergency & humanitarian phone numbers",
+      "islamic": "Comfort, duas & trauma support",
+      "violence": "Safety during violence"
+    }
+  },
+  "lite_mode": {
+    "toggle": "Lite mode (low data)",
+    "active": "Lite mode on",
+    "map_disabled": "Map disabled in lite mode to save data. Use Resources to browse by area."
+  },
+  "offline": {
+    "save": "Save all for offline",
+    "saved": "Saved offline"
+  },
+  "language": "Language",
+  "last_updated": "Last Updated",
+  "loading": "Loading...",
+  "error": "Failed to load data",
+  "retry": "Retry",
+  "source": "Source",
+  "timestamp": "Timestamp",
+  "verification": "Verification",
+  "confidence": "Confidence",
+  "verified": "Verified",
+  "unverified": "Unverified",
+  "disputed": "Disputed",
+  "high": "High",
+  "medium": "Medium",
+  "low": "Low",
+  "read_more": "Read more",
+  "filter": "Filter",
+  "all": "All",
+  "no_results": "No results found",
+  "ethics_banner": "Humanitarian and educational support only. We do not predict events, designate safe zones, or provide threat forecasts. Discourse metrics measure published language — not operational risk. Information may be incomplete or delayed.",
+  "map": {
+    "layers": "Map Layers",
+    "time_filter": "Time Filter",
+    "last_hour": "Last hour",
+    "last_6h": "Last 6 hours",
+    "last_24h": "Last 24 hours",
+    "last_7d": "Last 7 days",
+    "all_time": "All time",
+    "satellite": "Satellite overlay",
+    "cluster": "Cluster markers",
+    "legend": "Legend"
+  },
+  "layers": {
+    "hospitals": "Hospitals",
+    "clinics": "Clinics",
+    "shelters": "Shelters",
+    "water": "Water Points",
+    "food": "Food Distribution",
+    "sanitation": "Sanitation",
+    "roads": "Road Status",
+    "damage": "Damage Reports",
+    "incidents": "Incident Reports",
+    "news": "News Markers",
+    "pressure": "Information Pressure"
+  },
+  "news": {
+    "title": "Live News Feed",
+    "subtitle": "Aggregated from verified humanitarian sources",
+    "timeline": "Timeline View",
+    "feed": "Feed View",
+    "filter_topic": "Filter by topic",
+    "topics": {
+      "humanitarian": "Humanitarian",
+      "infrastructure": "Infrastructure",
+      "aid": "Aid",
+      "displacement": "Displacement",
+      "health": "Health"
+    },
+    "credibility": "Credibility"
+  },
+  "resources": {
+    "title": "Humanitarian Resources",
+    "subtitle": "Browse by area — sorted by last update. Verify locally before visiting.",
+    "area": "Area",
+    "all_areas": "All areas",
+    "verify_locally": "Verify this location is still operating before travelling.",
+    "areas": {
+      "gaza-city": "Gaza City",
+      "north-gaza": "North Gaza",
+      "middle-area": "Middle Area",
+      "khan-younis": "Khan Younis",
+      "rafah": "Rafah",
+      "unknown": "Gaza Strip"
+    },
+    "categories": {
+      "all": "All",
+      "hospitals": "Medical",
+      "clinics": "Clinics",
+      "water": "Water",
+      "food": "Food",
+      "shelters": "Shelters"
+    },
+    "status": {
+      "open": "Reported open",
+      "closed": "Reported closed",
+      "unknown": "Status unknown"
+    },
+    "hospitals": "Medical Facilities",
+    "water": "Water Access",
+    "food": "Food Distribution",
+    "shelters": "Shelters",
+    "count": "{{count}} locations"
+  },
+  "hotlines": {
+    "title": "Hotlines & Contacts",
+    "subtitle": "Published humanitarian and emergency numbers — verify locally",
+    "verify_note": "Phone numbers and services change. Always verify locally. Tap to call where supported.",
+    "categories": {
+      "medical": "Medical & Emergency",
+      "humanitarian": "Humanitarian Agencies",
+      "children": "Child Protection",
+      "mental_health": "Mental Health"
+    }
+  },
+  "survival": {
+    "title": "Survival Guides",
+    "subtitle": "General humanitarian education — not location-specific safety advice",
+    "download": "Download as text",
+    "offline_note": "This content is cached for offline access",
+    "water": {
+      "title": "Water Safety",
+      "items": [
+        "Boil water for at least 1 minute if possible before drinking",
+        "Use cloth filtration to remove visible particles when boiling is not possible",
+        "Avoid water from unknown sources; contamination risks include bacteria and chemicals",
+        "Rainwater collection: use clean containers, cover to prevent contamination",
+        "Store treated water in covered, clean containers away from sunlight"
+      ]
+    },
+    "sanitation": {
+      "title": "Sanitation",
+      "items": [
+        "Wash hands with soap and water when available, especially before eating",
+        "Dispose of waste away from water sources and living areas",
+        "Temporary toilet: dig a pit at least 30cm deep, 30m from water sources",
+        "Keep living areas dry and ventilated to reduce disease risk",
+        "Separate human waste from food preparation areas"
+      ]
+    },
+    "first_aid": {
+      "title": "First Aid",
+      "items": [
+        "Bleeding: apply direct pressure with clean cloth for at least 10 minutes",
+        "Burns: cool with clean running water for 20 minutes; do not apply ice",
+        "Dehydration: give small sips of clean water; seek medical help if severe",
+        "Shock: lay person flat, elevate legs if no injury; keep warm",
+        "This guide is not a substitute for professional medical care"
+      ]
+    },
+    "shelter": {
+      "title": "Shelter Safety",
+      "items": [
+        "Be aware of structural damage: cracks, leaning walls, unstable ceilings",
+        "Ensure adequate ventilation in enclosed spaces",
+        "Keep exits accessible; avoid overcrowding in small spaces",
+        "Do not enter visibly damaged buildings",
+        "This is general awareness — not an assessment of any specific location"
+      ]
+    },
+    "no_power": {
+      "title": "No Electricity / No Fuel",
+      "items": [
+        "Water purification: use chlorine tablets if available; sun exposure (SODIS) in clear bottles for 6+ hours",
+        "Keep food in coolest available place; eat perishables first",
+        "Avoid opening refrigerators unnecessarily if power is intermittent",
+        "Use LED or phone light sparingly to preserve battery",
+        "Share power banks and charging access with neighbours when safe"
+      ]
+    },
+    "infant": {
+      "title": "Infant & Child Care",
+      "items": [
+        "Breastfeeding is safest when possible — no clean water needed for formula preparation",
+        "If using formula: wash hands, use cleanest available water, prepare small amounts per feed",
+        "Watch for dehydration: fewer wet nappies, sunken fontanelle, lethargy — seek help urgently",
+        "Keep infants warm; hypothermia risk in unheated shelters",
+        "Continue routine vaccinations only when health services are confirmed accessible"
+      ]
+    },
+    "chronic": {
+      "title": "Chronic Illness Without Medication",
+      "items": [
+        "Do not stop essential medications abruptly without medical advice if any clinician is reachable",
+        "Keep a written list of medications and conditions for any health worker",
+        "Diabetes: monitor for confusion or extreme thirst; seek help if available",
+        "Epilepsy: protect from injury during seizures; do not restrain",
+        "This is awareness only — not a substitute for medical care"
+      ]
+    },
+    "menstrual": {
+      "title": "Menstrual Hygiene",
+      "items": [
+        "Use cleanest available cloth; wash and dry in sunlight if possible",
+        "Change materials frequently to reduce infection risk",
+        "Wash hands before and after changing materials",
+        "Dispose of waste discreetly away from water and living areas",
+        "Seek cloth or supplies from aid distributions when available"
+      ]
+    }
+  },
+  "timeline": {
+    "title": "Information Timeline",
+    "subtitle": "Chronological view of reported events and updates",
+    "events": "events"
+  },
+  "sources": {
+    "title": "Data Sources",
+    "subtitle": "All data is attributed to original sources",
+    "description": "This platform aggregates publicly available humanitarian data. We do not modify the meaning of source reports.",
+    "list": {
+      "ocha": "UN OCHA — Office for the Coordination of Humanitarian Affairs",
+      "who": "World Health Organization",
+      "unicef": "UNICEF",
+      "reliefweb": "ReliefWeb — UN humanitarian information service",
+      "osm": "OpenStreetMap community data",
+      "rss": "Verified RSS feeds from humanitarian agencies"
+    },
+    "update_frequency": "Data is updated every 15–30 minutes via automated pipeline"
+  },
+  "about": {
+    "title": "About & Ethics",
+    "mission_title": "Mission",
+    "mission": "This platform displays verified humanitarian infrastructure, aggregates live news from trusted sources, provides general survival education, and shows information activity levels — without predicting events or designating safe zones.",
+    "what_we_do": "What we provide",
+    "do_list": [
+      "Verified humanitarian infrastructure locations",
+      "Multi-source news aggregation with timestamps",
+      "General survival and health education",
+      "Infrastructure status from reported sources",
+      "Information activity metrics (not safety assessments)"
+    ],
+    "what_we_dont": "What we do NOT provide",
+    "dont_list": [
+      "Predictions of future events",
+      "Military intent or strategy analysis",
+      "Safe zones or safe route recommendations",
+      "Evacuation instructions",
+      "Claims that any location is safe or unsafe"
+    ],
+    "license": "Open source — MIT License",
+    "contact": "Contributions welcome via GitHub"
+  },
+  "pressure": {
+    "title": "Information Pressure",
+    "subtitle": "Report volume and source diversity — NOT danger or safety levels",
+    "activity": "Information Activity",
+    "reports_6h": "Reports (6h)",
+    "sources": "Sources",
+    "contradictions": "Contradictions",
+    "last_update": "Last update",
+    "disclaimer": "High activity means more reports are being published — it does not indicate increased risk or safety."
+  },
+  "political": {
+    "title": "Political News Feed",
+    "subtitle": "Attributed political and official statements — with transparent discourse metrics",
+    "disclaimer_title": "Important",
+    "disclaimer": "Sentiment scores and the Discourse Intensity Quotient (DIQ) measure escalation-related LANGUAGE in tracked news headlines. They do NOT predict military action, assess personal risk, infer intent, or indicate that any location is safe or unsafe. High DIQ means more escalation-related words appear in reports — not that an attack is likely.",
+    "methodology_title": "How metrics are calculated (transparent methodology)",
+    "methodology_items": [
+      "Articles are collected from attributed official statements and whitelisted news sources only.",
+      "Sentiment score (−100 to +100): counts predefined escalation vs. de-escalation terms in English headlines, weighted by recency (48-hour window).",
+      "Discourse Intensity Quotient (0–100): combines absolute language intensity and article volume — a media activity index, not a threat level.",
+      "No machine-learning prediction, no location scoring, no intent inference.",
+      "Keyword lists are published in source code for public audit.",
+      "Arabic headlines are displayed but scoring currently uses English text fields; translation pipeline planned."
+    ],
+    "filter_region": "Filter by source region",
+    "regions": {
+      "israel": "Israeli sources",
+      "palestine": "Palestinian sources",
+      "international": "International",
+      "other": "Other"
+    },
+    "statement_types": {
+      "official_statement": "Official statement",
+      "military_announcement": "Military announcement",
+      "political_commentary": "Political commentary",
+      "diplomatic": "Diplomatic",
+      "media_report": "Media report"
+    },
+    "metrics": {
+      "sentiment_title": "News Discourse Sentiment",
+      "sentiment_desc": "Escalation vs. de-escalation language in tracked headlines. Published wording only.",
+      "de_escalation": "De-escalation language",
+      "escalation": "Escalation language",
+      "diq_title": "Discourse Intensity Quotient (DIQ)",
+      "diq_desc": "Volume of escalation-related political discourse in tracked sources. NOT a threat forecast.",
+      "articles": "Based on {{count}} articles in the last {{hours}}h"
+    }
+  },
+  "violence_safety": {
+    "title": "Safety During Violence",
+    "subtitle": "General protective education aligned with ICRC/WHO conflict guidance — not location-specific advice",
+    "download": "Download guide",
+    "disclaimer": "This is general educational information for conflict-affected populations. It does not identify safe locations, safe routes, or predict where violence may occur. Follow local emergency services when available.",
+    "sources_note": "Content adapted from widely published humanitarian conflict safety principles (ICRC, WHO). Not a substitute for professional emergency response.",
+    "shelter": {
+      "title": "How to Take Shelter",
+      "items": [
+        "Move away from windows, outer walls, and open spaces when explosions or strikes are reported nearby",
+        "Seek the lowest floor or an interior room with solid walls between you and the outside",
+        "Stay below window level; glass fragments cause many injuries",
+        "Lie flat on the ground if caught in the open; cover head and neck with hands or available cover",
+        "Do not assume any building is safe — this describes general principles only",
+        "If sheltering with others, stay calm and keep pathways clear for movement"
+      ]
+    },
+    "vital_organs": {
+      "title": "Protecting Vital Organs",
+      "items": [
+        "Lie face down with head turned to the side; hands over the back of the head and neck",
+        "Keep elbows tucked to protect chest and abdomen; knees slightly bent if space allows",
+        "Place a helmet, thick book, or bag over the head if available — partial protection only",
+        "Avoid running upright during active strikes; shrapnel travels horizontally",
+        "After blasts, check for bleeding, breathing difficulty, and shock; apply pressure to bleeding",
+        "Seek medical care as soon as it is safe to do so"
+      ]
+    },
+    "protect_children": {
+      "title": "Protecting Children",
+      "items": [
+        "Place infants and small children between adults and the wall, not near windows",
+        "Cover children's heads and bodies with your own body only as a last resort — your weight must not restrict breathing",
+        "Explain simply what is happening in age-appropriate language to reduce panic",
+        "Maintain physical contact — holding hands helps children feel secure",
+        "Keep a small bag ready with documents, water, and essential medicine if movement becomes necessary",
+        "Watch for signs of shock: pale skin, rapid breathing, confusion — keep warm and reassure"
+      ]
+    }
+  },
+  "islamic": {
+    "title": "Islamic Guidance — Comfort & Resilience",
+    "subtitle": "Spiritual support from Quranic and Prophetic teachings — complements professional care",
+    "download": "Download guide",
+    "disclaimer": "This section offers Islamic spiritual and emotional support. It is not a substitute for professional mental health care, medical treatment, or emergency services. Seek qualified counsellors and imams in your community when possible.",
+    "soothe_children": {
+      "title": "Soothing Children",
+      "items": [
+        "The Prophet (peace be upon him) showed gentleness to children — speak softly, reduce frightening details, and maintain routines where possible",
+        "Recite short surahs (Al-Fatiha, Al-Ikhlas, Al-Falaq, An-Nas) calmly — children find rhythm and voice comforting",
+        "Physical closeness is sunnah: holding, patting gently, and making du'a aloud together",
+        "Answer questions honestly but briefly; avoid graphic descriptions",
+        "Encourage drawing or play when safe — expression helps processing fear",
+        "Remind children that Allah is Ar-Rahman (The Most Merciful) and Al-Hafiz (The Protector) — age-appropriate tawakkul (trust in Allah)"
+      ]
+    },
+    "cope_trauma": {
+      "title": "Coping with Trauma",
+      "items": [
+        "Distress after violence is a normal human response — seeking help is strength, not weakness",
+        "Salah (prayer) and dhikr (remembrance) can anchor the heart; even shortened prayer counts when full prayer is difficult",
+        "The Prophet (peace be upon him) said: 'There is no disease that Allah has created, except that He also has created its treatment' (Bukhari) — this includes psychological care",
+        "Talk to trusted family or community members; isolation worsens trauma",
+        "Limit continuous news exposure — repeated trauma imagery deepens distress",
+        "Professional counselling is permissible and encouraged in Islam when distress persists"
+      ]
+    },
+    "duas_comfort": {
+      "title": "Duas for Anxiety & Distress",
+      "items": [
+        {
+          "text": "Hasbunallahu wa ni'mal wakeel — Allah is sufficient for us, and He is the best Disposer of affairs.",
+          "ref": "Qur'an 3:173"
+        },
+        {
+          "text": "Allahumma inni a'udhu bika min al-hammi wal-hazan — O Allah, I seek refuge in You from worry and grief.",
+          "ref": "Hadith — Sahih al-Bukhari"
+        },
+        {
+          "text": "La hawla wa la quwwata illa billah — There is no power nor strength except with Allah.",
+          "ref": "Hadith — Sahih al-Bukhari & Muslim"
+        },
+        {
+          "text": "Inna lillahi wa inna ilayhi raji'un — To Allah we belong and to Him we return.",
+          "ref": "Qur'an 2:156 (for loss and grief)"
+        }
+      ]
+    },
+    "community_support": {
+      "title": "Community & Family Support",
+      "items": [
+        "Check on neighbours, especially elderly people and single mothers — sadaqah of time is highly valued",
+        "Share food and water where possible; the Prophet (peace be upon him) said the best of people are those most beneficial to others",
+        "Collective du'a after salah can unite hearts and reduce isolation",
+        "Protect dignity when helping — give privately when you can",
+        "Imams and qualified scholars can provide spiritual counsel; mental health professionals provide clinical care — both are valid"
+      ]
+    }
+  }
+}

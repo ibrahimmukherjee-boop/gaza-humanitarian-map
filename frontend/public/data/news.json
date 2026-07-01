@@ -1,0 +1,67 @@
+[
+  {
+    "id": "news-1",
+    "title_en": "UN OCHA: Humanitarian access update for Gaza",
+    "title_ar": "أون أوشا: تحديث الوصول الإنساني لغزة",
+    "excerpt_en": "Latest coordination report on aid delivery and infrastructure status across the Gaza Strip.",
+    "excerpt_ar": "أحدث تقرير تنسيق حول توصيل المساعدات وحالة البنية التحتية في قطاع غزة.",
+    "source": "UN OCHA",
+    "timestamp": "2026-07-01T14:00:00Z",
+    "url": "https://www.unocha.org",
+    "tags": ["humanitarian", "aid"],
+    "location_tags": ["Gaza Strip"],
+    "credibility": "high"
+  },
+  {
+    "id": "news-2",
+    "title_en": "WHO: Health cluster weekly situation report",
+    "title_ar": "منظمة الصحة العالمية: تقرير أسبوعي عن مجموعة الصحة",
+    "excerpt_en": "Summary of medical facility status and health sector needs from verified sources.",
+    "excerpt_ar": "ملخص حالة المنشآت الطبية واحتياجات قطاع الصحة من مصادر موثقة.",
+    "source": "WHO",
+    "timestamp": "2026-07-01T10:30:00Z",
+    "url": "https://www.who.int/emergencies",
+    "tags": ["health", "humanitarian"],
+    "location_tags": ["Gaza City"],
+    "credibility": "high"
+  },
+  {
+    "id": "news-3",
+    "title_en": "UNICEF: Water and sanitation update",
+    "title_ar": "يونيسف: تحديث المياه والصرف الصحي",
+    "excerpt_en": "Report on water access points and sanitation infrastructure from field assessments.",
+    "excerpt_ar": "تقرير عن نقاط الوصول للمياه والبنية التحتية للصرف الصحي من تقييمات ميدانية.",
+    "source": "UNICEF",
+    "timestamp": "2026-06-30T16:00:00Z",
+    "url": "https://www.unicef.org/emergencies",
+    "tags": ["infrastructure", "humanitarian"],
+    "location_tags": ["Khan Younis"],
+    "credibility": "high"
+  },
+  {
+    "id": "news-4",
+    "title_en": "ReliefWeb: Displacement figures update",
+    "title_ar": "ReliefWeb: تحديث أرقام النزوح",
+    "excerpt_en": "Aggregated displacement data from UN agency reports. Figures attributed to original sources.",
+    "excerpt_ar": "بيانات نزوح مجمعة من تقارير وكالات الأمم المتحدة. الأرقام منسوبة للمصادر الأصلية.",
+    "source": "ReliefWeb",
+    "timestamp": "2026-06-30T09:00:00Z",
+    "url": "https://reliefweb.int",
+    "tags": ["displacement", "humanitarian"],
+    "location_tags": ["Gaza Strip"],
+    "credibility": "high"
+  },
+  {
+    "id": "news-5",
+    "title_en": "WFP: Food assistance distribution report",
+    "title_ar": "برنامج الأغذية العالمي: تقرير توزيع المساعدات الغذائية",
+    "excerpt_en": "Weekly summary of food distribution activities and supply chain status.",
+    "excerpt_ar": "ملخص أسبوعي لأنشطة توزيع الغذاء وحالة سلسلة الإمداد.",
+    "source": "WFP",
+    "timestamp": "2026-06-29T12:00:00Z",
+    "url": "https://www.wfp.org",
+    "tags": ["aid", "humanitarian"],
+    "location_tags": ["Rafah"],
+    "credibility": "high"
+  }
+]
