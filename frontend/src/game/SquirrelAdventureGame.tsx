@@ -120,13 +120,16 @@ function PlatformBlock({ plat }: { plat: Platform }) {
   );
 }
 
-function CameraRig({ targetX }: { targetX: number }) {
+function CameraRig({ targetX, popOut }: { targetX: number; popOut?: boolean }) {
   const { camera } = useThree();
   useFrame(() => {
     const cam = camera as THREE.PerspectiveCamera;
-    const target = new THREE.Vector3(targetX + 2, 3.5, 9);
+    const z = popOut ? 6.5 : 9;
+    const y = popOut ? 3.2 : 3.5;
+    const target = new THREE.Vector3(targetX + (popOut ? 0.5 : 2), y, z);
     cam.position.lerp(target, 0.08);
-    cam.lookAt(targetX, 2, 0);
+    cam.lookAt(targetX, popOut ? 1.8 : 2, 0);
+    if (popOut) cam.fov = THREE.MathUtils.lerp(cam.fov, 52, 0.05);
   });
   return null;
 }
@@ -135,10 +138,12 @@ function GameWorld({
   keysRef,
   onScore,
   onWin,
+  popOut,
 }: {
   keysRef: React.MutableRefObject<Keys>;
   onScore: (s: number) => void;
   onWin: () => void;
+  popOut?: boolean;
 }) {
   const state = useRef<GameState>({ ...INITIAL_STATE });
   const nuts = useRef<Nut[]>(createNuts());
@@ -211,7 +216,10 @@ function GameWorld({
     if (nuts.current.every((n) => n.collected)) onWin();
 
     if (squirrelPos.current) {
-      squirrelPos.current.position.set(s.x, s.y + SQUIRREL_H / 2 - 0.1, 0.3);
+      const z = popOut ? 0.85 + (s.eating ? 0.2 : 0) : 0.3;
+      const scale = popOut ? 1.25 : 1;
+      squirrelPos.current.position.set(s.x, s.y + SQUIRREL_H / 2 - 0.1, z);
+      squirrelPos.current.scale.setScalar(scale);
     }
     tick((n) => n + 1);
   });
@@ -220,7 +228,7 @@ function GameWorld({
 
   return (
     <>
-      <CameraRig targetX={s.x} />
+      <CameraRig targetX={s.x} popOut={popOut} />
       <ambientLight intensity={0.55} />
       <directionalLight
         position={[8, 12, 6]}
@@ -262,9 +270,10 @@ function GameWorld({
 
 interface SquirrelAdventureGameProps {
   onScoreChange?: (score: number) => void;
+  popOut?: boolean;
 }
 
-export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventureGameProps) {
+export default function SquirrelAdventureGame({ onScoreChange, popOut }: SquirrelAdventureGameProps) {
   const { t } = useTranslation();
   const keysRef = useRef<Keys>({ left: false, right: false, jump: false });
   const [score, setScore] = useState(0);
@@ -309,12 +318,16 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
   }
 
   return (
-    <div className="relative w-full h-full touch-none select-none">
+    <div className={`relative w-full h-full touch-none select-none ${popOut ? "overflow-visible" : ""}`}>
       <Canvas
         shadows
-        camera={{ fov: 45, near: 0.1, far: 200, position: [2, 3.5, 9] }}
-        gl={{ antialias: true, alpha: false }}
-        style={{ background: "linear-gradient(180deg, #7ec8e3 0%, #b8e0f0 40%, #87CEEB 100%)" }}
+        camera={{ fov: popOut ? 52 : 45, near: 0.1, far: 200, position: [popOut ? 0.5 : 2, 3.2, popOut ? 6.5 : 9] }}
+        gl={{ antialias: true, alpha: popOut }}
+        style={{
+          background: popOut
+            ? "transparent"
+            : "linear-gradient(180deg, #7ec8e3 0%, #b8e0f0 40%, #87CEEB 100%)",
+        }}
       >
         <fog attach="fog" args={["#b8e0f0", 15, 45]} />
         <GameWorld
@@ -322,6 +335,7 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
           keysRef={keysRef}
           onScore={handleScore}
           onWin={() => setWon(true)}
+          popOut={popOut}
         />
       </Canvas>
 
@@ -367,13 +381,13 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
         </button>
       </div>
 
-      <div className="absolute top-3 left-3 bg-black/50 text-white px-3 py-1.5 rounded-lg font-bold text-lg pointer-events-none">
+      <div className="absolute top-3 left-3 glass-pill px-3 py-1.5 font-bold text-lg pointer-events-none text-slate-800">
         🌰 {score}
       </div>
 
       {won && (
-        <div className="absolute inset-0 flex items-center justify-center bg-black/40">
-          <div className="bg-white rounded-2xl p-6 text-center shadow-xl max-w-xs mx-4">
+        <div className="absolute inset-0 flex items-center justify-center bg-black/30 backdrop-blur-sm">
+          <div className="glass-card text-center shadow-xl max-w-xs mx-4">
             <p className="text-4xl mb-2">🐿️🎉</p>
             <p className="text-xl font-bold text-slate-900 mb-1">{t("children_game.win_title")}</p>
             <p className="text-slate-600 mb-4">{t("children_game.score")}: {score}</p>

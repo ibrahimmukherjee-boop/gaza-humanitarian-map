@@ -101,6 +101,8 @@ export interface Hotline {
 export interface MetaData {
   last_updated: string;
   news_last_updated?: string;
+  political_last_updated?: string;
+  refresh_heartbeat?: string;
   sources: string[];
   facilities_count: number;
   news_count: number;

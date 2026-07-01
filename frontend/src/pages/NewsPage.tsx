@@ -3,6 +3,8 @@ import { useQuery } from "@tanstack/react-query";
 import { useTranslation } from "react-i18next";
 import { api, formatRelativeTime } from "../services/api";
 import { useAppStore } from "../store/appStore";
+import { LIVE_QUERY_OPTS } from "../hooks/useLiveRefresh";
+import LiveIndicator from "../components/LiveIndicator";
 import type { NewsItem } from "../types";
 
 export default function NewsPage() {
@@ -14,9 +16,7 @@ export default function NewsPage() {
   const { data: news = [], isLoading, error, dataUpdatedAt } = useQuery({
     queryKey: ["news", liteMode ? "lite" : "full"],
     queryFn: () => api.news({ lite: liteMode, cacheBust: !liteMode }),
-    refetchInterval: liteMode ? false : 60_000,
-    refetchIntervalInBackground: !liteMode,
-    staleTime: liteMode ? 30 * 60_000 : 60_000,
+    ...(liteMode ? { staleTime: 30 * 60_000 } : LIVE_QUERY_OPTS),
   });
 
   const filtered = useMemo(() => {
@@ -33,23 +33,20 @@ export default function NewsPage() {
 
   return (
     <div className="max-w-4xl mx-auto p-4 space-y-4">
-      <div>
-        <h2 className="text-xl font-bold">{t("news.title")}</h2>
-        <p className="text-sm text-slate-500">{t("news.subtitle")}</p>
-        <p className="text-xs text-green-700 mt-1 flex items-center gap-1">
-          {!liteMode && (
-            <>
-              <span className="inline-block w-2 h-2 rounded-full bg-green-500 animate-pulse" aria-hidden />
-              {t("news.auto_refresh")}{" "}
-            </>
-          )}
-          {liteMode && <span>{t("lite_mode.active")} · </span>}
-          {dataUpdatedAt > 0 && (
-            <span className="text-slate-500">
-              · {formatRelativeTime(new Date(dataUpdatedAt).toISOString(), i18n.language)}
-            </span>
-          )}
-        </p>
+      <div className="glass-card">
+        <div className="flex flex-wrap items-start justify-between gap-2">
+          <div>
+            <h2 className="page-title text-xl">{t("news.title")}</h2>
+            <p className="text-sm text-slate-600">{t("news.subtitle")}</p>
+          </div>
+          {!liteMode && <LiveIndicator className="!text-green-700" />}
+        </div>
+        {dataUpdatedAt > 0 && (
+          <p className="text-xs text-slate-500 mt-1">
+            {liteMode && `${t("lite_mode.active")} · `}
+            {formatRelativeTime(new Date(dataUpdatedAt).toISOString(), i18n.language)}
+          </p>
+        )}
       </div>
 
       <div className="flex flex-wrap gap-2 items-center">

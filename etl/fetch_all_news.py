@@ -3,6 +3,7 @@
 
 import hashlib
 import json
+import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -21,16 +22,26 @@ RELIEFWEB_PARAMS = {
     "appname": "gaza-humanitarian-map",
     "profile": "list",
     "slim": "1",
-    "limit": "25",
+    "limit": "30",
     "query[value]": "Gaza",
     "query[operator]": "AND",
 }
 
+# (name, url, require_gaza_filter)
 RSS_SOURCES = [
-    ("ReliefWeb", "https://reliefweb.int/updates/rss.xml?language=267"),
-    ("WHO", "https://www.who.int/rss-feeds/news-english.xml"),
-    ("UN News", "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml"),
+    ("ReliefWeb", "https://reliefweb.int/updates/rss.xml?language=267", False),
+    ("WHO", "https://www.who.int/rss-feeds/news-english.xml", True),
+    ("UN News", "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml", False),
+    ("OCHA", "https://www.unocha.org/rss.xml", True),
+    ("UNICEF", "https://www.unicef.org/feed", True),
+    ("UNRWA", "https://www.unrwa.org/newsroom/press-releases/rss.xml", False),
+    ("ICRC", "https://www.icrc.org/en/rss", True),
+    ("WFP", "https://www.wfp.org/rss.xml", True),
+    ("UNHCR", "https://www.unhcr.org/rss.xml", True),
+    ("BBC Middle East", "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", False),
 ]
+
+GAZA_RE = re.compile(r"gaza|palestin|humanitarian|refugee|unrwa|rafah|khan younis", re.I)
 
 
 def fetch_reliefweb() -> list[dict]:
@@ -57,40 +68,54 @@ def fetch_reliefweb() -> list[dict]:
             source = fields["source"][0].get("name", source)
         body = fields.get("body", "")
         excerpt = (body[:400] if isinstance(body, str) else "") or title
-        items.append(_item(title, excerpt, source, date, url, ["humanitarian"]))
+        tags = _tags_from_text(title + " " + excerpt)
+        items.append(_item(title, excerpt, source, date, url, tags))
     return items
+
+
+def _tags_from_text(text: str) -> list[str]:
+    t = text.lower()
+    if any(w in t for w in ("hospital", "health", "medical", "who")):
+        return ["health", "humanitarian"]
+    if any(w in t for w in ("water", "food", "shelter", "aid")):
+        return ["aid", "humanitarian"]
+    if any(w in t for w in ("displace", "refugee", "evacuat")):
+        return ["displacement", "humanitarian"]
+    if any(w in t for w in ("road", "infrastructure", "power", "fuel")):
+        return ["infrastructure", "humanitarian"]
+    return ["humanitarian"]
 
 
 def fetch_rss() -> list[dict]:
     if feedparser is None:
         return []
     items = []
-    for source_name, url in RSS_SOURCES:
+    for source_name, url, require_filter in RSS_SOURCES:
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries[:15]:
+            for entry in feed.entries[:20]:
                 link = entry.get("link", "")
                 if not link:
                     continue
                 title = entry.get("title", "Untitled")
-                # Filter Gaza-relevant when possible
-                text = f"{title} {entry.get('summary', '')}".lower()
-                if source_name != "ReliefWeb" and "gaza" not in text and "palestin" not in text:
+                excerpt = entry.get("summary", "")[:400] or title
+                text = f"{title} {excerpt}"
+                if require_filter and not GAZA_RE.search(text):
                     continue
                 ts = entry.get("published_parsed") or entry.get("updated_parsed")
                 if ts:
                     date = datetime(*ts[:6], tzinfo=timezone.utc).isoformat()
                 else:
                     date = datetime.now(timezone.utc).isoformat()
-                excerpt = entry.get("summary", "")[:400] or title
-                tag = "humanitarian" if source_name != "WHO" else "health"
-                items.append(_item(title, excerpt, source_name, date, link, [tag]))
+                tag = "health" if source_name == "WHO" else _tags_from_text(text)[0]
+                items.append(_item(title, excerpt, source_name, date, link, [tag, "humanitarian"]))
         except Exception as e:
             print(f"RSS failed {source_name}: {e}")
     return items
 
 
 def _item(title: str, excerpt: str, source: str, date: str, url: str, tags: list) -> dict:
+    high_cred = {"ReliefWeb", "WHO", "UN News", "OCHA", "UNICEF", "UNRWA", "ICRC", "WFP", "UNHCR"}
     return {
         "id": hashlib.md5(url.encode()).hexdigest()[:12],
         "title_en": title,
@@ -100,9 +125,9 @@ def _item(title: str, excerpt: str, source: str, date: str, url: str, tags: list
         "source": source,
         "timestamp": date,
         "url": url,
-        "tags": tags,
+        "tags": list(dict.fromkeys(tags)),
         "location_tags": ["Gaza Strip"],
-        "credibility": "high" if source in ("ReliefWeb", "WHO", "UN News") else "medium",
+        "credibility": "high" if source in high_cred else "medium",
     }
 
 
@@ -116,7 +141,7 @@ def dedupe_sort(items: list[dict]) -> list[dict]:
     return unique
 
 
-def update_meta(news_count: int):
+def update_meta(news_count: int, force: bool = False):
     meta_path = DATA_DIR / "meta.json"
     now = datetime.now(timezone.utc).isoformat()
     meta = {}
@@ -125,12 +150,18 @@ def update_meta(news_count: int):
             meta = json.load(f)
     meta["news_last_updated"] = now
     meta["last_updated"] = now
+    meta["refresh_heartbeat"] = now
     meta["news_count"] = news_count
-    meta.setdefault("sources", ["ReliefWeb", "WHO", "UN News", "RSS"])
-    meta.setdefault("note_en", "Verify locally. News refreshes every minute from public feeds.")
-    meta.setdefault("note_ar", "تحقق محلياً. يتم تحديث الأخبار كل دقيقة من مصادر عامة.")
+    meta.setdefault(
+        "sources",
+        ["ReliefWeb", "WHO", "UN News", "OCHA", "UNICEF", "UNRWA", "ICRC", "WFP", "UNHCR", "BBC"],
+    )
+    meta.setdefault("note_en", "Verify locally. All feeds refresh every minute from public sources.")
+    meta.setdefault("note_ar", "تحقق محلياً. جميع المصادر تتحدث كل دقيقة من مصادر عامة.")
     with open(meta_path, "w", encoding="utf-8") as f:
         json.dump(meta, f, indent=2, ensure_ascii=False)
+    if force:
+        print(f"Meta heartbeat: {now}")
 
 
 def sync_public():
@@ -145,17 +176,27 @@ def sync_public():
 
 def run() -> int:
     all_news = dedupe_sort(fetch_reliefweb() + fetch_rss())
-    if not all_news:
-        print("No news fetched; keeping existing file")
-        return 0
+    now = datetime.now(timezone.utc).isoformat()
 
-    out = DATA_DIR / "news.json"
-    with open(out, "w", encoding="utf-8") as f:
-        json.dump(all_news, f, indent=2, ensure_ascii=False)
-    update_meta(len(all_news))
+    if all_news:
+        out = DATA_DIR / "news.json"
+        with open(out, "w", encoding="utf-8") as f:
+            json.dump(all_news, f, indent=2, ensure_ascii=False)
+        update_meta(len(all_news))
+        sync_public()
+        print(f"Wrote {len(all_news)} news items at {now}")
+        return len(all_news)
+
+    # Always touch meta heartbeat even when feeds return nothing new
+    existing_count = 0
+    news_path = DATA_DIR / "news.json"
+    if news_path.exists():
+        with open(news_path, encoding="utf-8") as f:
+            existing_count = len(json.load(f))
+    update_meta(existing_count, force=True)
     sync_public()
-    print(f"Wrote {len(all_news)} news items at {datetime.now(timezone.utc).isoformat()}")
-    return len(all_news)
+    print(f"No new headlines; heartbeat updated at {now}")
+    return 0
 
 
 if __name__ == "__main__":

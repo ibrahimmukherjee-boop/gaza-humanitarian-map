@@ -23,7 +23,8 @@
     "loading": "Loading 3D game...",
     "score": "Nuts collected",
     "win_title": "All nuts collected!",
-    "play_again": "Play again"
+    "play_again": "Play again",
+    "play": "Play now"
   },
   "home": {
     "primary": "Essential — works offline",

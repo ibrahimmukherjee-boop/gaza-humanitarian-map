@@ -4,6 +4,8 @@ import { useTranslation } from "react-i18next";
 import { api, formatRelativeTime } from "../services/api";
 import { computeDiscourseMetrics } from "../services/discourseMetrics";
 import DiscourseMetricsPanel from "../components/DiscourseMetricsPanel";
+import LiveIndicator from "../components/LiveIndicator";
+import { LIVE_QUERY_OPTS } from "../hooks/useLiveRefresh";
 import type { PoliticalNewsItem, PoliticalSourceRegion } from "../types/political";
 
 export default function PoliticalNewsPage() {
@@ -14,7 +16,8 @@ export default function PoliticalNewsPage() {
 
   const { data: articles = [], isLoading, error } = useQuery({
     queryKey: ["political_news"],
-    queryFn: api.politicalNews,
+    queryFn: () => api.politicalNews({ cacheBust: true }),
+    ...LIVE_QUERY_OPTS,
   });
 
   const metrics = useMemo(() => computeDiscourseMetrics(articles, 48), [articles]);
@@ -31,9 +34,14 @@ export default function PoliticalNewsPage() {
 
   return (
     <div className="max-w-4xl mx-auto p-4 space-y-4">
-      <div>
-        <h2 className="text-xl font-bold">{t("political.title")}</h2>
-        <p className="text-sm text-slate-500">{t("political.subtitle")}</p>
+      <div className="glass-card">
+        <div className="flex flex-wrap items-start justify-between gap-2">
+          <div>
+            <h2 className="page-title text-xl">{t("political.title")}</h2>
+            <p className="text-sm text-slate-600">{t("political.subtitle")}</p>
+          </div>
+          <LiveIndicator className="!text-green-700" />
+        </div>
       </div>
 
       <div

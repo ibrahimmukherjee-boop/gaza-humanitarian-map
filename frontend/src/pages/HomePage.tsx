@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { useQuery } from "@tanstack/react-query";
-import { useEffect, useState } from "react";
+import { useEffect, useState, lazy, Suspense } from "react";
 import { api, formatRelativeTime } from "../services/api";
 import { useAppStore } from "../store/appStore";
 import {
@@ -11,6 +11,10 @@ import {
   estimateFullSizeKb,
 } from "../services/offline";
 import HumanitarianToday from "../components/HumanitarianToday";
+import LiveIndicator from "../components/LiveIndicator";
+import { LIVE_META_OPTS } from "../hooks/useLiveRefresh";
+
+const GamePopPreview = lazy(() => import("../components/GamePopPreview"));
 
 const primaryLinks = [
   { to: "/resources", key: "home.links.resources", icon: "🏥" },
@@ -36,8 +40,8 @@ export default function HomePage() {
 
   const { data: meta } = useQuery({
     queryKey: ["meta", liteMode ? "lite" : "full"],
-    queryFn: () => api.meta({ lite: liteMode }),
-    staleTime: liteMode ? 30 * 60_000 : 5 * 60_000,
+    queryFn: () => api.meta({ lite: liteMode, cacheBust: !liteMode }),
+    ...(liteMode ? { staleTime: 30 * 60_000 } : LIVE_META_OPTS),
   });
 
   useEffect(() => {
@@ -60,22 +64,48 @@ export default function HomePage() {
   return (
     <div className="max-w-lg mx-auto p-4 space-y-5">
       {meta && (
-        <div className="rounded-lg border border-blue-200 bg-blue-50 px-3 py-2 text-sm text-blue-900">
-          <p className="font-medium">{t("home.data_updated")}</p>
-          <p className="text-xs mt-0.5">
+        <div className="glass-card border-indigo-200/50">
+          <div className="flex items-center justify-between gap-2 mb-1">
+            <p className="font-medium text-indigo-900">{t("home.data_updated")}</p>
+            {!liteMode && <LiveIndicator className="!text-green-700" />}
+          </div>
+          <p className="text-xs mt-0.5 text-slate-600">
             {formatRelativeTime(meta.last_updated, i18n.language)} ·{" "}
             {meta.facilities_count} {t("home.facilities")} · {meta.news_count}{" "}
             {t("home.news_items")}
           </p>
-          <p className="text-xs mt-1 opacity-80">{isAr ? meta.note_ar : meta.note_en}</p>
+          <p className="text-xs mt-1 opacity-80 text-slate-500">
+            {isAr ? meta.note_ar : meta.note_en}
+          </p>
         </div>
       )}
+
+      {/* Featured game — integral to the app */}
+      <Link to="/children-game" className="game-feature-card block group">
+        <div className="flex items-start justify-between gap-2 mb-1">
+          <div>
+            <h2 className="font-bold text-lg text-amber-900">{t("children_game.title")}</h2>
+            <p className="text-sm text-amber-800/80">{t("children_game.subtitle")}</p>
+          </div>
+          <span className="glass-pill px-3 py-1 text-sm shrink-0 group-hover:scale-105 transition-transform">
+            {t("children_game.play")} →
+          </span>
+        </div>
+        {!liteMode && (
+          <Suspense fallback={<div className="h-36 flex items-center justify-center text-sm text-slate-500">{t("children_game.loading")}</div>}>
+            <GamePopPreview />
+          </Suspense>
+        )}
+        {liteMode && (
+          <p className="text-center py-8 text-4xl" aria-hidden>🐿️🌰</p>
+        )}
+      </Link>
 
       <HumanitarianToday />
 
       <div className="flex flex-wrap gap-2">
         <button
-          className={`btn ${liteMode ? "btn-primary" : "btn-ghost border border-slate-200"}`}
+          className={`btn ${liteMode ? "btn-primary" : "btn-ghost"}`}
           onClick={() => setLiteMode(!liteMode)}
         >
           {t("lite_mode.toggle")} {liteMode ? "✓" : ""}
@@ -105,7 +135,7 @@ export default function HomePage() {
             <Link
               key={to}
               to={to}
-              className="card flex items-center gap-3 py-4 hover:border-blue-300 transition-colors"
+              className="card flex items-center gap-3 py-4 hover:scale-[1.01] transition-transform"
             >
               <span className="text-2xl" aria-hidden>
                 {icon}
@@ -123,7 +153,7 @@ export default function HomePage() {
           </h2>
           <div className="flex flex-wrap gap-2">
             {secondaryLinks.map(({ to, key }) => (
-              <Link key={to} to={to} className="btn btn-ghost border border-slate-200">
+              <Link key={to} to={to} className="btn btn-ghost">
                 {t(key)}
               </Link>
             ))}

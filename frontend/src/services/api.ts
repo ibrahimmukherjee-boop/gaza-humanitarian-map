@@ -56,11 +56,16 @@ export const api = {
       cacheBust: opts?.cacheBust,
     }),
   pressure: () => fetchJson<import("../types").PressureData>("/pressure"),
-  politicalNews: () =>
-    fetchJson<import("../types/political").PoliticalNewsItem[]>("/political_news"),
+  politicalNews: (opts?: { cacheBust?: boolean }) =>
+    fetchJson<import("../types/political").PoliticalNewsItem[]>("/political_news", {
+      cacheBust: opts?.cacheBust,
+    }),
   hotlines: () => fetchJson<import("../types").Hotline[]>("/hotlines"),
-  meta: (opts?: { lite?: boolean }) =>
-    fetchJson<import("../types").MetaData>("/meta", { lite: opts?.lite }),
+  meta: (opts?: { lite?: boolean; cacheBust?: boolean }) =>
+    fetchJson<import("../types").MetaData>("/meta", {
+      lite: opts?.lite,
+      cacheBust: opts?.cacheBust,
+    }),
   health: () => fetchJson<{ status: string }>("/health"),
 };
 
