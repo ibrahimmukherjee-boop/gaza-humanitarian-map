@@ -122,25 +122,13 @@ function MapViewFull() {
   }, [facilities, timeFilterHours]);
 
   return (
-    <div className="relative h-[calc(100vh-140px)] min-h-[400px]">
-      <div className="absolute top-3 start-3 z-[1000] w-56 space-y-2">
+    <div className="flex flex-col h-[calc(100dvh-9rem)] min-h-[280px]">
+      <div className="shrink-0 p-2 space-y-2 max-h-[45vh] overflow-y-auto md:absolute md:top-3 md:start-3 md:w-56 md:max-h-[calc(100%-1.5rem)] md:z-[1000] md:p-0">
         <LayerToggle />
         <TimeFilter />
       </div>
-
-      {isLoading && (
-        <div className="absolute inset-0 flex items-center justify-center bg-slate-100/80 z-[500]">
-          <p className="text-slate-600">{t("loading")}</p>
-        </div>
-      )}
-
-      {error && (
-        <div className="absolute inset-0 flex items-center justify-center bg-slate-100 z-[500]">
-          <p className="text-red-600">{t("error")}</p>
-        </div>
-      )}
-
-      <MapContainer
+      <div className="flex-1 min-h-[220px] relative md:h-[calc(100dvh-9rem)]">
+        <MapContainer
         center={GAZA_CENTER}
         zoom={GAZA_ZOOM}
         className="h-full w-full"
@@ -157,6 +145,19 @@ function MapViewFull() {
         )}
         <MapMarkers features={features} />
       </MapContainer>
+
+      {isLoading && (
+        <div className="absolute inset-0 flex items-center justify-center bg-slate-100/80 z-[500] pointer-events-none">
+          <p className="text-slate-600">{t("loading")}</p>
+        </div>
+      )}
+
+      {error && (
+        <div className="absolute inset-0 flex items-center justify-center bg-slate-100 z-[500]">
+          <p className="text-red-600">{t("error")}</p>
+        </div>
+      )}
+      </div>
     </div>
   );
 }

@@ -416,5 +416,7 @@
       "children": "حماية الطفل",
       "mental_health": "صحة نفسية"
     }
-  }
+  },
+  "ethics_banner_short": "معلومات إنسانية فقط — وليست توقعات تهديد",
+  "ethics_banner_expand": "اضغط للتفاصيل"
 }

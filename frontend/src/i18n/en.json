@@ -58,6 +58,8 @@
   "all": "All",
   "no_results": "No results found",
   "ethics_banner": "Humanitarian and educational support only. We do not predict events, designate safe zones, or provide threat forecasts. Discourse metrics measure published language — not operational risk. Information may be incomplete or delayed.",
+  "ethics_banner_short": "Humanitarian info only — not threat forecasts",
+  "ethics_banner_expand": "Tap for full notice",
   "map": {
     "layers": "Map Layers",
     "time_filter": "Time Filter",

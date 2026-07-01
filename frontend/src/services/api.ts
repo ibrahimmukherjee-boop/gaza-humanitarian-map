@@ -1,3 +1,5 @@
+import { assetUrl, BASE_URL } from "../utils/baseUrl";
+
 const API_BASE = import.meta.env.VITE_API_URL;
 
 async function fetchJson<T>(path: string): Promise<T> {
@@ -11,14 +13,16 @@ async function fetchJson<T>(path: string): Promise<T> {
   }
 
   try {
-    const res = await fetch(`/api${path}`);
+    const res = await fetch(`${BASE_URL.replace(/\/$/, "")}/api${path}`);
     if (res.ok) return res.json();
   } catch {
     /* fall through */
   }
 
   const file =
-    path === "/facilities" ? "/data/facilities.geojson" : `/data${path}.json`;
+    path === "/facilities"
+      ? assetUrl("data/facilities.geojson")
+      : assetUrl(`data${path}.json`);
   const res = await fetch(file);
   if (!res.ok) throw new Error(`Failed to fetch ${path}`);
   return res.json();
