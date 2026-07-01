@@ -1,251 +1,30 @@
 [
   {
-    "id": "a945f1402005",
-    "title_en": "Venezuela Earthquakes June 2026: Urban Search and Rescue (USAR) Team Snapshot (As of 1 July, 10:00 GMT-4)",
+    "id": "ae5ac101d588",
+    "title_en": "Syria's president names final 70 lawmakers to new post-Assad parliament",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/",
+    "excerpt_en": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
     "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T20:16:10+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquakes-june-2026-urban-search-and-rescue-usar-team-snapshot-1-july-1000-gmt-4",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-01T16:44:58+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
     "location_tags": [
       "Gaza Strip"
     ],
-    "credibility": "high"
+    "credibility": "medium"
   },
   {
-    "id": "d45d9f470a6e",
-    "title_en": "DR Congo: Ebola Outbreak, DRC and Region, Situation Report #9, July 1, 2026",
+    "id": "7a2c7736d55a",
+    "title_en": "Today's top news: Venezuela, Occupied Palestinian Territory, Lebanon, Ukraine",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Democratic Republic of the Congo</div>\n                                      <div class=\"tag source\">Source: International Medical Corps</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ea/69/ea699be0-1328-4c1c-b2bc-4ee9a53221f6.png\" /></p>\n                        <p>P",
+    "excerpt_en": "<span>Today's top news: Venezuela, Occupied Palestinian Territory, Lebanon, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Dama",
     "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T17:56:44+00:00",
-    "url": "https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-drc-and-region-situation-report-9-july-1-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "fb1fca51f490",
-    "title_en": "World: Europe | Drought June 2026 - DG ECHO Daily Map | 01/07/2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/preview",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T17:17:18+00:00",
-    "url": "https://reliefweb.int/map/world/europe-drought-june-2026-dg-echo-daily-map-01072026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "b777c7c4d2a1",
-    "title_en": "Nigeria: West and Central Africa: 2026 Flooding Outlook (30 June - 4 July 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Nigeria, Benin, Cameroon, Central African Republic, Côte d'Ivoire, Ethiopia, Ghana, Guinea, Liberia, Sierra Leone, Togo</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T17:15:40+00:00",
-    "url": "https://reliefweb.int/report/nigeria/west-and-central-africa-2026-flooding-outlook-30-june-4-july-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "8af7b02a37db",
-    "title_en": "Venezuela - UN INTERNATIONAL SEARCH AND RESCUE GROUP - INSARAG (29 June 2026 0700 EST)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f3/b5/f3b53f3a-0c7c-45ce-baa2-b3f5954e3116.png\" /",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T14:07:11+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-un-international-search-and-rescue-group-insarag-29-june-2026-0700-est",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "5ab6b374ebdf",
-    "title_en": "Venezuela – Municipality-Level Damage Assessment and Damaged Buildings (29 June 2026 0700 EST)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/73/c1/73c1a7cd-bc9e-4a94-ab3b-1ef51a32aac8.png\" /",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T14:04:56+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-municipality-level-damage-assessment-and-damaged-buildings-29-june-2026-0700-est",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "d63fc7370265",
-    "title_en": "Venezuela Earthquake Response – Health Facilities Status and Aid Distribution Sites (29 June 2026 0700 EST)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f2/fc/f2fcb6bc-db24-4f27-9de6-a",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T14:02:45+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquake-response-health-facilities-status-and-aid-distribution-sites-29-june-2026-0700-est",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "ca9ea206b98e",
-    "title_en": "Venezuela Earthquake Response – Infrastructure Status, APODS, SPODS (29 June 2026 0700 EST)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/49/5a/495a9497-f5af-46d3-862a-0ee5eef77b61.png\" /",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T13:58:41+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquake-response-infrastructure-status-apods-spods-29-june-2026-0700-est",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "90fea26642ec",
-    "title_en": "Venezuela Earthquake Response- Assessed Airports (US- TRANSCOM) 30 June 2026 0700 EST",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/0f/70/0f70f615-a80e-4fea-86b3-6",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T13:46:14+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquake-response-assessed-airports-us-transcom-30-june-2026-0700-est",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "80ea9f994960",
-    "title_en": "Barbados - Relief and Logistics Thematic Working Group Workshop - 2024",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Barbados</div>\n                                      <div class=\"tag source\">Sources: Logistics Cluster, World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e7/68/e76834c2-7a75-5d1d-bb0d-929aa285aeae.png\" /></p>\n   ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T13:40:06+00:00",
-    "url": "https://reliefweb.int/report/barbados/barbados-relief-and-logistics-thematic-working-group-workshop-2024",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "51d9dda79032",
-    "title_en": "Venezuela Earthquake Response- Temporary Shelters ( 30 June 2026 0700 EST)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ee/4a/ee4a4635-337f-46a1-b9ab-2",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T13:38:18+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquake-response-temporary-shelters-30-june-2026-0700-est",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "b256c105868d",
-    "title_en": "Venezuela Earthquake Response - Emergency Medical Teams (30 June 2026 0700 EST)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/72/0b/720b19b0-aa7d-4370-89af-8",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T13:34:53+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquake-response-emergency-medical-teams-30-june-2026-0700-est",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "bf82d4329675",
-    "title_en": "Kaltouma's story: How cash assistance is bringing hope to Sudanese refugees in Chad | IFRC",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Chad, Sudan</div>\n                                      <div class=\"tag source\">Source: International Federation of Red Cross and Red Crescent Societies</div>\n                                                                                              <h2><strong>Meeting urgent needs through cash assistance</strong></h2>\n<p>In response to growing humanitarian n",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T13:33:18+00:00",
-    "url": "https://reliefweb.int/report/chad/kaltoumas-story-how-cash-assistance-bringing-hope-sudanese-refugees-chad-ifrc",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "f97a5d828578",
-    "title_en": "World: New EU-IOM Regional Initiative to Address Climate Displacement Across Southern Africa",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: International Organization for Migration</div>\n                                                                                              <p><strong>Lilongwe, Malawi, 1 July 2026</strong> – As cyclones, floods and droughts continue to uproot communities across Southern Africa, the",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T13:33:17+00:00",
-    "url": "https://reliefweb.int/report/world/new-eu-iom-regional-initiative-address-climate-displacement-across-southern-africa",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "cf6f315d7f4e",
-    "title_en": "Venezuela Earthquake Response – Damaged Building Imagery - INSARAG (01 July 2026 0700 EST)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/33/90/33905535-e44b-441a-9131-3",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-01T13:32:29+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquake-response-damaged-building-imagery-insarag-01-july-2026-0700-est",
+    "source": "OCHA",
+    "timestamp": "2026-07-01T16:43:07+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-venezuela-occupied-palestinian-territory-lebanon-ukraine",
     "tags": [
       "humanitarian"
     ],
@@ -272,6 +51,40 @@
     "credibility": "high"
   },
   {
+    "id": "f1e1c5fe8fc4",
+    "title_en": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
+    "title_ar": "",
+    "excerpt_en": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-30T23:41:11+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "8c529d475a5f",
+    "title_en": "Today's top news: Venezuela, Occupied Palestinian Territory, South Sudan, Central African Republic",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Venezuela, Occupied Palestinian Territory, South Sudan, Central African Republic</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__i",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-06-30T16:46:18+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-venezuela-occupied-palestinian-territory-south-sudan-central-african-republic",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "c46385fd7c4b",
     "title_en": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
     "title_ar": "",
@@ -280,6 +93,76 @@
     "source": "UN News",
     "timestamp": "2026-06-30T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "ed4123730d7b",
+    "title_en": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
+    "title_ar": "",
+    "excerpt_en": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to&nbsp;a new UN report released on Tuesday.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-30T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167844",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "af4034113c66",
+    "title_en": "Today's top news: Venezuela, Lebanon, Occupied Palestinian Territory, Sudan, Afghanistan",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Venezuela, Lebanon, Occupied Palestinian Territory, Sudan, Afghanistan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <im",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-06-29T16:50:37+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-venezuela-lebanon-occupied-palestinian-territory-sudan-afghanistan",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "741839b17ab5",
+    "title_en": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+    "title_ar": "",
+    "excerpt_en": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-29T14:52:10+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "d4f6f95dd9b3",
+    "title_en": "Middle East conflict leaves developing countries paying the price",
+    "title_ar": "",
+    "excerpt_en": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world's poorest countries.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-29T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167831",
     "tags": [
       "humanitarian"
     ],
@@ -306,6 +189,301 @@
     "credibility": "high"
   },
   {
+    "id": "c4e146fd9d31",
+    "title_en": "Fourteen killed in Saudi Arabia helicopter crash",
+    "title_ar": "",
+    "excerpt_en": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-28T15:42:01+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "54dc1071f4f8",
+    "title_en": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+    "title_ar": "",
+    "excerpt_en": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-28T04:54:50+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "ab344332f459",
+    "title_en": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
+    "title_ar": "",
+    "excerpt_en": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-27T21:35:40+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "2cdce3d9a078",
+    "title_en": "US strikes Iran after attack on cargo ship",
+    "title_ar": "",
+    "excerpt_en": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-27T10:40:38+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "1b594f6853bb",
+    "title_en": "Israel and Lebanon sign framework agreement after US-brokered talks",
+    "title_ar": "",
+    "excerpt_en": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-26T22:55:28+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "41afd7ed6d92",
+    "title_en": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+    "title_ar": "",
+    "excerpt_en": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-26T18:03:32+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "dc9ca8a8cebd",
+    "title_en": "Today's top news: Venezuela, Lebanon, Occupied Palestinian Territory, Haiti",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Venezuela, Lebanon, Occupied Palestinian Territory, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Search",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-06-26T17:43:41+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-venezuela-lebanon-occupied-palestinian-territory-haiti",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "cb9954531ac5",
+    "title_en": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
+    "title_ar": "",
+    "excerpt_en": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-26T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167818",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "14cd0d46c8a9",
+    "title_en": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
+    "title_ar": "",
+    "excerpt_en": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-26T11:27:59+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "be025087e630",
+    "title_en": "Rainbow flags await Egypt and Iran at awkward Pride Match",
+    "title_ar": "",
+    "excerpt_en": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-26T11:20:11+00:00",
+    "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "80b13a8a2212",
+    "title_en": "Security Council extends critical stabilisation force in Syria",
+    "title_ar": "",
+    "excerpt_en": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-25T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167813",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "bca4ed81851d",
+    "title_en": "From Lebanon to the Strait of Hormuz, a Middle East hanging on fragile peace talks",
+    "title_ar": "",
+    "excerpt_en": "Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-25T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167811",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "a950815a0edc",
+    "title_en": "TikTok influencer charged with Dubai murder",
+    "title_ar": "",
+    "excerpt_en": "Influencer Brooke George, 23, from Kent, claims she acted in self defence in stabbing her partner.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-25T11:58:44+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cwy0p813jn7o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "cbc499d4b199",
+    "title_en": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
+    "title_ar": "",
+    "excerpt_en": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-24T17:31:48+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "54118915dc5c",
+    "title_en": "Stranded Hormuz seafarers begin mass evacuation operation",
+    "title_ar": "",
+    "excerpt_en": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-24T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167794",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "a24ed7b9800a",
+    "title_en": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+    "title_ar": "",
+    "excerpt_en": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-23T16:47:45+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "b65901b02c2c",
+    "title_en": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+    "title_ar": "",
+    "excerpt_en": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-23T14:55:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "5375995620fa",
     "title_en": "Israel continues to commit genocide, atrocity crimes by deliberately targeting Palestinian children, UN independent commission finds",
     "title_ar": "",
@@ -314,6 +492,41 @@
     "source": "UN News",
     "timestamp": "2026-06-23T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "d5ea94cf9dbb",
+    "title_en": "‘Better future for Syria remains within reach,’ UN Security Council hears",
+    "title_ar": "",
+    "excerpt_en": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-22T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167779",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "1b437e2855bf",
+    "title_en": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
+    "title_ar": "",
+    "excerpt_en": "The United Nations has welcomed reports of a new ceasefire agreement between Israel and Hezbollah on Friday while warning that civilians on the ground are still fleeing amid ongoing insecurity.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-19T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167768",
     "tags": [
       "humanitarian"
     ],
@@ -332,6 +545,77 @@
     "timestamp": "2026-06-19T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167760",
     "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "b8e47f7a7243",
+    "title_en": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+    "title_ar": "",
+    "excerpt_en": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-19T05:33:59+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "bc685f570201",
+    "title_en": "What Iran and US get from deal and why both could struggle to keep it",
+    "title_ar": "",
+    "excerpt_en": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-18T20:04:40+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "6d98b5e987a5",
+    "title_en": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+    "title_ar": "",
+    "excerpt_en": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-18T15:53:55+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "infrastructure",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "8706a2b5fa2e",
+    "title_en": "UN upholds freedom of movement for peacekeepers in Lebanon",
+    "title_ar": "",
+    "excerpt_en": "The United Nations has again called for freedom of movement for its peacekeepers in Lebanon who continue to closely monitor developments in the south of the country, including in the wake of the recent provisional agreement signed by the United States and Iran.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-18T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167758",
+    "tags": [
+      "health",
       "humanitarian"
     ],
     "location_tags": [
@@ -348,6 +632,128 @@
     "source": "UN News",
     "timestamp": "2026-06-18T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "01418f39a72d",
+    "title_en": "US-Iran deal: technical work can begin, says atomic energy agency",
+    "title_ar": "",
+    "excerpt_en": "The head of the UN-affiliated atomic energy agency on Thursday welcomed the signing of an initial Iran-US memorandum aimed at ending the war, before proposing “to sit down” with both parties to assist with concrete measures such as verification of Iran’s nuclear programme, a key sticking point.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-18T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167748",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "e2209d50432c",
+    "title_en": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+    "title_ar": "",
+    "excerpt_en": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-18T01:29:32+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "cc23898507f9",
+    "title_en": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
+    "title_ar": "",
+    "excerpt_en": "More than 100 days of war reveals a shattering snapshot of life for civilians in Lebanon amid Israeli strikes and forced displacement, the UN Children’s Fund (UNICEF) reported on Wednesday.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-17T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167736",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "d0e86925815d",
+    "title_en": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+    "title_ar": "",
+    "excerpt_en": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-17T09:13:34+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "8d48d64d5b02",
+    "title_en": "UN officials call for urgent action in Yemen to push peace, reduce hunger",
+    "title_ar": "",
+    "excerpt_en": "Top UN officials called for bolstered efforts to stave off rising hunger and foster a path towards permanent peace in Yemen as they briefed the Security Council Tuesday morning.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-16T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167728",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "9c957e91ed45",
+    "title_en": "While world waits for details on Iran-US accord, UN calls for Hormuz aid corridor",
+    "title_ar": "",
+    "excerpt_en": "As representatives of Iran and the United States reportedly prepared to sign a new peace agreement at the end of the week, the UN on Monday stressed the urgent need to open an aid corridor to transit the choked-off Strait of Hormuz and prevent a global hunger crisis.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-15T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "76b3af75df8e",
+    "title_en": "Guterres welcomes US-Iran peace deal as ‘critical step’ toward ending conflict",
+    "title_ar": "",
+    "excerpt_en": "UN Secretary General António Guterres welcomed on Sunday a new peace deal between the United States and Iran, calling it a “critical step” toward ending the conflict.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-06-14T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167716",
     "tags": [
       "humanitarian"
     ],
