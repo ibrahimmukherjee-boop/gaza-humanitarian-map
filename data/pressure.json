@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T18:02:48.809513+00:00",
+  "timestamp": "2026-07-01T20:25:45.895180+00:00",
   "regions": [
     {
       "id": "gaza-city",
@@ -10,11 +10,11 @@
       "reports_1h": 1,
       "reports_6h": 3,
       "reports_24h": 16,
-      "source_count": 10,
+      "source_count": 9,
       "contradiction_index": 0,
       "recency_score": 0.53,
       "activity_level": "low",
-      "last_update": "2026-07-01T18:02:48.809513+00:00"
+      "last_update": "2026-07-01T20:25:45.895180+00:00"
     },
     {
       "id": "north-gaza",
@@ -25,11 +25,11 @@
       "reports_1h": 1,
       "reports_6h": 6,
       "reports_24h": 22,
-      "source_count": 10,
+      "source_count": 9,
       "contradiction_index": 0,
       "recency_score": 0.56,
       "activity_level": "low",
-      "last_update": "2026-07-01T18:02:48.809513+00:00"
+      "last_update": "2026-07-01T20:25:45.895180+00:00"
     },
     {
       "id": "khan-younis",
@@ -40,11 +40,11 @@
       "reports_1h": 1,
       "reports_6h": 9,
       "reports_24h": 28,
-      "source_count": 10,
+      "source_count": 9,
       "contradiction_index": 0,
       "recency_score": 0.59,
       "activity_level": "low",
-      "last_update": "2026-07-01T18:02:48.809513+00:00"
+      "last_update": "2026-07-01T20:25:45.895180+00:00"
     },
     {
       "id": "rafah",
@@ -55,11 +55,11 @@
       "reports_1h": 2,
       "reports_6h": 12,
       "reports_24h": 34,
-      "source_count": 10,
+      "source_count": 9,
       "contradiction_index": 0,
       "recency_score": 0.62,
       "activity_level": "low",
-      "last_update": "2026-07-01T18:02:48.809513+00:00"
+      "last_update": "2026-07-01T20:25:45.895180+00:00"
     },
     {
       "id": "middle-area",
@@ -70,11 +70,11 @@
       "reports_1h": 2,
       "reports_6h": 15,
       "reports_24h": 40,
-      "source_count": 10,
+      "source_count": 9,
       "contradiction_index": 1,
       "recency_score": 0.65,
       "activity_level": "low",
-      "last_update": "2026-07-01T18:02:48.809513+00:00"
+      "last_update": "2026-07-01T20:25:45.895180+00:00"
     }
   ]
 }
