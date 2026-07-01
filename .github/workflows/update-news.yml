@@ -1,0 +1,39 @@
+name: Update News (every minute)
+
+on:
+  schedule:
+    # Every minute — GitHub may delay by a few minutes under load
+    - cron: "* * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: true
+
+jobs:
+  news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Fetch latest news
+        run: python etl/fetch_all_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json data/meta.json frontend/public/data/news.json frontend/public/data/meta.json
+          git diff --staged --quiet && echo "No news changes" && exit 0
+          git commit -m "chore: update news [automated]"
+          git push

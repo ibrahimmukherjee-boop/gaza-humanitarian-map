@@ -73,7 +73,8 @@
       "displacement": "نزوح",
       "health": "صحة"
     },
-    "credibility": "المصداقية"
+    "credibility": "المصداقية",
+    "auto_refresh": "مباشر — يتحدث كل دقيقة"
   },
   "resources": {
     "title": "الموارد الإنسانية",

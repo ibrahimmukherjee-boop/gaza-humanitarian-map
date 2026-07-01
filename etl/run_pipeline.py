@@ -56,9 +56,8 @@ def sync_to_frontend():
 
 
 if __name__ == "__main__":
-    run_script("fetch_reliefweb.py")
+    run_script("fetch_all_news.py")
     run_script("fetch_osm.py")
-    run_script("fetch_news_rss.py")
     run_script("pressure_engine.py")
     write_meta()
     sync_to_frontend()

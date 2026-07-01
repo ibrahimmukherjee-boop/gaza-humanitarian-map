@@ -2,7 +2,10 @@ import { assetUrl, BASE_URL } from "../utils/baseUrl";
 
 const API_BASE = import.meta.env.VITE_API_URL;
 
-async function fetchJson<T>(path: string): Promise<T> {
+async function fetchJson<T>(
+  path: string,
+  opts?: { cacheBust?: boolean }
+): Promise<T> {
   if (API_BASE) {
     try {
       const res = await fetch(`${API_BASE}${path}`);
@@ -23,14 +26,15 @@ async function fetchJson<T>(path: string): Promise<T> {
     path === "/facilities"
       ? assetUrl("data/facilities.geojson")
       : assetUrl(`data${path}.json`);
-  const res = await fetch(file);
+  const url = opts?.cacheBust ? `${file}?t=${Math.floor(Date.now() / 60000)}` : file;
+  const res = await fetch(url);
   if (!res.ok) throw new Error(`Failed to fetch ${path}`);
   return res.json();
 }
 
 export const api = {
   facilities: () => fetchJson<import("../types").GeoJSONCollection>("/facilities"),
-  news: () => fetchJson<import("../types").NewsItem[]>("/news"),
+  news: () => fetchJson<import("../types").NewsItem[]>("/news", { cacheBust: true }),
   pressure: () => fetchJson<import("../types").PressureData>("/pressure"),
   politicalNews: () =>
     fetchJson<import("../types/political").PoliticalNewsItem[]>("/political_news"),

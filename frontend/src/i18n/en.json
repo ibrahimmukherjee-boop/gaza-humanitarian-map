@@ -98,7 +98,8 @@
       "displacement": "Displacement",
       "health": "Health"
     },
-    "credibility": "Credibility"
+    "credibility": "Credibility",
+    "auto_refresh": "Live — refreshes every minute"
   },
   "resources": {
     "title": "Humanitarian Resources",

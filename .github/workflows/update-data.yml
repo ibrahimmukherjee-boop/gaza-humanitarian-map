@@ -2,6 +2,7 @@ name: Update Data
 
 on:
   schedule:
+    # Full facility/map data — every 30 minutes (news has its own 1-min job)
     - cron: "*/30 * * * *"
   workflow_dispatch:
 

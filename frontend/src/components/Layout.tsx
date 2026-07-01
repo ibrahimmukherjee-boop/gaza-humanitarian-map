@@ -33,8 +33,16 @@ export default function Layout() {
       <EthicsBanner />
       {meta && (
         <div className="bg-slate-100 border-b border-slate-200 px-3 py-1.5 text-center text-xs text-slate-600">
-          {t("home.data_updated")}{" "}
-          {formatRelativeTime(meta.last_updated, i18n.language)}
+          {meta.news_last_updated ? (
+            <>
+              {t("news.title")}: {formatRelativeTime(meta.news_last_updated, i18n.language)}
+            </>
+          ) : (
+            <>
+              {t("home.data_updated")}{" "}
+              {formatRelativeTime(meta.last_updated, i18n.language)}
+            </>
+          )}
           {liteMode && ` · ${t("lite_mode.active")}`}
         </div>
       )}
