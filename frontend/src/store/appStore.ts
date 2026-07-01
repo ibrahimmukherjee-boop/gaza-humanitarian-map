@@ -1,16 +1,21 @@
 import { create } from "zustand";
 import { persist } from "zustand/middleware";
 import type { GazaArea, LayerType, ResourceCategory } from "../types";
+import type { ScenarioNeed } from "../types/resource";
 
 interface AppStore {
   liteMode: boolean;
   selectedArea: GazaArea;
   resourceCategory: ResourceCategory;
+  scenarioNeed: ScenarioNeed;
   offlineSavedAt: string | null;
+  offlineReady: boolean;
   setLiteMode: (v: boolean) => void;
   setSelectedArea: (area: GazaArea) => void;
   setResourceCategory: (cat: ResourceCategory) => void;
+  setScenarioNeed: (need: ScenarioNeed) => void;
   markOfflineSaved: () => void;
+  setOfflineReady: (v: boolean) => void;
 }
 
 export const useAppStore = create<AppStore>()(
@@ -19,11 +24,15 @@ export const useAppStore = create<AppStore>()(
       liteMode: false,
       selectedArea: "all",
       resourceCategory: "all",
+      scenarioNeed: "general",
       offlineSavedAt: null,
+      offlineReady: false,
       setLiteMode: (liteMode) => set({ liteMode }),
       setSelectedArea: (selectedArea) => set({ selectedArea }),
       setResourceCategory: (resourceCategory) => set({ resourceCategory }),
+      setScenarioNeed: (scenarioNeed) => set({ scenarioNeed }),
       markOfflineSaved: () => set({ offlineSavedAt: new Date().toISOString() }),
+      setOfflineReady: (offlineReady) => set({ offlineReady }),
     }),
     { name: "hssm-app" }
   )

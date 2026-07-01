@@ -2,18 +2,21 @@ import { useState, useMemo } from "react";
 import { useQuery } from "@tanstack/react-query";
 import { useTranslation } from "react-i18next";
 import { api, formatRelativeTime } from "../services/api";
+import { useAppStore } from "../store/appStore";
 import type { NewsItem } from "../types";
 
 export default function NewsPage() {
   const { t, i18n } = useTranslation();
+  const { liteMode } = useAppStore();
   const [view, setView] = useState<"feed" | "timeline">("feed");
   const [topic, setTopic] = useState<string>("all");
 
   const { data: news = [], isLoading, error, dataUpdatedAt } = useQuery({
-    queryKey: ["news"],
-    queryFn: api.news,
-    refetchInterval: 60_000,
-    refetchIntervalInBackground: true,
+    queryKey: ["news", liteMode ? "lite" : "full"],
+    queryFn: () => api.news({ lite: liteMode, cacheBust: !liteMode }),
+    refetchInterval: liteMode ? false : 60_000,
+    refetchIntervalInBackground: !liteMode,
+    staleTime: liteMode ? 30 * 60_000 : 60_000,
   });
 
   const filtered = useMemo(() => {
@@ -34,8 +37,13 @@ export default function NewsPage() {
         <h2 className="text-xl font-bold">{t("news.title")}</h2>
         <p className="text-sm text-slate-500">{t("news.subtitle")}</p>
         <p className="text-xs text-green-700 mt-1 flex items-center gap-1">
-          <span className="inline-block w-2 h-2 rounded-full bg-green-500 animate-pulse" aria-hidden />
-          {t("news.auto_refresh")}{" "}
+          {!liteMode && (
+            <>
+              <span className="inline-block w-2 h-2 rounded-full bg-green-500 animate-pulse" aria-hidden />
+              {t("news.auto_refresh")}{" "}
+            </>
+          )}
+          {liteMode && <span>{t("lite_mode.active")} · </span>}
           {dataUpdatedAt > 0 && (
             <span className="text-slate-500">
               · {formatRelativeTime(new Date(dataUpdatedAt).toISOString(), i18n.language)}

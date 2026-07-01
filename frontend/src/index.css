@@ -67,6 +67,10 @@ body.lite-mode {
   background: #fff;
 }
 
+.lite-mode .animate-pulse {
+  animation: none !important;
+}
+
 @media (prefers-reduced-motion: reduce) {
   * {
     animation: none !important;

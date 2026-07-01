@@ -7,8 +7,14 @@ export default function TimelinePage() {
   const { t, i18n } = useTranslation();
   const isAr = i18n.language === "ar";
 
-  const { data: news = [] } = useQuery({ queryKey: ["news"], queryFn: api.news });
-  const { data: facilities } = useQuery({ queryKey: ["facilities"], queryFn: api.facilities });
+  const { data: news = [] } = useQuery({
+    queryKey: ["news", "full"],
+    queryFn: () => api.news(),
+  });
+  const { data: facilities } = useQuery({
+    queryKey: ["facilities", "full"],
+    queryFn: () => api.facilities(),
+  });
 
   const events = useMemo(() => {
     const items: {

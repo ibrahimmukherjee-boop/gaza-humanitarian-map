@@ -60,5 +60,6 @@ if __name__ == "__main__":
     run_script("fetch_osm.py")
     run_script("pressure_engine.py")
     write_meta()
+    run_script("generate_lite_data.py")
     sync_to_frontend()
     print("Pipeline complete.")

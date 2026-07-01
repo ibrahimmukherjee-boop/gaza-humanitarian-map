@@ -32,11 +32,13 @@
   "lite_mode": {
     "toggle": "Lite mode (low data)",
     "active": "Lite mode on",
-    "map_disabled": "Map disabled in lite mode to save data. Use Resources to browse by area."
+    "map_disabled": "Map disabled in lite mode to save data. Use Resources to browse by area.",
+    "description": "Lite mode uses ~{{size}} KB data — no map tiles, no political feed, fewer news items."
   },
   "offline": {
-    "save": "Save all for offline",
-    "saved": "Saved offline"
+    "save": "Save for offline",
+    "saved": "Saved offline",
+    "ready": "Offline data ready"
   },
   "language": "Language",
   "last_updated": "Last Updated",
@@ -100,6 +102,38 @@
     },
     "credibility": "Credibility",
     "auto_refresh": "Live — refreshes every minute"
+  },
+  "today": {
+    "title": "Humanitarian Today",
+    "subtitle": "What is near you right now — verify locally before acting",
+    "your_situation": "Your situation",
+    "location_prompt": "Enable location to see nearest water, medical, food and shelter.",
+    "location_set": "Approximate location active",
+    "location_denied": "Location permission denied. Browse by area in Resources instead.",
+    "location_unsupported": "Location not supported on this device.",
+    "use_location": "Use my location",
+    "location_confidence": {
+      "high": "High accuracy",
+      "medium": "Medium accuracy",
+      "low": "Low accuracy"
+    },
+    "ai_summary": "Summary from available data",
+    "immediate_actions": "Immediate options nearby",
+    "nearest_water": "Nearest water",
+    "nearest_medical": "Nearest medical",
+    "nearest_food": "Nearest food",
+    "nearest_shelter": "Nearest shelter",
+    "nearby_resources": "Available support nearby",
+    "browse_all": "Browse all resources by area",
+    "warnings": "Uncertainty & notices",
+    "scenarios": {
+      "general": "All needs",
+      "water": "I need water",
+      "food": "I need food",
+      "medical": "I need medical help",
+      "safety": "I need safety",
+      "information": "I need information"
+    }
   },
   "resources": {
     "title": "Humanitarian Resources",

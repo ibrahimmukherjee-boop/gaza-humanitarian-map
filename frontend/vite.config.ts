@@ -28,22 +28,22 @@ export default defineConfig({
       },
       workbox: {
         globPatterns: ["**/*.{js,css,html,json,geojson,png,svg}"],
-        mode: "development",
+        navigateFallback: "index.html",
         runtimeCaching: [
           {
             urlPattern: /^https:\/\/.*\.tile\.openstreetmap\.org\/.*/i,
             handler: "CacheFirst",
             options: {
               cacheName: "osm-tiles",
-              expiration: { maxEntries: 500, maxAgeSeconds: 60 * 60 * 24 * 7 },
+              expiration: { maxEntries: 200, maxAgeSeconds: 60 * 60 * 24 * 7 },
             },
           },
           {
             urlPattern: /\/data\/.*\.(json|geojson)$/i,
-            handler: "NetworkFirst",
+            handler: "StaleWhileRevalidate",
             options: {
               cacheName: "humanitarian-data",
-              expiration: { maxEntries: 20, maxAgeSeconds: 60 * 30 },
+              expiration: { maxEntries: 30, maxAgeSeconds: 60 * 60 * 24 },
             },
           },
         ],

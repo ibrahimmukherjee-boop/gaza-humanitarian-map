@@ -18,11 +18,13 @@ const CATEGORIES: ResourceCategory[] = [
 export default function ResourcesPage() {
   const { t, i18n } = useTranslation();
   const isAr = i18n.language === "ar";
-  const { selectedArea, resourceCategory, setSelectedArea, setResourceCategory } = useAppStore();
+  const { selectedArea, resourceCategory, setSelectedArea, setResourceCategory, liteMode } =
+    useAppStore();
 
   const { data, isLoading, error } = useQuery({
-    queryKey: ["facilities"],
-    queryFn: api.facilities,
+    queryKey: ["facilities", liteMode ? "lite" : "full"],
+    queryFn: () => api.facilities({ lite: liteMode }),
+    staleTime: liteMode ? 30 * 60_000 : 5 * 60_000,
   });
 
   const filtered = useMemo(() => {

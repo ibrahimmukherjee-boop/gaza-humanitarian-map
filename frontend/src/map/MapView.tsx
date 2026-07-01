@@ -104,8 +104,8 @@ function MapViewFull() {
   const { activeLayers, showSatellite, timeFilterHours } = useMapStore();
 
   const { data: facilities, isLoading, error } = useQuery({
-    queryKey: ["facilities"],
-    queryFn: api.facilities,
+    queryKey: ["facilities", "full"],
+    queryFn: () => api.facilities(),
   });
 
   const { data: pressure } = useQuery({

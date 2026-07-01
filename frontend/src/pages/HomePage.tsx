@@ -1,9 +1,16 @@
 import { Link } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { useQuery } from "@tanstack/react-query";
+import { useEffect, useState } from "react";
 import { api, formatRelativeTime } from "../services/api";
 import { useAppStore } from "../store/appStore";
-import { saveAllOffline } from "../services/offline";
+import {
+  saveAllOffline,
+  isDataCached,
+  estimateLiteSizeKb,
+  estimateFullSizeKb,
+} from "../services/offline";
+import HumanitarianToday from "../components/HumanitarianToday";
 
 const primaryLinks = [
   { to: "/resources", key: "home.links.resources", icon: "🏥" },
@@ -23,14 +30,32 @@ const secondaryLinks = [
 export default function HomePage() {
   const { t, i18n } = useTranslation();
   const isAr = i18n.language === "ar";
-  const { liteMode, setLiteMode, offlineSavedAt, markOfflineSaved } = useAppStore();
+  const { liteMode, setLiteMode, offlineSavedAt, markOfflineSaved, setOfflineReady } =
+    useAppStore();
+  const [saving, setSaving] = useState(false);
 
-  const { data: meta } = useQuery({ queryKey: ["meta"], queryFn: api.meta });
+  const { data: meta } = useQuery({
+    queryKey: ["meta", liteMode ? "lite" : "full"],
+    queryFn: () => api.meta({ lite: liteMode }),
+    staleTime: liteMode ? 30 * 60_000 : 5 * 60_000,
+  });
+
+  useEffect(() => {
+    isDataCached(liteMode).then(setOfflineReady);
+  }, [liteMode, offlineSavedAt, setOfflineReady]);
 
   async function handleSaveOffline() {
-    await saveAllOffline();
-    markOfflineSaved();
+    setSaving(true);
+    try {
+      await saveAllOffline(liteMode);
+      markOfflineSaved();
+      setOfflineReady(true);
+    } finally {
+      setSaving(false);
+    }
   }
+
+  const sizeKb = liteMode ? estimateLiteSizeKb() : estimateFullSizeKb();
 
   return (
     <div className="max-w-lg mx-auto p-4 space-y-5">
@@ -46,6 +71,8 @@ export default function HomePage() {
         </div>
       )}
 
+      <HumanitarianToday />
+
       <div className="flex flex-wrap gap-2">
         <button
           className={`btn ${liteMode ? "btn-primary" : "btn-ghost border border-slate-200"}`}
@@ -53,14 +80,19 @@ export default function HomePage() {
         >
           {t("lite_mode.toggle")} {liteMode ? "✓" : ""}
         </button>
-        <button className="btn btn-primary" onClick={handleSaveOffline}>
-          {t("offline.save")}
+        <button className="btn btn-primary" onClick={handleSaveOffline} disabled={saving}>
+          {saving ? t("loading") : t("offline.save")}
         </button>
       </div>
+
+      {liteMode && (
+        <p className="text-xs text-slate-600">{t("lite_mode.description", { size: sizeKb })}</p>
+      )}
 
       {offlineSavedAt && (
         <p className="text-xs text-green-700">
           {t("offline.saved")} {formatRelativeTime(offlineSavedAt, i18n.language)}
+          {liteMode ? ` (${t("lite_mode.active")})` : ""}
         </p>
       )}
 
@@ -84,18 +116,20 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section>
-        <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-2">
-          {t("home.secondary")}
-        </h2>
-        <div className="flex flex-wrap gap-2">
-          {secondaryLinks.map(({ to, key }) => (
-            <Link key={to} to={to} className="btn btn-ghost border border-slate-200">
-              {t(key)}
-            </Link>
-          ))}
-        </div>
-      </section>
+      {!liteMode && (
+        <section>
+          <h2 className="text-sm font-semibold text-slate-500 uppercase tracking-wide mb-2">
+            {t("home.secondary")}
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {secondaryLinks.map(({ to, key }) => (
+              <Link key={to} to={to} className="btn btn-ghost border border-slate-200">
+                {t(key)}
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
     </div>
   );
 }

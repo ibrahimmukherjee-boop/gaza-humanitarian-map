@@ -1,6 +1,6 @@
 import { assetUrl } from "../utils/baseUrl";
 
-const DATA_FILES = [
+const FULL_DATA_FILES = [
   "data/facilities.geojson",
   "data/news.json",
   "data/pressure.json",
@@ -9,31 +9,58 @@ const DATA_FILES = [
   "data/meta.json",
 ].map(assetUrl);
 
-const CACHE_NAME = "hssm-offline-v1";
+const LITE_DATA_FILES = [
+  "data/facilities-lite.geojson",
+  "data/news-lite.json",
+  "data/hotlines.json",
+  "data/meta-lite.json",
+].map(assetUrl);
 
-export async function saveAllOffline(): Promise<void> {
-  if (!("caches" in window)) return;
+const CACHE_NAME = "hssm-offline-v2";
 
+async function cacheUrls(urls: string[]): Promise<number> {
+  if (!("caches" in window)) return 0;
   const cache = await caches.open(CACHE_NAME);
+  let saved = 0;
   await Promise.all(
-    DATA_FILES.map(async (url) => {
+    urls.map(async (url) => {
       try {
-        const res = await fetch(url);
-        if (res.ok) await cache.put(url, res);
+        const res = await fetch(url, { cache: "no-cache" });
+        if (res.ok) {
+          await cache.put(url, res);
+          saved++;
+        }
       } catch {
         /* skip failed */
       }
     })
   );
-
-  if ("serviceWorker" in navigator && navigator.serviceWorker.controller) {
-    navigator.serviceWorker.controller.postMessage({ type: "CACHE_URLS", urls: DATA_FILES });
-  }
+  return saved;
 }
 
-export async function isDataCached(): Promise<boolean> {
+export async function saveAllOffline(lite = false): Promise<{ saved: number; total: number }> {
+  const urls = lite ? LITE_DATA_FILES : FULL_DATA_FILES;
+  const saved = await cacheUrls(urls);
+
+  if ("serviceWorker" in navigator) {
+    const reg = await navigator.serviceWorker.ready.catch(() => null);
+    reg?.active?.postMessage({ type: "CACHE_URLS", urls });
+  }
+
+  return { saved, total: urls.length };
+}
+
+export async function isDataCached(lite = false): Promise<boolean> {
   if (!("caches" in window)) return false;
   const cache = await caches.open(CACHE_NAME);
-  const match = await cache.match(assetUrl("data/meta.json"));
-  return !!match;
+  const key = lite ? assetUrl("data/meta-lite.json") : assetUrl("data/meta.json");
+  return !!(await cache.match(key));
+}
+
+export function estimateLiteSizeKb(): number {
+  return 45;
+}
+
+export function estimateFullSizeKb(): number {
+  return 280;
 }

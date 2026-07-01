@@ -27,13 +27,17 @@ jobs:
         run: pip install feedparser requests
 
       - name: Fetch latest news
-        run: python etl/fetch_all_news.py
+        run: |
+          python etl/fetch_all_news.py
+          python etl/generate_lite_data.py
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/news.json data/meta.json frontend/public/data/news.json frontend/public/data/meta.json
+          git add data/news.json data/news-lite.json data/meta.json data/meta-lite.json \
+            frontend/public/data/news.json frontend/public/data/news-lite.json \
+            frontend/public/data/meta.json frontend/public/data/meta-lite.json
           git diff --staged --quiet && echo "No news changes" && exit 0
           git commit -m "chore: update news [automated]"
           git push

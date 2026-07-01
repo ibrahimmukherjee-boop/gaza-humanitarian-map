@@ -2,10 +2,12 @@ import { assetUrl, BASE_URL } from "../utils/baseUrl";
 
 const API_BASE = import.meta.env.VITE_API_URL;
 
-async function fetchJson<T>(
-  path: string,
-  opts?: { cacheBust?: boolean }
-): Promise<T> {
+export interface FetchOpts {
+  cacheBust?: boolean;
+  lite?: boolean;
+}
+
+async function fetchJson<T>(path: string, opts?: FetchOpts): Promise<T> {
   if (API_BASE) {
     try {
       const res = await fetch(`${API_BASE}${path}`);
@@ -22,24 +24,43 @@ async function fetchJson<T>(
     /* fall through */
   }
 
-  const file =
-    path === "/facilities"
-      ? assetUrl("data/facilities.geojson")
-      : assetUrl(`data${path}.json`);
+  const liteSuffix = opts?.lite ? "-lite" : "";
+  let file: string;
+  if (path === "/facilities") {
+    file = assetUrl(`data/facilities${liteSuffix}.geojson`);
+  } else if (path === "/meta") {
+    file = assetUrl(`data/meta${liteSuffix}.json`);
+  } else if (path === "/news") {
+    file = assetUrl(`data/news${liteSuffix}.json`);
+  } else {
+    file = assetUrl(`data${path}.json`);
+  }
+
   const url = opts?.cacheBust ? `${file}?t=${Math.floor(Date.now() / 60000)}` : file;
   const res = await fetch(url);
-  if (!res.ok) throw new Error(`Failed to fetch ${path}`);
+  if (!res.ok) {
+    if (opts?.lite) {
+      return fetchJson<T>(path, { ...opts, lite: false });
+    }
+    throw new Error(`Failed to fetch ${path}`);
+  }
   return res.json();
 }
 
 export const api = {
-  facilities: () => fetchJson<import("../types").GeoJSONCollection>("/facilities"),
-  news: () => fetchJson<import("../types").NewsItem[]>("/news", { cacheBust: true }),
+  facilities: (opts?: { lite?: boolean }) =>
+    fetchJson<import("../types").GeoJSONCollection>("/facilities", { lite: opts?.lite }),
+  news: (opts?: { lite?: boolean; cacheBust?: boolean }) =>
+    fetchJson<import("../types").NewsItem[]>("/news", {
+      lite: opts?.lite,
+      cacheBust: opts?.cacheBust,
+    }),
   pressure: () => fetchJson<import("../types").PressureData>("/pressure"),
   politicalNews: () =>
     fetchJson<import("../types/political").PoliticalNewsItem[]>("/political_news"),
   hotlines: () => fetchJson<import("../types").Hotline[]>("/hotlines"),
-  meta: () => fetchJson<import("../types").MetaData>("/meta"),
+  meta: (opts?: { lite?: boolean }) =>
+    fetchJson<import("../types").MetaData>("/meta", { lite: opts?.lite }),
   health: () => fetchJson<{ status: string }>("/health"),
 };
 

@@ -14,14 +14,18 @@ const navItems = [
   { to: "/hotlines", key: "nav.hotlines" },
   { to: "/islamic-guidance", key: "nav.islamic" },
   { to: "/violence-safety", key: "nav.violence_safety" },
-  { to: "/map", key: "nav.map" },
+  { to: "/map", key: "nav.map", liteHidden: true },
   { to: "/about", key: "nav.about" },
 ] as const;
 
 export default function Layout() {
   const { t, i18n } = useTranslation();
-  const { liteMode } = useAppStore();
-  const { data: meta } = useQuery({ queryKey: ["meta"], queryFn: api.meta });
+  const { liteMode, offlineReady } = useAppStore();
+  const { data: meta } = useQuery({
+    queryKey: ["meta", liteMode ? "lite" : "full"],
+    queryFn: () => api.meta({ lite: liteMode }),
+    staleTime: liteMode ? 30 * 60_000 : 5 * 60_000,
+  });
 
   useEffect(() => {
     document.body.classList.toggle("lite-mode", liteMode);
@@ -44,6 +48,7 @@ export default function Layout() {
             </>
           )}
           {liteMode && ` · ${t("lite_mode.active")}`}
+          {offlineReady && ` · ${t("offline.ready")}`}
         </div>
       )}
       <header className="bg-white border-b border-slate-200 sticky top-0 z-50 shrink-0">
@@ -59,7 +64,9 @@ export default function Layout() {
           className="max-w-7xl mx-auto px-2 pb-2 flex gap-1.5 overflow-x-auto snap-x snap-mandatory scrollbar-none"
           aria-label="Main navigation"
         >
-          {navItems.map(({ to, key }) => (
+          {navItems
+            .filter((item) => !liteMode || !("liteHidden" in item && item.liteHidden))
+            .map(({ to, key }) => (
             <NavLink
               key={to}
               to={to}
