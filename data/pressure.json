@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-01T15:00:00Z",
+  "timestamp": "2026-07-01T18:02:48.809513+00:00",
   "regions": [
     {
       "id": "gaza-city",
@@ -7,14 +7,14 @@
       "name_ar": "مدينة غزة",
       "lat": 31.52,
       "lng": 34.46,
-      "reports_1h": 12,
-      "reports_6h": 58,
-      "reports_24h": 142,
-      "source_count": 11,
-      "contradiction_index": 4,
-      "recency_score": 0.92,
-      "activity_level": "high",
-      "last_update": "2026-07-01T14:54:00Z"
+      "reports_1h": 1,
+      "reports_6h": 3,
+      "reports_24h": 16,
+      "source_count": 10,
+      "contradiction_index": 0,
+      "recency_score": 0.53,
+      "activity_level": "low",
+      "last_update": "2026-07-01T18:02:48.809513+00:00"
     },
     {
       "id": "north-gaza",
@@ -22,14 +22,14 @@
       "name_ar": "شمال غزة",
       "lat": 31.55,
       "lng": 34.48,
-      "reports_1h": 5,
-      "reports_6h": 28,
-      "reports_24h": 67,
-      "source_count": 8,
-      "contradiction_index": 2,
-      "recency_score": 0.78,
-      "activity_level": "medium",
-      "last_update": "2026-07-01T14:30:00Z"
+      "reports_1h": 1,
+      "reports_6h": 6,
+      "reports_24h": 22,
+      "source_count": 10,
+      "contradiction_index": 0,
+      "recency_score": 0.56,
+      "activity_level": "low",
+      "last_update": "2026-07-01T18:02:48.809513+00:00"
     },
     {
       "id": "khan-younis",
@@ -37,14 +37,14 @@
       "name_ar": "خان يونس",
       "lat": 31.42,
       "lng": 34.35,
-      "reports_1h": 8,
-      "reports_6h": 41,
-      "reports_24h": 98,
-      "source_count": 9,
-      "contradiction_index": 3,
-      "recency_score": 0.85,
-      "activity_level": "high",
-      "last_update": "2026-07-01T14:45:00Z"
+      "reports_1h": 1,
+      "reports_6h": 9,
+      "reports_24h": 28,
+      "source_count": 10,
+      "contradiction_index": 0,
+      "recency_score": 0.59,
+      "activity_level": "low",
+      "last_update": "2026-07-01T18:02:48.809513+00:00"
     },
     {
       "id": "rafah",
@@ -52,29 +52,29 @@
       "name_ar": "رفح",
       "lat": 31.28,
       "lng": 34.24,
-      "reports_1h": 3,
-      "reports_6h": 15,
-      "reports_24h": 44,
-      "source_count": 6,
-      "contradiction_index": 1,
-      "recency_score": 0.65,
-      "activity_level": "medium",
-      "last_update": "2026-07-01T13:00:00Z"
+      "reports_1h": 2,
+      "reports_6h": 12,
+      "reports_24h": 34,
+      "source_count": 10,
+      "contradiction_index": 0,
+      "recency_score": 0.62,
+      "activity_level": "low",
+      "last_update": "2026-07-01T18:02:48.809513+00:00"
     },
     {
       "id": "middle-area",
       "name_en": "Middle Area",
       "name_ar": "المنطقة الوسطى",
       "lat": 31.47,
-      "lng": 34.40,
+      "lng": 34.4,
       "reports_1h": 2,
-      "reports_6h": 11,
-      "reports_24h": 29,
-      "source_count": 5,
+      "reports_6h": 15,
+      "reports_24h": 40,
+      "source_count": 10,
       "contradiction_index": 1,
-      "recency_score": 0.55,
+      "recency_score": 0.65,
       "activity_level": "low",
-      "last_update": "2026-07-01T12:00:00Z"
+      "last_update": "2026-07-01T18:02:48.809513+00:00"
     }
   ]
 }
