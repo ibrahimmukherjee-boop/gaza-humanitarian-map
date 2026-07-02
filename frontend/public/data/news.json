@@ -1,5 +1,22 @@
 [
   {
+    "id": "ab36161931f8",
+    "title_en": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+    "title_ar": "",
+    "excerpt_en": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-02T17:56:18+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "9d5b25a5b8da",
     "title_en": "Today's top news: Venezuela, Ukraine, Occupied Palestinian Territory, Lebanon, Sudan, Democratic Republic of the Congo",
     "title_ar": "",
@@ -449,23 +466,6 @@
     "credibility": "medium"
   },
   {
-    "id": "cbc499d4b199",
-    "title_en": "UN nuclear chief says inspectors will visit Iran sites as part of war deal",
-    "title_ar": "",
-    "excerpt_en": "Rafael Grossi says the IAEA is \"working on modalities\" but an Iranian  minister says such access would only be part of a final deal with the US.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-24T17:31:48+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "54118915dc5c",
     "title_en": "Stranded Hormuz seafarers begin mass evacuation operation",
     "title_ar": "",
@@ -482,41 +482,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "a24ed7b9800a",
-    "title_en": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
-    "title_ar": "",
-    "excerpt_en": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-23T16:47:45+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "b65901b02c2c",
-    "title_en": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
-    "title_ar": "",
-    "excerpt_en": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-23T14:55:31+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "5375995620fa",
@@ -711,6 +676,23 @@
     "credibility": "medium"
   },
   {
+    "id": "ded0ff0cd17d",
+    "title_en": "What's in the US-Iran agreement?",
+    "title_ar": "",
+    "excerpt_en": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-18T01:28:02+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "cc23898507f9",
     "title_en": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
     "title_ar": "",
@@ -727,6 +709,23 @@
       "Gaza Strip"
     ],
     "credibility": "high"
+  },
+  {
+    "id": "d0e86925815d",
+    "title_en": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
+    "title_ar": "",
+    "excerpt_en": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-06-17T09:13:34+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
   },
   {
     "id": "8d48d64d5b02",
