@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-02T19:40:56.090570+00:00",
+  "timestamp": "2026-07-02T21:14:52.921181+00:00",
   "regions": [
     {
       "id": "gaza-city",
@@ -7,14 +7,14 @@
       "name_ar": "مدينة غزة",
       "lat": 31.52,
       "lng": 34.46,
-      "reports_1h": 2,
-      "reports_6h": 14,
-      "reports_24h": 38,
+      "reports_1h": 1,
+      "reports_6h": 10,
+      "reports_24h": 30,
       "source_count": 10,
       "contradiction_index": 0,
-      "recency_score": 0.64,
+      "recency_score": 0.6,
       "activity_level": "low",
-      "last_update": "2026-07-02T19:40:56.090570+00:00"
+      "last_update": "2026-07-02T21:14:52.921181+00:00"
     },
     {
       "id": "north-gaza",
@@ -23,13 +23,13 @@
       "lat": 31.55,
       "lng": 34.48,
       "reports_1h": 2,
-      "reports_6h": 17,
-      "reports_24h": 44,
+      "reports_6h": 13,
+      "reports_24h": 36,
       "source_count": 10,
-      "contradiction_index": 1,
-      "recency_score": 0.67,
-      "activity_level": "medium",
-      "last_update": "2026-07-02T19:40:56.090570+00:00"
+      "contradiction_index": 0,
+      "recency_score": 0.63,
+      "activity_level": "low",
+      "last_update": "2026-07-02T21:14:52.921181+00:00"
     },
     {
       "id": "khan-younis",
@@ -37,14 +37,14 @@
       "name_ar": "خان يونس",
       "lat": 31.42,
       "lng": 34.35,
-      "reports_1h": 3,
-      "reports_6h": 20,
-      "reports_24h": 50,
+      "reports_1h": 2,
+      "reports_6h": 16,
+      "reports_24h": 42,
       "source_count": 10,
       "contradiction_index": 1,
-      "recency_score": 0.7,
+      "recency_score": 0.66,
       "activity_level": "medium",
-      "last_update": "2026-07-02T19:40:56.090570+00:00"
+      "last_update": "2026-07-02T21:14:52.921181+00:00"
     },
     {
       "id": "rafah",
@@ -53,13 +53,13 @@
       "lat": 31.28,
       "lng": 34.24,
       "reports_1h": 3,
-      "reports_6h": 23,
-      "reports_24h": 56,
+      "reports_6h": 19,
+      "reports_24h": 48,
       "source_count": 10,
       "contradiction_index": 1,
-      "recency_score": 0.73,
+      "recency_score": 0.69,
       "activity_level": "medium",
-      "last_update": "2026-07-02T19:40:56.090570+00:00"
+      "last_update": "2026-07-02T21:14:52.921181+00:00"
     },
     {
       "id": "middle-area",
@@ -67,14 +67,14 @@
       "name_ar": "المنطقة الوسطى",
       "lat": 31.47,
       "lng": 34.4,
-      "reports_1h": 4,
-      "reports_6h": 26,
-      "reports_24h": 62,
+      "reports_1h": 3,
+      "reports_6h": 22,
+      "reports_24h": 54,
       "source_count": 10,
       "contradiction_index": 1,
-      "recency_score": 0.76,
+      "recency_score": 0.72,
       "activity_level": "medium",
-      "last_update": "2026-07-02T19:40:56.090570+00:00"
+      "last_update": "2026-07-02T21:14:52.921181+00:00"
     }
   ]
 }
