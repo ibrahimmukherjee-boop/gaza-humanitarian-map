@@ -1,5 +1,23 @@
 [
   {
+    "id": "210c2d3db499",
+    "title_en": "Venezuela | 7.5 M and 7.2 M earthquakes and EU response update - DG ECHO Daily Map | 02/07/2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/st",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-02T16:17:17+00:00",
+    "url": "https://reliefweb.int/map/venezuela-bolivarian-republic/venezuela-75-m-and-72-m-earthquakes-and-eu-response-update-dg-echo-daily-map-02072026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "f845544f0dff",
     "title_en": "Ukraine — Social Cohesion in Ukraine: Trust, Belonging and Civic Participation — July 2026",
     "title_ar": "",
@@ -325,24 +343,6 @@
     "source": "ReliefWeb",
     "timestamp": "2026-07-02T12:03:20+00:00",
     "url": "https://reliefweb.int/report/uganda/uganda-population-dashboard-annex-iii-settlement-profiles-30-june-2026",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "6b15bf2d0a17",
-    "title_en": "Uganda - Overview of refugees and asylum-seekers (As of 30 June 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Uganda, Democratic Republic of the Congo, South Sudan, Sudan</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/6b/48/6b487",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-02T12:03:17+00:00",
-    "url": "https://reliefweb.int/report/uganda/uganda-overview-refugees-and-asylum-seekers-30-june-2026",
     "tags": [
       "displacement",
       "humanitarian"
