@@ -1,5 +1,31 @@
 [
   {
+    "id": "43443dd77949",
+    "title_en": "Media watchdog rejects claim it seeks to exclude Palestinian, Lebanese journalists after Gaza terror links",
+    "title_ar": "",
+    "excerpt_en": "<p>CPJ pushes back on 'unsubstantiated allegations,'  reaffirms journalist criteria amid backlash over Gaza database review, after ToI found some Gaza entries were of Hamas or PIJ operatives</p>\n<p>The post <a href=\"https://www.timesofisrael.com/media-watchdog-reaffirms-journalist-criteria-amid-backlash-over-gaza-database-review/\">Media watchdog rejects claim it seeks to exclude Palestinian, Leban",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-02T19:11:24+00:00",
+    "url": "https://www.timesofisrael.com/media-watchdog-reaffirms-journalist-criteria-amid-backlash-over-gaza-database-review/",
+    "credibility": "medium"
+  },
+  {
+    "id": "100980c388eb",
+    "title_en": "Finance and Defense ministries reach deal to give IDF an extra NIS 15 billion",
+    "title_ar": "",
+    "excerpt_en": "<p>Deal mediated by National Security Council prevents potential tax hikes and spending cuts incurred by reopening of 2026 state budget, which already included record defense spending</p>\n<p>The post <a href=\"https://www.timesofisrael.com/finance-and-defense-ministries-reach-deal-to-give-idf-an-extra-nis-15-billion/\">Finance and Defense ministries reach deal to give IDF an extra NIS 15 billion</a>",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-02T19:11:04+00:00",
+    "url": "https://www.timesofisrael.com/finance-and-defense-ministries-reach-deal-to-give-idf-an-extra-nis-15-billion/",
+    "credibility": "medium"
+  },
+  {
     "id": "5c0a4ba2880e",
     "title_en": "IDF chief says soldiers must be priority after Basic Law on Torah study advances",
     "title_ar": "",
@@ -62,19 +88,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-02T16:14:24+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f62f785d5bbb",
-    "title_en": "Into the Darkness",
-    "title_ar": "",
-    "excerpt_en": "Fault Lines investigates allegations of systematic torture of Palestinian prisoners and detainees in Israeli custody.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-02T15:30:00+00:00",
-    "url": "https://www.aljazeera.com/video/fault-lines/2026/7/2/into-the-darkness?traffic_source=rss",
     "credibility": "medium"
   },
   {
