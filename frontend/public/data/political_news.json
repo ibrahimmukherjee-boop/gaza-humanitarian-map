@@ -1,5 +1,18 @@
 [
   {
+    "id": "1fc506840633",
+    "title_en": "IDF says strike killed Hezbollah operative who emerged from tunnel in south Lebanon",
+    "title_ar": "",
+    "excerpt_en": "<p>Military says terrorist posed threat to troops after surfacing from facility where some 30 operatives holed up; Lebanon's Aoun defends talks with Israel, vows not to give up land</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-says-strike-killed-hezbollah-operative-who-emerged-from-tunnel-in-south-lebanon/\">IDF says strike killed Hezbollah operative who emerged from tunnel in south L",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-02T20:17:31+00:00",
+    "url": "https://www.timesofisrael.com/idf-says-strike-killed-hezbollah-operative-who-emerged-from-tunnel-in-south-lebanon/",
+    "credibility": "medium"
+  },
+  {
     "id": "43443dd77949",
     "title_en": "Media watchdog rejects claim it seeks to exclude Palestinian, Lebanese journalists after Gaza terror links",
     "title_ar": "",
@@ -62,32 +75,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-02T17:00:16+00:00",
     "url": "https://www.timesofisrael.com/idf-says-it-tracked-down-troops-who-blindfolded-suspect-and-bound-him-to-cot/",
-    "credibility": "medium"
-  },
-  {
-    "id": "e0e84c21b544",
-    "title_en": "‘Collateral damage’: 73 Palestinian children Israel shot in the head",
-    "title_ar": "",
-    "excerpt_en": "Israel has rejected a UN Commission report that says its army deliberately targets Palestinian children.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-02T16:26:16+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/collateral-damage-73-palestinian-children-israel-shot-in-the-head?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "4fdc6b40cd67",
-    "title_en": "Why is Prada facing pro-Israeli backlash?",
-    "title_ar": "",
-    "excerpt_en": "Prada is facing boycott calls after appointing Palestinian singer Saint Levant as a brand ambassador.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-02T16:14:24+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/why-is-prada-facing-pro-israeli-backlash?traffic_source=rss",
     "credibility": "medium"
   },
   {
