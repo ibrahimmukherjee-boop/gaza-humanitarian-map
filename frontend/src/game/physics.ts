@@ -70,8 +70,8 @@ export function resolveHorizontal(s: GameState): void {
     const pt = platformTop(plat);
     const pb = plat.y;
 
-    // Jumping up from below — pass through the side
-    if (s.vy > 0 && s.y < pt - SKIN) continue;
+    // Below walk surface — pass through sides (allows jumping onto blocks)
+    if (s.y < pt - SKIN) continue;
 
     // Vertically clear of the solid block
     if (head <= pb + SKIN || s.y >= pt + SKIN) continue;

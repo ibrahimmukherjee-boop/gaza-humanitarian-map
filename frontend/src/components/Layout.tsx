@@ -1,4 +1,4 @@
-import { NavLink, Outlet } from "react-router-dom";
+import { NavLink, Outlet, useLocation } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 import { useEffect } from "react";
 import { useQuery } from "@tanstack/react-query";
@@ -20,11 +20,13 @@ const navItems = [
   { to: "/political", key: "nav.political", liteHidden: true },
   { to: "/map", key: "nav.map", liteHidden: true },
   { to: "/about", key: "nav.about" },
-  { to: "/children-game", key: "nav.children_game", liteHidden: true },
+  { to: "/about#ethics", key: "nav.ethics" },
+  { to: "/children-game", key: "nav.children_game", liteHidden: true, subdued: true },
 ] as const;
 
 export default function Layout() {
   const { t, i18n } = useTranslation();
+  const { pathname, hash } = useLocation();
   const { liteMode, offlineReady } = useAppStore();
   useLiveRefresh();
 
@@ -74,20 +76,37 @@ export default function Layout() {
         >
           {navItems
             .filter((item) => !liteMode || !("liteHidden" in item && item.liteHidden))
-            .map(({ to, key }) => (
+            .map(({ to, key, ...rest }) => {
+              const subdued = "subdued" in rest && rest.subdued;
+              const isEthics = to === "/about#ethics";
+              const isAboutOnly = to === "/about";
+              const isActiveManual = isEthics
+                ? pathname === "/about" && hash === "#ethics"
+                : isAboutOnly
+                  ? pathname === "/about" && hash !== "#ethics"
+                  : undefined;
+              return (
               <NavLink
                 key={to}
                 to={to}
                 end={to === "/"}
-                className={({ isActive }) =>
-                  `nav-link snap-start shrink-0 whitespace-nowrap px-3 py-2 rounded-lg text-sm font-medium min-h-[44px] flex items-center transition-colors ${
-                    isActive ? "nav-link-active" : "nav-link-idle"
-                  }`
-                }
+                className={({ isActive }) => {
+                  const active = isActiveManual ?? isActive;
+                  return `nav-link snap-start shrink-0 whitespace-nowrap px-3 py-2 rounded-lg min-h-[44px] flex items-center transition-colors ${
+                    subdued
+                      ? active
+                        ? "text-sm font-normal bg-slate-100 text-slate-700 border border-slate-200"
+                        : "text-sm font-normal text-slate-400 border border-transparent hover:text-slate-500"
+                      : active
+                        ? "text-sm font-medium nav-link-active"
+                        : "text-sm font-medium nav-link-idle"
+                  }`;
+                }}
               >
                 {t(key)}
               </NavLink>
-            ))}
+            );
+            })}
         </nav>
       </header>
       <main className="flex-1 overflow-auto overscroll-contain">

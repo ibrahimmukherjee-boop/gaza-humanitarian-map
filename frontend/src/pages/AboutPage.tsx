@@ -1,9 +1,18 @@
 import { useTranslation } from "react-i18next";
+import { useEffect } from "react";
+import { useLocation } from "react-router-dom";
 
 export default function AboutPage() {
   const { t } = useTranslation();
+  const { hash } = useLocation();
   const doList = t("about.do_list", { returnObjects: true }) as string[];
   const dontList = t("about.dont_list", { returnObjects: true }) as string[];
+
+  useEffect(() => {
+    if (hash === "#ethics") {
+      document.getElementById("ethics")?.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [hash]);
 
   return (
     <div className="max-w-3xl mx-auto p-4 space-y-6">
@@ -33,6 +42,11 @@ export default function AboutPage() {
             ))}
           </ul>
         </div>
+      </section>
+
+      <section className="card border-amber-200 bg-amber-50/40" id="ethics">
+        <h3 className="font-semibold text-lg mb-2">{t("about.ethics_title")}</h3>
+        <p className="text-sm text-slate-700 leading-relaxed">{t("ethics_banner")}</p>
       </section>
 
       <p className="text-xs text-slate-500">

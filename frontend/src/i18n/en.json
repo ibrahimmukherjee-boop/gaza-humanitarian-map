@@ -13,8 +13,9 @@
     "hotlines": "Hotlines",
     "timeline": "Information Timeline",
     "sources": "Data Sources",
-    "about": "About & Ethics",
-    "children_game": "Children's Game"
+    "about": "About Us",
+    "ethics": "Ethics",
+    "children_game": "Children's game"
   },
   "children_game": {
     "title": "Children's Game",
@@ -297,7 +298,8 @@
     "update_frequency": "Data is updated every 15–30 minutes via automated pipeline"
   },
   "about": {
-    "title": "About & Ethics",
+    "title": "About Us",
+    "ethics_title": "Ethics & limitations",
     "mission_title": "Mission",
     "mission": "This platform displays verified humanitarian infrastructure, aggregates live news from trusted sources, provides general survival education, and shows information activity levels — without predicting events or designating safe zones.",
     "what_we_do": "What we provide",
