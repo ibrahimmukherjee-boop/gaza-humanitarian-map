@@ -1,7 +1,20 @@
 [
   {
+    "id": "e980f7135507",
+    "title_en": "Far-right minister says IDF hostage point man ‘to blame’ for Oct. 7 abductions, killings",
+    "title_ar": "",
+    "excerpt_en": "<p>Amichay Eliyahu leads coalition backlash against Nitzan Alon for pushing back after Smotrich claimed credit for captives' return, says top general would have enabled Hamas to threaten Israel again</p>\n<p>The post <a href=\"https://www.timesofisrael.com/far-right-minister-says-idf-hostage-point-man-to-blame-for-oct-7-abductions-killings/\">Far-right minister says IDF hostage point man &#8216;to bl",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-02T11:37:14+00:00",
+    "url": "https://www.timesofisrael.com/far-right-minister-says-idf-hostage-point-man-to-blame-for-oct-7-abductions-killings/",
+    "credibility": "medium"
+  },
+  {
     "id": "0eec9cc8dcc1",
-    "title_en": "A Palestinian Home Inside a Cage",
+    "title_en": "A Palestinian home inside a cage",
     "title_ar": "",
     "excerpt_en": "This Palestinian family&#039;s home is sealed inside an Israeli settlement and the separation wall. Al Jazeera&#039;s Leila Warah",
     "excerpt_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-02T10:19:56+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/2/a-palestinian-home-inside-a-cage?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5365f068223b",
-    "title_en": "Lebanon: 100,000s unable to return amid continued military activity despite agreements | NRC",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Lebanon</div>\n                                      <div class=\"tag source\">Source: Norwegian Refugee Council</div>\n                                                                            <p><em>Israeli strikes continue to kill civilians in Lebanon, while more than 700,000 people remain unable to return home or rebuild their lives, despite a ceasefire with Hez",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-02T09:33:07+00:00",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-100000s-unable-return-amid-continued-military-activity-despite-agreements-nrc",
     "credibility": "medium"
   },
   {
@@ -42,7 +42,7 @@
     "id": "de0207ac6a7d",
     "title_en": "Three Arab Israelis to be charged for assisting June terror attack in central Israel",
     "title_ar": "",
-    "excerpt_en": "<p>Indictments set to be filed against man from Baqa al-Gharbiyye who supplied gun used to kill reservist, and 2 Tayibe men who knew about attack plans and did not intervene</p>\n<p>The post <a href=\"https://www.timesofisrael.com/three-arab-israelis-to-be-charged-for-assisting-june-terror-attack-in-central-israel/\">Three Arab Israelis to be charged for assisting June terror attack in central Israel",
+    "excerpt_en": "<p>Indictments set to be filed against man from Baqa al-Gharbiya who supplied gun used to kill reservist, and 2 Tayibe men who knew about attack plans and did not intervene</p>\n<p>The post <a href=\"https://www.timesofisrael.com/three-arab-israelis-to-be-charged-for-assisting-june-terror-attack-in-central-israel/\">Three Arab Israelis to be charged for assisting June terror attack in central Israel<",
     "excerpt_ar": "",
     "source": "Times of Israel",
     "source_region": "israel",
@@ -88,32 +88,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-02T01:51:58+00:00",
     "url": "https://www.timesofisrael.com/i-wish-every-day-were-october-7-ny-woman-charged-with-funding-gaza-terrorists/",
-    "credibility": "medium"
-  },
-  {
-    "id": "83359cd7afaf",
-    "title_en": "‘They’ve never taken responsibility’: Oct 7 survivors, families rail at government on 1,000th day",
-    "title_ar": "",
-    "excerpt_en": "<p>Iran's chief negotiator: IAEA inspectors cannot visit nuclear sites bombed by US * Footage: Soldiers beat and detain Palestinian as settlers hang Israeli flags on West Bank homes</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-july-2-2026/\">&#8216;They&#8217;ve never taken responsibility&#8217;: Oct 7 survivors, families rail at government on 1,000th day</a> appeared first on <a",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-01T22:33:12+00:00",
-    "url": "https://www.timesofisrael.com/liveblog-july-2-2026/",
-    "credibility": "medium"
-  },
-  {
-    "id": "ab5c2fab2a0e",
-    "title_en": "Controversial anti-Israel rap group Kneecap plays secret gig in Berlin",
-    "title_ar": "",
-    "excerpt_en": "<p>Band members, who have been investigated for terror support, lead chant of 'free Palestine' at their first-ever concert in Germany</p>\n<p>The post <a href=\"https://www.timesofisrael.com/controversial-anti-israel-rap-group-kneecap-plays-secret-gig-in-berlin/\">Controversial anti-Israel rap group Kneecap plays secret gig in Berlin</a> appeared first on <a href=\"https://www.timesofisrael.com\">The T",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-01T21:36:27+00:00",
-    "url": "https://www.timesofisrael.com/controversial-anti-israel-rap-group-kneecap-plays-secret-gig-in-berlin/",
     "credibility": "medium"
   },
   {
