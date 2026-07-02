@@ -1,8 +1,7 @@
 import type { GameState, Platform } from "./types";
 import { PLATFORMS, SQUIRREL_H, SQUIRREL_W, platformTop } from "./types";
 
-const LAND_TOLERANCE = 0.35;
-const SKIN = 0.02;
+const SKIN = 0.06;
 
 function hOverlap(s: GameState, plat: Platform): boolean {
   const sl = s.x - SQUIRREL_W / 2;
@@ -12,19 +11,20 @@ function hOverlap(s: GameState, plat: Platform): boolean {
   return sr > pl + SKIN && sl < pr - SKIN;
 }
 
-/** Resolve vertical collisions after position integration */
+/** Resolve vertical collisions — land on platform tops, bonk head on bottoms */
 export function resolveVertical(s: GameState, prevY: number): void {
+  const prevFeet = prevY;
   const feet = s.y;
   const head = s.y + SQUIRREL_H;
+  const prevHead = prevY + SQUIRREL_H;
 
   s.onGround = false;
 
-  // Head bonk when moving up
+  // Head bonk while rising
   if (s.vy > 0) {
     for (const plat of PLATFORMS) {
       if (!hOverlap(s, plat)) continue;
       const pb = plat.y;
-      const prevHead = prevY + SQUIRREL_H;
       if (prevHead <= pb + SKIN && head >= pb - SKIN) {
         s.y = pb - SQUIRREL_H - SKIN;
         s.vy = 0;
@@ -33,21 +33,18 @@ export function resolveVertical(s: GameState, prevY: number): void {
     }
   }
 
-  // Land on highest platform beneath feet when falling
+  // Land on the highest platform top when falling or resting
   if (s.vy <= 0) {
     let bestTop = -Infinity;
-    const prevFeet = prevY;
 
     for (const plat of PLATFORMS) {
       if (!hOverlap(s, plat)) continue;
       const pt = platformTop(plat);
 
-      // Must have been at or above this surface recently, now at/below it
-      const crossing =
-        prevFeet >= pt - LAND_TOLERANCE && feet <= pt + LAND_TOLERANCE;
-      const nearSurface = Math.abs(feet - pt) < LAND_TOLERANCE;
+      const crossedDown = prevFeet >= pt - SKIN && feet <= pt + SKIN;
+      const resting = Math.abs(feet - pt) <= SKIN;
 
-      if ((crossing || nearSurface) && feet <= pt + LAND_TOLERANCE) {
+      if (crossedDown || resting) {
         if (pt > bestTop) bestTop = pt;
       }
     }
@@ -60,37 +57,38 @@ export function resolveVertical(s: GameState, prevY: number): void {
   }
 }
 
-/** Resolve horizontal collisions */
-export function resolveHorizontal(s: GameState, prevX: number): void {
+/** Side walls — skip while jumping up past a platform edge */
+export function resolveHorizontal(s: GameState): void {
   const sl = s.x - SQUIRREL_W / 2;
   const sr = s.x + SQUIRREL_W / 2;
-  const sb = s.y;
-  const st = s.y + SQUIRREL_H;
+  const head = s.y + SQUIRREL_H;
 
   for (const plat of PLATFORMS) {
     if (plat.type === "ground") continue;
+    if (!hOverlap(s, plat)) continue;
+
+    const pt = platformTop(plat);
+    const pb = plat.y;
+
+    // Jumping up from below — pass through the side
+    if (s.vy > 0 && s.y < pt - SKIN) continue;
+
+    // Vertically clear of the solid block
+    if (head <= pb + SKIN || s.y >= pt + SKIN) continue;
+
     const pl = plat.x - plat.width / 2;
     const pr = plat.x + plat.width / 2;
-    const pb = plat.y;
-    const pt = platformTop(plat);
 
-    if (st <= pb + SKIN || sb >= pt - SKIN) continue;
-    if (sr <= pl + SKIN || sl >= pr - SKIN) continue;
-
-    const prevSl = prevX - SQUIRREL_W / 2;
-    const prevSr = prevX + SQUIRREL_W / 2;
-
-    if (s.vx > 0 && prevSr <= pl + SKIN) {
+    if (s.vx > 0 && sr > pl && s.x < plat.x) {
       s.x = pl - SQUIRREL_W / 2 - SKIN;
       s.vx = 0;
-    } else if (s.vx < 0 && prevSl >= pr - SKIN) {
+    } else if (s.vx < 0 && sl < pr && s.x > plat.x) {
       s.x = pr + SQUIRREL_W / 2 + SKIN;
       s.vx = 0;
     }
   }
 }
 
-/** Keep player in world bounds */
 export function clampWorld(s: GameState): void {
   if (s.x < -38) s.x = -38;
   if (s.x > 58) s.x = 58;

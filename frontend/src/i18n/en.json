@@ -29,6 +29,7 @@
   "home": {
     "primary": "Essential — works offline",
     "secondary": "More information",
+    "settings": "Data & offline",
     "data_updated": "Data last updated",
     "facilities": "facilities",
     "news_items": "news items",

@@ -123,7 +123,6 @@ function GameWorld({
     const dt = Math.min(delta, 0.033);
     const s = state.current;
     const keys = keysRef.current;
-    const prevX = s.x;
     const prevY = s.y;
 
     if (s.eating) {
@@ -163,8 +162,8 @@ function GameWorld({
     s.x += s.vx * dt;
     s.y += s.vy * dt;
 
-    resolveHorizontal(s, prevX);
     resolveVertical(s, prevY);
+    resolveHorizontal(s);
     clampWorld(s);
 
     if (s.y < -2) {
@@ -355,13 +354,13 @@ export default function SquirrelAdventureGame({ onScoreChange, popOut }: Squirre
         </button>
       </div>
 
-      <div className="absolute top-3 left-3 glass-pill px-3 py-1.5 font-bold text-lg pointer-events-none text-slate-800">
+      <div className="absolute top-3 left-3 card py-1.5 px-3 font-bold text-lg pointer-events-none">
         🌰 {score}
       </div>
 
       {won && (
-        <div className="absolute inset-0 flex items-center justify-center bg-black/30 backdrop-blur-sm">
-          <div className="glass-card text-center shadow-xl max-w-xs mx-4">
+        <div className="absolute inset-0 flex items-center justify-center bg-black/25">
+          <div className="card text-center max-w-xs mx-4">
             <p className="text-4xl mb-2">🐿️🎉</p>
             <p className="text-xl font-bold text-slate-900 mb-1">{t("children_game.win_title")}</p>
             <p className="text-slate-600 mb-4">{t("children_game.score")}: {score}</p>

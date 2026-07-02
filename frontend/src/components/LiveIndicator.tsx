@@ -8,9 +8,7 @@ export default function LiveIndicator({ className = "" }: { className?: string }
   if (liteMode) return null;
 
   return (
-    <span
-      className={`live-badge inline-flex items-center gap-1.5 text-xs font-medium ${className}`}
-    >
+    <span className={`live-badge inline-flex items-center gap-1.5 ${className}`}>
       <span className="live-dot" aria-hidden />
       {t("news.auto_refresh")}
     </span>

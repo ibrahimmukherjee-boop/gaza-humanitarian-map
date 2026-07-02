@@ -1,10 +1,29 @@
 import { assetUrl, BASE_URL } from "../utils/baseUrl";
 
 const API_BASE = import.meta.env.VITE_API_URL;
+const OFFLINE_CACHE = "hssm-offline-v2";
 
 export interface FetchOpts {
   cacheBust?: boolean;
   lite?: boolean;
+}
+
+function dataFile(path: string, lite: boolean): string {
+  const liteSuffix = lite ? "-lite" : "";
+  if (path === "/facilities") return assetUrl(`data/facilities${liteSuffix}.geojson`);
+  if (path === "/meta") return assetUrl(`data/meta${liteSuffix}.json`);
+  if (path === "/news") return assetUrl(`data/news${liteSuffix}.json`);
+  return assetUrl(`data${path}.json`);
+}
+
+async function fromOfflineCache(url: string): Promise<Response | null> {
+  if (!("caches" in window)) return null;
+  try {
+    const cache = await caches.open(OFFLINE_CACHE);
+    return (await cache.match(url)) ?? null;
+  } catch {
+    return null;
+  }
 }
 
 async function fetchJson<T>(path: string, opts?: FetchOpts): Promise<T> {
@@ -24,27 +43,24 @@ async function fetchJson<T>(path: string, opts?: FetchOpts): Promise<T> {
     /* fall through */
   }
 
-  const liteSuffix = opts?.lite ? "-lite" : "";
-  let file: string;
-  if (path === "/facilities") {
-    file = assetUrl(`data/facilities${liteSuffix}.geojson`);
-  } else if (path === "/meta") {
-    file = assetUrl(`data/meta${liteSuffix}.json`);
-  } else if (path === "/news") {
-    file = assetUrl(`data/news${liteSuffix}.json`);
-  } else {
-    file = assetUrl(`data${path}.json`);
+  const file = dataFile(path, !!opts?.lite);
+  const url = opts?.cacheBust ? `${file}?t=${Math.floor(Date.now() / 60000)}` : file;
+
+  try {
+    const res = await fetch(url);
+    if (res.ok) return res.json();
+  } catch {
+    /* try offline cache */
   }
 
-  const url = opts?.cacheBust ? `${file}?t=${Math.floor(Date.now() / 60000)}` : file;
-  const res = await fetch(url);
-  if (!res.ok) {
-    if (opts?.lite) {
-      return fetchJson<T>(path, { ...opts, lite: false });
-    }
-    throw new Error(`Failed to fetch ${path}`);
+  const cached = await fromOfflineCache(url);
+  if (cached) return cached.json() as Promise<T>;
+
+  if (opts?.lite) {
+    return fetchJson<T>(path, { ...opts, lite: false });
   }
-  return res.json();
+
+  throw new Error(`Failed to fetch ${path}`);
 }
 
 export const api = {
