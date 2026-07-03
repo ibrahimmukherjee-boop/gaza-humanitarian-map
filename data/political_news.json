@@ -1,5 +1,18 @@
 [
   {
+    "id": "4d06a22074c8",
+    "title_en": "IDF says it killed Hamas terrorist who abducted tank officer Daniel Perez, held hostages",
+    "title_ar": "",
+    "excerpt_en": "<p>Muhammad Na'im Jandiya seized body of Daniel Perez during Oct. 7 attack, held captive Yotam Haim, Samar Talalka and Alon Shamriz, whose brothers respond 'world is a better place'</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-says-it-killed-hamas-terrorist-who-abducted-tank-officer-daniel-perez-held-hostages/\">IDF says it killed Hamas terrorist who abducted tank officer Daniel Perez",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-03T11:42:44+00:00",
+    "url": "https://www.timesofisrael.com/idf-says-it-killed-hamas-terrorist-who-abducted-tank-officer-daniel-perez-held-hostages/",
+    "credibility": "medium"
+  },
+  {
     "id": "6ca3ba6a1e0c",
     "title_en": "Israel approves plan to establish 13 new settlements in occupied West Bank",
     "title_ar": "",
@@ -26,23 +39,10 @@
     "credibility": "medium"
   },
   {
-    "id": "d2e56091b28f",
-    "title_en": "Seven pro-Palestine protesters convicted of misdemeanour charges in US",
-    "title_ar": "",
-    "excerpt_en": "Activists found guilty of misdemeanour counts after blocking San Francisco&#039;s Golden Gate Bridge in a 2024 Gaza protest.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-03T08:01:10+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "a091e4d109e1",
     "title_en": "Anti-Israel activists convicted of misdemeanor charges in 2024 Golden Gate Bridge protest",
     "title_ar": "",
-    "excerpt_en": "<p>Jury deadlocked on more serious charge of felony conspiracy over blockage of throughfare in protest against Israeli war in Gaza; seven convicts face up to 5 years in prison </p>\n<p>The post <a href=\"https://www.timesofisrael.com/anti-israel-activists-convicted-of-misdemeanor-charges-in-2024-golden-gate-bridge-protest/\">Anti-Israel activists convicted of misdemeanor charges in 2024 Golden Gate B",
+    "excerpt_en": "<p>Jury deadlocked on more serious charge of felony conspiracy over blockage of throughfare in protest against Israeli war in Gaza; seven activists face up to 5 years in prison </p>\n<p>The post <a href=\"https://www.timesofisrael.com/anti-israel-activists-convicted-of-misdemeanor-charges-in-2024-golden-gate-bridge-protest/\">Anti-Israel activists convicted of misdemeanor charges in 2024 Golden Gate ",
     "excerpt_ar": "",
     "source": "Times of Israel",
     "source_region": "israel",
@@ -88,19 +88,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-03T00:18:49+00:00",
     "url": "https://www.timesofisrael.com/liveblog-july-3-2026/",
-    "credibility": "medium"
-  },
-  {
-    "id": "0d102de37da6",
-    "title_en": "Strong shekel makes Israeli tech workers pricier than their US counterparts, study shows",
-    "title_ar": "",
-    "excerpt_en": "<p>Lobby of Israeli tech firms warns that local tech talent is losing its competitive edge, as higher salary costs due to the strong shekel threaten to drive out future innovation</p>\n<p>The post <a href=\"https://www.timesofisrael.com/strong-shekel-makes-israeli-tech-workers-pricier-than-their-us-counterparts-study-shows/\">Strong shekel makes Israeli tech workers pricier than their US counterparts",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-02T21:53:30+00:00",
-    "url": "https://www.timesofisrael.com/strong-shekel-makes-israeli-tech-workers-pricier-than-their-us-counterparts-study-shows/",
     "credibility": "medium"
   },
   {
