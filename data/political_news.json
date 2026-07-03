@@ -1,5 +1,44 @@
 [
   {
+    "id": "6ca3ba6a1e0c",
+    "title_en": "Israel approves plan to establish 13 new settlements in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Palestinian officials warn against the implications of the plan, saying it would further isolate East Jerusalem.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-07-03T09:59:35+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/3/israel-approves-plan-to-establish-13-new-settlements-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a993eb7c4ebe",
+    "title_en": "EU lawmaker investigating surveillance hacked by Israeli spyware, report says",
+    "title_ar": "",
+    "excerpt_en": "Greek former parliamentarian Stelios Kouloglou targeted with Pegasus software, Citizen Lab analysis finds.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T08:20:51+00:00",
+    "url": "https://www.aljazeera.com/economy/2026/7/3/eu-lawmaker-investigating-surveillance-hacked-by-israeli-spyware-report-says?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d2e56091b28f",
+    "title_en": "Seven pro-Palestine protesters convicted of misdemeanour charges in US",
+    "title_ar": "",
+    "excerpt_en": "Activists found guilty of misdemeanour counts after blocking San Francisco&#039;s Golden Gate Bridge in a 2024 Gaza protest.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T08:01:10+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/3/seven-pro-palestine-protesters-convicted-of-misdemeanour-charges-in-us?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a091e4d109e1",
     "title_en": "Anti-Israel activists convicted of misdemeanor charges in 2024 Golden Gate Bridge protest",
     "title_ar": "",
@@ -10,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-03T07:54:41+00:00",
     "url": "https://www.timesofisrael.com/anti-israel-activists-convicted-of-misdemeanor-charges-in-2024-golden-gate-bridge-protest/",
-    "credibility": "medium"
-  },
-  {
-    "id": "19732a5b3756",
-    "title_en": "oPt: UNRWA Situation Report #228 on the Humanitarian Crisis in the Gaza Strip and the West Bank, including East Jerusalem [EN/AR]",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Relief and Works Agency for Palestine Refugees in the Near East</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/8b/a1/8ba1",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-03T06:57:02+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/unrwa-situation-report-228-humanitarian-crisis-gaza-strip-and-west-bank-including-east-jerusalem-enar",
     "credibility": "medium"
   },
   {
@@ -53,28 +79,15 @@
   },
   {
     "id": "6522077a9f79",
-    "title_en": "IDF: Reservist seriously hurt in clash with Hezbollah gunman in southern Lebanon",
+    "title_en": "Iran’s Ghalibaf: Tehran will react proportionately if Israel, US do not stand by MOU",
     "title_ar": "",
-    "excerpt_en": "<p>IDF reservist arrested for alleged unlawful sale and possession of weapons * 7 anti-Israel protesters convicted for blocking Golden Gate Bridge in 2024</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-july-3-2026/\">IDF: Reservist seriously hurt in clash with Hezbollah gunman in southern Lebanon</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.",
+    "excerpt_en": "<p>IDF says it killed Hamas terrorist who abducted Cpt. Daniel Perez on Oct. 7, held hostages * Army says reservist seriously hurt in clash with Hezbollah gunman in southern Lebanon</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-july-3-2026/\">Iran’s Ghalibaf: Tehran will react proportionately if Israel, US do not stand by MOU</a> appeared first on <a href=\"https://www.timesofisrae",
     "excerpt_ar": "",
     "source": "Times of Israel",
     "source_region": "israel",
     "statement_type": "military_announcement",
     "timestamp": "2026-07-03T00:18:49+00:00",
     "url": "https://www.timesofisrael.com/liveblog-july-3-2026/",
-    "credibility": "medium"
-  },
-  {
-    "id": "1c872be1f783",
-    "title_en": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
-    "title_ar": "",
-    "excerpt_en": "Lebanon&#039;s Health Ministry says at least 4,298 people have been killed and 12,196 injured in Israeli attacks since March.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-03T00:00:00+00:00",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/3/iran-war-live-tehran-slams-us-ahead-of-huge-funeral-for-ali-khamenei?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -88,32 +101,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-02T21:53:30+00:00",
     "url": "https://www.timesofisrael.com/strong-shekel-makes-israeli-tech-workers-pricier-than-their-us-counterparts-study-shows/",
-    "credibility": "medium"
-  },
-  {
-    "id": "1fc506840633",
-    "title_en": "IDF says strike killed Hezbollah operative who emerged from tunnel in south Lebanon",
-    "title_ar": "",
-    "excerpt_en": "<p>Military says terrorist posed threat to troops after surfacing from facility where some 30 operatives holed up; Lebanon's Aoun defends talks with Israel, vows not to give up land</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-says-strike-killed-hezbollah-operative-who-emerged-from-tunnel-in-south-lebanon/\">IDF says strike killed Hezbollah operative who emerged from tunnel in south L",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-02T20:17:31+00:00",
-    "url": "https://www.timesofisrael.com/idf-says-strike-killed-hezbollah-operative-who-emerged-from-tunnel-in-south-lebanon/",
-    "credibility": "medium"
-  },
-  {
-    "id": "43443dd77949",
-    "title_en": "Media watchdog rejects claim it seeks to exclude Palestinian, Lebanese journalists after Gaza terror links",
-    "title_ar": "",
-    "excerpt_en": "<p>CPJ pushes back on 'unsubstantiated allegations,' reaffirms journalist criteria amid backlash over Gaza database review, after ToI found some Gaza entries were of Hamas or PIJ operatives</p>\n<p>The post <a href=\"https://www.timesofisrael.com/media-watchdog-reaffirms-journalist-criteria-amid-backlash-over-gaza-database-review/\">Media watchdog rejects claim it seeks to exclude Palestinian, Lebane",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-02T19:11:24+00:00",
-    "url": "https://www.timesofisrael.com/media-watchdog-reaffirms-journalist-criteria-amid-backlash-over-gaza-database-review/",
     "credibility": "medium"
   },
   {
