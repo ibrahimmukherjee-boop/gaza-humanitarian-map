@@ -1,5 +1,57 @@
 [
   {
+    "id": "93f7d2b86b3c",
+    "title_en": "Senior Likud renegade Yuli Edelstein leaving party to forge a ‘new political path’",
+    "title_ar": "",
+    "excerpt_en": "<p>Ex-refusenik, who broke with government over effort to exempt Haredim from IDF service, said to be in talks to join possible 'statesmanlike' alternative to Netanyahu's party</p>\n<p>The post <a href=\"https://www.timesofisrael.com/senior-likud-renegade-yuli-edelstein-leaving-party-to-forge-a-new-political-path/\">Senior Likud renegade Yuli Edelstein leaving party to forge a &#8216;new political pa",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-03T18:37:31+00:00",
+    "url": "https://www.timesofisrael.com/senior-likud-renegade-yuli-edelstein-leaving-party-to-forge-a-new-political-path/",
+    "credibility": "medium"
+  },
+  {
+    "id": "e013b620f477",
+    "title_en": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
+    "title_ar": "",
+    "excerpt_en": "The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T18:34:40+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "f2c81fe856c8",
+    "title_en": "Israel prevents exiled Palestinian detainees from reuniting with their families",
+    "title_ar": "",
+    "excerpt_en": "Palestinian prisoners released from Israeli jail but remain separated from loved ones due to travel restrictions.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T18:13:53+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/3/israel-prevents-exiled-palestinian-detainees-from-reuniting-with-their-families?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "8c32b57e0ba3",
+    "title_en": "EU lawmaker probing Pegasus spyware reportedly hacked by it, sparking outrage",
+    "title_ar": "",
+    "excerpt_en": "<p>MEPs call for spyware ban after Citizen Lab says with 'high confidence' that phone belonging to Greek member of EU probe was infiltrated by Israeli-created software in 2022 and 2023</p>\n<p>The post <a href=\"https://www.timesofisrael.com/eu-lawmaker-probing-pegasus-spyware-reportedly-hacked-by-it-sparking-outrage/\">EU lawmaker probing Pegasus spyware reportedly hacked by it, sparking outrage</a>",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T17:55:40+00:00",
+    "url": "https://www.timesofisrael.com/eu-lawmaker-probing-pegasus-spyware-reportedly-hacked-by-it-sparking-outrage/",
+    "credibility": "medium"
+  },
+  {
     "id": "3a907f2ae639",
     "title_en": "IDF shells Hezbollah sites after soldier hurt in clash with gunman in south Lebanon",
     "title_ar": "",
@@ -10,6 +62,19 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-03T17:08:02+00:00",
     "url": "https://www.timesofisrael.com/idf-shells-hezbollah-sites-after-soldier-hurt-in-clash-with-gunman-in-south-lebanon/",
+    "credibility": "medium"
+  },
+  {
+    "id": "92070daf6596",
+    "title_en": "oPt: Gaza and Egypt | UCPM Medevac operations - DG ECHO Daily Map | 03/07/2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: occupied Palestinian territory, Egypt</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                            <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnai",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-03T16:17:17+00:00",
+    "url": "https://reliefweb.int/map/occupied-palestinian-territory/gaza-and-egypt-ucpm-medevac-operations-dg-echo-daily-map-03072026",
     "credibility": "medium"
   },
   {
@@ -65,6 +130,58 @@
     "credibility": "medium"
   },
   {
+    "id": "bc8cc0ab0ce8",
+    "title_en": "oPt: Under-capacity and out of time: 1,000 Days of limited aid access and humanitarian disaster in Gaza",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Action for Humanity</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/fd/38/fd3860c7-9e31-4b27-80bb-41ab0c250e80.png\" /></p>\n  ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T13:43:12+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/under-capacity-and-out-time-1000-days-limited-aid-access-and-humanitarian-disaster-gaza",
+    "credibility": "medium"
+  },
+  {
+    "id": "7366085b1e6a",
+    "title_en": "oPt: After 1,000 days, Palestinians in Gaza face ongoing horror",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Islamic Relief</div>\n                                                                                              <p>Palestinians in Gaza still face daily attacks, extreme suffering and denial of their basic rights as the crisis passes 1,000 days, Islamic Re",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T13:38:49+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/after-1000-days-palestinians-gaza-face-ongoing-horror",
+    "credibility": "medium"
+  },
+  {
+    "id": "309941978eb6",
+    "title_en": "Lebanon: Middle East Overview: July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Lebanon, Iran (Islamic Republic of), Iraq, occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Armed Conflict Location &amp; Event Data</div>\n                                                                                              <p>Remote violence events fell to their lowest level since the latest res",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T13:33:06+00:00",
+    "url": "https://reliefweb.int/report/lebanon/middle-east-overview-july-2026",
+    "credibility": "medium"
+  },
+  {
+    "id": "cb8e364c38a2",
+    "title_en": "oPt: Summary execution continues a pattern of unlawful killings in Gaza",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Office of the High Commissioner for Human Rights</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/7e/5f/7e5fa7fe-e492-463d-",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-03T13:28:18+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/summary-execution-continues-pattern-unlawful-killings-gaza",
+    "credibility": "medium"
+  },
+  {
     "id": "4d06a22074c8",
     "title_en": "IDF says it killed Hamas terrorist who abducted tank officer Daniel Perez, held hostages",
     "title_ar": "",
@@ -75,19 +192,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-03T11:42:44+00:00",
     "url": "https://www.timesofisrael.com/idf-says-it-killed-hamas-terrorist-who-abducted-tank-officer-daniel-perez-held-hostages/",
-    "credibility": "medium"
-  },
-  {
-    "id": "a091e4d109e1",
-    "title_en": "Anti-Israel activists convicted of misdemeanor charges in 2024 Golden Gate Bridge protest",
-    "title_ar": "",
-    "excerpt_en": "<p>Jury deadlocked on more serious charge of felony conspiracy over blockage of throughfare in protest against Israeli war in Gaza; seven activists face up to 5 years in prison </p>\n<p>The post <a href=\"https://www.timesofisrael.com/anti-israel-activists-convicted-of-misdemeanor-charges-in-2024-golden-gate-bridge-protest/\">Anti-Israel activists convicted of misdemeanor charges in 2024 Golden Gate ",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-03T07:54:41+00:00",
-    "url": "https://www.timesofisrael.com/anti-israel-activists-convicted-of-misdemeanor-charges-in-2024-golden-gate-bridge-protest/",
     "credibility": "medium"
   },
   {
