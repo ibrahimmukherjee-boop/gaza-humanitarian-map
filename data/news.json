@@ -1,5 +1,215 @@
 [
   {
+    "id": "383c64e4a719",
+    "title_en": "Lebanon: Conflict Intensity Snapshot (2 March - 2 July 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Lebanon</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/20/42/20426634-d4eb-4ce8-99c9-d02110c25601.pn",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T14:01:01+00:00",
+    "url": "https://reliefweb.int/map/lebanon/lebanon-conflict-intensity-snapshot-2-march-2-july-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "bc8cc0ab0ce8",
+    "title_en": "oPt: Under-capacity and out of time: 1,000 Days of limited aid access and humanitarian disaster in Gaza",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Action for Humanity</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/fd/38/fd3860c7-9e31-4b27-80bb-41ab0c250e80.png\" /></p>\n  ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:43:12+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/under-capacity-and-out-time-1000-days-limited-aid-access-and-humanitarian-disaster-gaza",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "513129bec8bf",
+    "title_en": "Attacks on Health Care in Myanmar: 10 - 23 June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Myanmar</div>\n                                      <div class=\"tag source\">Source: Insecurity Insight</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/a7/c9/a7c99c32-d252-4718-b537-ddb295eb8962.png\" /></p>\n                        <p",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:40:14+00:00",
+    "url": "https://reliefweb.int/report/myanmar/attacks-health-care-myanmar-10-23-june-2026",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "7366085b1e6a",
+    "title_en": "oPt: After 1,000 days, Palestinians in Gaza face ongoing horror",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Islamic Relief</div>\n                                                                                              <p>Palestinians in Gaza still face daily attacks, extreme suffering and denial of their basic rights as the crisis passes 1,000 days, Islamic Re",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:38:49+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/after-1000-days-palestinians-gaza-face-ongoing-horror",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "9ec44704122f",
+    "title_en": "Niger — Population Flow Monitoring Report 100 (May 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Niger</div>\n                                      <div class=\"tag source\">Source: International Organization for Migration</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/00/a3/00a31a5b-c2e8-5056-bfde-11b0103990e6.png\" /></p>\n      ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:33:14+00:00",
+    "url": "https://reliefweb.int/report/niger/niger-population-flow-monitoring-report-100-may-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "309941978eb6",
+    "title_en": "Lebanon: Middle East Overview: July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Lebanon, Iran (Islamic Republic of), Iraq, occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Armed Conflict Location &amp; Event Data</div>\n                                                                                              <p>Remote violence events fell to their lowest level since the latest res",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:33:06+00:00",
+    "url": "https://reliefweb.int/report/lebanon/middle-east-overview-july-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "cb8e364c38a2",
+    "title_en": "oPt: Summary execution continues a pattern of unlawful killings in Gaza",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Office of the High Commissioner for Human Rights</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/7e/5f/7e5fa7fe-e492-463d-",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:28:18+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/summary-execution-continues-pattern-unlawful-killings-gaza",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "c2d78f6ddc09",
+    "title_en": "DR Congo: Bundibugyo Ebola Virus Disease (BVD) | Interim Guidance on Blanket Travel Restrictions and Public Gatherings",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Democratic Republic of the Congo, Uganda</div>\n                                      <div class=\"tag source\">Source: Africa Centres for Disease Control and Prevention</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previe",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:25:10+00:00",
+    "url": "https://reliefweb.int/report/democratic-republic-congo/bundibugyo-ebola-virus-disease-bvd-interim-guidance-blanket-travel-restrictions-and-public-gatherings",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "e19e778813a5",
+    "title_en": "Angola: Monthly Refugee Population Statistics 2017 Kasai Active Refugee Population",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Angola</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/30/5a/305aeb59-04a5-57a1-840e-1e44ec2f0bc5.png\" /></p>\n            ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:03:27+00:00",
+    "url": "https://reliefweb.int/report/angola/monthly-refugee-population-statistics-2017-kasai-active-refugee-population",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "69bd5e3d6836",
+    "title_en": "Angola: Monthly Refugee Population Statistics Lovua Refugee Settlement",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Angola</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/3d/2c/3d2ce319-aea2-512b-b0d4-78afa0fa215f.png\" /></p>\n            ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:03:22+00:00",
+    "url": "https://reliefweb.int/report/angola/monthly-refugee-population-statistics-lovua-refugee-settlement",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "e72d79fc87d8",
+    "title_en": "Angola Operations Dashboard - June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Angola</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/05/0e/050e148b-8278-590a-8161-ab6d8d2ddc88.png\" /></p>\n            ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:03:15+00:00",
+    "url": "https://reliefweb.int/report/angola/angola-operations-dashboard-june-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "3661b8bf0751",
+    "title_en": "UNHCR Angola Forcibly Displaced Persons Snapshot - June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Angola</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/27/40/2740f2f6-7510-5fe5-a09e-c2889a7fa636.png\" /></p>\n            ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T13:03:12+00:00",
+    "url": "https://reliefweb.int/report/angola/unhcr-angola-forcibly-displaced-persons-snapshot-june-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "8f33f15a0a01",
     "title_en": "Somalia - Logistic cluster Meeting Minutes - Mogadishu, 23 June 2026",
     "title_ar": "",
@@ -28,6 +238,24 @@
     "url": "https://reliefweb.int/report/world/continental-immunization-strategy-cis-2026-2030-strengthening-immunization-advance-resilient-primary-health-care-and-health-systems",
     "tags": [
       "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "71edd58760c0",
+    "title_en": "World: AI can help protect forcibly displaced: UNHCR highlights responsible innovation for refugees",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                                              <p>GENEVA – From forecasting potential forced displacement movements and assessing damaged buildings after a crisis, to mapping refugee laws and impro",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-03T12:33:05+00:00",
+    "url": "https://reliefweb.int/report/world/ai-can-help-protect-forcibly-displaced-unhcr-highlights-responsible-innovation-refugees",
+    "tags": [
+      "displacement",
       "humanitarian"
     ],
     "location_tags": [
@@ -114,233 +342,6 @@
     "source": "ReliefWeb",
     "timestamp": "2026-07-03T11:52:39+00:00",
     "url": "https://reliefweb.int/report/world/start-fund-monthly-risk-bulletin-issued-july-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "6a5d0fe6549f",
-    "title_en": "World: START READY: Risk Pool 05 Structuring Report | May 2026 - April 2027",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: World, Bangladesh, Democratic Republic of the Congo, Madagascar, Nepal, Pakistan, Philippines, Senegal, Somalia, Zimbabwe</div>\n                                      <div class=\"tag source\">Source: Start Network</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:44:55+00:00",
-    "url": "https://reliefweb.int/report/world/start-ready-risk-pool-05-structuring-report-may-2026-april-2027",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "4e00671e40a4",
-    "title_en": "Cuban mixed migration: US fuels departures and restricts access",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Cuba</div>\n                                      <div class=\"tag source\">Source: Mixed Migration Centre</div>\n                                                                                              <p>Historically, the United States (US) has been the <a href=\"https://www.migrationpolicy.org/article/cuban-immigrants-united-states-2018\" rel=\"noreferrer noopene",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:36:38+00:00",
-    "url": "https://reliefweb.int/report/cuba/cuban-mixed-migration-us-fuels-departures-and-restricts-access",
-    "tags": [
-      "infrastructure",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "f5bf0565a550",
-    "title_en": "Mexico: Situation Report #6: Measles in the Americas Region. 2 July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Mexico, Belize, Bolivia (Plurinational State of), Canada, Colombia, Guatemala, Honduras, Panama, Peru, United States of America</div>\n                                      <div class=\"tag source\">Source: Pan American Health Organization</div>\n                                                                                                <p><img alt=\"alt\" src=\"ht",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:33:06+00:00",
-    "url": "https://reliefweb.int/report/mexico/situation-report-6-measles-americas-region-2-july-2026",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "f2b7f0adca60",
-    "title_en": "MMC West and North Africa 4Mi Snapshot – Smuggling dynamics within and to Mauritania (June 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Mauritania</div>\n                                      <div class=\"tag source\">Source: Mixed Migration Centre</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/eb/35/eb35a82e-11a0-42fc-a214-02b6e338b5d3.png\" /></p>\n                   ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:13:50+00:00",
-    "url": "https://reliefweb.int/report/mauritania/mmc-west-and-north-africa-4mi-snapshot-smuggling-dynamics-within-and-mauritania-june-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "35b7e221227a",
-    "title_en": "Venezuela Earthquake Response Situation Update and Response Actors: Expected Needs, Next 96 Hours — As of 2 July | 1700 ET / 2100Z",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Pacific Disaster Center</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/cd/84/cd84d750-6522-4f56-989d-f",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:13:01+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquake-response-situation-update-and-response-actors-expected-needs-next-96-hours-2-july-1700-et-2100z",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "2658888735b6",
-    "title_en": "Somalia: Radio Ergo Weekly Feedback Report, Issued: 3 July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Somalia</div>\n                                      <div class=\"tag source\">Source: Radio Ergo</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/47/5e/475e62d5-33a0-4219-aefc-47f6a0d20940.png\" /></p>\n                ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:08:26+00:00",
-    "url": "https://reliefweb.int/report/somalia/radio-ergo-weekly-feedback-report-issued-3-july-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "beb4b1587ff6",
-    "title_en": "Uganda: ActivitInfo - Reporting Module for Funding Reporting Step-by-Step Guide June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Uganda</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/1a/05/1a05b545-7c46-58f6-b2a4-68449aa29ae1.png\" /></p>\n            ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:03:16+00:00",
-    "url": "https://reliefweb.int/report/uganda/activitinfo-reporting-module-funding-reporting-step-step-guide-june-2026",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e481b154d75a",
-    "title_en": "Uganda: Activity Info Reporting Module Step By Step Guide June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Uganda</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/66/a9/66a90a88-4a43-591c-b4a7-16a075d8370c.png\" /></p>\n            ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:03:13+00:00",
-    "url": "https://reliefweb.int/report/uganda/activity-info-reporting-module-step-step-guide-june-2026",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e07462e4e303",
-    "title_en": "Lebanon: Ad-Hoc Inter-Sector Coordination Group Meeting - 3 July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Lebanon</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c6/ac/c6ac491d-cc04-5c86-85a9-351373fe6e65.png\" /></p>\n           ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:03:10+00:00",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-ad-hoc-inter-sector-coordination-group-meeting-3-july-2026",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "ec1d3065c0c4",
-    "title_en": "Cameroon: UNHCR warns Lake Chad Basin at tipping point as violence and displacement surge",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Cameroon, Chad, Niger, Nigeria</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                                              <p><em>This is a summary of what was said by Andrew Wyllie, UNHCR Deputy Director for the West and Central Africa Bureau – ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T11:03:07+00:00",
-    "url": "https://reliefweb.int/report/cameroon/unhcr-warns-lake-chad-basin-tipping-point-violence-and-displacement-surge",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "a5ee011c8c67",
-    "title_en": "Venezuela Earthquakes: Situation Report #4 (July 2, 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Project HOPE</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2a/82/2a824618-2c36-4a5a-b66c-341cc3e5324b",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T10:55:38+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquakes-situation-report-4-july-2-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "ed891e951eda",
-    "title_en": "World: Crop Monitor for Early Warning | No. 117 - July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: GEOGLAM Crop Monitor</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/25/4e/254e47a4-8adc-4063-96be-e07ca924ce59.png\" /></p>\n        ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T10:46:22+00:00",
-    "url": "https://reliefweb.int/report/world/crop-monitor-early-warning-no-117-july-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "b22ee0d6ba91",
-    "title_en": "Venezuela earthquake: Disaster brief EQ-2026-000093-VEN| Americas | Venezuela | July 1, 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: International Federation of Red Cross and Red Crescent Societies</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-03T10:41:01+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-earthquake-disaster-brief-eq-2026-000093-ven-americas-venezuela-july-1-2026",
     "tags": [
       "humanitarian"
     ],
