@@ -1,5 +1,44 @@
 [
   {
+    "id": "2563f53016cf",
+    "title_en": "Settlers attack activists, Palestinians trying to access their land",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers attacked a foreign activist and another man as they blocked access to Palestinian farmland.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T19:13:39+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/settlers-attack-activists-palestinians-trying-to-access-their-land?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "200d4875e15b",
+    "title_en": "New Lebanon deal revives Jerusalem’s hopes of curbing Iran’s influence",
+    "title_ar": "",
+    "excerpt_en": "<p>Trilateral pact formalizes IDF coordination with Lebanese army and ties Israeli withdrawal to Hezbollah's disarmament, but certainly doesn't guarantee peace on the northern border</p>\n<p>The post <a href=\"https://www.timesofisrael.com/new-lebanon-deal-revives-jerusalems-hopes-of-curbing-irans-influence/\">New Lebanon deal revives Jerusalem&#8217;s hopes of curbing Iran&#8217;s influence</a> appe",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-03T19:07:53+00:00",
+    "url": "https://www.timesofisrael.com/new-lebanon-deal-revives-jerusalems-hopes-of-curbing-irans-influence/",
+    "credibility": "medium"
+  },
+  {
+    "id": "e3f643b48eff",
+    "title_en": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
+    "title_ar": "",
+    "excerpt_en": "Top Iranian officials and foreign dignitaries pay respects to late leader killed in joint US-Israeli strike in February.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-03T18:39:31+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "93f7d2b86b3c",
     "title_en": "Senior Likud renegade Yuli Edelstein leaving party to forge a ‘new political path’",
     "title_ar": "",
@@ -114,19 +153,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-03T14:26:44+00:00",
     "url": "https://www.timesofisrael.com/elderly-man-said-injured-as-settlers-attack-palestinians-foreign-volunteers-in-west-bank/",
-    "credibility": "medium"
-  },
-  {
-    "id": "1bfc652db534",
-    "title_en": "Election wins prove pro-Palestine US campus protests didn’t fail: Activists",
-    "title_ar": "",
-    "excerpt_en": "With Columbia University set to be represented in Congress by former protester, advocates see &#039;new wave of hope&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-03T14:03:35+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/3/election-wins-prove-pro-palestine-us-campus-protests-didnt-fail-activists?traffic_source=rss",
     "credibility": "medium"
   },
   {
