@@ -1,13 +1,30 @@
 [
   {
     "id": "ab36161931f8",
-    "title_en": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+    "title_en": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
     "title_ar": "",
     "excerpt_en": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
-    "timestamp": "2026-07-02T17:56:18+00:00",
+    "timestamp": "2026-07-03T06:42:14+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "466870180028",
+    "title_en": "Iran begins public mourning for Ayatollah killed in February",
+    "title_ar": "",
+    "excerpt_en": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-03T05:53:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
@@ -667,23 +684,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-06-18T01:29:32+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "ded0ff0cd17d",
-    "title_en": "What's in the US-Iran agreement?",
-    "title_ar": "",
-    "excerpt_en": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-18T01:28:02+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
