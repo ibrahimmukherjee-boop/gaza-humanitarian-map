@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect, useCallback, useMemo } from "react";
+import { useRef, useState, useEffect, useCallback, useMemo, useReducer } from "react";
 import { useTranslation } from "react-i18next";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
@@ -7,6 +7,7 @@ import {
   generateWorld,
   createNutsFromWorld,
   worldLength,
+  appendWorldSegment,
   type WorldConfig,
   type SceneryProp,
 } from "./worldGen";
@@ -190,19 +191,35 @@ function GameWorld({
   world,
   inputRef,
   onScore,
-  onWin,
   onHint,
 }: {
   world: WorldConfig;
   inputRef: React.MutableRefObject<GameInput>;
   onScore: (s: number) => void;
-  onWin: () => void;
   onHint: (step: 1 | 2 | null) => void;
 }) {
   const state = useRef<GameState>({ ...INITIAL_STATE });
   const nuts = useRef<Nut[]>(createNutsFromWorld(world));
+  const props = useRef<SceneryProp[]>([...world.props]);
+  const maxX = useRef(worldLength(world));
+  const segmentIndex = useRef(0);
+  const lastExtendAt = useRef(0);
   const squirrelPos = useRef<THREE.Group>(null);
-  const maxX = worldLength(world);
+  const [, bumpRender] = useReducer((n: number) => n + 1, 0);
+
+  function extendWorld() {
+    const now = performance.now();
+    if (now - lastExtendAt.current < 400) return;
+    lastExtendAt.current = now;
+
+    const lastX = nuts.current.reduce((m, n) => Math.max(m, n.x), 0);
+    segmentIndex.current += 1;
+    const seg = appendWorldSegment(world.seed, segmentIndex.current, lastX + 1.5);
+    nuts.current.push(...seg.nuts.map((n) => ({ ...n, collected: false })));
+    props.current.push(...seg.props);
+    maxX.current = seg.endX;
+    bumpRender();
+  }
 
   useFrame((_, delta) => {
     const dt = Math.min(delta, 0.033);
@@ -232,16 +249,20 @@ function GameWorld({
       if (Math.abs(s.vx) < 0.05) s.vx = 0;
     }
 
-    stepPhysics(s, dt, maxX);
+    stepPhysics(s, dt, maxX.current);
 
     if (s.y < -2) {
       Object.assign(s, { ...INITIAL_STATE, score: s.score });
     }
 
+    const uncollected = nuts.current.filter((n) => !n.collected);
+    const tailX = nuts.current.reduce((m, n) => Math.max(m, n.x), 0);
+    if (uncollected.length === 0 || s.x > tailX - 14 || tailX < s.x + 18) {
+      extendWorld();
+    }
+
     const n = nextNut(nuts.current);
     onHint(n ? n.step : null);
-
-    if (nuts.current.every((nut) => nut.collected)) onWin();
 
     if (squirrelPos.current) {
       squirrelPos.current.position.set(s.x, s.y + PLAYER_H * 0.5 - 0.05, 0.35);
@@ -249,7 +270,7 @@ function GameWorld({
   });
 
   const s = state.current;
-  const len = maxX + 4;
+  const len = maxX.current + 4;
 
   return (
     <>
@@ -258,7 +279,7 @@ function GameWorld({
       <CameraRig targetX={s.x} />
       <StudioLights targetX={s.x} />
       <Ground length={len} color={world.grass} />
-      {world.props.map((p) => (
+      {props.current.map((p) => (
         <Scenery key={p.id} prop={p} />
       ))}
       {nuts.current.map((n) => (
@@ -279,10 +300,8 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
   const { t } = useTranslation();
   const inputRef = useRef<GameInput>({ move: 0, jumpSmall: 0, jumpBig: 0 });
   const [score, setScore] = useState(0);
-  const [won, setWon] = useState(false);
-  const [gameKey, setGameKey] = useState(0);
   const [hint, setHint] = useState<1 | 2 | null>(1);
-  const seed = useMemo(() => Date.now() + gameKey * 9973, [gameKey]);
+  const seed = useMemo(() => Date.now(), []);
   const world = useMemo(() => generateWorld(seed), [seed]);
 
   const setMove = useCallback((dir: MoveDir) => {
@@ -333,14 +352,6 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
     onScoreChange?.(s);
   }
 
-  function restart() {
-    setWon(false);
-    setScore(0);
-    setHint(1);
-    inputRef.current = { move: 0, jumpSmall: 0, jumpBig: 0 };
-    setGameKey((k) => k + 1);
-  }
-
   return (
     <div className="flex flex-col h-full min-h-0">
       <div className="relative flex-1 min-h-[220px] rounded-t-xl overflow-hidden border border-b-0 border-slate-200 bg-[#1a1820]">
@@ -352,37 +363,20 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
           style={{ width: "100%", height: "100%", display: "block", touchAction: "none" }}
         >
           <GameWorld
-            key={gameKey}
             world={world}
             inputRef={inputRef}
             onScore={handleScore}
-            onWin={() => setWon(true)}
             onHint={setHint}
           />
         </Canvas>
 
         <div className="absolute top-2 left-2 z-10 card py-1 px-2.5 font-semibold text-base pointer-events-none">
-          🌰 {score}/{world.nuts.length}
+          🌰 {score}
         </div>
 
-        {hint && !won && (
+        {hint && (
           <div className="absolute top-2 right-2 z-10 card py-1 px-2.5 text-xs pointer-events-none text-slate-600">
             {t(`children_game.hint_${hint}`)}
-          </div>
-        )}
-
-        {won && (
-          <div className="absolute inset-0 z-20 flex items-center justify-center bg-black/45">
-            <div className="card text-center max-w-xs mx-4">
-              <p className="text-4xl mb-2">🐿️🎉</p>
-              <p className="text-xl font-bold text-slate-900 mb-1">{t("children_game.win_title")}</p>
-              <p className="text-slate-600 mb-4">
-                {t("children_game.score")}: {score}
-              </p>
-              <button type="button" className="btn btn-primary w-full" onClick={restart}>
-                {t("children_game.play_again")}
-              </button>
-            </div>
           </div>
         )}
       </div>

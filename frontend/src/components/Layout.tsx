@@ -8,6 +8,7 @@ import LiveIndicator from "./LiveIndicator";
 import { useAppStore } from "../store/appStore";
 import { api, formatRelativeTime } from "../services/api";
 import { useLiveRefresh, LIVE_META_OPTS, LIVE_QUERY_OPTS } from "../hooks/useLiveRefresh";
+import { useRelativeTimeTicker } from "../hooks/useRelativeTimeTicker";
 
 const navItems = [
   { to: "/", key: "nav.home" },
@@ -29,6 +30,7 @@ export default function Layout() {
   const { pathname, hash } = useLocation();
   const { liteMode, offlineReady } = useAppStore();
   useLiveRefresh();
+  useRelativeTimeTicker(30_000);
 
   const { data: meta } = useQuery({
     queryKey: ["meta", liteMode ? "lite" : "full"],
@@ -39,6 +41,13 @@ export default function Layout() {
   const { dataUpdatedAt: newsCheckedAt } = useQuery({
     queryKey: ["news", "full"],
     queryFn: () => api.news({ cacheBust: true }),
+    enabled: !liteMode,
+    ...LIVE_QUERY_OPTS,
+  });
+
+  const { dataUpdatedAt: politicalCheckedAt } = useQuery({
+    queryKey: ["political_news"],
+    queryFn: () => api.politicalNews({ cacheBust: true }),
     enabled: !liteMode,
     ...LIVE_QUERY_OPTS,
   });
@@ -60,10 +69,10 @@ export default function Layout() {
               {formatRelativeTime(new Date(newsCheckedAt).toISOString(), i18n.language)}
             </span>
           )}
-          {meta.political_last_updated && !liteMode && (
+          {meta.political_last_updated && !liteMode && politicalCheckedAt > 0 && (
             <span>
               · {t("nav.political")}:{" "}
-              {formatRelativeTime(meta.refresh_heartbeat || meta.political_last_updated, i18n.language)}
+              {formatRelativeTime(new Date(politicalCheckedAt).toISOString(), i18n.language)}
             </span>
           )}
           {liteMode && meta && (

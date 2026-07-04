@@ -80,7 +80,13 @@ export const api = {
     });
     if (opts?.lite || !opts?.cacheBust) return staticNews;
     try {
-      return await fetchLiveNews(staticNews);
+      const live = await Promise.race([
+        fetchLiveNews(staticNews),
+        new Promise<import("../types").NewsItem[]>((_, reject) =>
+          setTimeout(() => reject(new Error("live news timeout")), 12_000)
+        ),
+      ]);
+      return live;
     } catch {
       return staticNews;
     }
@@ -93,7 +99,13 @@ export const api = {
     );
     if (!opts?.cacheBust) return staticItems;
     try {
-      return await fetchLivePolitical(staticItems);
+      const live = await Promise.race([
+        fetchLivePolitical(staticItems),
+        new Promise<import("../types/political").PoliticalNewsItem[]>((_, reject) =>
+          setTimeout(() => reject(new Error("live political timeout")), 12_000)
+        ),
+      ]);
+      return live;
     } catch {
       return staticItems;
     }

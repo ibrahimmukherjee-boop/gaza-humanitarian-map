@@ -5,11 +5,9 @@ import { useAppStore } from "../store/appStore";
 const LIVE_INTERVAL_MS = 60_000;
 
 function invalidateLive(queryClient: ReturnType<typeof useQueryClient>) {
-  queryClient.invalidateQueries({ queryKey: ["meta"] });
-  queryClient.invalidateQueries({ queryKey: ["news"] });
-  queryClient.invalidateQueries({ queryKey: ["political_news"] });
-  queryClient.invalidateQueries({ queryKey: ["facilities"] });
-  queryClient.invalidateQueries({ queryKey: ["pressure"] });
+  void queryClient.refetchQueries({ queryKey: ["meta"], type: "active" });
+  void queryClient.refetchQueries({ queryKey: ["news"], type: "active" });
+  void queryClient.refetchQueries({ queryKey: ["political_news"], type: "active" });
 }
 
 /** Poll live feeds every 60s; refresh when tab regains focus or comes online. */

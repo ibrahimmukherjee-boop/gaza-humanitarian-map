@@ -2,19 +2,25 @@ import type { NewsItem } from "../types";
 import type { PoliticalNewsItem, PoliticalSourceRegion } from "../types/political";
 
 const GAZA_RE = /gaza|palestin|humanitarian|refugee|unrwa|rafah|khan younis|hamas|israeli|idf|west bank/i;
-
-const RELIEFWEB =
-  "https://api.reliefweb.int/v1/reports?appname=gaza-humanitarian-map&profile=list&slim=1&limit=25&query[value]=Gaza&query[operator]=AND";
+const FETCH_TIMEOUT_MS = 6_000;
 
 const NEWS_RSS: { name: string; url: string; filter?: boolean }[] = [
   { name: "UN News", url: "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml" },
   { name: "BBC Middle East", url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" },
-  { name: "ReliefWeb", url: "https://reliefweb.int/updates/rss.xml?language=267" },
+  { name: "ReliefWeb", url: "https://reliefweb.int/updates/rss.xml?language=267", filter: true },
 ];
 
 const POLITICAL_RSS: { name: string; url: string; region: PoliticalSourceRegion }[] = [
-  { name: "UN News", url: "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml", region: "international" },
-  { name: "BBC Middle East", url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", region: "international" },
+  {
+    name: "UN News",
+    url: "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml",
+    region: "international",
+  },
+  {
+    name: "BBC Middle East",
+    url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
+    region: "international",
+  },
   { name: "Times of Israel", url: "https://www.timesofisrael.com/feed/", region: "israel" },
 ];
 
@@ -24,81 +30,65 @@ function hashId(url: string): string {
   return h.toString(16).padStart(8, "0").slice(0, 12);
 }
 
-function parseRssItems(xml: string, source: string, filterGaza = false): NewsItem[] {
-  const doc = new DOMParser().parseFromString(xml, "text/xml");
-  const nodes = doc.querySelectorAll("item");
-  const out: NewsItem[] = [];
-
-  nodes.forEach((item) => {
-    const title = item.querySelector("title")?.textContent?.trim() || "Untitled";
-    const link = item.querySelector("link")?.textContent?.trim() || "";
-    const excerpt =
-      item.querySelector("description")?.textContent?.replace(/<[^>]+>/g, "").trim().slice(0, 400) ||
-      title;
-    const pub = item.querySelector("pubDate")?.textContent?.trim();
-    const ts = pub ? new Date(pub).toISOString() : new Date().toISOString();
-
-    if (!link) return;
-    const text = `${title} ${excerpt}`;
-    if (filterGaza && !GAZA_RE.test(text)) return;
-
-    out.push({
-      id: hashId(link),
-      title_en: title,
-      title_ar: "",
-      excerpt_en: excerpt,
-      excerpt_ar: "",
-      source,
-      timestamp: ts,
-      url: link,
-      tags: ["humanitarian"],
-      location_tags: ["Gaza Strip"],
-      credibility: "high",
-    });
-  });
-
-  return out;
-}
-
-async function fetchRss(url: string): Promise<string | null> {
+async function fetchWithTimeout(url: string, init?: RequestInit): Promise<Response> {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
   try {
-    const proxy = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
-    const res = await fetch(proxy, { cache: "no-store" });
-    if (res.ok) return res.text();
-  } catch {
-    /* skip */
+    return await fetch(url, { ...init, signal: controller.signal, cache: "no-store" });
+  } finally {
+    clearTimeout(timer);
   }
-  return null;
 }
 
-async function fetchReliefWeb(): Promise<NewsItem[]> {
+interface Rss2JsonItem {
+  title?: string;
+  link?: string;
+  pubDate?: string;
+  description?: string;
+}
+
+interface Rss2JsonResponse {
+  status?: string;
+  items?: Rss2JsonItem[];
+}
+
+/** rss2json works from the browser without a broken CORS proxy. */
+async function fetchRssViaJson(
+  feedUrl: string,
+  source: string,
+  filterGaza = false
+): Promise<NewsItem[]> {
   try {
-    const res = await fetch(RELIEFWEB, { cache: "no-store" });
+    const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`;
+    const res = await fetchWithTimeout(apiUrl);
     if (!res.ok) return [];
-    const data = await res.json();
-    return (data.data || []).map((entry: { fields: Record<string, unknown> }) => {
-      const fields = entry.fields || {};
-      const url = (fields.url as string) || "";
-      const title = (fields.title as string) || "Untitled";
-      const body = (fields.body as string) || "";
-      const date =
-        ((fields.date as { created?: string })?.created) || new Date().toISOString();
-      const sourceArr = fields.source as { name?: string }[] | undefined;
-      const source = sourceArr?.[0]?.name || "ReliefWeb";
-      return {
-        id: hashId(url),
-        title_en: title,
-        title_ar: "",
-        excerpt_en: (body || title).slice(0, 400),
-        excerpt_ar: "",
-        source,
-        timestamp: date,
-        url,
-        tags: ["humanitarian"],
-        location_tags: ["Gaza Strip"],
-        credibility: "high" as const,
-      };
-    });
+    const data = (await res.json()) as Rss2JsonResponse;
+    if (data.status !== "ok" || !data.items?.length) return [];
+
+    return data.items
+      .map((item): NewsItem | null => {
+        const title = item.title?.trim() || "Untitled";
+        const link = item.link?.trim() || "";
+        const excerpt =
+          item.description?.replace(/<[^>]+>/g, "").trim().slice(0, 400) || title;
+        if (!link) return null;
+        if (filterGaza && !GAZA_RE.test(`${title} ${excerpt}`)) return null;
+        const ts = item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString();
+        return {
+          id: hashId(link),
+          title_en: title,
+          title_ar: "",
+          excerpt_en: excerpt,
+          excerpt_ar: "",
+          source,
+          timestamp: ts,
+          url: link,
+          tags: ["humanitarian"],
+          location_tags: ["Gaza Strip"],
+          credibility: "high",
+        };
+      })
+      .filter((item): item is NewsItem => item !== null);
   } catch {
     return [];
   }
@@ -117,17 +107,12 @@ function mergeById<T extends { id: string; timestamp: string }>(base: T[], live:
   );
 }
 
-/** Fetch headlines directly in the browser — runs every poll, no GitHub wait. */
+/** Fetch headlines in the browser — fast, with per-source timeouts. */
 export async function fetchLiveNews(supplement: NewsItem[] = []): Promise<NewsItem[]> {
-  const live: NewsItem[] = [...(await fetchReliefWeb())];
-
-  await Promise.all(
-    NEWS_RSS.map(async ({ name, url, filter }) => {
-      const xml = await fetchRss(url);
-      if (xml) live.push(...parseRssItems(xml, name, filter));
-    })
+  const batches = await Promise.all(
+    NEWS_RSS.map(({ name, url, filter }) => fetchRssViaJson(url, name, filter))
   );
-
+  const live = batches.flat();
   return mergeById(supplement, live);
 }
 
@@ -138,31 +123,16 @@ export async function fetchLivePolitical(
 
   await Promise.all(
     POLITICAL_RSS.map(async ({ name, url, region }) => {
-      const xml = await fetchRss(url);
-      if (!xml) return;
-      const doc = new DOMParser().parseFromString(xml, "text/xml");
-      doc.querySelectorAll("item").forEach((item) => {
-        const title = item.querySelector("title")?.textContent?.trim() || "Untitled";
-        const link = item.querySelector("link")?.textContent?.trim() || "";
-        const excerpt =
-          item.querySelector("description")?.textContent?.replace(/<[^>]+>/g, "").trim().slice(0, 400) ||
-          title;
-        if (!link || !GAZA_RE.test(`${title} ${excerpt}`)) return;
-        const pub = item.querySelector("pubDate")?.textContent?.trim();
+      const items = await fetchRssViaJson(url, name, false);
+      for (const item of items) {
+        if (!GAZA_RE.test(`${item.title_en} ${item.excerpt_en}`)) continue;
         live.push({
-          id: hashId(link),
-          title_en: title,
-          title_ar: "",
-          excerpt_en: excerpt,
-          excerpt_ar: "",
+          ...item,
           source: name,
           source_region: region,
           statement_type: "media_report",
-          timestamp: pub ? new Date(pub).toISOString() : new Date().toISOString(),
-          url: link,
-          credibility: "high",
         });
-      });
+      }
     })
   );
 

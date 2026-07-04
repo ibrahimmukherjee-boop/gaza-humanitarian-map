@@ -92,6 +92,55 @@ export function generateWorld(seed = Date.now()): WorldConfig {
   };
 }
 
+export function appendWorldSegment(
+  seed: number,
+  segmentIndex: number,
+  startX: number
+): { nuts: Omit<Nut, "collected">[]; props: SceneryProp[]; endX: number } {
+  const rand = rng(seed + segmentIndex * 7919);
+  const nutCount = 5 + Math.floor(rand() * 4);
+  const tiers: NutTier[] = [];
+
+  for (let i = 0; i < nutCount; i++) {
+    tiers.push(rand() > 0.5 ? "high" : "low");
+  }
+  for (let i = tiers.length - 1; i > 0; i--) {
+    const j = Math.floor(rand() * (i + 1));
+    [tiers[i], tiers[j]] = [tiers[j], tiers[i]];
+  }
+
+  let x = startX;
+  const nuts: Omit<Nut, "collected">[] = [];
+  const prefix = `s${segmentIndex}`;
+
+  for (let i = 0; i < nutCount; i++) {
+    const tier = tiers[i];
+    x += 2.4 + rand() * 1.9;
+    nuts.push({
+      id: `${prefix}-n${i + 1}`,
+      x,
+      y: tier === "low" ? LOW_NUT_Y + rand() * 0.15 : HIGH_NUT_Y + rand() * 0.12,
+      tier,
+      step: tier === "low" ? 1 : 2,
+    });
+  }
+
+  const props: SceneryProp[] = [];
+  const kinds: SceneryProp["kind"][] = ["tree", "bush", "rock", "flower"];
+  for (let px = startX; px < x + 5; px += 1.4 + rand() * 2.2) {
+    if (rand() > 0.5) continue;
+    props.push({
+      id: `${prefix}-p${props.length}`,
+      x: px + rand() * 2,
+      kind: kinds[Math.floor(rand() * kinds.length)],
+      scale: 0.7 + rand() * 0.85,
+      z: -0.5 - rand() * 1.5,
+    });
+  }
+
+  return { nuts, props, endX: x + 6 };
+}
+
 export function worldLength(config: WorldConfig): number {
   const last = config.nuts[config.nuts.length - 1];
   return last ? last.x + 6 : 20;

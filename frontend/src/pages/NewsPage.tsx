@@ -13,7 +13,7 @@ export default function NewsPage() {
   const [view, setView] = useState<"feed" | "timeline">("feed");
   const [topic, setTopic] = useState<string>("all");
 
-  const { data: news = [], isLoading, error, dataUpdatedAt } = useQuery({
+  const { data: news = [], isLoading, isFetching, error, dataUpdatedAt } = useQuery({
     queryKey: ["news", liteMode ? "lite" : "full"],
     queryFn: () => api.news({ lite: liteMode, cacheBust: !liteMode }),
     ...(liteMode ? { staleTime: 30 * 60_000 } : LIVE_QUERY_OPTS),
@@ -80,7 +80,10 @@ export default function NewsPage() {
         </div>
       </div>
 
-      {isLoading && <p className="text-slate-500">{t("loading")}</p>}
+      {isLoading && news.length === 0 && <p className="text-slate-500">{t("loading")}</p>}
+      {isFetching && news.length > 0 && (
+        <p className="text-xs text-slate-400">{t("news.auto_refresh")}</p>
+      )}
       {error && <p className="text-red-600">{t("error")}</p>}
 
       {view === "feed" ? (
