@@ -1,5 +1,44 @@
 [
   {
+    "id": "8d53af57a0a0",
+    "title_en": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
+    "title_ar": "",
+    "excerpt_en": "Fans in Gaza celebrated Egypt&#039;s win at match screenings held against the backdrop of bombed buildings.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-04T00:20:08+00:00",
+    "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "4c346ee250bd",
+    "title_en": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+    "title_ar": "",
+    "excerpt_en": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-04T00:00:00+00:00",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "56125ee0b19b",
+    "title_en": "Report alleges NGOs pushed Gaza suffering to raise funds, dismissed antisemitism claims",
+    "title_ar": "",
+    "excerpt_en": "<p>Survey of current and former staffers at humanitarian groups by a new advocacy group raises accusations of bias and efforts to shape a pro-Palestinian narrative around the Gaza war</p>\n<p>The post <a href=\"https://www.timesofisrael.com/report-alleges-ngos-pushed-gaza-suffering-to-raise-funds-dismissed-antisemitism-claims/\">Report alleges NGOs pushed Gaza suffering to raise funds, dismissed anti",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-03T23:39:44+00:00",
+    "url": "https://www.timesofisrael.com/report-alleges-ngos-pushed-gaza-suffering-to-raise-funds-dismissed-antisemitism-claims/",
+    "credibility": "medium"
+  },
+  {
     "id": "2563f53016cf",
     "title_en": "Settlers attack activists, Palestinians trying to access their land",
     "title_ar": "",
@@ -26,19 +65,6 @@
     "credibility": "medium"
   },
   {
-    "id": "e3f643b48eff",
-    "title_en": "Iran begins week of funeral ceremonies for slain Supreme Leader Khamenei",
-    "title_ar": "",
-    "excerpt_en": "Top Iranian officials and foreign dignitaries pay respects to late leader killed in joint US-Israeli strike in February.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-03T18:39:31+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/3/iran-begins-week-of-funeral-ceremonies-for-slain-supreme-leader-khamenei?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "93f7d2b86b3c",
     "title_en": "Senior Likud renegade Yuli Edelstein leaving party to forge a ‘new political path’",
     "title_ar": "",
@@ -49,19 +75,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-03T18:37:31+00:00",
     "url": "https://www.timesofisrael.com/senior-likud-renegade-yuli-edelstein-leaving-party-to-forge-a-new-political-path/",
-    "credibility": "medium"
-  },
-  {
-    "id": "e013b620f477",
-    "title_en": "Israeli settlers intensify attacks in West Bank, targeting water supplies",
-    "title_ar": "",
-    "excerpt_en": "The attacks mark a sharp spike in settler assaults on Palestinians and their homes and livelihoods in recent weeks.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-03T18:34:40+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/3/israeli-settlers-intensify-attacks-in-west-bank-targeting-water-supplies?traffic_source=rss",
     "credibility": "medium"
   },
   {
