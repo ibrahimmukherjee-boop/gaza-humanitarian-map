@@ -120,7 +120,8 @@
     },
     "credibility": "Credibility",
     "auto_refresh": "Live — refreshes every minute",
-    "live_checked": "News checked"
+    "live_checked": "News checked",
+    "updating": "Updating…"
   },
   "today": {
     "title": "Humanitarian Today",

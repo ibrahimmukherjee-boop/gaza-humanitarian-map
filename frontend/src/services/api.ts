@@ -1,8 +1,9 @@
 import { assetUrl, BASE_URL } from "../utils/baseUrl";
-import { fetchLiveNews, fetchLivePolitical } from "./liveNewsClient";
+import { fetchLiveNews, fetchLivePolitical, mergeById } from "./liveNewsClient";
 
 const API_BASE = import.meta.env.VITE_API_URL;
 const OFFLINE_CACHE = "hssm-offline-v2";
+const LIVE_TIMEOUT_MS = 10_000;
 
 export interface FetchOpts {
   cacheBust?: boolean;
@@ -70,45 +71,49 @@ async function fetchJson<T>(path: string, opts?: FetchOpts): Promise<T> {
   throw new Error(`Failed to fetch ${path}`);
 }
 
+function withTimeout<T>(promise: Promise<T>, ms: number): Promise<T> {
+  return Promise.race([
+    promise,
+    new Promise<T>((_, reject) => setTimeout(() => reject(new Error("timeout")), ms)),
+  ]);
+}
+
 export const api = {
   facilities: (opts?: { lite?: boolean }) =>
     fetchJson<import("../types").GeoJSONCollection>("/facilities", { lite: opts?.lite }),
   news: async (opts?: { lite?: boolean; cacheBust?: boolean }) => {
-    const staticNews = await fetchJson<import("../types").NewsItem[]>("/news", {
-      lite: opts?.lite,
-      cacheBust: opts?.cacheBust,
-    });
-    if (opts?.lite || !opts?.cacheBust) return staticNews;
-    try {
-      const live = await Promise.race([
-        fetchLiveNews(staticNews),
-        new Promise<import("../types").NewsItem[]>((_, reject) =>
-          setTimeout(() => reject(new Error("live news timeout")), 12_000)
-        ),
-      ]);
-      return live;
-    } catch {
-      return staticNews;
+    if (opts?.lite || !opts?.cacheBust) {
+      return fetchJson<import("../types").NewsItem[]>("/news", {
+        lite: opts?.lite,
+        cacheBust: opts?.cacheBust,
+      });
     }
+
+    const [staticNews, liveItems] = await Promise.all([
+      fetchJson<import("../types").NewsItem[]>("/news", { cacheBust: true }),
+      withTimeout(fetchLiveNews([]), LIVE_TIMEOUT_MS).catch(
+        () => [] as import("../types").NewsItem[]
+      ),
+    ]);
+
+    return mergeById(staticNews, liveItems);
   },
   pressure: () => fetchJson<import("../types").PressureData>("/pressure"),
   politicalNews: async (opts?: { cacheBust?: boolean }) => {
-    const staticItems = await fetchJson<import("../types/political").PoliticalNewsItem[]>(
-      "/political_news",
-      { cacheBust: opts?.cacheBust }
-    );
-    if (!opts?.cacheBust) return staticItems;
-    try {
-      const live = await Promise.race([
-        fetchLivePolitical(staticItems),
-        new Promise<import("../types/political").PoliticalNewsItem[]>((_, reject) =>
-          setTimeout(() => reject(new Error("live political timeout")), 12_000)
-        ),
-      ]);
-      return live;
-    } catch {
-      return staticItems;
+    if (!opts?.cacheBust) {
+      return fetchJson<import("../types/political").PoliticalNewsItem[]>("/political_news");
     }
+
+    const [staticItems, liveItems] = await Promise.all([
+      fetchJson<import("../types/political").PoliticalNewsItem[]>("/political_news", {
+        cacheBust: true,
+      }),
+      withTimeout(fetchLivePolitical([]), LIVE_TIMEOUT_MS).catch(
+        () => [] as import("../types/political").PoliticalNewsItem[]
+      ),
+    ]);
+
+    return mergeById(staticItems, liveItems);
   },
   hotlines: () => fetchJson<import("../types").Hotline[]>("/hotlines"),
   meta: (opts?: { lite?: boolean; cacheBust?: boolean }) =>
@@ -143,3 +148,5 @@ export function filterByTime<T extends { timestamp: string }>(
   const cutoff = Date.now() - hours * 3600000;
   return items.filter((item) => new Date(item.timestamp).getTime() >= cutoff);
 }
+
+export { getLiveFeedMeta } from "./liveNewsClient";

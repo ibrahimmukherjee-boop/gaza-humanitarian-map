@@ -2,15 +2,15 @@ import { useQueryClient } from "@tanstack/react-query";
 import { useEffect } from "react";
 import { useAppStore } from "../store/appStore";
 
-const LIVE_INTERVAL_MS = 60_000;
+const LIVE_INTERVAL_MS = 45_000;
 
-function invalidateLive(queryClient: ReturnType<typeof useQueryClient>) {
+function refetchLive(queryClient: ReturnType<typeof useQueryClient>) {
   void queryClient.refetchQueries({ queryKey: ["meta"], type: "active" });
   void queryClient.refetchQueries({ queryKey: ["news"], type: "active" });
   void queryClient.refetchQueries({ queryKey: ["political_news"], type: "active" });
 }
 
-/** Poll live feeds every 60s; refresh when tab regains focus or comes online. */
+/** Poll live feeds every 45s; refresh when tab visible, focused, or online. */
 export function useLiveRefresh() {
   const queryClient = useQueryClient();
   const { liteMode } = useAppStore();
@@ -18,7 +18,7 @@ export function useLiveRefresh() {
   useEffect(() => {
     if (liteMode) return;
 
-    const tick = () => invalidateLive(queryClient);
+    const tick = () => refetchLive(queryClient);
     tick();
     const id = setInterval(tick, LIVE_INTERVAL_MS);
 
@@ -28,28 +28,35 @@ export function useLiveRefresh() {
     function onOnline() {
       tick();
     }
+    function onVisible() {
+      if (document.visibilityState === "visible") tick();
+    }
 
     window.addEventListener("focus", onFocus);
     window.addEventListener("online", onOnline);
+    document.addEventListener("visibilitychange", onVisible);
 
     return () => {
       clearInterval(id);
       window.removeEventListener("focus", onFocus);
       window.removeEventListener("online", onOnline);
+      document.removeEventListener("visibilitychange", onVisible);
     };
   }, [queryClient, liteMode]);
 }
 
 export const LIVE_QUERY_OPTS = {
-  refetchInterval: 60_000 as const,
+  refetchInterval: 45_000 as const,
   refetchIntervalInBackground: true,
   refetchOnWindowFocus: true,
-  staleTime: 55_000,
+  refetchOnReconnect: true,
+  staleTime: 30_000,
 };
 
 export const LIVE_META_OPTS = {
-  refetchInterval: 60_000 as const,
+  refetchInterval: 45_000 as const,
   refetchIntervalInBackground: true,
   refetchOnWindowFocus: true,
-  staleTime: 55_000,
+  refetchOnReconnect: true,
+  staleTime: 30_000,
 };

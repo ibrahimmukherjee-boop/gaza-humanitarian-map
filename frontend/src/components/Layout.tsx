@@ -38,14 +38,14 @@ export default function Layout() {
     ...(liteMode ? { staleTime: 30 * 60_000 } : LIVE_META_OPTS),
   });
 
-  const { dataUpdatedAt: newsCheckedAt } = useQuery({
+  const { dataUpdatedAt: newsCheckedAt, isFetching: newsFetching } = useQuery({
     queryKey: ["news", "full"],
     queryFn: () => api.news({ cacheBust: true }),
     enabled: !liteMode,
     ...LIVE_QUERY_OPTS,
   });
 
-  const { dataUpdatedAt: politicalCheckedAt } = useQuery({
+  const { dataUpdatedAt: politicalCheckedAt, isFetching: politicalFetching } = useQuery({
     queryKey: ["political_news"],
     queryFn: () => api.politicalNews({ cacheBust: true }),
     enabled: !liteMode,
@@ -65,14 +65,17 @@ export default function Layout() {
           {!liteMode && <LiveIndicator />}
           {!liteMode && newsCheckedAt > 0 && (
             <span>
-              {t("news.live_checked")}:{" "}
-              {formatRelativeTime(new Date(newsCheckedAt).toISOString(), i18n.language)}
+              {newsFetching ? t("news.updating") : t("news.live_checked")}:{" "}
+              {!newsFetching &&
+                formatRelativeTime(new Date(newsCheckedAt).toISOString(), i18n.language)}
             </span>
           )}
           {meta.political_last_updated && !liteMode && politicalCheckedAt > 0 && (
             <span>
               · {t("nav.political")}:{" "}
-              {formatRelativeTime(new Date(politicalCheckedAt).toISOString(), i18n.language)}
+              {politicalFetching
+                ? t("news.updating")
+                : formatRelativeTime(new Date(politicalCheckedAt).toISOString(), i18n.language)}
             </span>
           )}
           {liteMode && meta && (

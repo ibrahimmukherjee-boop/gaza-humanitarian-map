@@ -31,12 +31,22 @@ export default defineConfig({
         navigateFallback: "index.html",
         runtimeCaching: [
           {
+            urlPattern: ({ url }) =>
+              /\/data\/(news|political_news|meta)(-lite)?\.json$/i.test(url.pathname) &&
+              url.search.includes("_="),
+            handler: "NetworkOnly",
+          },
+          {
+            urlPattern: /^https:\/\/api\.rss2json\.com\/.*/i,
+            handler: "NetworkOnly",
+          },
+          {
             urlPattern: /\/data\/(news|political_news)(-lite)?\.json(\?.*)?$/i,
             handler: "NetworkFirst",
             options: {
               cacheName: "live-feeds",
-              networkTimeoutSeconds: 15,
-              expiration: { maxEntries: 8, maxAgeSeconds: 120 },
+              networkTimeoutSeconds: 8,
+              expiration: { maxEntries: 4, maxAgeSeconds: 60 },
             },
           },
           {

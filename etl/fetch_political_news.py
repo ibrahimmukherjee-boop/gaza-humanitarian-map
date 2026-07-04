@@ -17,6 +17,10 @@ PUBLIC_DATA = DATA_DIR.parent / "frontend" / "public" / "data"
 
 GAZA_RE = re.compile(r"gaza|palestin|hamas|israeli|idf|west bank|rafah|unrwa", re.I)
 
+RSS_HEADERS = {
+    "User-Agent": "GazaHumanitarianMap/1.0 (+https://ibrahimmukherjee-boop.github.io/gaza-humanitarian-map/)",
+}
+
 POLITICAL_FEEDS = [
     ("UN News", "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml", "international"),
     ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml", "international"),
@@ -49,7 +53,7 @@ def fetch_political() -> list[dict]:
     items = []
     for source_name, url, region in POLITICAL_FEEDS:
         try:
-            feed = feedparser.parse(url)
+            feed = feedparser.parse(url, request_headers=RSS_HEADERS)
             for entry in feed.entries[:20]:
                 link = entry.get("link", "")
                 if not link:

@@ -3,7 +3,13 @@ name: Update News (every minute)
 on:
   schedule:
     - cron: "* * * * *"
+    - cron: "*/15 * * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "etl/**"
+      - ".github/workflows/update-news.yml"
 
 permissions:
   contents: write

@@ -17,14 +17,20 @@ except ImportError:
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 PUBLIC_DATA = DATA_DIR.parent / "frontend" / "public" / "data"
 
-RELIEFWEB_URL = "https://api.reliefweb.int/v1/reports"
-RELIEFWEB_PARAMS = {
-    "appname": "gaza-humanitarian-map",
-    "profile": "list",
-    "slim": "1",
-    "limit": "30",
-    "query[value]": "Gaza",
-    "query[operator]": "AND",
+RELIEFWEB_URL = "https://api.reliefweb.int/v2/reports"
+RELIEFWEB_PARAMS = [
+    ("appname", "gaza-humanitarian-map"),
+    ("limit", "30"),
+    ("query[value]", "Gaza"),
+    ("fields[include][]", "title"),
+    ("fields[include][]", "url"),
+    ("fields[include][]", "date.created"),
+    ("fields[include][]", "body"),
+    ("fields[include][]", "source.name"),
+]
+
+RSS_HEADERS = {
+    "User-Agent": "GazaHumanitarianMap/1.0 (+https://ibrahimmukherjee-boop.github.io/gaza-humanitarian-map/)",
 }
 
 # (name, url, require_gaza_filter)
@@ -48,7 +54,10 @@ def fetch_reliefweb() -> list[dict]:
     if requests is None:
         return []
     try:
-        resp = requests.get(RELIEFWEB_URL, params=RELIEFWEB_PARAMS, timeout=25)
+        resp = requests.get(RELIEFWEB_URL, params=RELIEFWEB_PARAMS, timeout=25, headers=RSS_HEADERS)
+        if resp.status_code == 403:
+            print("ReliefWeb API: appname not approved yet — using RSS only")
+            return []
         resp.raise_for_status()
         data = resp.json().get("data", [])
     except Exception as e:
@@ -62,10 +71,14 @@ def fetch_reliefweb() -> list[dict]:
         if not url:
             continue
         title = fields.get("title", "Untitled")
-        date = fields.get("date", {}).get("created", datetime.now(timezone.utc).isoformat())
+        date_field = fields.get("date", {})
+        date = date_field.get("created") if isinstance(date_field, dict) else date_field
+        if not date:
+            date = datetime.now(timezone.utc).isoformat()
         source = "ReliefWeb"
-        if fields.get("source"):
-            source = fields["source"][0].get("name", source)
+        sources = fields.get("source", [])
+        if sources and isinstance(sources, list):
+            source = sources[0].get("name", source) if isinstance(sources[0], dict) else source
         body = fields.get("body", "")
         excerpt = (body[:400] if isinstance(body, str) else "") or title
         tags = _tags_from_text(title + " " + excerpt)
@@ -92,7 +105,7 @@ def fetch_rss() -> list[dict]:
     items = []
     for source_name, url, require_filter in RSS_SOURCES:
         try:
-            feed = feedparser.parse(url)
+            feed = feedparser.parse(url, request_headers=RSS_HEADERS)
             for entry in feed.entries[:20]:
                 link = entry.get("link", "")
                 if not link:
