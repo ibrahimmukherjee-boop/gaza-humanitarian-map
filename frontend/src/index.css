@@ -137,7 +137,10 @@ body.lite-mode {
   }
 
   .game-btn {
-    @apply w-14 h-14 rounded-full bg-white border border-slate-200 text-xl font-bold text-slate-700 shadow-sm active:scale-95 transition-transform flex items-center justify-center min-h-[56px] min-w-[56px];
+    @apply w-14 h-14 rounded-full bg-white border border-slate-200 text-xl font-bold text-slate-700 shadow-sm active:scale-95 transition-transform flex items-center justify-center min-h-[56px] min-w-[56px] cursor-pointer;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+    user-select: none;
   }
 
   .game-btn-jump {
@@ -145,7 +148,13 @@ body.lite-mode {
   }
 
   .game-viewport {
-    @apply relative rounded-xl overflow-hidden border border-slate-200 bg-sky-100;
+    @apply relative rounded-xl overflow-hidden border border-slate-200 bg-[#12101a] flex flex-col;
+    min-height: 360px;
+  }
+
+  .game-controls {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
   }
 
   .game-viewport-inner {

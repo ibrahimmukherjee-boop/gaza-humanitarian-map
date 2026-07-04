@@ -14,7 +14,7 @@ export default function PoliticalNewsPage() {
   const [regionFilter, setRegionFilter] = useState<PoliticalSourceRegion | "all">("all");
   const [showMethodology, setShowMethodology] = useState(false);
 
-  const { data: articles = [], isLoading, error } = useQuery({
+  const { data: articles = [], isLoading, error, dataUpdatedAt } = useQuery({
     queryKey: ["political_news"],
     queryFn: () => api.politicalNews({ cacheBust: true }),
     ...LIVE_QUERY_OPTS,
@@ -42,6 +42,12 @@ export default function PoliticalNewsPage() {
           </div>
           <LiveIndicator className="!text-green-700" />
         </div>
+        {dataUpdatedAt > 0 && (
+          <p className="text-xs text-slate-500 mt-1">
+            {t("political.feed_updated")}:{" "}
+            {formatRelativeTime(new Date(dataUpdatedAt).toISOString(), i18n.language)}
+          </p>
+        )}
       </div>
 
       <div

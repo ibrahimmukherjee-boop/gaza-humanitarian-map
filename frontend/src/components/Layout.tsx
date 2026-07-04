@@ -47,11 +47,18 @@ export default function Layout() {
       {meta && (
         <div className="status-bar flex flex-wrap items-center justify-center gap-x-2 gap-y-0.5">
           {!liteMode && <LiveIndicator />}
-          {meta.news_last_updated ? (
+          {meta.news_last_updated && !liteMode && (
             <span>
               {t("news.title")}: {formatRelativeTime(meta.news_last_updated, i18n.language)}
             </span>
-          ) : (
+          )}
+          {meta.political_last_updated && !liteMode && (
+            <span>
+              · {t("nav.political")}:{" "}
+              {formatRelativeTime(meta.political_last_updated, i18n.language)}
+            </span>
+          )}
+          {!meta.news_last_updated && (
             <span>
               {t("home.data_updated")}{" "}
               {formatRelativeTime(meta.last_updated, i18n.language)}

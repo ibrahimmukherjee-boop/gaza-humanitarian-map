@@ -1,200 +1,184 @@
 import { useRef, useState, useEffect, useCallback } from "react";
 import { useTranslation } from "react-i18next";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
-import { Cloud, Stars } from "@react-three/drei";
 import * as THREE from "three";
 import SquirrelModel from "./SquirrelModel";
 import {
-  PLATFORMS,
   createNuts,
-  GRAVITY,
-  JUMP_FORCE,
-  MOVE_SPEED,
-  SQUIRREL_H,
   INITIAL_STATE,
+  PLAYER_H,
+  MOVE_SPEED,
+  NUTS,
   type GameState,
   type Nut,
-  type Platform,
+  collectRadius,
 } from "./types";
-import { resolveVertical, resolveHorizontal, clampWorld } from "./physics";
+import { stepPhysics, applyJump } from "./physics";
 
-type Keys = { left: boolean; right: boolean; jump: boolean };
+type MoveDir = -1 | 0 | 1;
 
-function NutMesh({ nut, visible }: { nut: Nut; visible: boolean }) {
+interface GameInput {
+  move: MoveDir;
+  jumpSmall: number;
+  jumpBig: number;
+}
+
+function NutMesh({ nut }: { nut: Nut }) {
   const ref = useRef<THREE.Group>(null);
   useFrame(({ clock }) => {
-    if (ref.current && visible) {
-      ref.current.rotation.y = clock.getElapsedTime() * 2;
-      ref.current.position.y = nut.y + Math.sin(clock.getElapsedTime() * 3) * 0.06;
+    if (ref.current && !nut.collected) {
+      ref.current.rotation.y = clock.getElapsedTime() * 1.5;
+      ref.current.position.y = nut.y + Math.sin(clock.getElapsedTime() * 2.5) * 0.05;
     }
   });
-  if (!visible) return null;
+  if (nut.collected) return null;
+
+  const glow = nut.tier === "high" ? "#ffd080" : "#ffe8c0";
+
   return (
     <group ref={ref} position={[nut.x, nut.y, 0]}>
+      <mesh position={[0, -nut.y + 0.02, 0]} receiveShadow>
+        <cylinderGeometry args={[0.35, 0.4, 0.04, 16]} />
+        <meshStandardMaterial color="#4a6741" roughness={0.9} transparent opacity={0.35} />
+      </mesh>
       <mesh castShadow>
-        <dodecahedronGeometry args={[0.18, 0]} />
-        <meshStandardMaterial color="#8B6914" roughness={0.7} metalness={0.1} />
+        <dodecahedronGeometry args={[0.24, 1]} />
+        <meshStandardMaterial color="#6B4423" roughness={0.55} metalness={0.08} />
       </mesh>
-      <mesh position={[0, 0.12, 0]} rotation={[0.3, 0, 0]}>
-        <cylinderGeometry args={[0.06, 0.1, 0.15, 8]} />
-        <meshStandardMaterial color="#5C4033" roughness={0.85} />
+      <mesh position={[0, 0.15, 0]} rotation={[0.25, 0, 0]} castShadow>
+        <cylinderGeometry args={[0.08, 0.13, 0.2, 10]} />
+        <meshStandardMaterial color="#3D2817" roughness={0.75} />
       </mesh>
+      <pointLight position={[0, 0.1, 0.4]} intensity={0.45} color={glow} distance={2.5} />
     </group>
   );
 }
 
-function PlatformBlock({ plat }: { plat: Platform }) {
-  const color =
-    plat.type === "ground"
-      ? "#4ade80"
-      : plat.type === "question"
-        ? "#fbbf24"
-        : "#c2410c";
-  const topColor = plat.type === "ground" ? "#22c55e" : plat.type === "question" ? "#fde047" : "#ea580c";
-
+function HeightMarker({ x, y, tier }: { x: number; y: number; tier: "low" | "high" }) {
+  const color = tier === "high" ? "#9b87f5" : "#7cb8a0";
   return (
-    <group position={[plat.x, plat.y + plat.height / 2, 0]}>
-      <mesh castShadow receiveShadow>
-        <boxGeometry args={[plat.width, plat.height, plat.type === "ground" ? 2 : 0.8]} />
-        <meshStandardMaterial color={color} roughness={0.75} />
+    <group position={[x, 0, -0.2]}>
+      <mesh position={[0, y / 2, 0]}>
+        <boxGeometry args={[0.06, y, 0.06]} />
+        <meshStandardMaterial color={color} roughness={0.5} transparent opacity={0.25} />
       </mesh>
-      {plat.type !== "ground" && (
-        <mesh position={[0, plat.height / 2 + 0.01, 0.41]} receiveShadow>
-          <boxGeometry args={[plat.width * 0.95, 0.08, 0.02]} />
-          <meshStandardMaterial color={topColor} roughness={0.5} />
-        </mesh>
-      )}
-      {plat.type === "question" && (
-        <mesh position={[0, 0, 0.42]}>
-          <circleGeometry args={[0.2, 16]} />
-          <meshStandardMaterial color="#fde047" emissive="#fbbf24" emissiveIntensity={0.2} />
-        </mesh>
-      )}
-      {plat.type === "ground" && (
-        <>
-          {Array.from({ length: Math.floor(plat.width / 1.5) }, (_, i) => (
-            <mesh
-              key={i}
-              position={[(i - plat.width / 3) * 1.4, plat.height / 2 + 0.02, 0.3]}
-              rotation={[-Math.PI / 2, 0, 0]}
-            >
-              <circleGeometry args={[0.15, 8]} />
-              <meshStandardMaterial color="#16a34a" roughness={0.9} />
-            </mesh>
-          ))}
-        </>
-      )}
+      <mesh position={[0, y, 0]}>
+        <sphereGeometry args={[0.12, 12, 12]} />
+        <meshStandardMaterial color={color} emissive={color} emissiveIntensity={0.35} roughness={0.3} />
+      </mesh>
     </group>
   );
 }
 
-function CameraRig({ targetX, popOut }: { targetX: number; popOut?: boolean }) {
+function Ground() {
+  return (
+    <group>
+      <mesh position={[17, -0.35, 0]} receiveShadow>
+        <boxGeometry args={[42, 0.7, 3.5]} />
+        <meshStandardMaterial color="#2a3d28" roughness={0.88} metalness={0.02} />
+      </mesh>
+      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[17, -0.01, 0.15]} receiveShadow>
+        <planeGeometry args={[42, 5]} />
+        <meshStandardMaterial color="#3d5c3a" roughness={0.92} />
+      </mesh>
+    </group>
+  );
+}
+
+function CameraRig({ targetX }: { targetX: number }) {
   const { camera } = useThree();
   useFrame(() => {
     const cam = camera as THREE.PerspectiveCamera;
-    const z = popOut ? 6.5 : 9;
-    const y = popOut ? 3.2 : 3.5;
-    const target = new THREE.Vector3(targetX + (popOut ? 0.5 : 2), y, z);
-    cam.position.lerp(target, 0.08);
-    cam.lookAt(targetX, popOut ? 1.8 : 2, 0);
-    if (popOut) cam.fov = THREE.MathUtils.lerp(cam.fov, 52, 0.05);
+    const target = new THREE.Vector3(targetX + 1.2, 2.6, 10.5);
+    cam.position.lerp(target, 0.07);
+    cam.lookAt(targetX, 1.6, 0);
   });
   return null;
 }
 
+function StudioLights({ targetX }: { targetX: number }) {
+  return (
+    <>
+      <ambientLight intensity={0.18} color="#807888" />
+      <directionalLight
+        position={[-5, 9, 6]}
+        intensity={1.8}
+        color="#ffd4a8"
+        castShadow
+        shadow-mapSize={[1024, 1024]}
+        shadow-camera-far={40}
+        shadow-camera-left={-15}
+        shadow-camera-right={15}
+      />
+      <directionalLight position={[10, 3, -5]} intensity={0.65} color="#7c6cf0" />
+      <pointLight position={[targetX + 1, 4, 4]} intensity={0.5} color="#ffb870" distance={14} />
+    </>
+  );
+}
+
 function GameWorld({
-  keysRef,
+  inputRef,
   onScore,
   onWin,
-  popOut,
 }: {
-  keysRef: React.MutableRefObject<Keys>;
+  inputRef: React.MutableRefObject<GameInput>;
   onScore: (s: number) => void;
   onWin: () => void;
-  popOut?: boolean;
 }) {
   const state = useRef<GameState>({ ...INITIAL_STATE });
   const nuts = useRef<Nut[]>(createNuts());
-  const squirrelPos = useRef(new THREE.Group());
-  const jumpHeld = useRef(false);
-  const coyoteTimer = useRef(0);
+  const squirrelPos = useRef<THREE.Group>(null);
 
   useFrame((_, delta) => {
     const dt = Math.min(delta, 0.033);
     const s = state.current;
-    const keys = keysRef.current;
-    const prevY = s.y;
+    const input = inputRef.current;
 
-    if (s.eating) {
-      s.eatTimer -= dt;
-      if (s.eatTimer <= 0) s.eating = false;
+    if (input.jumpSmall > 0) {
+      applyJump(s, "small");
+      input.jumpSmall = 0;
+    }
+    if (input.jumpBig > 0) {
+      applyJump(s, "big");
+      input.jumpBig = 0;
+    }
+
+    const move = input.move;
+    if (move === -1) {
+      s.vx = -MOVE_SPEED;
+      s.facing = -1;
+    } else if (move === 1) {
+      s.vx = MOVE_SPEED;
+      s.facing = 1;
     } else {
-      if (keys.left) {
-        s.vx = -MOVE_SPEED;
-        s.facing = -1;
-      } else if (keys.right) {
-        s.vx = MOVE_SPEED;
-        s.facing = 1;
-      } else {
-        s.vx *= 0.75;
-        if (Math.abs(s.vx) < 0.05) s.vx = 0;
-      }
-
-      if (s.onGround) coyoteTimer.current = 0.12;
-      else coyoteTimer.current -= dt;
-
-      const wantsJump = keys.jump && !jumpHeld.current;
-      jumpHeld.current = keys.jump;
-
-      if (wantsJump && (s.onGround || coyoteTimer.current > 0)) {
-        s.vy = JUMP_FORCE;
-        s.onGround = false;
-        coyoteTimer.current = 0;
-      }
-
-      // Variable jump — release early for shorter hop
-      if (!keys.jump && s.vy > 4) {
-        s.vy = 4;
-      }
+      s.vx *= 0.7;
+      if (Math.abs(s.vx) < 0.05) s.vx = 0;
     }
 
-    s.vy += GRAVITY * dt;
-    s.x += s.vx * dt;
-    s.y += s.vy * dt;
+    stepPhysics(s, dt);
 
-    resolveVertical(s, prevY);
-    resolveHorizontal(s);
-    clampWorld(s);
-
-    if (s.y < -2) {
-      Object.assign(s, { ...INITIAL_STATE });
+    if (s.y < -3) {
+      Object.assign(s, { ...INITIAL_STATE, score: s.score });
       nuts.current = createNuts();
-      coyoteTimer.current = 0;
     }
 
-    if (!s.eating) {
-      for (const nut of nuts.current) {
-        if (nut.collected) continue;
-        const dx = s.x - nut.x;
-        const dy = s.y + SQUIRREL_H / 2 - nut.y;
-        if (Math.hypot(dx, dy) < 0.65) {
-          nut.collected = true;
-          s.score += 10;
-          s.eating = true;
-          s.eatTimer = 0.5;
-          s.vx = 0;
-          onScore(s.score);
-        }
+    const cx = s.x;
+    const cy = s.y + PLAYER_H * 0.55;
+    const r = collectRadius();
+
+    for (const nut of nuts.current) {
+      if (nut.collected) continue;
+      if (Math.hypot(cx - nut.x, cy - nut.y) < r) {
+        nut.collected = true;
+        s.score += 10;
+        onScore(s.score);
       }
     }
 
     if (nuts.current.every((n) => n.collected)) onWin();
 
     if (squirrelPos.current) {
-      const z = popOut ? 0.85 + (s.eating ? 0.15 : 0) : 0.3;
-      const scale = popOut ? 1.2 : 1;
-      squirrelPos.current.position.set(s.x, s.y + SQUIRREL_H / 2 - 0.05, z);
-      squirrelPos.current.scale.setScalar(scale);
+      squirrelPos.current.position.set(s.x, s.y + PLAYER_H * 0.5 - 0.05, 0.45);
     }
   });
 
@@ -202,40 +186,19 @@ function GameWorld({
 
   return (
     <>
-      <CameraRig targetX={s.x} popOut={popOut} />
-      <ambientLight intensity={0.55} />
-      <directionalLight
-        position={[8, 12, 6]}
-        intensity={1.4}
-        castShadow
-        shadow-mapSize={[1024, 1024]}
-      />
-      <pointLight position={[s.x, 5, 4]} intensity={0.4} color="#ffd699" />
-
-      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[25, -1.2, -2]} receiveShadow>
-        <planeGeometry args={[120, 30]} />
-        <meshStandardMaterial color="#87CEEB" />
-      </mesh>
-
-      <Stars radius={80} depth={40} count={800} factor={3} saturation={0.2} fade speed={0.5} />
-      <Cloud opacity={0.35} speed={0.2} position={[10, 8, -8]} />
-      <Cloud opacity={0.3} speed={0.15} position={[30, 9, -10]} />
-
-      {PLATFORMS.map((p) => (
-        <PlatformBlock key={p.id} plat={p} />
+      <color attach="background" args={["#0f0d14"]} />
+      <fog attach="fog" args={["#0f0d14", 16, 42]} />
+      <CameraRig targetX={s.x} />
+      <StudioLights targetX={s.x} />
+      <Ground />
+      {NUTS.map((n) => (
+        <HeightMarker key={`m-${n.id}`} x={n.x} y={n.y} tier={n.tier} />
       ))}
-
       {nuts.current.map((n) => (
-        <NutMesh key={n.id} nut={n} visible={!n.collected} />
+        <NutMesh key={n.id} nut={n} />
       ))}
-
       <group ref={squirrelPos}>
-        <SquirrelModel
-          facing={s.facing}
-          onGround={s.onGround}
-          eating={s.eating}
-          velocityX={s.vx}
-        />
+        <SquirrelModel facing={s.facing} onGround={s.onGround} airborne={!s.onGround} />
       </group>
     </>
   );
@@ -243,33 +206,49 @@ function GameWorld({
 
 interface SquirrelAdventureGameProps {
   onScoreChange?: (score: number) => void;
-  popOut?: boolean;
 }
 
-export default function SquirrelAdventureGame({ onScoreChange, popOut }: SquirrelAdventureGameProps) {
+export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventureGameProps) {
   const { t } = useTranslation();
-  const keysRef = useRef<Keys>({ left: false, right: false, jump: false });
+  const inputRef = useRef<GameInput>({ move: 0, jumpSmall: 0, jumpBig: 0 });
   const [score, setScore] = useState(0);
   const [won, setWon] = useState(false);
   const [gameKey, setGameKey] = useState(0);
 
-  const setKey = useCallback((k: keyof Keys, v: boolean) => {
-    keysRef.current[k] = v;
+  const setMove = useCallback((dir: MoveDir) => {
+    inputRef.current.move = dir;
+  }, []);
+
+  const jumpGuard = useRef(0);
+
+  const jumpSmall = useCallback(() => {
+    const now = performance.now();
+    if (now - jumpGuard.current < 100) return;
+    jumpGuard.current = now;
+    inputRef.current.jumpSmall = 1;
+  }, []);
+
+  const jumpBig = useCallback(() => {
+    const now = performance.now();
+    if (now - jumpGuard.current < 100) return;
+    jumpGuard.current = now;
+    inputRef.current.jumpBig = 1;
   }, []);
 
   useEffect(() => {
     function onKeyDown(e: KeyboardEvent) {
-      if (e.key === "ArrowLeft" || e.key === "a") setKey("left", true);
-      if (e.key === "ArrowRight" || e.key === "d") setKey("right", true);
-      if (e.key === " " || e.key === "ArrowUp" || e.key === "w") {
+      if (e.key === "ArrowLeft" || e.key === "a") setMove(-1);
+      if (e.key === "ArrowRight" || e.key === "d") setMove(1);
+      if (e.key === "ArrowUp" || e.key === "w" || e.key === " ") {
         e.preventDefault();
-        setKey("jump", true);
+        if (e.shiftKey) jumpBig();
+        else jumpSmall();
       }
     }
     function onKeyUp(e: KeyboardEvent) {
-      if (e.key === "ArrowLeft" || e.key === "a") setKey("left", false);
-      if (e.key === "ArrowRight" || e.key === "d") setKey("right", false);
-      if (e.key === " " || e.key === "ArrowUp" || e.key === "w") setKey("jump", false);
+      if (e.key === "ArrowLeft" || e.key === "a" || e.key === "ArrowRight" || e.key === "d") {
+        setMove(0);
+      }
     }
     window.addEventListener("keydown", onKeyDown);
     window.addEventListener("keyup", onKeyUp);
@@ -277,7 +256,7 @@ export default function SquirrelAdventureGame({ onScoreChange, popOut }: Squirre
       window.removeEventListener("keydown", onKeyDown);
       window.removeEventListener("keyup", onKeyUp);
     };
-  }, [setKey]);
+  }, [setMove, jumpSmall, jumpBig]);
 
   function handleScore(s: number) {
     setScore(s);
@@ -287,89 +266,117 @@ export default function SquirrelAdventureGame({ onScoreChange, popOut }: Squirre
   function restart() {
     setWon(false);
     setScore(0);
+    inputRef.current = { move: 0, jumpSmall: 0, jumpBig: 0 };
     setGameKey((k) => k + 1);
   }
 
   return (
-    <div className={`relative w-full h-full touch-none select-none ${popOut ? "overflow-visible" : ""}`}>
-      <Canvas
-        shadows
-        camera={{ fov: popOut ? 52 : 45, near: 0.1, far: 200, position: [popOut ? 0.5 : 2, 3.2, popOut ? 6.5 : 9] }}
-        gl={{ antialias: true, alpha: popOut }}
-        style={{
-          background: popOut
-            ? "transparent"
-            : "linear-gradient(180deg, #7ec8e3 0%, #b8e0f0 40%, #87CEEB 100%)",
-        }}
-      >
-        <fog attach="fog" args={["#b8e0f0", 15, 45]} />
-        <GameWorld
-          key={gameKey}
-          keysRef={keysRef}
-          onScore={handleScore}
-          onWin={() => setWon(true)}
-          popOut={popOut}
-        />
-      </Canvas>
+    <div className="flex flex-col h-full min-h-0">
+      <div className="relative flex-1 min-h-[220px] rounded-t-xl overflow-hidden border border-b-0 border-slate-200 bg-[#0f0d14]">
+        <Canvas
+          shadows
+          dpr={[1, 2]}
+          camera={{ fov: 42, near: 0.1, far: 80, position: [3, 2.6, 10.5] }}
+          gl={{ antialias: true, alpha: false }}
+          style={{ width: "100%", height: "100%", display: "block", touchAction: "none" }}
+        >
+          <GameWorld
+            key={gameKey}
+            inputRef={inputRef}
+            onScore={handleScore}
+            onWin={() => setWon(true)}
+          />
+        </Canvas>
 
-      {/* Mobile controls */}
-      <div className="absolute bottom-4 inset-x-4 flex justify-between items-end pointer-events-none gap-2">
-        <div className="flex gap-2 pointer-events-auto">
+        <div className="absolute top-2 left-2 z-10 card py-1 px-2.5 font-semibold text-base pointer-events-none">
+          🌰 {score}
+        </div>
+
+        {won && (
+          <div className="absolute inset-0 z-20 flex items-center justify-center bg-black/45">
+            <div className="card text-center max-w-xs mx-4">
+              <p className="text-4xl mb-2">🐿️🎉</p>
+              <p className="text-xl font-bold text-slate-900 mb-1">{t("children_game.win_title")}</p>
+              <p className="text-slate-600 mb-4">
+                {t("children_game.score")}: {score}
+              </p>
+              <button type="button" className="btn btn-primary w-full" onClick={restart}>
+                {t("children_game.play_again")}
+              </button>
+            </div>
+          </div>
+        )}
+      </div>
+
+      {/* Controls below canvas — never blocked by WebGL */}
+      <div className="game-controls shrink-0 rounded-b-xl border border-t-0 border-slate-200 bg-white p-3">
+        <div className="flex items-stretch justify-between gap-2 max-w-lg mx-auto">
           <button
             type="button"
-            className="game-btn"
-            onTouchStart={() => setKey("left", true)}
-            onTouchEnd={() => setKey("left", false)}
-            onMouseDown={() => setKey("left", true)}
-            onMouseUp={() => setKey("left", false)}
-            onMouseLeave={() => setKey("left", false)}
-            aria-label="Move left"
+            className="game-btn flex-1 max-w-[72px]"
+            aria-label={t("children_game.move_left")}
+            onTouchStart={(e) => {
+              e.preventDefault();
+              setMove(-1);
+            }}
+            onTouchEnd={() => setMove(0)}
+            onTouchCancel={() => setMove(0)}
+            onMouseDown={() => setMove(-1)}
+            onMouseUp={() => setMove(0)}
+            onMouseLeave={() => setMove(0)}
           >
             ◀
           </button>
           <button
             type="button"
-            className="game-btn"
-            onTouchStart={() => setKey("right", true)}
-            onTouchEnd={() => setKey("right", false)}
-            onMouseDown={() => setKey("right", true)}
-            onMouseUp={() => setKey("right", false)}
-            onMouseLeave={() => setKey("right", false)}
-            aria-label="Move right"
+            className="game-btn flex-1 max-w-[72px]"
+            aria-label={t("children_game.move_right")}
+            onTouchStart={(e) => {
+              e.preventDefault();
+              setMove(1);
+            }}
+            onTouchEnd={() => setMove(0)}
+            onTouchCancel={() => setMove(0)}
+            onMouseDown={() => setMove(1)}
+            onMouseUp={() => setMove(0)}
+            onMouseLeave={() => setMove(0)}
           >
             ▶
           </button>
+          <button
+            type="button"
+            className="game-btn flex-1 max-w-[80px]"
+            aria-label={t("children_game.jump_small")}
+            onTouchStart={(e) => {
+              e.preventDefault();
+              jumpSmall();
+            }}
+            onClick={(e) => {
+              e.preventDefault();
+              jumpSmall();
+            }}
+          >
+            <span className="text-sm leading-none">↑</span>
+            <span className="block text-[10px] font-normal opacity-75 mt-0.5">1</span>
+          </button>
+          <button
+            type="button"
+            className="game-btn game-btn-jump flex-1 max-w-[88px]"
+            aria-label={t("children_game.jump_big")}
+            onTouchStart={(e) => {
+              e.preventDefault();
+              jumpBig();
+            }}
+            onClick={(e) => {
+              e.preventDefault();
+              jumpBig();
+            }}
+          >
+            <span className="text-sm leading-none">↑↑</span>
+            <span className="block text-[10px] font-normal opacity-75 mt-0.5">2</span>
+          </button>
         </div>
-        <button
-          type="button"
-          className="game-btn game-btn-jump"
-          onTouchStart={() => setKey("jump", true)}
-          onTouchEnd={() => setKey("jump", false)}
-          onMouseDown={() => setKey("jump", true)}
-          onMouseUp={() => setKey("jump", false)}
-          onMouseLeave={() => setKey("jump", false)}
-          aria-label="Jump"
-        >
-          ↑
-        </button>
       </div>
-
-      <div className="absolute top-3 left-3 card py-1.5 px-3 font-bold text-lg pointer-events-none">
-        🌰 {score}
-      </div>
-
-      {won && (
-        <div className="absolute inset-0 flex items-center justify-center bg-black/25">
-          <div className="card text-center max-w-xs mx-4">
-            <p className="text-4xl mb-2">🐿️🎉</p>
-            <p className="text-xl font-bold text-slate-900 mb-1">{t("children_game.win_title")}</p>
-            <p className="text-slate-600 mb-4">{t("children_game.score")}: {score}</p>
-            <button type="button" className="btn btn-primary w-full" onClick={restart}>
-              {t("children_game.play_again")}
-            </button>
-          </div>
-        </div>
-      )}
     </div>
   );
 }

@@ -29,7 +29,9 @@ async function fromOfflineCache(url: string): Promise<Response | null> {
 async function fetchJson<T>(path: string, opts?: FetchOpts): Promise<T> {
   if (API_BASE) {
     try {
-      const res = await fetch(`${API_BASE}${path}`);
+      const res = await fetch(`${API_BASE}${path}`, {
+        cache: opts?.cacheBust ? "no-store" : "default",
+      });
       if (res.ok) return res.json();
     } catch {
       /* fall through */
@@ -37,24 +39,28 @@ async function fetchJson<T>(path: string, opts?: FetchOpts): Promise<T> {
   }
 
   try {
-    const res = await fetch(`${BASE_URL.replace(/\/$/, "")}/api${path}`);
+    const res = await fetch(`${BASE_URL.replace(/\/$/, "")}/api${path}`, {
+      cache: opts?.cacheBust ? "no-store" : "default",
+    });
     if (res.ok) return res.json();
   } catch {
     /* fall through */
   }
 
   const file = dataFile(path, !!opts?.lite);
-  const url = opts?.cacheBust ? `${file}?t=${Math.floor(Date.now() / 60000)}` : file;
+  const url = opts?.cacheBust ? `${file}?_=${Date.now()}` : file;
 
   try {
-    const res = await fetch(url);
+    const res = await fetch(url, { cache: opts?.cacheBust ? "no-store" : "default" });
     if (res.ok) return res.json();
   } catch {
-    /* try offline cache */
+    /* try offline cache only when not live-refreshing */
   }
 
-  const cached = await fromOfflineCache(url);
-  if (cached) return cached.json() as Promise<T>;
+  if (!opts?.cacheBust) {
+    const cached = await fromOfflineCache(url);
+    if (cached) return cached.json() as Promise<T>;
+  }
 
   if (opts?.lite) {
     return fetchJson<T>(path, { ...opts, lite: false });

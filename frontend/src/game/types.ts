@@ -1,16 +1,9 @@
-export interface Platform {
-  id: string;
-  x: number;
-  y: number;
-  width: number;
-  height: number;
-  type: "ground" | "brick" | "question";
-}
-
 export interface Nut {
   id: string;
   x: number;
+  /** Height above ground — reach with small or big jump */
   y: number;
+  tier: "low" | "high";
   collected: boolean;
 }
 
@@ -22,53 +15,50 @@ export interface GameState {
   onGround: boolean;
   facing: 1 | -1;
   score: number;
-  eating: boolean;
-  eatTimer: number;
 }
 
-export const GRAVITY = -30;
-export const JUMP_FORCE = 15;
-export const MOVE_SPEED = 8;
-export const SQUIRREL_W = 0.6;
-export const SQUIRREL_H = 0.95;
+export const GROUND_Y = 0;
+export const GRAVITY = -22;
+export const MOVE_SPEED = 7.5;
+/** Tuned so peak body height reaches low nuts (~1.55) */
+export const SMALL_JUMP_V = 8.5;
+/** Tuned so peak body height reaches high nuts (~2.85) */
+export const BIG_JUMP_V = 11;
+export const PLAYER_W = 0.7;
+export const PLAYER_H = 1;
+export const WORLD_MIN_X = -1;
+export const WORLD_MAX_X = 36;
 
 export const INITIAL_STATE: GameState = {
-  x: 0,
-  y: 0.5,
+  x: 1,
+  y: GROUND_Y,
   vx: 0,
   vy: 0,
   onGround: true,
   facing: 1,
   score: 0,
-  eating: false,
-  eatTimer: 0,
 };
 
-/** Platform y = bottom edge; top walk surface = y + height */
-export const PLATFORMS: Platform[] = [
-  { id: "ground", x: 0, y: -0.5, width: 80, height: 1, type: "ground" },
-  // Even staircase — 0.5 unit rises, overlapping x for easy jumps
-  { id: "p1", x: 3.5, y: 0.5, width: 2.8, height: 0.5, type: "brick" },
-  { id: "p2", x: 6.5, y: 1.0, width: 2.8, height: 0.5, type: "question" },
-  { id: "p3", x: 9.5, y: 1.5, width: 2.8, height: 0.5, type: "brick" },
-  { id: "p4", x: 12.5, y: 2.0, width: 2.8, height: 0.5, type: "brick" },
-  { id: "p5", x: 15.5, y: 2.5, width: 2.8, height: 0.5, type: "question" },
-  { id: "p6", x: 18.5, y: 3.0, width: 2.8, height: 0.5, type: "brick" },
-  { id: "p7", x: 21.5, y: 3.5, width: 2.8, height: 0.5, type: "question" },
-  { id: "p8", x: 24.5, y: 4.0, width: 2.8, height: 0.5, type: "brick" },
-  { id: "p9", x: 27.5, y: 4.5, width: 2.8, height: 0.5, type: "question" },
-  { id: "p10", x: 30.5, y: 5.0, width: 3, height: 0.5, type: "brick" },
+/** Flat meadow — nuts at two heights */
+export const NUTS: Omit<Nut, "collected">[] = [
+  { id: "n1", x: 4, y: 1.55, tier: "low" },
+  { id: "n2", x: 8, y: 2.85, tier: "high" },
+  { id: "n3", x: 12, y: 1.55, tier: "low" },
+  { id: "n4", x: 16, y: 2.85, tier: "high" },
+  { id: "n5", x: 20, y: 1.55, tier: "low" },
+  { id: "n6", x: 24, y: 2.85, tier: "high" },
+  { id: "n7", x: 28, y: 1.55, tier: "low" },
+  { id: "n8", x: 32, y: 2.85, tier: "high" },
 ];
 
-export function platformTop(plat: Platform): number {
-  return plat.y + plat.height;
+export function createNuts(): Nut[] {
+  return NUTS.map((n) => ({ ...n, collected: false }));
 }
 
-export function createNuts(): Nut[] {
-  return PLATFORMS.filter((p) => p.type !== "ground").map((p, i) => ({
-    id: `n${i + 1}`,
-    x: p.x,
-    y: platformTop(p) + 0.35,
-    collected: false,
-  }));
+export function collectRadius(): number {
+  return 1.1;
+}
+
+export function peakHeight(jumpV: number): number {
+  return (jumpV * jumpV) / (2 * Math.abs(GRAVITY));
 }

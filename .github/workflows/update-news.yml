@@ -29,6 +29,7 @@ jobs:
         run: |
           python etl/fetch_all_news.py
           python etl/fetch_political_news.py
+          python etl/update_meta.py
           python etl/generate_lite_data.py
 
       - name: Commit and push if changed

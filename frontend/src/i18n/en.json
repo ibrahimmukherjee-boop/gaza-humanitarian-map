@@ -19,13 +19,16 @@
   },
   "children_game": {
     "title": "Children's Game",
-    "subtitle": "Help the squirrel jump and collect nuts!",
-    "controls": "Arrow keys or buttons: move ← → and jump ↑. Collect all the nuts!",
-    "loading": "Loading 3D game...",
+    "subtitle": "Help the squirrel collect nuts on the flat meadow!",
+    "controls": "◀ ▶ move · ↑ small jump (low nuts) · ↑↑ big jump (high nuts). Tap jump every time — it always works.",
+    "loading": "Loading game...",
     "score": "Nuts collected",
     "win_title": "All nuts collected!",
     "play_again": "Play again",
-    "play": "Play now"
+    "move_left": "Move left",
+    "move_right": "Move right",
+    "jump_small": "Small jump",
+    "jump_big": "Big jump"
   },
   "home": {
     "primary": "Essential — works offline",
@@ -334,6 +337,7 @@
   "political": {
     "title": "Political News Feed",
     "subtitle": "Attributed political and official statements — with transparent discourse metrics",
+    "feed_updated": "Feed refreshed",
     "disclaimer_title": "Important",
     "disclaimer": "Sentiment scores and the Discourse Intensity Quotient (DIQ) measure escalation-related LANGUAGE in tracked news headlines. They do NOT predict military action, assess personal risk, infer intent, or indicate that any location is safe or unsafe. High DIQ means more escalation-related words appear in reports — not that an attack is likely.",
     "methodology_title": "How metrics are calculated (transparent methodology)",

@@ -31,6 +31,15 @@ export default defineConfig({
         navigateFallback: "index.html",
         runtimeCaching: [
           {
+            urlPattern: /\/data\/(news|political_news)(-lite)?\.json(\?.*)?$/i,
+            handler: "NetworkFirst",
+            options: {
+              cacheName: "live-feeds",
+              networkTimeoutSeconds: 15,
+              expiration: { maxEntries: 8, maxAgeSeconds: 120 },
+            },
+          },
+          {
             urlPattern: /^https:\/\/.*\.tile\.openstreetmap\.org\/.*/i,
             handler: "CacheFirst",
             options: {
@@ -39,7 +48,7 @@ export default defineConfig({
             },
           },
           {
-            urlPattern: /\/data\/.*\.(json|geojson)$/i,
+            urlPattern: /\/data\/.*\.(json|geojson)(\?.*)?$/i,
             handler: "StaleWhileRevalidate",
             options: {
               cacheName: "humanitarian-data",
