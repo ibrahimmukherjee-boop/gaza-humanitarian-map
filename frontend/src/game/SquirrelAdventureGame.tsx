@@ -4,7 +4,13 @@ import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
 import SquirrelModel from "./SquirrelModel";
 import {
-  createNuts,
+  generateWorld,
+  createNutsFromWorld,
+  worldLength,
+  type WorldConfig,
+  type SceneryProp,
+} from "./worldGen";
+import {
   INITIAL_STATE,
   PLAYER_H,
   MOVE_SPEED,
@@ -12,7 +18,6 @@ import {
   nextNut,
   type GameState,
   type Nut,
-  worldMaxX,
 } from "./types";
 import { stepPhysics, applyJump } from "./physics";
 
@@ -48,7 +53,6 @@ function NutMesh({ nut }: { nut: Nut }) {
         <cylinderGeometry args={[0.06, 0.1, 0.14, 8]} />
         <meshStandardMaterial color={NUT_CAP} roughness={0.75} />
       </mesh>
-      {/* Step badge — gold ring; double ring = jump 2 */}
       {nut.step === 1 ? (
         <mesh position={[0, 0.42, 0.15]}>
           <ringGeometry args={[0.12, 0.18, 16]} />
@@ -70,7 +74,48 @@ function NutMesh({ nut }: { nut: Nut }) {
   );
 }
 
-function Ground({ length }: { length: number }) {
+function Scenery({ prop }: { prop: SceneryProp }) {
+  const green = "#2d5a2a";
+  const dark = "#4a4038";
+  if (prop.kind === "tree") {
+    return (
+      <group position={[prop.x, 0, prop.z]} scale={prop.scale}>
+        <mesh position={[0, 0.5, 0]} castShadow>
+          <cylinderGeometry args={[0.08, 0.12, 1, 6]} />
+          <meshStandardMaterial color="#4a3520" roughness={0.9} />
+        </mesh>
+        <mesh position={[0, 1.3, 0]} castShadow>
+          <coneGeometry args={[0.45, 1.1, 8]} />
+          <meshStandardMaterial color={green} roughness={0.85} />
+        </mesh>
+      </group>
+    );
+  }
+  if (prop.kind === "bush") {
+    return (
+      <mesh position={[prop.x, 0.25, prop.z]} scale={prop.scale} castShadow>
+        <sphereGeometry args={[0.35, 8, 8]} />
+        <meshStandardMaterial color={green} roughness={0.9} />
+      </mesh>
+    );
+  }
+  if (prop.kind === "rock") {
+    return (
+      <mesh position={[prop.x, 0.15, prop.z]} scale={prop.scale} castShadow>
+        <dodecahedronGeometry args={[0.22, 0]} />
+        <meshStandardMaterial color={dark} roughness={0.95} />
+      </mesh>
+    );
+  }
+  return (
+    <mesh position={[prop.x, 0.12, prop.z]} scale={prop.scale * 0.5}>
+      <sphereGeometry args={[0.12, 6, 6]} />
+      <meshStandardMaterial color="#e8a040" emissive="#c07020" emissiveIntensity={0.15} />
+    </mesh>
+  );
+}
+
+function Ground({ length, color }: { length: number; color: string }) {
   const cx = length / 2;
   return (
     <group>
@@ -80,21 +125,21 @@ function Ground({ length }: { length: number }) {
       </mesh>
       <mesh rotation={[-Math.PI / 2, 0, 0]} position={[cx, -0.01, 0.1]} receiveShadow>
         <planeGeometry args={[length, 6]} />
-        <meshStandardMaterial color="#3d6b3a" roughness={0.92} />
+        <meshStandardMaterial color={color} roughness={0.92} />
       </mesh>
     </group>
   );
 }
 
-/** Keep squirrel centred on screen */
+/** Camera scrolls forward — squirrel stays left-of-centre, world moves ahead */
 function CameraRig({ targetX }: { targetX: number }) {
   const { camera } = useThree();
   useFrame(() => {
     const cam = camera as THREE.PerspectiveCamera;
-    const px = targetX;
-    const desired = new THREE.Vector3(px, 2.4, 9);
-    cam.position.lerp(desired, 0.28);
-    cam.lookAt(px, 1.1, 0);
+    const lookX = targetX + 2.2;
+    const desired = new THREE.Vector3(targetX + 0.8, 2.35, 8.8);
+    cam.position.lerp(desired, 0.38);
+    cam.lookAt(lookX, 1.05, 0);
   });
   return null;
 }
@@ -102,15 +147,15 @@ function CameraRig({ targetX }: { targetX: number }) {
 function StudioLights({ targetX }: { targetX: number }) {
   return (
     <>
-      <ambientLight intensity={0.35} color="#908898" />
+      <ambientLight intensity={0.38} color="#908898" />
       <directionalLight
-        position={[targetX - 4, 10, 8]}
-        intensity={1.5}
+        position={[targetX - 3, 10, 7]}
+        intensity={1.45}
         color="#ffd4a8"
         castShadow
         shadow-mapSize={[512, 512]}
       />
-      <directionalLight position={[targetX + 6, 2, -3]} intensity={0.45} color="#9080c0" />
+      <directionalLight position={[targetX + 8, 3, -4]} intensity={0.4} color="#9080c0" />
     </>
   );
 }
@@ -135,7 +180,6 @@ function tryCollectOnJump(
   }
 
   if (!target) return false;
-
   target.collected = true;
   s.score += 10;
   onScore(s.score);
@@ -143,22 +187,22 @@ function tryCollectOnJump(
 }
 
 function GameWorld({
+  world,
   inputRef,
-  seed,
   onScore,
   onWin,
   onHint,
 }: {
+  world: WorldConfig;
   inputRef: React.MutableRefObject<GameInput>;
-  seed: number;
   onScore: (s: number) => void;
   onWin: () => void;
   onHint: (step: 1 | 2 | null) => void;
 }) {
   const state = useRef<GameState>({ ...INITIAL_STATE });
-  const nuts = useRef<Nut[]>(createNuts(seed));
+  const nuts = useRef<Nut[]>(createNutsFromWorld(world));
   const squirrelPos = useRef<THREE.Group>(null);
-  const groundLen = worldMaxX() + 8;
+  const maxX = worldLength(world);
 
   useFrame((_, delta) => {
     const dt = Math.min(delta, 0.033);
@@ -188,7 +232,7 @@ function GameWorld({
       if (Math.abs(s.vx) < 0.05) s.vx = 0;
     }
 
-    stepPhysics(s, dt);
+    stepPhysics(s, dt, maxX);
 
     if (s.y < -2) {
       Object.assign(s, { ...INITIAL_STATE, score: s.score });
@@ -205,14 +249,18 @@ function GameWorld({
   });
 
   const s = state.current;
+  const len = maxX + 4;
 
   return (
     <>
-      <color attach="background" args={["#1a1820"]} />
-      <fog attach="fog" args={["#1a1820", 35, 70]} />
+      <color attach="background" args={[world.skyTop]} />
+      <fog attach="fog" args={[world.skyBottom, 28, 65]} />
       <CameraRig targetX={s.x} />
       <StudioLights targetX={s.x} />
-      <Ground length={groundLen} />
+      <Ground length={len} color={world.grass} />
+      {world.props.map((p) => (
+        <Scenery key={p.id} prop={p} />
+      ))}
       {nuts.current.map((n) => (
         <NutMesh key={n.id} nut={n} />
       ))}
@@ -234,7 +282,8 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
   const [won, setWon] = useState(false);
   const [gameKey, setGameKey] = useState(0);
   const [hint, setHint] = useState<1 | 2 | null>(1);
-  const seed = useMemo(() => Date.now() + gameKey, [gameKey]);
+  const seed = useMemo(() => Date.now() + gameKey * 9973, [gameKey]);
+  const world = useMemo(() => generateWorld(seed), [seed]);
 
   const setMove = useCallback((dir: MoveDir) => {
     inputRef.current.move = dir;
@@ -298,13 +347,13 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
         <Canvas
           shadows
           dpr={[1, 2]}
-          camera={{ fov: 48, near: 0.1, far: 100, position: [1.5, 2.4, 9] }}
+          camera={{ fov: 50, near: 0.1, far: 100, position: [2, 2.35, 8.8] }}
           gl={{ antialias: true, alpha: false }}
           style={{ width: "100%", height: "100%", display: "block", touchAction: "none" }}
         >
           <GameWorld
             key={gameKey}
-            seed={seed}
+            world={world}
             inputRef={inputRef}
             onScore={handleScore}
             onWin={() => setWon(true)}
@@ -313,7 +362,7 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
         </Canvas>
 
         <div className="absolute top-2 left-2 z-10 card py-1 px-2.5 font-semibold text-base pointer-events-none">
-          🌰 {score}
+          🌰 {score}/{world.nuts.length}
         </div>
 
         {hint && !won && (

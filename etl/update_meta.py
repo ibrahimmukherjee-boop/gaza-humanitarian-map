@@ -9,10 +9,17 @@ DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 PUBLIC_DATA = Path(__file__).resolve().parent.parent / "frontend" / "public" / "data"
 
 
-def _file_mtime(path: Path) -> str | None:
-    if not path.exists():
+def _newest_article_ts(news_path: Path) -> str | None:
+    if not news_path.exists():
         return None
-    return datetime.fromtimestamp(path.stat().st_mtime, tz=timezone.utc).isoformat()
+    try:
+        with open(news_path, encoding="utf-8") as f:
+            items = json.load(f)
+        if not items:
+            return None
+        return max(items, key=lambda x: x.get("timestamp", "")).get("timestamp")
+    except Exception:
+        return None
 
 
 def write_meta():
@@ -30,11 +37,14 @@ def write_meta():
             nc = len(json.load(f))
 
     now = datetime.now(timezone.utc).isoformat()
+    latest_headline = _newest_article_ts(news) or now
+
     meta = {
         "last_updated": now,
         "refresh_heartbeat": now,
-        "news_last_updated": _file_mtime(news) or now,
-        "political_last_updated": _file_mtime(political) or now,
+        "news_last_updated": now,
+        "political_last_updated": now,
+        "latest_headline_at": latest_headline,
         "sources": ["OpenStreetMap", "ReliefWeb", "UN agencies", "Curated hotlines"],
         "facilities_count": fc,
         "news_count": nc,

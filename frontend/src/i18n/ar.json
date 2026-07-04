@@ -91,7 +91,8 @@
       "health": "صحة"
     },
     "credibility": "المصداقية",
-    "auto_refresh": "مباشر — يتحدث كل دقيقة"
+    "auto_refresh": "مباشر — يتحدث كل دقيقة",
+    "live_checked": "آخر فحص للأخبار"
   },
   "today": {
     "title": "الإنساني اليوم",

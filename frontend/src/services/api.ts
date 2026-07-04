@@ -1,4 +1,5 @@
 import { assetUrl, BASE_URL } from "../utils/baseUrl";
+import { fetchLiveNews, fetchLivePolitical } from "./liveNewsClient";
 
 const API_BASE = import.meta.env.VITE_API_URL;
 const OFFLINE_CACHE = "hssm-offline-v2";
@@ -72,16 +73,31 @@ async function fetchJson<T>(path: string, opts?: FetchOpts): Promise<T> {
 export const api = {
   facilities: (opts?: { lite?: boolean }) =>
     fetchJson<import("../types").GeoJSONCollection>("/facilities", { lite: opts?.lite }),
-  news: (opts?: { lite?: boolean; cacheBust?: boolean }) =>
-    fetchJson<import("../types").NewsItem[]>("/news", {
+  news: async (opts?: { lite?: boolean; cacheBust?: boolean }) => {
+    const staticNews = await fetchJson<import("../types").NewsItem[]>("/news", {
       lite: opts?.lite,
       cacheBust: opts?.cacheBust,
-    }),
+    });
+    if (opts?.lite || !opts?.cacheBust) return staticNews;
+    try {
+      return await fetchLiveNews(staticNews);
+    } catch {
+      return staticNews;
+    }
+  },
   pressure: () => fetchJson<import("../types").PressureData>("/pressure"),
-  politicalNews: (opts?: { cacheBust?: boolean }) =>
-    fetchJson<import("../types/political").PoliticalNewsItem[]>("/political_news", {
-      cacheBust: opts?.cacheBust,
-    }),
+  politicalNews: async (opts?: { cacheBust?: boolean }) => {
+    const staticItems = await fetchJson<import("../types/political").PoliticalNewsItem[]>(
+      "/political_news",
+      { cacheBust: opts?.cacheBust }
+    );
+    if (!opts?.cacheBust) return staticItems;
+    try {
+      return await fetchLivePolitical(staticItems);
+    } catch {
+      return staticItems;
+    }
+  },
   hotlines: () => fetchJson<import("../types").Hotline[]>("/hotlines"),
   meta: (opts?: { lite?: boolean; cacheBust?: boolean }) =>
     fetchJson<import("../types").MetaData>("/meta", {

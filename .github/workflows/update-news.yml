@@ -41,7 +41,10 @@ jobs:
             frontend/public/data/news.json frontend/public/data/news-lite.json \
             frontend/public/data/political_news.json \
             frontend/public/data/meta.json frontend/public/data/meta-lite.json
-          git diff --staged --quiet && echo "No changes" && exit 0
+          git diff --staged --quiet && echo "No file changes — refreshing meta heartbeat only" || true
+          python etl/update_meta.py
+          git add data/meta.json data/meta-lite.json frontend/public/data/meta.json frontend/public/data/meta-lite.json
+          git diff --staged --quiet && echo "Nothing to commit" && exit 0
           git commit -m "chore: live feed refresh [automated]"
           git pull --rebase origin main
           git push origin main

@@ -3,7 +3,6 @@ import { useEffect } from "react";
 import { useAppStore } from "../store/appStore";
 
 const LIVE_INTERVAL_MS = 60_000;
-const DAILY_MS = 24 * 60 * 60_000;
 
 function invalidateLive(queryClient: ReturnType<typeof useQueryClient>) {
   queryClient.invalidateQueries({ queryKey: ["meta"] });
@@ -13,7 +12,7 @@ function invalidateLive(queryClient: ReturnType<typeof useQueryClient>) {
   queryClient.invalidateQueries({ queryKey: ["pressure"] });
 }
 
-/** Poll live feeds every minute; also refresh when tab regains focus and once daily. */
+/** Poll live feeds every 60s; refresh when tab regains focus or comes online. */
 export function useLiveRefresh() {
   const queryClient = useQueryClient();
   const { liteMode } = useAppStore();
@@ -22,8 +21,8 @@ export function useLiveRefresh() {
     if (liteMode) return;
 
     const tick = () => invalidateLive(queryClient);
-    const minuteId = setInterval(tick, LIVE_INTERVAL_MS);
-    const dailyId = setInterval(tick, DAILY_MS);
+    tick();
+    const id = setInterval(tick, LIVE_INTERVAL_MS);
 
     function onFocus() {
       tick();
@@ -36,8 +35,7 @@ export function useLiveRefresh() {
     window.addEventListener("online", onOnline);
 
     return () => {
-      clearInterval(minuteId);
-      clearInterval(dailyId);
+      clearInterval(id);
       window.removeEventListener("focus", onFocus);
       window.removeEventListener("online", onOnline);
     };

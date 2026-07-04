@@ -119,7 +119,8 @@
       "health": "Health"
     },
     "credibility": "Credibility",
-    "auto_refresh": "Live — refreshes every minute"
+    "auto_refresh": "Live — refreshes every minute",
+    "live_checked": "News checked"
   },
   "today": {
     "title": "Humanitarian Today",

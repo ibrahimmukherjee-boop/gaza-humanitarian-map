@@ -7,7 +7,7 @@ import LanguageToggle from "./LanguageToggle";
 import LiveIndicator from "./LiveIndicator";
 import { useAppStore } from "../store/appStore";
 import { api, formatRelativeTime } from "../services/api";
-import { useLiveRefresh, LIVE_META_OPTS } from "../hooks/useLiveRefresh";
+import { useLiveRefresh, LIVE_META_OPTS, LIVE_QUERY_OPTS } from "../hooks/useLiveRefresh";
 
 const navItems = [
   { to: "/", key: "nav.home" },
@@ -36,6 +36,13 @@ export default function Layout() {
     ...(liteMode ? { staleTime: 30 * 60_000 } : LIVE_META_OPTS),
   });
 
+  const { dataUpdatedAt: newsCheckedAt } = useQuery({
+    queryKey: ["news", "full"],
+    queryFn: () => api.news({ cacheBust: true }),
+    enabled: !liteMode,
+    ...LIVE_QUERY_OPTS,
+  });
+
   useEffect(() => {
     document.body.classList.toggle("lite-mode", liteMode);
     return () => document.body.classList.remove("lite-mode");
@@ -47,18 +54,19 @@ export default function Layout() {
       {meta && (
         <div className="status-bar flex flex-wrap items-center justify-center gap-x-2 gap-y-0.5">
           {!liteMode && <LiveIndicator />}
-          {meta.news_last_updated && !liteMode && (
+          {!liteMode && newsCheckedAt > 0 && (
             <span>
-              {t("news.title")}: {formatRelativeTime(meta.news_last_updated, i18n.language)}
+              {t("news.live_checked")}:{" "}
+              {formatRelativeTime(new Date(newsCheckedAt).toISOString(), i18n.language)}
             </span>
           )}
           {meta.political_last_updated && !liteMode && (
             <span>
               · {t("nav.political")}:{" "}
-              {formatRelativeTime(meta.political_last_updated, i18n.language)}
+              {formatRelativeTime(meta.refresh_heartbeat || meta.political_last_updated, i18n.language)}
             </span>
           )}
-          {!meta.news_last_updated && (
+          {liteMode && meta && (
             <span>
               {t("home.data_updated")}{" "}
               {formatRelativeTime(meta.last_updated, i18n.language)}
