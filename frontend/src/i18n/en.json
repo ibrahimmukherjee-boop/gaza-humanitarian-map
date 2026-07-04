@@ -20,7 +20,9 @@
   "children_game": {
     "title": "Children's Game",
     "subtitle": "Help the squirrel collect nuts on the flat meadow!",
-    "controls": "◀ ▶ move · ↑ small jump (low nuts) · ↑↑ big jump (high nuts). Tap jump every time — it always works.",
+    "controls": "◀ ▶ move · ↑ step-1 jump · ↑↑ step-2 jump. Walk near a nut, use the matching jump button.",
+    "hint_1": "Next nut: jump 1 ↑",
+    "hint_2": "Next nut: jump 2 ↑↑",
     "loading": "Loading game...",
     "score": "Nuts collected",
     "win_title": "All nuts collected!",

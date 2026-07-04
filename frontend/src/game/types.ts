@@ -1,9 +1,13 @@
+export type NutTier = "low" | "high";
+
 export interface Nut {
   id: string;
   x: number;
-  /** Height above ground — reach with small or big jump */
+  /** Height above ground */
   y: number;
-  tier: "low" | "high";
+  tier: NutTier;
+  /** 1 = small jump, 2 = big jump */
+  step: 1 | 2;
   collected: boolean;
 }
 
@@ -18,19 +22,21 @@ export interface GameState {
 }
 
 export const GROUND_Y = 0;
-export const GRAVITY = -22;
-export const MOVE_SPEED = 7.5;
-/** Tuned so peak body height reaches low nuts (~1.55) */
-export const SMALL_JUMP_V = 8.5;
-/** Tuned so peak body height reaches high nuts (~2.85) */
-export const BIG_JUMP_V = 11;
+export const GRAVITY = -20;
+export const MOVE_SPEED = 8;
+export const SMALL_JUMP_V = 7.8;
+export const BIG_JUMP_V = 11.5;
 export const PLAYER_W = 0.7;
 export const PLAYER_H = 1;
-export const WORLD_MIN_X = -1;
-export const WORLD_MAX_X = 36;
+export const LOW_NUT_Y = 1.35;
+export const HIGH_NUT_Y = 2.55;
+export const NUT_COUNT = 10;
+export const NUT_SPACING = 3.2;
+export const NUT_START_X = 4;
+export const HORIZONTAL_COLLECT = 2.4;
 
 export const INITIAL_STATE: GameState = {
-  x: 1,
+  x: 1.5,
   y: GROUND_Y,
   vx: 0,
   vy: 0,
@@ -39,26 +45,39 @@ export const INITIAL_STATE: GameState = {
   score: 0,
 };
 
-/** Flat meadow — nuts at two heights */
-export const NUTS: Omit<Nut, "collected">[] = [
-  { id: "n1", x: 4, y: 1.55, tier: "low" },
-  { id: "n2", x: 8, y: 2.85, tier: "high" },
-  { id: "n3", x: 12, y: 1.55, tier: "low" },
-  { id: "n4", x: 16, y: 2.85, tier: "high" },
-  { id: "n5", x: 20, y: 1.55, tier: "low" },
-  { id: "n6", x: 24, y: 2.85, tier: "high" },
-  { id: "n7", x: 28, y: 1.55, tier: "low" },
-  { id: "n8", x: 32, y: 2.85, tier: "high" },
-];
+export function worldMaxX(): number {
+  return NUT_START_X + (NUT_COUNT - 1) * NUT_SPACING + 4;
+}
 
-export function createNuts(): Nut[] {
-  return NUTS.map((n) => ({ ...n, collected: false }));
+/** Shuffle step 1 / step 2 in random order each game */
+export function createNuts(seed = Date.now()): Nut[] {
+  const tiers: NutTier[] = Array.from({ length: NUT_COUNT }, (_, i) =>
+    i % 2 === 0 ? "low" : "high"
+  );
+
+  let s = seed >>> 0;
+  for (let i = tiers.length - 1; i > 0; i--) {
+    s = (s * 1664525 + 1013904223) >>> 0;
+    const j = s % (i + 1);
+    [tiers[i], tiers[j]] = [tiers[j], tiers[i]];
+  }
+
+  return tiers.map((tier, i) => ({
+    id: `n${i + 1}`,
+    x: NUT_START_X + i * NUT_SPACING,
+    y: tier === "low" ? LOW_NUT_Y : HIGH_NUT_Y,
+    tier,
+    step: tier === "low" ? 1 : 2,
+    collected: false,
+  }));
+}
+
+export function nextNut(nuts: Nut[]): Nut | undefined {
+  return nuts
+    .filter((n) => !n.collected)
+    .sort((a, b) => a.x - b.x)[0];
 }
 
 export function collectRadius(): number {
-  return 1.1;
-}
-
-export function peakHeight(jumpV: number): number {
-  return (jumpV * jumpV) / (2 * Math.abs(GRAVITY));
+  return 1.35;
 }

@@ -43,4 +43,5 @@ jobs:
             frontend/public/data/meta.json frontend/public/data/meta-lite.json
           git diff --staged --quiet && echo "No changes" && exit 0
           git commit -m "chore: live feed refresh [automated]"
-          git push
+          git pull --rebase origin main
+          git push origin main

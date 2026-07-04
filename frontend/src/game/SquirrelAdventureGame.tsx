@@ -1,4 +1,4 @@
-import { useRef, useState, useEffect, useCallback } from "react";
+import { useRef, useState, useEffect, useCallback, useMemo } from "react";
 import { useTranslation } from "react-i18next";
 import { Canvas, useFrame, useThree } from "@react-three/fiber";
 import * as THREE from "three";
@@ -8,14 +8,16 @@ import {
   INITIAL_STATE,
   PLAYER_H,
   MOVE_SPEED,
-  NUTS,
+  HORIZONTAL_COLLECT,
+  nextNut,
   type GameState,
   type Nut,
-  collectRadius,
+  worldMaxX,
 } from "./types";
 import { stepPhysics, applyJump } from "./physics";
 
 type MoveDir = -1 | 0 | 1;
+type JumpKind = "small" | "big";
 
 interface GameInput {
   move: MoveDir;
@@ -23,75 +25,76 @@ interface GameInput {
   jumpBig: number;
 }
 
+const NUT_COLOR = "#7a5230";
+const NUT_CAP = "#4a3018";
+
 function NutMesh({ nut }: { nut: Nut }) {
   const ref = useRef<THREE.Group>(null);
   useFrame(({ clock }) => {
     if (ref.current && !nut.collected) {
-      ref.current.rotation.y = clock.getElapsedTime() * 1.5;
-      ref.current.position.y = nut.y + Math.sin(clock.getElapsedTime() * 2.5) * 0.05;
+      ref.current.rotation.y = clock.getElapsedTime() * 1.2;
+      ref.current.position.y = nut.y + Math.sin(clock.getElapsedTime() * 2) * 0.04;
     }
   });
   if (nut.collected) return null;
 
-  const glow = nut.tier === "high" ? "#ffd080" : "#ffe8c0";
-
   return (
     <group ref={ref} position={[nut.x, nut.y, 0]}>
-      <mesh position={[0, -nut.y + 0.02, 0]} receiveShadow>
-        <cylinderGeometry args={[0.35, 0.4, 0.04, 16]} />
-        <meshStandardMaterial color="#4a6741" roughness={0.9} transparent opacity={0.35} />
-      </mesh>
       <mesh castShadow>
-        <dodecahedronGeometry args={[0.24, 1]} />
-        <meshStandardMaterial color="#6B4423" roughness={0.55} metalness={0.08} />
+        <sphereGeometry args={[0.28, 20, 20]} />
+        <meshStandardMaterial color={NUT_COLOR} roughness={0.5} metalness={0.06} />
       </mesh>
-      <mesh position={[0, 0.15, 0]} rotation={[0.25, 0, 0]} castShadow>
-        <cylinderGeometry args={[0.08, 0.13, 0.2, 10]} />
-        <meshStandardMaterial color="#3D2817" roughness={0.75} />
+      <mesh position={[0, 0.12, 0.12]} rotation={[0.3, 0, 0]} castShadow>
+        <cylinderGeometry args={[0.06, 0.1, 0.14, 8]} />
+        <meshStandardMaterial color={NUT_CAP} roughness={0.75} />
       </mesh>
-      <pointLight position={[0, 0.1, 0.4]} intensity={0.45} color={glow} distance={2.5} />
+      {/* Step badge — gold ring; double ring = jump 2 */}
+      {nut.step === 1 ? (
+        <mesh position={[0, 0.42, 0.15]}>
+          <ringGeometry args={[0.12, 0.18, 16]} />
+          <meshStandardMaterial color="#f5d080" emissive="#d4a040" emissiveIntensity={0.3} />
+        </mesh>
+      ) : (
+        <>
+          <mesh position={[0, 0.42, 0.14]}>
+            <ringGeometry args={[0.14, 0.17, 16]} />
+            <meshStandardMaterial color="#f5d080" emissive="#d4a040" emissiveIntensity={0.3} />
+          </mesh>
+          <mesh position={[0, 0.42, 0.16]}>
+            <ringGeometry args={[0.19, 0.22, 16]} />
+            <meshStandardMaterial color="#f5d080" emissive="#d4a040" emissiveIntensity={0.3} />
+          </mesh>
+        </>
+      )}
     </group>
   );
 }
 
-function HeightMarker({ x, y, tier }: { x: number; y: number; tier: "low" | "high" }) {
-  const color = tier === "high" ? "#9b87f5" : "#7cb8a0";
-  return (
-    <group position={[x, 0, -0.2]}>
-      <mesh position={[0, y / 2, 0]}>
-        <boxGeometry args={[0.06, y, 0.06]} />
-        <meshStandardMaterial color={color} roughness={0.5} transparent opacity={0.25} />
-      </mesh>
-      <mesh position={[0, y, 0]}>
-        <sphereGeometry args={[0.12, 12, 12]} />
-        <meshStandardMaterial color={color} emissive={color} emissiveIntensity={0.35} roughness={0.3} />
-      </mesh>
-    </group>
-  );
-}
-
-function Ground() {
+function Ground({ length }: { length: number }) {
+  const cx = length / 2;
   return (
     <group>
-      <mesh position={[17, -0.35, 0]} receiveShadow>
-        <boxGeometry args={[42, 0.7, 3.5]} />
-        <meshStandardMaterial color="#2a3d28" roughness={0.88} metalness={0.02} />
+      <mesh position={[cx, -0.35, 0]} receiveShadow>
+        <boxGeometry args={[length, 0.7, 4]} />
+        <meshStandardMaterial color="#2a3d28" roughness={0.88} />
       </mesh>
-      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[17, -0.01, 0.15]} receiveShadow>
-        <planeGeometry args={[42, 5]} />
-        <meshStandardMaterial color="#3d5c3a" roughness={0.92} />
+      <mesh rotation={[-Math.PI / 2, 0, 0]} position={[cx, -0.01, 0.1]} receiveShadow>
+        <planeGeometry args={[length, 6]} />
+        <meshStandardMaterial color="#3d6b3a" roughness={0.92} />
       </mesh>
     </group>
   );
 }
 
+/** Keep squirrel centred on screen */
 function CameraRig({ targetX }: { targetX: number }) {
   const { camera } = useThree();
   useFrame(() => {
     const cam = camera as THREE.PerspectiveCamera;
-    const target = new THREE.Vector3(targetX + 1.2, 2.6, 10.5);
-    cam.position.lerp(target, 0.07);
-    cam.lookAt(targetX, 1.6, 0);
+    const px = targetX;
+    const desired = new THREE.Vector3(px, 2.4, 9);
+    cam.position.lerp(desired, 0.28);
+    cam.lookAt(px, 1.1, 0);
   });
   return null;
 }
@@ -99,35 +102,63 @@ function CameraRig({ targetX }: { targetX: number }) {
 function StudioLights({ targetX }: { targetX: number }) {
   return (
     <>
-      <ambientLight intensity={0.18} color="#807888" />
+      <ambientLight intensity={0.35} color="#908898" />
       <directionalLight
-        position={[-5, 9, 6]}
-        intensity={1.8}
+        position={[targetX - 4, 10, 8]}
+        intensity={1.5}
         color="#ffd4a8"
         castShadow
-        shadow-mapSize={[1024, 1024]}
-        shadow-camera-far={40}
-        shadow-camera-left={-15}
-        shadow-camera-right={15}
+        shadow-mapSize={[512, 512]}
       />
-      <directionalLight position={[10, 3, -5]} intensity={0.65} color="#7c6cf0" />
-      <pointLight position={[targetX + 1, 4, 4]} intensity={0.5} color="#ffb870" distance={14} />
+      <directionalLight position={[targetX + 6, 2, -3]} intensity={0.45} color="#9080c0" />
     </>
   );
 }
 
+function tryCollectOnJump(
+  s: GameState,
+  nuts: Nut[],
+  kind: JumpKind,
+  onScore: (n: number) => void
+): boolean {
+  const step = kind === "small" ? 1 : 2;
+  let target: Nut | undefined;
+  let best = HORIZONTAL_COLLECT;
+
+  for (const nut of nuts) {
+    if (nut.collected || nut.step !== step) continue;
+    const d = Math.abs(s.x - nut.x);
+    if (d < best) {
+      best = d;
+      target = nut;
+    }
+  }
+
+  if (!target) return false;
+
+  target.collected = true;
+  s.score += 10;
+  onScore(s.score);
+  return true;
+}
+
 function GameWorld({
   inputRef,
+  seed,
   onScore,
   onWin,
+  onHint,
 }: {
   inputRef: React.MutableRefObject<GameInput>;
+  seed: number;
   onScore: (s: number) => void;
   onWin: () => void;
+  onHint: (step: 1 | 2 | null) => void;
 }) {
   const state = useRef<GameState>({ ...INITIAL_STATE });
-  const nuts = useRef<Nut[]>(createNuts());
+  const nuts = useRef<Nut[]>(createNuts(seed));
   const squirrelPos = useRef<THREE.Group>(null);
+  const groundLen = worldMaxX() + 8;
 
   useFrame((_, delta) => {
     const dt = Math.min(delta, 0.033);
@@ -136,10 +167,12 @@ function GameWorld({
 
     if (input.jumpSmall > 0) {
       applyJump(s, "small");
+      tryCollectOnJump(s, nuts.current, "small", onScore);
       input.jumpSmall = 0;
     }
     if (input.jumpBig > 0) {
       applyJump(s, "big");
+      tryCollectOnJump(s, nuts.current, "big", onScore);
       input.jumpBig = 0;
     }
 
@@ -151,34 +184,23 @@ function GameWorld({
       s.vx = MOVE_SPEED;
       s.facing = 1;
     } else {
-      s.vx *= 0.7;
+      s.vx *= 0.72;
       if (Math.abs(s.vx) < 0.05) s.vx = 0;
     }
 
     stepPhysics(s, dt);
 
-    if (s.y < -3) {
+    if (s.y < -2) {
       Object.assign(s, { ...INITIAL_STATE, score: s.score });
-      nuts.current = createNuts();
     }
 
-    const cx = s.x;
-    const cy = s.y + PLAYER_H * 0.55;
-    const r = collectRadius();
+    const n = nextNut(nuts.current);
+    onHint(n ? n.step : null);
 
-    for (const nut of nuts.current) {
-      if (nut.collected) continue;
-      if (Math.hypot(cx - nut.x, cy - nut.y) < r) {
-        nut.collected = true;
-        s.score += 10;
-        onScore(s.score);
-      }
-    }
-
-    if (nuts.current.every((n) => n.collected)) onWin();
+    if (nuts.current.every((nut) => nut.collected)) onWin();
 
     if (squirrelPos.current) {
-      squirrelPos.current.position.set(s.x, s.y + PLAYER_H * 0.5 - 0.05, 0.45);
+      squirrelPos.current.position.set(s.x, s.y + PLAYER_H * 0.5 - 0.05, 0.35);
     }
   });
 
@@ -186,14 +208,11 @@ function GameWorld({
 
   return (
     <>
-      <color attach="background" args={["#0f0d14"]} />
-      <fog attach="fog" args={["#0f0d14", 16, 42]} />
+      <color attach="background" args={["#1a1820"]} />
+      <fog attach="fog" args={["#1a1820", 35, 70]} />
       <CameraRig targetX={s.x} />
       <StudioLights targetX={s.x} />
-      <Ground />
-      {NUTS.map((n) => (
-        <HeightMarker key={`m-${n.id}`} x={n.x} y={n.y} tier={n.tier} />
-      ))}
+      <Ground length={groundLen} />
       {nuts.current.map((n) => (
         <NutMesh key={n.id} nut={n} />
       ))}
@@ -214,6 +233,8 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
   const [score, setScore] = useState(0);
   const [won, setWon] = useState(false);
   const [gameKey, setGameKey] = useState(0);
+  const [hint, setHint] = useState<1 | 2 | null>(1);
+  const seed = useMemo(() => Date.now() + gameKey, [gameKey]);
 
   const setMove = useCallback((dir: MoveDir) => {
     inputRef.current.move = dir;
@@ -223,14 +244,14 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
 
   const jumpSmall = useCallback(() => {
     const now = performance.now();
-    if (now - jumpGuard.current < 100) return;
+    if (now - jumpGuard.current < 80) return;
     jumpGuard.current = now;
     inputRef.current.jumpSmall = 1;
   }, []);
 
   const jumpBig = useCallback(() => {
     const now = performance.now();
-    if (now - jumpGuard.current < 100) return;
+    if (now - jumpGuard.current < 80) return;
     jumpGuard.current = now;
     inputRef.current.jumpBig = 1;
   }, []);
@@ -266,31 +287,40 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
   function restart() {
     setWon(false);
     setScore(0);
+    setHint(1);
     inputRef.current = { move: 0, jumpSmall: 0, jumpBig: 0 };
     setGameKey((k) => k + 1);
   }
 
   return (
     <div className="flex flex-col h-full min-h-0">
-      <div className="relative flex-1 min-h-[220px] rounded-t-xl overflow-hidden border border-b-0 border-slate-200 bg-[#0f0d14]">
+      <div className="relative flex-1 min-h-[220px] rounded-t-xl overflow-hidden border border-b-0 border-slate-200 bg-[#1a1820]">
         <Canvas
           shadows
           dpr={[1, 2]}
-          camera={{ fov: 42, near: 0.1, far: 80, position: [3, 2.6, 10.5] }}
+          camera={{ fov: 48, near: 0.1, far: 100, position: [1.5, 2.4, 9] }}
           gl={{ antialias: true, alpha: false }}
           style={{ width: "100%", height: "100%", display: "block", touchAction: "none" }}
         >
           <GameWorld
             key={gameKey}
+            seed={seed}
             inputRef={inputRef}
             onScore={handleScore}
             onWin={() => setWon(true)}
+            onHint={setHint}
           />
         </Canvas>
 
         <div className="absolute top-2 left-2 z-10 card py-1 px-2.5 font-semibold text-base pointer-events-none">
           🌰 {score}
         </div>
+
+        {hint && !won && (
+          <div className="absolute top-2 right-2 z-10 card py-1 px-2.5 text-xs pointer-events-none text-slate-600">
+            {t(`children_game.hint_${hint}`)}
+          </div>
+        )}
 
         {won && (
           <div className="absolute inset-0 z-20 flex items-center justify-center bg-black/45">
@@ -308,7 +338,6 @@ export default function SquirrelAdventureGame({ onScoreChange }: SquirrelAdventu
         )}
       </div>
 
-      {/* Controls below canvas — never blocked by WebGL */}
       <div className="game-controls shrink-0 rounded-b-xl border border-t-0 border-slate-200 bg-white p-3">
         <div className="flex items-stretch justify-between gap-2 max-w-lg mx-auto">
           <button

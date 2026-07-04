@@ -2,11 +2,10 @@ import type { GameState } from "./types";
 import {
   GROUND_Y,
   GRAVITY,
-  WORLD_MIN_X,
-  WORLD_MAX_X,
   PLAYER_W,
   SMALL_JUMP_V,
   BIG_JUMP_V,
+  worldMaxX,
 } from "./types";
 
 export function stepPhysics(s: GameState, dt: number): void {
@@ -23,12 +22,14 @@ export function stepPhysics(s: GameState, dt: number): void {
   }
 
   const half = PLAYER_W / 2;
-  if (s.x < WORLD_MIN_X + half) {
-    s.x = WORLD_MIN_X + half;
+  const minX = 0.5;
+  const maxX = worldMaxX() - half;
+  if (s.x < minX) {
+    s.x = minX;
     s.vx = 0;
   }
-  if (s.x > WORLD_MAX_X - half) {
-    s.x = WORLD_MAX_X - half;
+  if (s.x > maxX) {
+    s.x = maxX;
     s.vx = 0;
   }
 }
