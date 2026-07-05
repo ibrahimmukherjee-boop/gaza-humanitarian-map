@@ -13,6 +13,7 @@ on:
 
 permissions:
   contents: write
+  actions: write
 
 concurrency:
   group: update-news
@@ -54,3 +55,9 @@ jobs:
           git commit -m "chore: live feed refresh [automated]"
           git pull --rebase origin main
           git push origin main
+
+      - name: Redeploy site with fresh data
+        if: success()
+        run: gh workflow run deploy.yml --ref main
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

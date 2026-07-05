@@ -15,7 +15,7 @@ except ImportError:
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 PUBLIC_DATA = DATA_DIR.parent / "frontend" / "public" / "data"
 
-GAZA_RE = re.compile(r"gaza|palestin|hamas|israeli|idf|west bank|rafah|unrwa", re.I)
+from news_filter import is_relevant
 
 RSS_HEADERS = {
     "User-Agent": "GazaHumanitarianMap/1.0 (+https://ibrahimmukherjee-boop.github.io/gaza-humanitarian-map/)",
@@ -61,7 +61,7 @@ def fetch_political() -> list[dict]:
                 title = entry.get("title", "Untitled")
                 excerpt = entry.get("summary", "")[:400] or title
                 text = f"{title} {excerpt}"
-                if not GAZA_RE.search(text):
+                if not is_relevant(title, excerpt, source_name):
                     continue
                 ts = entry.get("published_parsed") or entry.get("updated_parsed")
                 if ts:

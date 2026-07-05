@@ -7,6 +7,13 @@ import { LIVE_QUERY_OPTS } from "../hooks/useLiveRefresh";
 import LiveIndicator from "../components/LiveIndicator";
 import type { NewsItem } from "../types";
 
+function newestHeadlineTs(items: NewsItem[]): string | null {
+  if (!items.length) return null;
+  return items.reduce((best, item) =>
+    new Date(item.timestamp) > new Date(best) ? item.timestamp : best
+  , items[0].timestamp);
+}
+
 export default function NewsPage() {
   const { t, i18n } = useTranslation();
   const { liteMode } = useAppStore();
@@ -44,7 +51,15 @@ export default function NewsPage() {
         {dataUpdatedAt > 0 && (
           <p className="text-xs text-slate-500 mt-1">
             {liteMode && `${t("lite_mode.active")} · `}
+            {t("news.live_checked")}:{" "}
             {formatRelativeTime(new Date(dataUpdatedAt).toISOString(), i18n.language)}
+            {sorted.length > 0 && newestHeadlineTs(sorted) && (
+              <>
+                {" "}
+                · {t("news.newest_story")}:{" "}
+                {formatRelativeTime(newestHeadlineTs(sorted)!, i18n.language)}
+              </>
+            )}
           </p>
         )}
       </div>

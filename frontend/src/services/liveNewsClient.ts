@@ -1,8 +1,6 @@
 import type { NewsItem } from "../types";
 import type { PoliticalNewsItem, PoliticalSourceRegion } from "../types/political";
-
-const GAZA_RE =
-  /gaza|palestin|humanitarian|refugee|unrwa|rafah|khan younis|hamas|israeli|idf|west bank|ceasefire|hostage/i;
+import { isRelevantNews } from "./newsFilter";
 
 const FETCH_TIMEOUT_MS = 5_000;
 
@@ -24,12 +22,13 @@ function setLiveFeedMeta(kind: "news" | "political", meta: LiveFeedMeta): void {
   else politicalMeta = meta;
 }
 
-const NEWS_RSS: { name: string; url: string; filter?: boolean }[] = [
+const NEWS_RSS: { name: string; url: string }[] = [
   { name: "UN News", url: "https://news.un.org/feed/subscribe/en/news/region/middle-east/feed/rss.xml" },
-  { name: "BBC Middle East", url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", filter: true },
-  { name: "ReliefWeb", url: "https://reliefweb.int/updates/rss.xml?language=267", filter: true },
-  { name: "UNRWA", url: "https://www.unrwa.org/newsroom/press-releases/rss.xml", filter: true },
-  { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml", filter: true },
+  { name: "BBC Middle East", url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml" },
+  { name: "ReliefWeb", url: "https://reliefweb.int/updates/rss.xml?language=267" },
+  { name: "UNRWA", url: "https://www.unrwa.org/newsroom/press-releases/rss.xml" },
+  { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml" },
+  { name: "OCHA", url: "https://www.unocha.org/rss.xml" },
 ];
 
 const POLITICAL_RSS: { name: string; url: string; region: PoliticalSourceRegion }[] = [
@@ -46,6 +45,7 @@ const POLITICAL_RSS: { name: string; url: string; region: PoliticalSourceRegion 
   { name: "ReliefWeb", url: "https://reliefweb.int/updates/rss.xml?language=267", region: "international" },
   { name: "Times of Israel", url: "https://www.timesofisrael.com/feed/", region: "israel" },
   { name: "Al Jazeera", url: "https://www.aljazeera.com/xml/rss/all.xml", region: "international" },
+  { name: "WAFA", url: "https://english.wafa.ps/rss.aspx", region: "palestine" },
 ];
 
 function hashId(url: string): string {
@@ -64,34 +64,43 @@ async function fetchWithTimeout(url: string, init?: RequestInit): Promise<Respon
   }
 }
 
-function parseRssXml(xml: string, source: string, filterGaza = false): NewsItem[] {
+function toNewsItem(
+  title: string,
+  link: string,
+  excerpt: string,
+  source: string,
+  timestamp: string
+): NewsItem | null {
+  if (!link || !isRelevantNews(title, excerpt, source)) return null;
+  return {
+    id: hashId(link),
+    title_en: title,
+    title_ar: "",
+    excerpt_en: excerpt,
+    excerpt_ar: "",
+    source,
+    timestamp,
+    url: link,
+    tags: ["humanitarian"],
+    location_tags: ["Gaza Strip"],
+    credibility: "high",
+  };
+}
+
+function parseRssXml(xml: string, source: string): NewsItem[] {
   const doc = new DOMParser().parseFromString(xml, "text/xml");
-  const nodes = doc.querySelectorAll("item");
   const out: NewsItem[] = [];
 
-  nodes.forEach((item) => {
+  doc.querySelectorAll("item").forEach((item) => {
     const title = item.querySelector("title")?.textContent?.trim() || "Untitled";
     const link = item.querySelector("link")?.textContent?.trim() || "";
     const excerpt =
       item.querySelector("description")?.textContent?.replace(/<[^>]+>/g, "").trim().slice(0, 400) ||
       title;
     const pub = item.querySelector("pubDate")?.textContent?.trim();
-    if (!link) return;
-    if (filterGaza && !GAZA_RE.test(`${title} ${excerpt}`)) return;
-
-    out.push({
-      id: hashId(link),
-      title_en: title,
-      title_ar: "",
-      excerpt_en: excerpt,
-      excerpt_ar: "",
-      source,
-      timestamp: pub ? new Date(pub).toISOString() : new Date().toISOString(),
-      url: link,
-      tags: ["humanitarian"],
-      location_tags: ["Gaza Strip"],
-      credibility: "high",
-    });
+    const ts = pub ? new Date(pub).toISOString() : new Date().toISOString();
+    const newsItem = toNewsItem(title, link, excerpt, source, ts);
+    if (newsItem) out.push(newsItem);
   });
 
   return out;
@@ -109,11 +118,7 @@ interface Rss2JsonResponse {
   items?: Rss2JsonItem[];
 }
 
-async function fetchViaRss2Json(
-  feedUrl: string,
-  source: string,
-  filterGaza: boolean
-): Promise<NewsItem[]> {
+async function fetchViaRss2Json(feedUrl: string, source: string): Promise<NewsItem[]> {
   const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(feedUrl)}`;
   const res = await fetchWithTimeout(apiUrl);
   if (!res.ok) throw new Error(`rss2json ${res.status}`);
@@ -126,59 +131,33 @@ async function fetchViaRss2Json(
       const link = item.link?.trim() || "";
       const excerpt =
         item.description?.replace(/<[^>]+>/g, "").trim().slice(0, 400) || title;
-      if (!link) return null;
-      if (filterGaza && !GAZA_RE.test(`${title} ${excerpt}`)) return null;
-      return {
-        id: hashId(link),
-        title_en: title,
-        title_ar: "",
-        excerpt_en: excerpt,
-        excerpt_ar: "",
-        source,
-        timestamp: item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString(),
-        url: link,
-        tags: ["humanitarian"],
-        location_tags: ["Gaza Strip"],
-        credibility: "high",
-      };
+      const ts = item.pubDate ? new Date(item.pubDate).toISOString() : new Date().toISOString();
+      return toNewsItem(title, link, excerpt, source, ts);
     })
     .filter((item): item is NewsItem => item !== null);
 }
 
-async function fetchViaDirectXml(
-  feedUrl: string,
-  source: string,
-  filterGaza: boolean
-): Promise<NewsItem[]> {
+async function fetchViaDirectXml(feedUrl: string, source: string): Promise<NewsItem[]> {
   const res = await fetchWithTimeout(feedUrl, { mode: "cors" });
   if (!res.ok) throw new Error(`direct ${res.status}`);
-  const xml = await res.text();
-  const items = parseRssXml(xml, source, filterGaza);
+  const items = parseRssXml(await res.text(), source);
   if (!items.length) throw new Error("direct empty");
   return items;
 }
 
-/** Try rss2json, then direct RSS — whichever responds first with data. */
-async function fetchRssFeed(
-  feedUrl: string,
-  source: string,
-  filterGaza = false
-): Promise<NewsItem[]> {
-  const strategies = [
-    () => fetchViaRss2Json(feedUrl, source, filterGaza),
-    () => fetchViaDirectXml(feedUrl, source, filterGaza),
-  ];
-
-  let lastError: unknown;
-  for (const strategy of strategies) {
+async function fetchRssFeed(feedUrl: string, source: string): Promise<NewsItem[]> {
+  for (const strategy of [
+    () => fetchViaRss2Json(feedUrl, source),
+    () => fetchViaDirectXml(feedUrl, source),
+  ]) {
     try {
       const items = await strategy();
       if (items.length > 0) return items;
-    } catch (e) {
-      lastError = e;
+    } catch {
+      /* try next */
     }
   }
-  throw lastError ?? new Error("no data");
+  throw new Error("no data");
 }
 
 export function mergeById<T extends { id: string; timestamp: string }>(base: T[], live: T[]): T[] {
@@ -195,10 +174,10 @@ export function mergeById<T extends { id: string; timestamp: string }>(base: T[]
 }
 
 async function fetchAllRssFeeds(
-  feeds: { name: string; url: string; filter?: boolean }[]
+  feeds: { name: string; url: string }[]
 ): Promise<{ items: NewsItem[]; failed: string[] }> {
   const results = await Promise.allSettled(
-    feeds.map(({ name, url, filter }) => fetchRssFeed(url, name, !!filter))
+    feeds.map(({ name, url }) => fetchRssFeed(url, name))
   );
 
   const items: NewsItem[] = [];
@@ -215,7 +194,6 @@ async function fetchAllRssFeeds(
   return { items, failed };
 }
 
-/** Fetch headlines in the browser — parallel sources, independent failures. */
 export async function fetchLiveNews(supplement: NewsItem[] = []): Promise<NewsItem[]> {
   const { items, failed } = await fetchAllRssFeeds(NEWS_RSS);
   const merged = mergeById(supplement, items);
@@ -236,7 +214,6 @@ export async function fetchLivePolitical(
 
   const live: PoliticalNewsItem[] = [];
   for (const item of items) {
-    if (!GAZA_RE.test(`${item.title_en} ${item.excerpt_en}`)) continue;
     const feed = POLITICAL_RSS.find((f) => f.name === item.source);
     live.push({
       ...item,

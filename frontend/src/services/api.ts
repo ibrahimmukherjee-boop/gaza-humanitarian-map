@@ -1,5 +1,6 @@
 import { assetUrl, BASE_URL } from "../utils/baseUrl";
 import { fetchLiveNews, fetchLivePolitical, mergeById } from "./liveNewsClient";
+import { filterNewsItems } from "./newsFilter";
 
 const API_BASE = import.meta.env.VITE_API_URL;
 const OFFLINE_CACHE = "hssm-offline-v2";
@@ -83,10 +84,11 @@ export const api = {
     fetchJson<import("../types").GeoJSONCollection>("/facilities", { lite: opts?.lite }),
   news: async (opts?: { lite?: boolean; cacheBust?: boolean }) => {
     if (opts?.lite || !opts?.cacheBust) {
-      return fetchJson<import("../types").NewsItem[]>("/news", {
+      const items = await fetchJson<import("../types").NewsItem[]>("/news", {
         lite: opts?.lite,
         cacheBust: opts?.cacheBust,
       });
+      return filterNewsItems(items);
     }
 
     const [staticNews, liveItems] = await Promise.all([
@@ -96,7 +98,7 @@ export const api = {
       ),
     ]);
 
-    return mergeById(staticNews, liveItems);
+    return filterNewsItems(mergeById(staticNews, liveItems));
   },
   pressure: () => fetchJson<import("../types").PressureData>("/pressure"),
   politicalNews: async (opts?: { cacheBust?: boolean }) => {

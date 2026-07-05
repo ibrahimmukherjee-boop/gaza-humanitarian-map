@@ -3,7 +3,6 @@
 
 import hashlib
 import json
-import re
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -13,6 +12,8 @@ try:
 except ImportError:
     feedparser = None
     requests = None
+
+from news_filter import is_relevant
 
 DATA_DIR = Path(__file__).resolve().parent.parent / "data"
 PUBLIC_DATA = DATA_DIR.parent / "frontend" / "public" / "data"
@@ -44,11 +45,8 @@ RSS_SOURCES = [
     ("ICRC", "https://www.icrc.org/en/rss", True),
     ("WFP", "https://www.wfp.org/rss.xml", True),
     ("UNHCR", "https://www.unhcr.org/rss.xml", True),
-    ("BBC Middle East", "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", False),
+    ("BBC Middle East", "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", True),
 ]
-
-GAZA_RE = re.compile(r"gaza|palestin|humanitarian|refugee|unrwa|rafah|khan younis", re.I)
-
 
 def fetch_reliefweb() -> list[dict]:
     if requests is None:
@@ -81,6 +79,8 @@ def fetch_reliefweb() -> list[dict]:
             source = sources[0].get("name", source) if isinstance(sources[0], dict) else source
         body = fields.get("body", "")
         excerpt = (body[:400] if isinstance(body, str) else "") or title
+        if not is_relevant(title, excerpt, source):
+            continue
         tags = _tags_from_text(title + " " + excerpt)
         items.append(_item(title, excerpt, source, date, url, tags))
     return items
@@ -112,15 +112,14 @@ def fetch_rss() -> list[dict]:
                     continue
                 title = entry.get("title", "Untitled")
                 excerpt = entry.get("summary", "")[:400] or title
-                text = f"{title} {excerpt}"
-                if require_filter and not GAZA_RE.search(text):
+                if not is_relevant(title, excerpt, source_name):
                     continue
                 ts = entry.get("published_parsed") or entry.get("updated_parsed")
                 if ts:
                     date = datetime(*ts[:6], tzinfo=timezone.utc).isoformat()
                 else:
                     date = datetime.now(timezone.utc).isoformat()
-                tag = "health" if source_name == "WHO" else _tags_from_text(text)[0]
+                tag = "health" if source_name == "WHO" else _tags_from_text(f"{title} {excerpt}")[0]
                 items.append(_item(title, excerpt, source_name, date, link, [tag, "humanitarian"]))
         except Exception as e:
             print(f"RSS failed {source_name}: {e}")

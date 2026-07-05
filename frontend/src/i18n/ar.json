@@ -93,7 +93,8 @@
     "credibility": "المصداقية",
     "auto_refresh": "مباشر — يتحدث كل دقيقة",
     "live_checked": "آخر فحص للأخبار",
-    "updating": "جاري التحديث…"
+    "updating": "جاري التحديث…",
+    "newest_story": "أحدث خبر"
   },
   "today": {
     "title": "الإنساني اليوم",

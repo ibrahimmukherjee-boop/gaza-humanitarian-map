@@ -12,7 +12,7 @@ import {
 } from "../services/offline";
 import HumanitarianToday from "../components/HumanitarianToday";
 import LiveIndicator from "../components/LiveIndicator";
-import { LIVE_META_OPTS } from "../hooks/useLiveRefresh";
+import { LIVE_META_OPTS, LIVE_QUERY_OPTS } from "../hooks/useLiveRefresh";
 
 const primaryLinks = [
   { to: "/resources", key: "home.links.resources", icon: "🏥" },
@@ -42,6 +42,13 @@ export default function HomePage() {
     queryKey: ["meta", liteMode ? "lite" : "full"],
     queryFn: () => api.meta({ lite: liteMode, cacheBust: !liteMode }),
     ...(liteMode ? { staleTime: 30 * 60_000 } : LIVE_META_OPTS),
+  });
+
+  const { dataUpdatedAt: newsCheckedAt } = useQuery({
+    queryKey: ["news", "full"],
+    queryFn: () => api.news({ cacheBust: true }),
+    enabled: !liteMode,
+    ...LIVE_QUERY_OPTS,
   });
 
   useEffect(() => {
@@ -84,7 +91,15 @@ export default function HomePage() {
             {!liteMode && <LiveIndicator />}
           </div>
           <p className="text-xs mt-0.5 text-slate-500">
-            {formatRelativeTime(meta.last_updated, i18n.language)} ·{" "}
+            {!liteMode && newsCheckedAt > 0 ? (
+              <>
+                {t("news.live_checked")}:{" "}
+                {formatRelativeTime(new Date(newsCheckedAt).toISOString(), i18n.language)}
+              </>
+            ) : (
+              formatRelativeTime(meta.last_updated, i18n.language)
+            )}
+            {" · "}
             {meta.facilities_count} {t("home.facilities")} · {meta.news_count}{" "}
             {t("home.news_items")}
           </p>
