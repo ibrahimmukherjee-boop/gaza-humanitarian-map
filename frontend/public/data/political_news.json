@@ -1,5 +1,31 @@
 [
   {
+    "id": "090c77ca7988",
+    "title_en": "Hamas said to decide to stall for time in talks for Gaza’s future, reject any concessions",
+    "title_ar": "",
+    "excerpt_en": "<p>Terror group reportedly deems Netanyahu inflexible in run-up to upcoming election, will wait to see who wins * 2 men arrested after pointing fake gun at synagogue-goers in Sydney</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-july-5-2026/\">Hamas said to decide to stall for time in talks for Gaza&#8217;s future, reject any concessions</a> appeared first on <a href=\"https://www.t",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-05T00:51:52+00:00",
+    "url": "https://www.timesofisrael.com/liveblog-july-5-2026/",
+    "credibility": "medium"
+  },
+  {
+    "id": "1b08db8ee75f",
+    "title_en": "Iran war live: Huge crowds mourn Khamenei, Trump vows calm during funeral",
+    "title_ar": "",
+    "excerpt_en": "Iran&#039;s late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-05T00:00:00+00:00",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "81eaf39ec224",
     "title_en": "Trump says Netanyahu ‘knows who the boss is,’ will meet with him as soon as next week",
     "title_ar": "",
@@ -36,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-04T16:30:30+00:00",
     "url": "https://www.timesofisrael.com/three-palestinians-said-injured-by-idf-amid-settler-attack-on-west-bank-village/",
-    "credibility": "medium"
-  },
-  {
-    "id": "d7bcdbad9a56",
-    "title_en": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
-    "title_ar": "",
-    "excerpt_en": "A further nine bodies were recovered from under the rubble, according to Gaza&#039;s Ministry of Health.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-04T16:23:48+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
