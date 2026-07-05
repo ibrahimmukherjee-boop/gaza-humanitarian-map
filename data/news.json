@@ -1,73 +1,5 @@
 [
   {
-    "id": "82513d3cc23e",
-    "title_en": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-    "title_ar": "",
-    "excerpt_en": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the onset of the US-Israel war with Iran.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-05T12:29:18+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "8dac22acb230",
-    "title_en": "How Iran's new regime is very different to what came before",
-    "title_ar": "",
-    "excerpt_en": "Khamenei's funeral is another reminder of the change Iran has seen, but what does its new leadership want?",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-05T05:40:07+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "dbb495cb19f9",
-    "title_en": "BBC in Tehran as mourners gather for former supreme leader's funeral",
-    "title_ar": "",
-    "excerpt_en": "Iranian authorities say they expect millions of people to take part in funeral commemorations for Ayatollah Ali Khamenei.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-04T16:49:36+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/c5yz9jn0xkko?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "ab36161931f8",
-    "title_en": "Bomb blast at Damascus cafe kills nine, Syrian state media say",
-    "title_ar": "",
-    "excerpt_en": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-03T06:42:14+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "9d5b25a5b8da",
     "title_en": "Today's top news: Venezuela, Ukraine, Occupied Palestinian Territory, Lebanon, Sudan, Democratic Republic of the Congo",
     "title_ar": "",
@@ -76,23 +8,6 @@
     "source": "OCHA",
     "timestamp": "2026-07-02T16:00:05+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-venezuela-ukraine-occupied-palestinian-territory-lebanon-sudan-democratic",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "4ee1843c9b30",
-    "title_en": "Security Council LIVE: Emergency meeting on Iranian attack in Bahrain",
-    "title_ar": "",
-    "excerpt_en": "The 15-member Security Council is meeting in emergency session on Thursday morning to address the escalating tensions in the Gulf region following Iran attacks in recent days on Bahrain and Kuwait while Tehran and Washington continue to trade strikes over the Strait of Hormuz chokepoint. Stay tuned for live updates.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-07-02T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167860",
     "tags": [
       "humanitarian"
     ],
@@ -120,21 +35,22 @@
     "credibility": "medium"
   },
   {
-    "id": "ae5ac101d588",
-    "title_en": "Syria's president names final 70 lawmakers to new post-Assad parliament",
+    "id": "6cd5e0a6d268",
+    "title_en": "Venezuela - Earthquake response - 1 July 2026",
     "title_ar": "",
-    "excerpt_en": "Fifteen women are appointed, after only six female candidates were selected by regional electoral colleges last October.",
+    "excerpt_en": "<span>Venezuela - Earthquake response - 1 July 2026 </span>\n\n            <div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Description<br />STORY: OCHA / VENEZUELA EARTHQUAKES DISPLACED RESPONSE<br />TRT: 6:27<br />SOURCE: OCHA<br />RESTRICTIONS: PLEASE CREDIT OCHA ON SCREEN<br />LANGUAGE: SPANISH / NATS</p>\n<p>DATELINE: 30 JUNE 2026 LA GUAIRA, VE",
     "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-01T16:44:58+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1jyk4985xwo?at_medium=RSS&at_campaign=rss",
+    "source": "OCHA",
+    "timestamp": "2026-07-01T20:34:47+00:00",
+    "url": "https://www.unocha.org/media-centre/venezuela-earthquake-response-1-july-2026",
     "tags": [
+      "displacement",
       "humanitarian"
     ],
     "location_tags": [
       "Gaza Strip"
     ],
-    "credibility": "medium"
+    "credibility": "high"
   },
   {
     "id": "7a2c7736d55a",
@@ -169,23 +85,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "f1e1c5fe8fc4",
-    "title_en": "US envoys in Doha to meet mediators but not Iranians, Qatar says",
-    "title_ar": "",
-    "excerpt_en": "Qatar's foreign ministry spokesman says no high-level meetings or direct talks between the US and Iran are scheduled.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-30T23:41:11+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cpd38x1dy4no?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "8c529d475a5f",
@@ -223,24 +122,6 @@
     "credibility": "high"
   },
   {
-    "id": "ed4123730d7b",
-    "title_en": "Strait of Hormuz: Gradual re-opening is no quick fix for developing nations, UN warns",
-    "title_ar": "",
-    "excerpt_en": "Re-opening the Strait of Hormuz would bring vital relief for many economies, but developing countries will continue to grapple with increased food and fuel costs, according to&nbsp;a new UN report released on Tuesday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-30T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167844",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "af4034113c66",
     "title_en": "Today's top news: Venezuela, Lebanon, Occupied Palestinian Territory, Sudan, Afghanistan",
     "title_ar": "",
@@ -249,23 +130,6 @@
     "source": "OCHA",
     "timestamp": "2026-06-29T16:50:37+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-venezuela-lebanon-occupied-palestinian-territory-sudan-afghanistan",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "d4f6f95dd9b3",
-    "title_en": "Middle East conflict leaves developing countries paying the price",
-    "title_ar": "",
-    "excerpt_en": "With another weekend of strikes involving the United States and Iran, renewed diplomatic efforts on Monday have eased immediate fears of escalation, but the economic shockwaves are already taking a heavy toll on some of the world's poorest countries.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-29T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167831",
     "tags": [
       "humanitarian"
     ],
@@ -292,215 +156,6 @@
     "credibility": "high"
   },
   {
-    "id": "c4e146fd9d31",
-    "title_en": "Fourteen killed in Saudi Arabia helicopter crash",
-    "title_ar": "",
-    "excerpt_en": "The aircraft belonged to state oil giant Aramco and the cause of the crash is being investigated.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-28T15:42:01+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c3eyd9j5g7xo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "54dc1071f4f8",
-    "title_en": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-    "title_ar": "",
-    "excerpt_en": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-28T04:54:50+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "ab344332f459",
-    "title_en": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
-    "title_ar": "",
-    "excerpt_en": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-27T21:35:40+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kpn0eeweo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "2cdce3d9a078",
-    "title_en": "US strikes Iran after attack on cargo ship",
-    "title_ar": "",
-    "excerpt_en": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-27T10:40:38+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "1b594f6853bb",
-    "title_en": "Israel and Lebanon sign framework agreement after US-brokered talks",
-    "title_ar": "",
-    "excerpt_en": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-26T22:55:28+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cg5315n1v5go?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "41afd7ed6d92",
-    "title_en": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-    "title_ar": "",
-    "excerpt_en": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-26T18:03:32+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "cb9954531ac5",
-    "title_en": "Strait of Hormuz: UN evacuates 2,500 seafarers before attack freezes rescue operation",
-    "title_ar": "",
-    "excerpt_en": "The United Nations’ maritime agency said on Friday that it had successfully evacuated about 2,500 stranded seafarers from the Persian Gulf before suspending the operation, after an attack on a commercial vessel exposed uncertainty over who can guarantee safe passage through the Strait of Hormuz.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-26T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167818",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "14cd0d46c8a9",
-    "title_en": "UN pauses Strait of Hormuz evacuation plan after cargo ship attacked",
-    "title_ar": "",
-    "excerpt_en": "The ship was reportedly struck by an \"unknown projectile\" near Oman but no casualties were reported.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-26T11:27:59+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cjwg9np904qo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "be025087e630",
-    "title_en": "Rainbow flags await Egypt and Iran at awkward Pride Match",
-    "title_ar": "",
-    "excerpt_en": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-26T11:20:11+00:00",
-    "url": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "80b13a8a2212",
-    "title_en": "Security Council extends critical stabilisation force in Syria",
-    "title_ar": "",
-    "excerpt_en": "The 15-member Security Council unanimously adopted a draft resolution on Thursday renewing the mandate of the UN Disengagement Observer Force (UNDOF) for six months.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-25T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167813",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "bca4ed81851d",
-    "title_en": "From Lebanon to the Strait of Hormuz, a Middle East hanging on fragile peace talks",
-    "title_ar": "",
-    "excerpt_en": "Since Tuesday, United Nations peacekeepers have detected no airstrikes or new missile fire in southern Lebanon. The lull remains fragile, however, as Israeli drones continue to fly over the area and military operations continue on the ground.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-25T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167811",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "54118915dc5c",
-    "title_en": "Stranded Hormuz seafarers begin mass evacuation operation",
-    "title_ar": "",
-    "excerpt_en": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-24T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167794",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "5375995620fa",
     "title_en": "Israel continues to commit genocide, atrocity crimes by deliberately targeting Palestinian children, UN independent commission finds",
     "title_ar": "",
@@ -511,40 +166,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "d5ea94cf9dbb",
-    "title_en": "‘Better future for Syria remains within reach,’ UN Security Council hears",
-    "title_ar": "",
-    "excerpt_en": "Syria has emerged after more than a decade of crisis with “clear signs of progress”, but acute needs remain and efforts must boost support so the country can “move from survival towards recovery”, UN officials told the Security Council on Monday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-22T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167779",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "1b437e2855bf",
-    "title_en": "UN welcomes fresh Lebanon ceasefire reports as rights experts urge Iran accountability",
-    "title_ar": "",
-    "excerpt_en": "The United Nations has welcomed reports of a new ceasefire agreement between Israel and Hezbollah on Friday while warning that civilians on the ground are still fleeing amid ongoing insecurity.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-19T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167768",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
@@ -571,76 +192,6 @@
     "credibility": "high"
   },
   {
-    "id": "b8e47f7a7243",
-    "title_en": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
-    "title_ar": "",
-    "excerpt_en": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-19T05:33:59+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "bc685f570201",
-    "title_en": "What Iran and US get from deal and why both could struggle to keep it",
-    "title_ar": "",
-    "excerpt_en": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-18T20:04:40+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "6d98b5e987a5",
-    "title_en": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-    "title_ar": "",
-    "excerpt_en": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-18T15:53:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "infrastructure",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "8706a2b5fa2e",
-    "title_en": "UN upholds freedom of movement for peacekeepers in Lebanon",
-    "title_ar": "",
-    "excerpt_en": "The United Nations has again called for freedom of movement for its peacekeepers in Lebanon who continue to closely monitor developments in the south of the country, including in the wake of the recent provisional agreement signed by the United States and Iran.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-18T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167758",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "6dc8ea99e677",
     "title_en": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
     "title_ar": "",
@@ -651,110 +202,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
     "tags": [
       "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "01418f39a72d",
-    "title_en": "US-Iran deal: technical work can begin, says atomic energy agency",
-    "title_ar": "",
-    "excerpt_en": "The head of the UN-affiliated atomic energy agency on Thursday welcomed the signing of an initial Iran-US memorandum aimed at ending the war, before proposing “to sit down” with both parties to assist with concrete measures such as verification of Iran’s nuclear programme, a key sticking point.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-18T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167748",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e2209d50432c",
-    "title_en": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
-    "title_ar": "",
-    "excerpt_en": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-18T01:29:32+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "cc23898507f9",
-    "title_en": "Lebanon: 12 children killed, maimed daily, despite Hezbollah-Israel truce",
-    "title_ar": "",
-    "excerpt_en": "More than 100 days of war reveals a shattering snapshot of life for civilians in Lebanon amid Israeli strikes and forced displacement, the UN Children’s Fund (UNICEF) reported on Wednesday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-17T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167736",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "d0e86925815d",
-    "title_en": "Status quo at Jerusalem's holiest site under threat as Israeli nationalists flout rules",
-    "title_ar": "",
-    "excerpt_en": "Israeli nationalists are increasingly flouting a convention on how faiths share the al-Aqsa mosque compound.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-06-17T09:13:34+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cwy0nlv90jno?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "8d48d64d5b02",
-    "title_en": "UN officials call for urgent action in Yemen to push peace, reduce hunger",
-    "title_ar": "",
-    "excerpt_en": "Top UN officials called for bolstered efforts to stave off rising hunger and foster a path towards permanent peace in Yemen as they briefed the Security Council Tuesday morning.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-16T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167728",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "9c957e91ed45",
-    "title_en": "While world waits for details on Iran-US accord, UN calls for Hormuz aid corridor",
-    "title_ar": "",
-    "excerpt_en": "As representatives of Iran and the United States reportedly prepared to sign a new peace agreement at the end of the week, the UN on Monday stressed the urgent need to open an aid corridor to transit the choked-off Strait of Hormuz and prevent a global hunger crisis.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-15T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
