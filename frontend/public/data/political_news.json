@@ -1,5 +1,31 @@
 [
   {
+    "id": "4e3bf4008f10",
+    "title_en": "Pro-Palestine protesters rally for ‘Filton 25’ activists at UK court",
+    "title_ar": "",
+    "excerpt_en": "Pro-Palestine protesters rally for &#039;Filton 25’ activists at UK court.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-06T19:29:00+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/pro-palestine-protesters-rally-for-filton-25-activists-at-uk-court?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e7be2ab02c0c",
+    "title_en": "US liberals ‘license’ antisemitism when framed as Israel criticism – psych study",
+    "title_ar": "",
+    "excerpt_en": "<p>Researchers find that progressive Americans, but not conservatives, like prejudiced individuals more when they justify Jew-hatred with statements about Gaza or Palestinian rights</p>\n<p>The post <a href=\"https://www.timesofisrael.com/us-liberals-license-antisemitism-when-framed-as-israel-criticism-psych-study/\">US liberals &#8216;license&#8217; antisemitism when framed as Israel criticism &#821",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-06T19:07:34+00:00",
+    "url": "https://www.timesofisrael.com/us-liberals-license-antisemitism-when-framed-as-israel-criticism-psych-study/",
+    "credibility": "medium"
+  },
+  {
     "id": "3f9f8090d3ac",
     "title_en": "Israeli police officer filmed throwing stun grenade into car in West Bank",
     "title_ar": "",
@@ -26,16 +52,16 @@
     "credibility": "medium"
   },
   {
-    "id": "66b4122f0de1",
-    "title_en": "UN discusses prevention of genocide: Six times it failed to do just that",
+    "id": "2470daebbedd",
+    "title_en": "France, Spain and Portugal | Wildfires and UCPM response - DG ECHO Daily Map | 06/07/2026",
     "title_ar": "",
-    "excerpt_en": "The UN General Assembly meets amid Israel&#039;s genocide on Gaza, Myanmar&#039;s genocide against the Rohingya, and other crises.",
+    "excerpt_en": "<div class=\"tag country\">Countries: Spain, France, Portugal</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thum",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "ReliefWeb",
     "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-06T15:38:35+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-06T16:17:20+00:00",
+    "url": "https://reliefweb.int/map/spain/france-spain-and-portugal-wildfires-and-ucpm-response-dg-echo-daily-map-06072026",
     "credibility": "medium"
   },
   {
@@ -52,16 +78,55 @@
     "credibility": "medium"
   },
   {
-    "id": "c0a12a687918",
-    "title_en": "Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion",
+    "id": "c810c07801a5",
+    "title_en": "World: Attacks on Health Care Bi-Monthly News Brief, 10-23 June 2026",
     "title_ar": "",
-    "excerpt_en": "Smotrich declares a settlement &#039;revolution&#039; as Israel approves 13 new outposts during big increase in settler violence.",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Colombia, Democratic Republic of the Congo, Ethiopia, Haiti, Lebanon, Myanmar, Nigeria, occupied Palestinian territory, Pakistan, Sudan, Syrian Arab Republic, Ukraine, Yemen</div>\n                                      <div class=\"tag source\">Source: Insecurity Insight</div>\n                                                                              <p><",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "ReliefWeb",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-07-06T15:02:20+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/6/israels-smotrich-declares-revolution-in-west-bank-settlement-expansion?traffic_source=rss",
+    "timestamp": "2026-07-06T14:10:51+00:00",
+    "url": "https://reliefweb.int/report/world/attacks-health-care-bi-monthly-news-brief-10-23-june-2026",
+    "credibility": "medium"
+  },
+  {
+    "id": "74e0b543a2fe",
+    "title_en": "World: Protection Capacities Under Pressure: Evidence from Consultations with Protection Partners across 22 Operations",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/03/ce/03ce3d6c-ad59-58b9-813d-89fe550f3d3f.png\"",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-06T13:33:08+00:00",
+    "url": "https://reliefweb.int/report/world/protection-capacities-under-pressure-evidence-consultations-protection-partners-across-22-operations",
+    "credibility": "medium"
+  },
+  {
+    "id": "c09501584f86",
+    "title_en": "World: Protection cluster approach to joined-up protection analysis (Version 02.07.2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/50/cd/50cd7ae7-b02f-5612-b64d-77b04de76aea.png\"",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-06T13:03:07+00:00",
+    "url": "https://reliefweb.int/report/world/protection-cluster-approach-joined-protection-analysis-version-02072026",
+    "credibility": "medium"
+  },
+  {
+    "id": "0a65ba7f09dd",
+    "title_en": "Turkish Red Crescent: Response to the Venezuela Earthquake : Humanitarian Situation (as of July 6 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Turkish Red Crescent Society</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/eb/13/eb13aefa-20d9-4eb6-8",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-06T12:57:10+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/turkish-red-crescent-response-venezuela-earthquake-humanitarian-situation-july-6-2026",
     "credibility": "medium"
   },
   {
@@ -78,6 +143,19 @@
     "credibility": "medium"
   },
   {
+    "id": "4f3545279766",
+    "title_en": "Cameroon: 2026 - Humanitarian Needs and Response Plan (HNRP) Funding Overview (as of 1 July 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Cameroon</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d0/35/d035cb0d-fe36-4a9a-9597-46d068de4096.p",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-06T10:45:39+00:00",
+    "url": "https://reliefweb.int/report/cameroon/cameroon-2026-humanitarian-needs-and-response-plan-hnrp-funding-overview-1-july-2026",
+    "credibility": "medium"
+  },
+  {
     "id": "b6b7dbb58d5e",
     "title_en": "Anti-Israel group files complaint in Netherlands against 2 MKs for ‘incitement to genocide’",
     "title_ar": "",
@@ -88,6 +166,19 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T10:37:08+00:00",
     "url": "https://www.timesofisrael.com/anti-israel-group-files-complaint-in-netherlands-against-2-mks-for-incitement-to-genocide/",
+    "credibility": "medium"
+  },
+  {
+    "id": "7f1c4d4e4ac0",
+    "title_en": "WFP Colombia Country Brief June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Colombia</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/39/6c/396c0a2e-1e61-4a43-86c2-fc9d0202894c.png\" /></p>\n                       ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-06T10:29:42+00:00",
+    "url": "https://reliefweb.int/report/colombia/wfp-colombia-country-brief-june-2026",
     "credibility": "medium"
   },
   {
