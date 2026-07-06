@@ -1,15 +1,41 @@
 [
   {
-    "id": "d12d455c6470",
-    "title_en": "Funeral procession for slain Iranian leader Khamenei sets off in central Tehran",
+    "id": "2b27ef84cadd",
+    "title_en": "Moment Israeli soldier hurls stun grenade into Palestinians’ car",
     "title_ar": "",
-    "excerpt_en": "<p>Hamas said set to dissolve its Gaza government to allow in technocratic panel * Venezuela quake death toll rises to 3,342, with thousands still missing</p>\n<p>The post <a href=\"https://www.timesofisrael.com/liveblog-july-6-2026/\">Funeral procession for slain Iranian leader Khamenei sets off in central Tehran</a> appeared first on <a href=\"https://www.timesofisrael.com\">The Times of Israel</a>.<",
+    "excerpt_en": "Security camera video appears to show an Israeli soldier throwing a stun grenade into a car carrying young Palestinians.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-06T08:19:20+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/moment-israeli-soldier-hurls-stun-grenade-into-palestinians-car?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7e484cc2c626",
+    "title_en": "Border Police officer throws stun grenade into Palestinian car, blocks driver’s exit",
+    "title_ar": "",
+    "excerpt_en": "<p>Police says officer suspended, incident under investigation; video shows flashbang going off while occupants inside, driver apparently unharmed; 6 said injured in settler attack</p>\n<p>The post <a href=\"https://www.timesofisrael.com/border-police-officer-throws-stun-grenade-into-palestinian-car-blocks-drivers-exit/\">Border Police officer throws stun grenade into Palestinian car, blocks driver’s",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-06T07:43:06+00:00",
+    "url": "https://www.timesofisrael.com/border-police-officer-throws-stun-grenade-into-palestinian-car-blocks-drivers-exit/",
+    "credibility": "medium"
+  },
+  {
+    "id": "48912a8d2f4a",
+    "title_en": "Report: Hamas plans to dissolve its Gaza government to allow in technocratic panel",
+    "title_ar": "",
+    "excerpt_en": "<p>Planned dissolution comes as terror group said seeking to stall for time in talks over Trump plan implementation, believing Netanyahu doing the same ahead of election</p>\n<p>The post <a href=\"https://www.timesofisrael.com/report-hamas-plans-to-dissolve-its-gaza-government-to-allow-in-technocratic-panel/\">Report: Hamas plans to dissolve its Gaza government to allow in technocratic panel</a> appe",
     "excerpt_ar": "",
     "source": "Times of Israel",
     "source_region": "israel",
     "statement_type": "official_statement",
-    "timestamp": "2026-07-06T03:07:06+00:00",
-    "url": "https://www.timesofisrael.com/liveblog-july-6-2026/",
+    "timestamp": "2026-07-06T06:16:43+00:00",
+    "url": "https://www.timesofisrael.com/report-hamas-plans-to-dissolve-its-gaza-government-to-allow-in-technocratic-panel/",
     "credibility": "medium"
   },
   {
@@ -23,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-05T22:48:21+00:00",
     "url": "https://www.timesofisrael.com/adam-sandler-officiates-taylor-swifts-wedding-fueling-debate-on-singers-israel-stance/",
-    "credibility": "medium"
-  },
-  {
-    "id": "133f94c0a8ed",
-    "title_en": "Palestinian baby dies in West Bank after Israel blocks urgent medical care",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces also shoot dead a 16-year-old boy in the occupied West Bank and kill two Palestinians in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-05T22:03:52+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/5/palestinian-baby-dies-in-west-bank-after-israel-blocks-urgent-medical-care?traffic_source=rss",
     "credibility": "medium"
   },
   {
