@@ -1,5 +1,146 @@
 [
   {
+    "id": "1080ad53fe76",
+    "title_en": "Today's top news: Sudan, Ukraine, Venezuela, Occupied Palestinian Territory, Democratic Republic of the Congo, Myanmar",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Sudan, Ukraine, Venezuela, Occupied Palestinian Territory, Democratic Republic of the Congo, Myanmar</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--l",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-07-06T16:25:28+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-sudan-ukraine-venezuela-occupied-palestinian-territory-democratic-republic",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "2470daebbedd",
+    "title_en": "France, Spain and Portugal | Wildfires and UCPM response - DG ECHO Daily Map | 06/07/2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Spain, France, Portugal</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thum",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T16:17:20+00:00",
+    "url": "https://reliefweb.int/map/spain/france-spain-and-portugal-wildfires-and-ucpm-response-dg-echo-daily-map-06072026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "c810c07801a5",
+    "title_en": "World: Attacks on Health Care Bi-Monthly News Brief, 10-23 June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Colombia, Democratic Republic of the Congo, Ethiopia, Haiti, Lebanon, Myanmar, Nigeria, occupied Palestinian territory, Pakistan, Sudan, Syrian Arab Republic, Ukraine, Yemen</div>\n                                      <div class=\"tag source\">Source: Insecurity Insight</div>\n                                                                              <p><",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T14:10:51+00:00",
+    "url": "https://reliefweb.int/report/world/attacks-health-care-bi-monthly-news-brief-10-23-june-2026",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "74e0b543a2fe",
+    "title_en": "World: Protection Capacities Under Pressure: Evidence from Consultations with Protection Partners across 22 Operations",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/03/ce/03ce3d6c-ad59-58b9-813d-89fe550f3d3f.png\"",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T13:33:08+00:00",
+    "url": "https://reliefweb.int/report/world/protection-capacities-under-pressure-evidence-consultations-protection-partners-across-22-operations",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "c09501584f86",
+    "title_en": "World: Protection cluster approach to joined-up protection analysis (Version 02.07.2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/50/cd/50cd7ae7-b02f-5612-b64d-77b04de76aea.png\"",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T13:03:07+00:00",
+    "url": "https://reliefweb.int/report/world/protection-cluster-approach-joined-protection-analysis-version-02072026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "0a65ba7f09dd",
+    "title_en": "Turkish Red Crescent: Response to the Venezuela Earthquake : Humanitarian Situation (as of July 6 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Turkish Red Crescent Society</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/eb/13/eb13aefa-20d9-4eb6-8",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T12:57:10+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/turkish-red-crescent-response-venezuela-earthquake-humanitarian-situation-july-6-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "4f3545279766",
+    "title_en": "Cameroon: 2026 - Humanitarian Needs and Response Plan (HNRP) Funding Overview (as of 1 July 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Cameroon</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d0/35/d035cb0d-fe36-4a9a-9597-46d068de4096.p",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T10:45:39+00:00",
+    "url": "https://reliefweb.int/report/cameroon/cameroon-2026-humanitarian-needs-and-response-plan-hnrp-funding-overview-1-july-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "7f1c4d4e4ac0",
+    "title_en": "WFP Colombia Country Brief June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Colombia</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/39/6c/396c0a2e-1e61-4a43-86c2-fc9d0202894c.png\" /></p>\n                       ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T10:29:42+00:00",
+    "url": "https://reliefweb.int/report/colombia/wfp-colombia-country-brief-june-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "9d5b25a5b8da",
     "title_en": "Today's top news: Venezuela, Ukraine, Occupied Palestinian Territory, Lebanon, Sudan, Democratic Republic of the Congo",
     "title_ar": "",
