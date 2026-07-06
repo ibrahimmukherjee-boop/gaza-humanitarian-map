@@ -1,5 +1,44 @@
 [
   {
+    "id": "66b4122f0de1",
+    "title_en": "UN discusses prevention of genocide: Six times it failed to do just that",
+    "title_ar": "",
+    "excerpt_en": "The UN General Assembly meets amid Israel&#039;s genocide on Gaza, Myanmar&#039;s genocide against the Rohingya, and other crises.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-06T15:38:35+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/6/un-discusses-prevention-of-genocide-six-times-it-failed-to-do-just-that?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "893e9518077b",
+    "title_en": "West Bank arts fest returns for first time since Gaza war, in ‘act of resistance’",
+    "title_ar": "",
+    "excerpt_en": "<p>'Without music and joy, for me there is no life,' says participant, as Palestinian and Arab Israeli artists take part in 11-day celebration of Palestinian identity in Ramallah</p>\n<p>The post <a href=\"https://www.timesofisrael.com/west-bank-arts-fest-returns-for-first-time-since-gaza-war-in-act-of-resistance/\">West Bank arts fest returns for first time since Gaza war, in &#8216;act of resistanc",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-06T15:03:20+00:00",
+    "url": "https://www.timesofisrael.com/west-bank-arts-fest-returns-for-first-time-since-gaza-war-in-act-of-resistance/",
+    "credibility": "medium"
+  },
+  {
+    "id": "c0a12a687918",
+    "title_en": "Israel’s Smotrich declares ‘revolution’ in West Bank settlement expansion",
+    "title_ar": "",
+    "excerpt_en": "Smotrich declares a settlement &#039;revolution&#039; as Israel approves 13 new outposts during big increase in settler violence.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-06T15:02:20+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/6/israels-smotrich-declares-revolution-in-west-bank-settlement-expansion?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f5f998470fc6",
     "title_en": "Hamas announces dissolution of Gaza governing body",
     "title_ar": "",
@@ -13,19 +52,6 @@
     "credibility": "medium"
   },
   {
-    "id": "74e0b543a2fe",
-    "title_en": "World: Protection Capacities Under Pressure: Evidence from Consultations with Protection Partners across 22 Operations",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/03/ce/03ce3d6c-ad59-58b9-813d-89fe550f3d3f.png\"",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-06T13:33:08+00:00",
-    "url": "https://reliefweb.int/report/world/protection-capacities-under-pressure-evidence-consultations-protection-partners-across-22-operations",
-    "credibility": "medium"
-  },
-  {
     "id": "65b30ba1214e",
     "title_en": "Baby dies after Israeli troops block emergency journey to hospital",
     "title_ar": "",
@@ -36,32 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T13:13:53+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/baby-dies-after-israeli-troops-block-emergency-journey-to-hospital?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c09501584f86",
-    "title_en": "World: Protection cluster approach to joined-up protection analysis (Version 02.07.2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/50/cd/50cd7ae7-b02f-5612-b64d-77b04de76aea.png\"",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-06T13:03:07+00:00",
-    "url": "https://reliefweb.int/report/world/protection-cluster-approach-joined-protection-analysis-version-02072026",
-    "credibility": "medium"
-  },
-  {
-    "id": "0a65ba7f09dd",
-    "title_en": "Turkish Red Crescent: Response to the Venezuela Earthquake : Humanitarian Situation (as of July 6 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: Turkish Red Crescent Society</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/eb/13/eb13aefa-20d9-4eb6-8",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-06T12:57:10+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/turkish-red-crescent-response-venezuela-earthquake-humanitarian-situation-july-6-2026",
     "credibility": "medium"
   },
   {
@@ -104,19 +104,6 @@
     "credibility": "medium"
   },
   {
-    "id": "4f3545279766",
-    "title_en": "Cameroon: 2026 - Humanitarian Needs and Response Plan (HNRP) Funding Overview (as of 1 July 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Cameroon</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d0/35/d035cb0d-fe36-4a9a-9597-46d068de4096.p",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-06T10:45:39+00:00",
-    "url": "https://reliefweb.int/report/cameroon/cameroon-2026-humanitarian-needs-and-response-plan-hnrp-funding-overview-1-july-2026",
-    "credibility": "medium"
-  },
-  {
     "id": "b6b7dbb58d5e",
     "title_en": "Anti-Israel group files complaint in Netherlands against 2 MKs for ‘incitement to genocide’",
     "title_ar": "",
@@ -127,32 +114,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T10:37:08+00:00",
     "url": "https://www.timesofisrael.com/anti-israel-group-files-complaint-in-netherlands-against-2-mks-for-incitement-to-genocide/",
-    "credibility": "medium"
-  },
-  {
-    "id": "7f1c4d4e4ac0",
-    "title_en": "WFP Colombia Country Brief June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Colombia</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/39/6c/396c0a2e-1e61-4a43-86c2-fc9d0202894c.png\" /></p>\n                       ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-06T10:29:42+00:00",
-    "url": "https://reliefweb.int/report/colombia/wfp-colombia-country-brief-june-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "7e484cc2c626",
-    "title_en": "Border Police officer throws stun grenade into Palestinian car, blocks driver’s exit",
-    "title_ar": "",
-    "excerpt_en": "<p>Police says officer suspended, incident under investigation; video shows flashbang going off while occupants inside, driver apparently unharmed; 6 said injured in settler attack</p>\n<p>The post <a href=\"https://www.timesofisrael.com/border-police-officer-throws-stun-grenade-into-palestinian-car-blocks-drivers-exit/\">Border Police officer throws stun grenade into Palestinian car, blocks driver’s",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-06T07:43:06+00:00",
-    "url": "https://www.timesofisrael.com/border-police-officer-throws-stun-grenade-into-palestinian-car-blocks-drivers-exit/",
     "credibility": "medium"
   },
   {
