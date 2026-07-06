@@ -39,19 +39,6 @@
     "credibility": "high"
   },
   {
-    "id": "575b37c73827",
-    "title_en": "UN rights body demands release of Palestinian doctor detained by Israel",
-    "title_ar": "",
-    "excerpt_en": "Hussam Abu Safia&#039;s family and lawyer say his life is in imminent danger and shows signs of having been tortured.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-06T17:09:38+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/6/un-rights-body-demands-release-of-palestinian-doctor-detained-by-israel?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "2470daebbedd",
     "title_en": "France, Spain and Portugal | Wildfires and UCPM response - DG ECHO Daily Map | 06/07/2026",
     "title_ar": "",
@@ -141,6 +128,19 @@
     "timestamp": "2026-07-06T12:40:37+00:00",
     "url": "https://www.timesofisrael.com/hamas-dissolves-gaza-government-ahead-of-eventual-transfer-of-power-to-technocrats/",
     "credibility": "medium"
+  },
+  {
+    "id": "837070e9db81",
+    "title_en": "Occupied Palestinian Territory: Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
+    "title_ar": "",
+    "excerpt_en": "Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-06T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+    "credibility": "high"
   },
   {
     "id": "4f3545279766",
