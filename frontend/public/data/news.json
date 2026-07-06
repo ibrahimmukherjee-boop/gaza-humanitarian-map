@@ -1,5 +1,41 @@
 [
   {
+    "id": "74e0b543a2fe",
+    "title_en": "World: Protection Capacities Under Pressure: Evidence from Consultations with Protection Partners across 22 Operations",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/03/ce/03ce3d6c-ad59-58b9-813d-89fe550f3d3f.png\"",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T13:33:08+00:00",
+    "url": "https://reliefweb.int/report/world/protection-capacities-under-pressure-evidence-consultations-protection-partners-across-22-operations",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "c09501584f86",
+    "title_en": "World: Protection cluster approach to joined-up protection analysis (Version 02.07.2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/50/cd/50cd7ae7-b02f-5612-b64d-77b04de76aea.png\"",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-06T13:03:07+00:00",
+    "url": "https://reliefweb.int/report/world/protection-cluster-approach-joined-protection-analysis-version-02072026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "0a65ba7f09dd",
     "title_en": "Turkish Red Crescent: Response to the Venezuela Earthquake : Humanitarian Situation (as of July 6 2026)",
     "title_ar": "",
@@ -42,76 +78,6 @@
     "source": "ReliefWeb",
     "timestamp": "2026-07-06T10:29:42+00:00",
     "url": "https://reliefweb.int/report/colombia/wfp-colombia-country-brief-june-2026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "8c6af957ddbf",
-    "title_en": "Syrian Arab Republic: Operational Snapshot | Liquidity and Exchange Rate Constraints Affecting Humanitarian Assistance",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/91/67/9167c335-9da2-483f-bf68-d5",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-06T09:45:56+00:00",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-operational-snapshot-liquidity-and-exchange-rate-constraints-affecting-humanitarian-assistance",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "8da91e564345",
-    "title_en": "Viet Nam: Flash Update: No. 1 – Tropical Cyclone MAYSAK – 5 July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Viet Nam</div>\n                                      <div class=\"tag source\">Source: ASEAN Coordinating Centre for Humanitarian Assistance</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/a5/d7/a5d74c39-3e28-48b2-af",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-06T09:39:47+00:00",
-    "url": "https://reliefweb.int/report/viet-nam/flash-update-no-1-tropical-cyclone-maysak-5-july-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "b749804f44fc",
-    "title_en": "Italy weekly sea arrivals update - 6 July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Italy, World</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/43/f6/43f6972c-a6b3-558a-81ee-95ae6bc61f94.png\" /></p>\n    ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-06T09:03:10+00:00",
-    "url": "https://reliefweb.int/report/italy/italy-weekly-sea-arrivals-update-6-july-2026",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "693bee345f3f",
-    "title_en": "WFP Venezuela Earthquakes Response Situation Report 5 July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/71/54/7154e33c-fa39-41b8-a83e-a9d6",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-06T08:47:23+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-earthquakes-response-situation-report-5-july-2026",
     "tags": [
       "aid",
       "humanitarian"
