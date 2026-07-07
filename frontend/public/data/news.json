@@ -1,5 +1,109 @@
 [
   {
+    "id": "f58675ba3c3b",
+    "title_en": "Syrian Arab Republic: Ar-Raqqa Governorate Profile | June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/99/cf/99cffe49-dd4d-48cf-bb0c-11",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-07T08:45:26+00:00",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-ar-raqqa-governorate-profile-june-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "97f385fe8688",
+    "title_en": "Syrian Arab Republic: Al-Hasakeh Governorate Profile | June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/08/90/0890563e-a8b0-44f9-a467-09",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-07T08:33:42+00:00",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-al-hasakeh-governorate-profile-june-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "be5c04b55339",
+    "title_en": "Syrian Arab Republic: Aleppo Governorate Profile | June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/23/43/23432c74-d231-45af-8ed9-e2",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-07T08:24:46+00:00",
+    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-aleppo-governorate-profile-june-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "58f48d285cee",
+    "title_en": "Indonesia: ASEAN Weekly Disaster Update Week 27 | 29 June - 5 July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Indonesia, Thailand, Viet Nam</div>\n                                      <div class=\"tag source\">Source: ASEAN Coordinating Centre for Humanitarian Assistance</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/3d/43/3d431b91-ed64-47",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-07T08:05:19+00:00",
+    "url": "https://reliefweb.int/report/indonesia/asean-weekly-disaster-update-week-27-29-june-5-july-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "220fa2bb5da4",
+    "title_en": "UNHCR Tunisia Monthly Operational Update (May 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Tunisia</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/66/c0/66c0fa52-0af9-5073-82ff-a928b1e60555.png\" /></p>\n           ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-07T08:03:10+00:00",
+    "url": "https://reliefweb.int/report/tunisia/unhcr-tunisia-monthly-operational-update-may-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "0196686c6cc0",
+    "title_en": "Joint Government of Bangladesh - UNHCR Population map as of June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Bangladesh</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/94/0c/940c4ac6-a6da-5cbb-8bad-e55ef02eec75.png\" /></p>\n        ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-07T07:03:18+00:00",
+    "url": "https://reliefweb.int/map/bangladesh/joint-government-bangladesh-unhcr-population-map-june-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "3f9f8090d3ac",
     "title_en": "Israeli police officer filmed throwing stun grenade into car in West Bank",
     "title_ar": "",
