@@ -1,15 +1,15 @@
 [
   {
-    "id": "e1c455616d1e",
-    "title_en": "oPt: Gaza Protection Cluster Snapshot | Protection Monitoring | Reporting Period From 1 June- 30 June 2026",
+    "id": "8786d7d06d55",
+    "title_en": "Poll: Third of US Jews say Israel committed genocide in Gaza, as broader support dives",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN Office of the High Commissioner for Human Rights</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/28/1",
+    "excerpt_en": "<p>Only 2 in 10 Americans say Israel did not commit genocide, while half don't know enough to say; 58% of Dems think US too supportive of Israel; only 20% have positive view of PM</p>\n<p>The post <a href=\"https://www.timesofisrael.com/poll-third-of-us-jews-say-israel-committed-genocide-in-gaza-as-broader-support-dives/\">Poll: Third of US Jews say Israel committed genocide in Gaza, as broader suppo",
     "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-07T13:21:58+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-protection-cluster-snapshot-protection-monitoring-reporting-period-1-june-30-june-2026",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-07T15:16:58+00:00",
+    "url": "https://www.timesofisrael.com/poll-third-of-us-jews-say-israel-committed-genocide-in-gaza-as-broader-support-dives/",
     "credibility": "medium"
   },
   {
@@ -36,58 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-07T12:56:19+00:00",
     "url": "https://www.aljazeera.com/economy/2026/7/7/displaced-gaza-farmers-turn-to-dirt-near-tents-to-grow-crops?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "98e7917878fa",
-    "title_en": "Syrian Arab Republic: Tartous Governorate Profile | June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/90/92/9092c86e-1608-4012-88cf-1c",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-07T12:47:12+00:00",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-tartous-governorate-profile-june-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "574c84a6b3e3",
-    "title_en": "Nigeria: Lake Chad Basin - Humanitarian Overview – 2026 (as of 29 June 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Nigeria, Cameroon, Chad, Niger</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2a/44/2a44e8f4-b964-",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-07T12:42:12+00:00",
-    "url": "https://reliefweb.int/report/nigeria/lake-chad-basin-humanitarian-overview-2026-29-june-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "42056013d896",
-    "title_en": "WFP Sri Lanka Country Brief, June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Sri Lanka</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/be/64/be64e183-49b6-400e-87f2-af7b29c0597e.png\" /></p>\n    ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-07T12:40:47+00:00",
-    "url": "https://reliefweb.int/report/sri-lanka/wfp-sri-lanka-country-brief-june-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "d01e33033eca",
-    "title_en": "Syrian Arab Republic: Quneitra Governorate Profile | June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f7/be/f7be683b-2abd-48a1-bd1c-36",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-07T12:32:43+00:00",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-quneitra-governorate-profile-june-2026",
     "credibility": "medium"
   },
   {
