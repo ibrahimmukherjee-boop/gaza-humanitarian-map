@@ -1,5 +1,18 @@
 [
   {
+    "id": "2db4dc019ed8",
+    "title_en": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+    "title_ar": "",
+    "excerpt_en": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-07T16:10:14+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "8786d7d06d55",
     "title_en": "Poll: Third of US Jews say Israel committed genocide in Gaza, as broader support dives",
     "title_ar": "",
@@ -39,19 +52,6 @@
     "credibility": "medium"
   },
   {
-    "id": "376feceb0a4f",
-    "title_en": "Egypt coach makes impassioned plea for Palestine in pre-match conference",
-    "title_ar": "",
-    "excerpt_en": "Egypt coach makes impassioned plea for Palestine in pre-match conference",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-07T11:04:22+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/egypt-coach-makes-impassioned-plea-for-palestine-in-pre-match-conference?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "3f9f8090d3ac",
     "title_en": "Israeli police officer filmed throwing stun grenade into car in West Bank",
     "title_ar": "",
@@ -75,19 +75,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
-    "credibility": "high"
-  },
-  {
-    "id": "2ea604216144",
-    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-    "title_ar": "",
-    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-02T04:59:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {

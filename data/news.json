@@ -17,6 +17,23 @@
     "credibility": "high"
   },
   {
+    "id": "2db4dc019ed8",
+    "title_en": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
+    "title_ar": "",
+    "excerpt_en": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-07T16:10:14+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "3f9f8090d3ac",
     "title_en": "Israeli police officer filmed throwing stun grenade into car in West Bank",
     "title_ar": "",
@@ -84,24 +101,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "2ea604216144",
-    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-    "title_ar": "",
-    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-02T04:59:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "6cd5e0a6d268",
