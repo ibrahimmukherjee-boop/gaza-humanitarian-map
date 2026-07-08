@@ -1,5 +1,18 @@
 [
   {
+    "id": "8e30f4366a87",
+    "title_en": "IDF says Oct. 7 terrorist eliminated; 5 said killed in Gaza strikes, including child",
+    "title_ar": "",
+    "excerpt_en": "<p>Military says man led Nukhba cell that attacked Kibbutz Nirim, posed 'immediate threat'; Israel acknowledges holding Gazan's body for hostage talks, despite fact all captives freed</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-says-oct-7-terrorist-eliminated-5-said-killed-in-gaza-strikes-including-child/\">IDF says Oct. 7 terrorist eliminated; 5 said killed in Gaza strikes, includin",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-08T16:03:10+00:00",
+    "url": "https://www.timesofisrael.com/idf-says-oct-7-terrorist-eliminated-5-said-killed-in-gaza-strikes-including-child/",
+    "credibility": "medium"
+  },
+  {
     "id": "da0cbe22ea76",
     "title_en": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
     "title_ar": "",
@@ -23,84 +36,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-08T13:17:47+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9da2f90eedd3",
-    "title_en": "Gaza aid worker killed minutes before World Cup screening he organised",
-    "title_ar": "",
-    "excerpt_en": "Mohammed al-Wahidi was killed in an Israeli strike just before people gathered for a World Cup screening he organised.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-08T12:36:43+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c819db68beb9",
-    "title_en": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
-    "title_ar": "",
-    "excerpt_en": "Before he exposed Israel&#039;s deliberate targeting of Gaza children, Srinivasan Muralidhar took on Indian authorities.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-08T12:06:42+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ba9e38c09a56",
-    "title_en": "oPt: Held at gunpoint: Israeli state-backed settler violence is deepening the healthcare crisis in the West Bank",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Medical Aid for Palestinians</div>\n                                                                                              <p><strong>Across the occupied West Bank, Israeli state-backed settler violence and settlement expansion are making it increasingl",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-08T11:56:47+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/held-gunpoint-israeli-state-backed-settler-violence-deepening-healthcare-crisis-west-bank",
-    "credibility": "medium"
-  },
-  {
-    "id": "9995ccfda3c2",
-    "title_en": "Mozambique: Life-saving humanitarian assistance for conflict-affected communities",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Mozambique</div>\n                                      <div class=\"tag source\">Sources: ADPP Mozambique, Agency for Technical Cooperation and Development, Ayuda en Acción, Johanniter-Unfall-Hilfe</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/publ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-08T11:34:04+00:00",
-    "url": "https://reliefweb.int/report/mozambique/mozambique-life-saving-humanitarian-assistance-conflict-affected-communities",
-    "credibility": "medium"
-  },
-  {
-    "id": "0b44492d3c2b",
-    "title_en": "World: The 5 Dos and Don'ts of Humanitarian Diplomacy | NRC",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Norwegian Refugee Council</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/fc/9d/fc9d7d37-544e-58c6-a35b-120b2c42a58a.png\" /></p>\n                     ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-08T11:03:17+00:00",
-    "url": "https://reliefweb.int/report/world/5-dos-and-donts-humanitarian-diplomacy-nrc",
-    "credibility": "medium"
-  },
-  {
-    "id": "6b2cf3d94bb0",
-    "title_en": "oPt: Urgent action needed to protect Dr. Hussam Abu Safiya [EN/AR]",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Office of the High Commissioner for Human Rights</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/8a/bb/8abbd7e0-7435-4514-",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-08T10:54:47+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/urgent-action-needed-protect-dr-hussam-abu-safiya-enar",
     "credibility": "medium"
   },
   {
