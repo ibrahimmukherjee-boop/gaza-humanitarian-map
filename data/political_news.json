@@ -1,5 +1,18 @@
 [
   {
+    "id": "d5205c5c09a1",
+    "title_en": "Israeli air strikes in Gaza kill eight, including two children",
+    "title_ar": "",
+    "excerpt_en": "Medics report 12 injuries alongside eight deaths in Gaza as Israeli air strikes target civilians and displaced families.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-08T18:35:11+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/8/israeli-air-strikes-in-gaza-kill-eight-including-two-children?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "8e30f4366a87",
     "title_en": "IDF says Oct. 7 terrorist eliminated; 5 said killed in Gaza strikes, including child",
     "title_ar": "",
@@ -10,32 +23,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-08T16:03:10+00:00",
     "url": "https://www.timesofisrael.com/idf-says-oct-7-terrorist-eliminated-5-said-killed-in-gaza-strikes-including-child/",
-    "credibility": "medium"
-  },
-  {
-    "id": "da0cbe22ea76",
-    "title_en": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
-    "title_ar": "",
-    "excerpt_en": "A chronological look at key milestones from Hamas&#039;s 2006 election victory to its 2026 exit from governing Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-08T13:29:22+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a5867398799a",
-    "title_en": "UN inquiry urges release of Palestinian doctor jailed by Israel",
-    "title_ar": "",
-    "excerpt_en": "The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered &#039;severe abuse&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-08T13:17:47+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss",
     "credibility": "medium"
   },
   {
