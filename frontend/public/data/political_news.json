@@ -1,5 +1,44 @@
 [
   {
+    "id": "da0cbe22ea76",
+    "title_en": "Timeline: 20 years of Hamas rule in Gaza, from election to political exit",
+    "title_ar": "",
+    "excerpt_en": "A chronological look at key milestones from Hamas&#039;s 2006 election victory to its 2026 exit from governing Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-08T13:29:22+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/8/timeline-20-years-of-hamas-rule-in-gaza-from-election-to-political-exit?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a5867398799a",
+    "title_en": "UN inquiry urges release of Palestinian doctor jailed by Israel",
+    "title_ar": "",
+    "excerpt_en": "The inquiry commission urges Israel to release Hussam Abu Safia, citing credible reports he has suffered &#039;severe abuse&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-08T13:17:47+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/8/un-inquiry-urges-release-of-palestinian-doctor-jailed-by-israel?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "9da2f90eedd3",
+    "title_en": "Gaza aid worker killed minutes before World Cup screening he organised",
+    "title_ar": "",
+    "excerpt_en": "Mohammed al-Wahidi was killed in an Israeli strike just before people gathered for a World Cup screening he organised.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-08T12:36:43+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/gaza-aid-worker-killed-minutes-before-world-cup-screening-he-organised?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c819db68beb9",
     "title_en": "‘There are risks’: Ex-India judge behind damning UN report on Gaza children",
     "title_ar": "",
@@ -10,32 +49,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-08T12:06:42+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/8/there-are-risks-ex-india-judge-behind-damning-un-report-on-gaza-children?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d1f0f5605f5a",
-    "title_en": "Egypt coach condemns silence on killing of Palestinian children",
-    "title_ar": "",
-    "excerpt_en": "Egypt coach condemns silence on killing of Palestinian children",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-08T08:22:36+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/egypt-coach-condemns-silence-on-killing-of-palestinian-children?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "03707173ad93",
-    "title_en": "Ireland passes bill banning Israeli goods made in East Jerusalem and West Bank",
-    "title_ar": "",
-    "excerpt_en": "<p>Legislation, which requires final approval from upper house, prohibits import of products from residential, agricultural and business interests outside Israel's recognized borders</p>\n<p>The post <a href=\"https://www.timesofisrael.com/ireland-passes-bill-banning-israeli-goods-made-in-east-jerusalem-and-west-bank/\">Ireland passes bill banning Israeli goods made in East Jerusalem and West Bank</a",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-08T06:27:22+00:00",
-    "url": "https://www.timesofisrael.com/ireland-passes-bill-banning-israeli-goods-made-in-east-jerusalem-and-west-bank/",
     "credibility": "medium"
   },
   {
