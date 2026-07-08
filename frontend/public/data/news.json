@@ -52,6 +52,24 @@
     "credibility": "medium"
   },
   {
+    "id": "8425a0ee79b6",
+    "title_en": "Cameroon: MCO Cameroun : Statistiques de refugies et demandeurs d'asile (juin 2026) [EN/FR]",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Cameroon, World</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d3/fd/d3fdb2c8-634b-5364-bdba-bbb3791ee584.png\" /></p>\n ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-07T16:03:11+00:00",
+    "url": "https://reliefweb.int/report/cameroon/mco-cameroun-statistiques-de-refugies-et-demandeurs-dasile-juin-2026-enfr",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "6126ab6ed910",
     "title_en": "WFP Nigeria Country Brief, June 2026",
     "title_ar": "",
@@ -62,6 +80,24 @@
     "url": "https://reliefweb.int/report/nigeria/wfp-nigeria-country-brief-june-2026",
     "tags": [
       "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "aab957a8e8a3",
+    "title_en": "UNHCR Ethiopia - Amhara Region: Thematic Factsheet - IDP Protection Response (June 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Ethiopia</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/4d/f6/4df6f22c-9c64-508d-8634-c50661f3c92b.png\" /></p>\n          ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-07T15:03:10+00:00",
+    "url": "https://reliefweb.int/report/ethiopia/unhcr-ethiopia-amhara-region-thematic-factsheet-idp-protection-response-june-2026",
+    "tags": [
+      "displacement",
       "humanitarian"
     ],
     "location_tags": [
@@ -113,40 +149,6 @@
     "source": "ReliefWeb",
     "timestamp": "2026-07-07T14:33:05+00:00",
     "url": "https://reliefweb.int/report/occupied-palestinian-territory/lifesaving-assistance-inhabitants-gaza-strip",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e1c455616d1e",
-    "title_en": "oPt: Gaza Protection Cluster Snapshot | Protection Monitoring | Reporting Period From 1 June- 30 June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Sources: Protection Cluster, UN Office of the High Commissioner for Human Rights</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/28/1",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-07T13:21:58+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-protection-cluster-snapshot-protection-monitoring-reporting-period-1-june-30-june-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "98e7917878fa",
-    "title_en": "Syrian Arab Republic: Tartous Governorate Profile | June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/90/92/9092c86e-1608-4012-88cf-1c",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-07T12:47:12+00:00",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-tartous-governorate-profile-june-2026",
     "tags": [
       "humanitarian"
     ],
