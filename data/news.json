@@ -138,24 +138,6 @@
     "credibility": "medium"
   },
   {
-    "id": "6cd5e0a6d268",
-    "title_en": "Venezuela - Earthquake response - 1 July 2026",
-    "title_ar": "",
-    "excerpt_en": "<span>Venezuela - Earthquake response - 1 July 2026 </span>\n\n            <div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Description<br />STORY: OCHA / VENEZUELA EARTHQUAKES DISPLACED RESPONSE<br />TRT: 6:27<br />SOURCE: OCHA<br />RESTRICTIONS: PLEASE CREDIT OCHA ON SCREEN<br />LANGUAGE: SPANISH / NATS</p>\n<p>DATELINE: 30 JUNE 2026 LA GUAIRA, VE",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-01T20:34:47+00:00",
-    "url": "https://www.unocha.org/media-centre/venezuela-earthquake-response-1-july-2026",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "6ad682c6d528",
     "title_en": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
     "title_ar": "",
@@ -236,24 +218,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167760",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "6dc8ea99e677",
-    "title_en": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
-    "title_ar": "",
-    "excerpt_en": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory's humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told amb",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-06-18T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
-    "tags": [
-      "displacement",
       "humanitarian"
     ],
     "location_tags": [
