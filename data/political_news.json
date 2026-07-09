@@ -1,5 +1,18 @@
 [
   {
+    "id": "5192e7cf95f0",
+    "title_en": "Abbas declares first Palestinian legislative elections since 2006 to be held Nov. 28",
+    "title_ar": "",
+    "excerpt_en": "<p>First vote in two decades scheduled amid demands for reform from European allies, growing criticism over corruption at home</p>\n<p>The post <a href=\"https://www.timesofisrael.com/abbas-declares-first-palestinian-legislative-elections-since-2006-to-be-held-nov-28/\">Abbas declares first Palestinian legislative elections since 2006 to be held Nov. 28</a> appeared first on <a href=\"https://www.time",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-09T15:40:48+00:00",
+    "url": "https://www.timesofisrael.com/abbas-declares-first-palestinian-legislative-elections-since-2006-to-be-held-nov-28/",
+    "credibility": "medium"
+  },
+  {
     "id": "7331e783909f",
     "title_en": "COGAT says Gaza aid has ‘significantly exceeded’ requirements during ceasefire",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-09T12:32:23+00:00",
     "url": "https://www.timesofisrael.com/new-arab-league-chief-says-he-was-blocked-by-israel-from-visiting-west-bank/",
-    "credibility": "medium"
-  },
-  {
-    "id": "8d1ac5c476ba",
-    "title_en": "Israeli jails a ‘graveyard,’ says freed Palestinian journalist",
-    "title_ar": "",
-    "excerpt_en": "<p>Mujahed Bani Mufleh was imprisoned for incitement, but never charged; separately, Israel denies detained Gaza hospital chief and Hamas officer in 'life-threatening' condition</p>\n<p>The post <a href=\"https://www.timesofisrael.com/israeli-jails-a-graveyard-says-freed-palestinian-journalist/\">Israeli jails a &#8216;graveyard,&#8217; says freed Palestinian journalist</a> appeared first on <a href=",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-09T08:09:41+00:00",
-    "url": "https://www.timesofisrael.com/israeli-jails-a-graveyard-says-freed-palestinian-journalist/",
     "credibility": "medium"
   },
   {
@@ -153,19 +153,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-06-19T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167760",
-    "credibility": "high"
-  },
-  {
-    "id": "6dc8ea99e677",
-    "title_en": "Security Council LIVE: Gaza in the spotlight as dire conditions continue",
-    "title_ar": "",
-    "excerpt_en": "The Security Council debated conditions in Gaza at the request of its 10 elected members amid concern that the territory's humanitarian crisis is being overshadowed by wider regional developments. The meeting took place under a ceasefire that has existed in name since October 2025 – but nearly 1,000 Palestinians have been killed, and most Gazans remain displaced. Relief chief Tom Fletcher told amb",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-06-18T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167750",
     "credibility": "high"
   }
 ]
