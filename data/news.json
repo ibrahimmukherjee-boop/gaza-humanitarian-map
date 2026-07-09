@@ -1,40 +1,5 @@
 [
   {
-    "id": "ccd4e7d4d64b",
-    "title_en": "Mozambique: Humanitarian Snapshot, as of June 2026 [EN]",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Mozambique</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/40/7d/407d5556-81df-48cd-9eaf-f681732450bd.png\" /></p>\n                       ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-09T11:47:59+00:00",
-    "url": "https://reliefweb.int/report/mozambique/mozambique-humanitarian-snapshot-june-2026-en",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "eff1a0f56ca4",
-    "title_en": "World: UN WFP Annual performance report for 2025 - Delivering faster and smarter despite compounding crises [EN/FR/ES/AR/RU/ZH]",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/a8/30/a830e714-0a04-4708-925a-bf20995b0542.png\" /></p>\n                        <p",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-09T10:10:32+00:00",
-    "url": "https://reliefweb.int/report/world/un-wfp-annual-performance-report-2025-delivering-faster-and-smarter-despite-compounding-crises-enfresarruzh",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "191b61c2486e",
     "title_en": "Today's top news: Venezuela, Occupied Palestinian Territory, Democratic Republic of the Congo, Ukraine",
     "title_ar": "",
