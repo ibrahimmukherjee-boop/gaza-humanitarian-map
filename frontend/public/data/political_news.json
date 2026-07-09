@@ -1,5 +1,31 @@
 [
   {
+    "id": "8d1ac5c476ba",
+    "title_en": "Israeli jails a ‘graveyard,’ says freed Palestinian journalist",
+    "title_ar": "",
+    "excerpt_en": "<p>Mujahed Bani Mufleh was jailed for alleged incitement, but never charged; separately, Israel denies detained Gaza hospital chief and Hamas officer in 'life-threatening' condition</p>\n<p>The post <a href=\"https://www.timesofisrael.com/israeli-jails-a-graveyard-says-freed-palestinian-journalist/\">Israeli jails a &#8216;graveyard,&#8217; says freed Palestinian journalist</a> appeared first on <a h",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-09T08:09:41+00:00",
+    "url": "https://www.timesofisrael.com/israeli-jails-a-graveyard-says-freed-palestinian-journalist/",
+    "credibility": "medium"
+  },
+  {
+    "id": "a7dc95542b5d",
+    "title_en": "Photos: Israeli attacks kill nine people, including two children, in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israeli air attacks and gunfire kill nine Palestinians in Gaza despite ceasefire, medics say.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-09T07:08:32+00:00",
+    "url": "https://www.aljazeera.com/gallery/2026/7/9/photos-israeli-attacks-kill-nine-people-including-two-children-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "2db4dc019ed8",
     "title_en": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
     "title_ar": "",
@@ -36,6 +62,19 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+    "credibility": "high"
+  },
+  {
+    "id": "2ea604216144",
+    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+    "title_ar": "",
+    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-07-02T04:59:55+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
