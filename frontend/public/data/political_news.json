@@ -1,5 +1,31 @@
 [
   {
+    "id": "bf406737e550",
+    "title_en": "Gaza mourns aid worker killed by Israel who helped them see the World Cup",
+    "title_ar": "",
+    "excerpt_en": "Israeli strike killed Mohammed al-Wahidi and three others on the eve of the Egypt vs Argentina match on Tuesday.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-10T01:42:27+00:00",
+    "url": "https://www.aljazeera.com/sports/2026/7/10/gaza-mourns-aid-worker-killed-by-israel-who-helped-them-see-the-world-cup?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "148db60362af",
+    "title_en": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Andy Burnham took to social media to apologise for the Labour Party’s initial stance on Israeli attacks in Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-10T00:32:26+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c05be05a1b09",
     "title_en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
     "title_ar": "",
@@ -36,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-09T18:17:50+00:00",
     "url": "https://www.timesofisrael.com/high-court-petition-demands-protection-for-west-bank-palestinian-herding-communities/",
-    "credibility": "medium"
-  },
-  {
-    "id": "5192e7cf95f0",
-    "title_en": "Abbas declares first Palestinian legislative elections since 2006 to be held Nov. 28",
-    "title_ar": "",
-    "excerpt_en": "<p>PA president signs decree days before EU donor conference, hoping Brussels will see it as fulfillment of reform pledges, provide funds badly needed following Israeli sanctions</p>\n<p>The post <a href=\"https://www.timesofisrael.com/abbas-declares-first-palestinian-legislative-elections-since-2006-to-be-held-nov-28/\">Abbas declares first Palestinian legislative elections since 2006 to be held Nov",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-09T15:40:48+00:00",
-    "url": "https://www.timesofisrael.com/abbas-declares-first-palestinian-legislative-elections-since-2006-to-be-held-nov-28/",
     "credibility": "medium"
   },
   {
