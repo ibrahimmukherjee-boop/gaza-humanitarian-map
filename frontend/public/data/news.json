@@ -1,5 +1,109 @@
 [
   {
+    "id": "328121449d21",
+    "title_en": "Nigeria Monthly Security Overview - The Monguno Axis Emerges as Nigeria’s Critical Humanitarian Flashpoint (June 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Nigeria</div>\n                                      <div class=\"tag source\">Source: SARI Global</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/41/95/4195adb0-70ff-42d4-8f86-7e594dbb2a06.png\" /></p>\n                        <p>Please",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-10T12:10:28+00:00",
+    "url": "https://reliefweb.int/report/nigeria/nigeria-monthly-security-overview-monguno-axis-emerges-nigerias-critical-humanitarian-flashpoint-june-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "9deeb9240478",
+    "title_en": "One Year of the Mozambique Local Humanitarian Coordination Platform (MLHCP) [EN/PT]",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Mozambique</div>\n                                      <div class=\"tag source\">Source: Mozambique Local Humanitarian Coordination Platform</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/94/37/9437a21d-6dcb-467b-b491-afafe478a138.pn",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-10T10:45:02+00:00",
+    "url": "https://reliefweb.int/report/mozambique/one-year-mozambique-local-humanitarian-coordination-platform-mlhcp-enpt",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "ab9a4c104ea7",
+    "title_en": "Earthquakes in Venezuela: Situation Report #16 (09 July 2026, Time: 09:00 pm)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-10T10:02:57+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-16-09-july-2026-time-0900-pm",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "4881a5e6d7c3",
+    "title_en": "UNHCR-IOM Pakistan Flash update # 101 on Arrest and Detention/Flow Monitoring, 15 Sep 2023 to 4 Jul 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Pakistan</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/0b/1c/0b1c6c80-1600-5038-a1b7-aa38b2dc1a5c.png\" /></p>\n          ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-10T09:03:09+00:00",
+    "url": "https://reliefweb.int/report/pakistan/unhcr-iom-pakistan-flash-update-101-arrest-and-detentionflow-monitoring-15-sep-2023-4-jul-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "e6d89d5c378a",
+    "title_en": "World: Beyond the breaking point: The continuing impact of funding cuts on women’s organizations in humanitarian settings",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN Women</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/21/fd/21fd9b5e-fdb3-5143-b5d4-ba993360f7dc.png\" /></p>\n                        <p>Please refe",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-10T08:03:07+00:00",
+    "url": "https://reliefweb.int/report/world/beyond-breaking-point-continuing-impact-funding-cuts-womens-organizations-humanitarian-settings",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "39d93df11acb",
+    "title_en": "BISP, WFP, WHO, UNICEF extend partnership to protect 3.3 million children and women from malnutrition in Pakistan",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Pakistan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                              <p>9 July 2026, Islamabad, Pakistan – Pakistan’s Benazir Income Support Programme (BISP), together with the United Nations World Food Programme (WFP), the Unite",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-10T07:03:08+00:00",
+    "url": "https://reliefweb.int/report/pakistan/bisp-wfp-who-unicef-extend-partnership-protect-33-million-children-and-women-malnutrition-pakistan",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "c05be05a1b09",
     "title_en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
     "title_ar": "",
@@ -27,6 +131,24 @@
     "timestamp": "2026-07-09T18:40:34+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-venezuela-democratic-republic-congo-sudan-lebanon-occupied-palestinian",
     "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "1aaabf4f69fa",
+    "title_en": "Diplomats go virtual to witness Gaza displacement site up close",
+    "title_ar": "",
+    "excerpt_en": "Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in the Gaza Strip and heard from some of the residents about their pressing needs, the United Nations said on Thursday.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-07-09T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
+    "tags": [
+      "aid",
       "humanitarian"
     ],
     "location_tags": [
