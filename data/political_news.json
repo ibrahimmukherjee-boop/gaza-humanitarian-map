@@ -1,5 +1,31 @@
 [
   {
+    "id": "e5ffba22fc97",
+    "title_en": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
+    "title_ar": "",
+    "excerpt_en": "Palestinian Health Ministry denounces attack as part of Israel&#039;s &#039;systematic targeting of health facilities&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-07-10T18:01:25+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/10/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e3a1b0dff49c",
+    "title_en": "Hundreds give hero’s welcome to Egypt after best World Cup run",
+    "title_ar": "",
+    "excerpt_en": "Supporters waved Egyptian and Palestinian flags in support of Gaza as the Pharaohs boarded an open-top bus for a parade.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-10T17:08:44+00:00",
+    "url": "https://www.aljazeera.com/sports/2026/7/10/hundreds-give-heros-welcome-to-egypt-after-best-world-cup-run?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "033571c0e74a",
     "title_en": "Spain, France | Wildfires and UCPM response - DG ECHO Daily Map | 10/07/2026",
     "title_ar": "",
@@ -78,19 +104,6 @@
     "credibility": "medium"
   },
   {
-    "id": "296862f64372",
-    "title_en": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
-    "title_ar": "",
-    "excerpt_en": "Likely incoming UK PM hints at policy shifts towards Israel&#039;s genocidal war on Gaza. But analysts are wary.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-10T13:38:16+00:00",
-    "url": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "a884cf943663",
     "title_en": "Central African Republic: Situation Report No. 75, as of 7 July, 2026",
     "title_ar": "",
@@ -127,19 +140,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-10T13:17:16+00:00",
     "url": "https://reliefweb.int/map/jordan/jordan-echo-supported-operations-10072026",
-    "credibility": "medium"
-  },
-  {
-    "id": "3becce9e45ab",
-    "title_en": "First Palestinian legislative elections in 20 years announced",
-    "title_ar": "",
-    "excerpt_en": "First Palestinian legislative elections in 20 years announced",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-10T12:28:19+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/first-palestinian-legislative-elections-in-20-years-announced?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -283,6 +283,19 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-06-23T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167790",
+    "credibility": "high"
+  },
+  {
+    "id": "1adae3009174",
+    "title_en": "Gaza: Sneeze and you might get shot, warns UNICEF in alert on child killings",
+    "title_ar": "",
+    "excerpt_en": "After another deadly night of clashes in Lebanon, aid agencies issued a new alert for Gaza, where 265 Palestinian children have been killed since a ceasefire was announced in October 2025.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-06-19T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167760",
     "credibility": "high"
   }
 ]
