@@ -1,15 +1,28 @@
 [
   {
-    "id": "2b08a129355c",
-    "title_en": "WFP Namibia Country Brief, June 2026",
+    "id": "aa91c4882f85",
+    "title_en": "Degree but no job: The battle against unemployment in Gaza",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Namibia</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b6/fa/b6fadd85-68df-4ec2-8444-41545e8fc3a7.png\" /></p>\n      ",
+    "excerpt_en": "Gaza&#039;s young graduates face sky-high unemployment as Israel&#039;s war devastates job market.",
     "excerpt_ar": "",
-    "source": "ReliefWeb",
+    "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-07-10T06:19:48+00:00",
-    "url": "https://reliefweb.int/report/namibia/wfp-namibia-country-brief-june-2026",
+    "timestamp": "2026-07-10T08:48:59+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/10/degree-but-no-job-the-battle-against-unemployment-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "3accf611edbe",
+    "title_en": "Administration without sovereignty will not free Palestine",
+    "title_ar": "",
+    "excerpt_en": "The end of Hamas governance in Gaza may change who administers it, but not who holds power over Palestinian life.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-10T08:03:44+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/7/10/administration-without-sovereignty-will-not-free-palestine?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -23,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-10T05:39:30+00:00",
     "url": "https://www.timesofisrael.com/6-said-killed-by-idf-in-gaza-israel-tries-fails-to-assassinate-hamas-spokesman/",
-    "credibility": "medium"
-  },
-  {
-    "id": "9369ca9304ec",
-    "title_en": "Papua New Guinea: Humanitarian Snapshot (As of 30 June 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Papua New Guinea</div>\n                                      <div class=\"tag source\">Source: UN Country Team in Papua New Guinea</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d9/b0/d9b08553-c446-4e04-a355-4dd6819",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-10T05:13:23+00:00",
-    "url": "https://reliefweb.int/report/papua-new-guinea/papua-new-guinea-humanitarian-snapshot-30-june-2026",
     "credibility": "medium"
   },
   {
@@ -65,19 +65,6 @@
     "credibility": "medium"
   },
   {
-    "id": "148db60362af",
-    "title_en": "Britain’s likely PM says will work to ‘stop the suffering’ in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Andy Burnham took to social media to apologise for the Labour Party’s initial stance on Israeli attacks in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-10T00:32:26+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/10/britains-likely-pm-says-will-work-to-stop-the-suffering-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "c05be05a1b09",
     "title_en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
     "title_ar": "",
@@ -89,19 +76,6 @@
     "timestamp": "2026-07-09T21:04:09+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "9d9e39bbe13a",
-    "title_en": "High Court petition demands protection for West Bank Palestinian herding communities",
-    "title_ar": "",
-    "excerpt_en": "<p>Petition from 7 northern Jordan Valley villages says extremist settler violence, inability to access water, pasture leaves them on verge of displacement, amounts to ethnic cleansing</p>\n<p>The post <a href=\"https://www.timesofisrael.com/high-court-petition-demands-protection-for-west-bank-palestinian-herding-communities/\">High Court petition demands protection for West Bank Palestinian herding ",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-09T18:17:50+00:00",
-    "url": "https://www.timesofisrael.com/high-court-petition-demands-protection-for-west-bank-palestinian-herding-communities/",
-    "credibility": "medium"
   },
   {
     "id": "2db4dc019ed8",
