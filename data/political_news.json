@@ -1,5 +1,18 @@
 [
   {
+    "id": "ab9a4c104ea7",
+    "title_en": "Earthquakes in Venezuela: Situation Report #16 (09 July 2026, Time: 09:00 pm)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-10T10:02:57+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-16-09-july-2026-time-0900-pm",
+    "credibility": "medium"
+  },
+  {
     "id": "19c1c93dd264",
     "title_en": "EU states do not need ‘consensus’ to hold Israel accountable",
     "title_ar": "",
@@ -39,6 +52,45 @@
     "credibility": "medium"
   },
   {
+    "id": "e6d89d5c378a",
+    "title_en": "World: Beyond the breaking point: The continuing impact of funding cuts on women’s organizations in humanitarian settings",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN Women</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/21/fd/21fd9b5e-fdb3-5143-b5d4-ba993360f7dc.png\" /></p>\n                        <p>Please refe",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-10T08:03:07+00:00",
+    "url": "https://reliefweb.int/report/world/beyond-breaking-point-continuing-impact-funding-cuts-womens-organizations-humanitarian-settings",
+    "credibility": "medium"
+  },
+  {
+    "id": "39d93df11acb",
+    "title_en": "BISP, WFP, WHO, UNICEF extend partnership to protect 3.3 million children and women from malnutrition in Pakistan",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Pakistan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                              <p>9 July 2026, Islamabad, Pakistan – Pakistan’s Benazir Income Support Programme (BISP), together with the United Nations World Food Programme (WFP), the Unite",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-10T07:03:08+00:00",
+    "url": "https://reliefweb.int/report/pakistan/bisp-wfp-who-unicef-extend-partnership-protect-33-million-children-and-women-malnutrition-pakistan",
+    "credibility": "medium"
+  },
+  {
+    "id": "2b08a129355c",
+    "title_en": "WFP Namibia Country Brief, June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Namibia</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b6/fa/b6fadd85-68df-4ec2-8444-41545e8fc3a7.png\" /></p>\n      ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-10T06:19:48+00:00",
+    "url": "https://reliefweb.int/report/namibia/wfp-namibia-country-brief-june-2026",
+    "credibility": "medium"
+  },
+  {
     "id": "bf00cbbd8c55",
     "title_en": "6 said killed by IDF in Gaza; Israel tries, fails to assassinate Hamas spokesman",
     "title_ar": "",
@@ -49,6 +101,19 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-10T05:39:30+00:00",
     "url": "https://www.timesofisrael.com/6-said-killed-by-idf-in-gaza-israel-tries-fails-to-assassinate-hamas-spokesman/",
+    "credibility": "medium"
+  },
+  {
+    "id": "9369ca9304ec",
+    "title_en": "Papua New Guinea: Humanitarian Snapshot (As of 30 June 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Papua New Guinea</div>\n                                      <div class=\"tag source\">Source: UN Country Team in Papua New Guinea</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d9/b0/d9b08553-c446-4e04-a355-4dd6819",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-10T05:13:23+00:00",
+    "url": "https://reliefweb.int/report/papua-new-guinea/papua-new-guinea-humanitarian-snapshot-30-june-2026",
     "credibility": "medium"
   },
   {
