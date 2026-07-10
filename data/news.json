@@ -1,92 +1,5 @@
 [
   {
-    "id": "ab9a4c104ea7",
-    "title_en": "Earthquakes in Venezuela: Situation Report #16 (09 July 2026, Time: 09:00 pm)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-10T10:02:57+00:00",
-    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-16-09-july-2026-time-0900-pm",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e6d89d5c378a",
-    "title_en": "World: Beyond the breaking point: The continuing impact of funding cuts on women’s organizations in humanitarian settings",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN Women</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/21/fd/21fd9b5e-fdb3-5143-b5d4-ba993360f7dc.png\" /></p>\n                        <p>Please refe",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-10T08:03:07+00:00",
-    "url": "https://reliefweb.int/report/world/beyond-breaking-point-continuing-impact-funding-cuts-womens-organizations-humanitarian-settings",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "39d93df11acb",
-    "title_en": "BISP, WFP, WHO, UNICEF extend partnership to protect 3.3 million children and women from malnutrition in Pakistan",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Pakistan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                              <p>9 July 2026, Islamabad, Pakistan – Pakistan’s Benazir Income Support Programme (BISP), together with the United Nations World Food Programme (WFP), the Unite",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-10T07:03:08+00:00",
-    "url": "https://reliefweb.int/report/pakistan/bisp-wfp-who-unicef-extend-partnership-protect-33-million-children-and-women-malnutrition-pakistan",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "2b08a129355c",
-    "title_en": "WFP Namibia Country Brief, June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Namibia</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b6/fa/b6fadd85-68df-4ec2-8444-41545e8fc3a7.png\" /></p>\n      ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-10T06:19:48+00:00",
-    "url": "https://reliefweb.int/report/namibia/wfp-namibia-country-brief-june-2026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "9369ca9304ec",
-    "title_en": "Papua New Guinea: Humanitarian Snapshot (As of 30 June 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Papua New Guinea</div>\n                                      <div class=\"tag source\">Source: UN Country Team in Papua New Guinea</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d9/b0/d9b08553-c446-4e04-a355-4dd6819",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-10T05:13:23+00:00",
-    "url": "https://reliefweb.int/report/papua-new-guinea/papua-new-guinea-humanitarian-snapshot-30-june-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "c05be05a1b09",
     "title_en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
     "title_ar": "",
@@ -114,24 +27,6 @@
     "timestamp": "2026-07-09T18:40:34+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-venezuela-democratic-republic-congo-sudan-lebanon-occupied-palestinian",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "1aaabf4f69fa",
-    "title_en": "Diplomats go virtual to witness Gaza displacement site up close",
-    "title_ar": "",
-    "excerpt_en": "Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in the Gaza Strip and heard from some of the residents about their pressing needs, the United Nations said on Thursday.&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-07-09T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
