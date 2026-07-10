@@ -1,5 +1,18 @@
 [
   {
+    "id": "05538563b838",
+    "title_en": "IDF kills three Hamas commanders, including Oct. 7 invader, in Gaza airstrikes",
+    "title_ar": "",
+    "excerpt_en": "<p>After pledging 20,000 international peacekeepers to Gaza, US reportedly struggling to deploy just twenty; Israel defends detention of Gaza hospital chief, who is also Hamas officer</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-kills-three-hamas-commanders-including-oct-7-invader-in-gaza-airstrikes/\">IDF kills three Hamas commanders, including Oct. 7 invader, in Gaza airstrikes</a> ",
+    "excerpt_ar": "",
+    "source": "Times of Israel",
+    "source_region": "israel",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-10T18:47:44+00:00",
+    "url": "https://www.timesofisrael.com/idf-kills-three-hamas-commanders-including-oct-7-invader-in-gaza-airstrikes/",
+    "credibility": "medium"
+  },
+  {
     "id": "e5ffba22fc97",
     "title_en": "Hospital workers wounded in Israeli drone attack on Gaza’s Kamal Adwan",
     "title_ar": "",
@@ -36,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-10T15:53:51+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/10/israel-bans-jerusalems-grand-mufti-from-al-aqsa-mosque-for-one-week?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "00f5d6793ca1",
-    "title_en": "The search for Gaza’s missing brings heartbreak and closure for loved ones",
-    "title_ar": "",
-    "excerpt_en": "Thousands of bodies remain trapped under the rubble of their homes in Gaza, with retrieval a long and difficult task.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-10T15:00:26+00:00",
-    "url": "https://www.aljazeera.com/features/2026/7/10/the-search-for-gazas-missing-brings-heartbreak-and-closure-for-loved-ones?traffic_source=rss",
     "credibility": "medium"
   },
   {
