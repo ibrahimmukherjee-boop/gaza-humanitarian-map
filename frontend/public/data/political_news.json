@@ -1,5 +1,18 @@
 [
   {
+    "id": "4136d57febe3",
+    "title_en": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-11T18:00:09+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "65f3d769db7f",
     "title_en": "US lawmaker slams Israeli army after settlers detain him on Palestine trip",
     "title_ar": "",
@@ -63,6 +76,19 @@
     "timestamp": "2026-07-11T13:18:29+00:00",
     "url": "https://www.aljazeera.com/features/2026/7/11/power-cuts-plunge-gaza-hospitals-into-darkness-as-israels-attacks-persist?traffic_source=rss",
     "credibility": "medium"
+  },
+  {
+    "id": "c808a4e9df36",
+    "title_en": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+    "title_ar": "",
+    "excerpt_en": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-11T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+    "credibility": "high"
   },
   {
     "id": "70858642584b",
