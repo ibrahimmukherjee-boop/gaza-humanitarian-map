@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-07-12T18:28:39.853114+00:00",
+  "timestamp": "2026-07-12T19:43:13.187683+00:00",
   "regions": [
     {
       "id": "gaza-city",
@@ -14,7 +14,7 @@
       "contradiction_index": 0,
       "recency_score": 0.57,
       "activity_level": "low",
-      "last_update": "2026-07-12T18:28:39.853114+00:00"
+      "last_update": "2026-07-12T19:43:13.187683+00:00"
     },
     {
       "id": "north-gaza",
@@ -29,7 +29,7 @@
       "contradiction_index": 0,
       "recency_score": 0.6,
       "activity_level": "low",
-      "last_update": "2026-07-12T18:28:39.853114+00:00"
+      "last_update": "2026-07-12T19:43:13.187683+00:00"
     },
     {
       "id": "khan-younis",
@@ -44,7 +44,7 @@
       "contradiction_index": 0,
       "recency_score": 0.63,
       "activity_level": "low",
-      "last_update": "2026-07-12T18:28:39.853114+00:00"
+      "last_update": "2026-07-12T19:43:13.187683+00:00"
     },
     {
       "id": "rafah",
@@ -59,7 +59,7 @@
       "contradiction_index": 1,
       "recency_score": 0.66,
       "activity_level": "medium",
-      "last_update": "2026-07-12T18:28:39.853114+00:00"
+      "last_update": "2026-07-12T19:43:13.187683+00:00"
     },
     {
       "id": "middle-area",
@@ -74,7 +74,7 @@
       "contradiction_index": 1,
       "recency_score": 0.69,
       "activity_level": "medium",
-      "last_update": "2026-07-12T18:28:39.853114+00:00"
+      "last_update": "2026-07-12T19:43:13.187683+00:00"
     }
   ]
 }
