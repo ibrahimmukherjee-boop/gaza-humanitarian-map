@@ -1,5 +1,18 @@
 [
   {
+    "id": "9cbaa8b91d35",
+    "title_en": "EU unveils $1bn fund for Gaza war recovery",
+    "title_ar": "",
+    "excerpt_en": "The scheme falls critically short of the $71bn reportedly needed for Gaza&#039;s recovery over the next 10 years.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-13T16:28:52+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/13/eu-unveils-1bn-fund-for-gaza-war-recovery?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7d17fe668174",
     "title_en": "What is the EU’s plan to cut trade with illegal Israeli settlements?",
     "title_ar": "",
@@ -36,32 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-13T13:11:18+00:00",
     "url": "https://www.timesofisrael.com/poll-israel-support-not-priority-for-most-younger-religiously-affiliated-us-jews/",
-    "credibility": "medium"
-  },
-  {
-    "id": "525c1977942e",
-    "title_en": "Street in Illinois named after murdered Palestinian boy",
-    "title_ar": "",
-    "excerpt_en": "A street in the US state of Illinois has been named after a six year old Palestinian American boy who was killed.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-13T12:31:36+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/street-in-illinois-named-after-murdered-palestinian-boy?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "66640066036a",
-    "title_en": "UN official says Hamas obstructing Gaza aid: ‘Dangerous pattern of intimidation, violence’",
-    "title_ar": "",
-    "excerpt_en": "<p>Special coordinator says armed Hamas-linked operatives raided food distribution point and WFP depot, assaulted 2 truck drivers; police scrap charges for Israeli right-wing activist who blocked aid trucks</p>\n<p>The post <a href=\"https://www.timesofisrael.com/un-official-says-hamas-obstructing-gaza-aid-dangerous-pattern-of-intimidation-violence/\">UN official says Hamas obstructing Gaza aid: &#82",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-13T10:44:36+00:00",
-    "url": "https://www.timesofisrael.com/un-official-says-hamas-obstructing-gaza-aid-dangerous-pattern-of-intimidation-violence/",
     "credibility": "medium"
   },
   {
