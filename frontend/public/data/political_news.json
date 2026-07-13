@@ -52,6 +52,19 @@
     "credibility": "medium"
   },
   {
+    "id": "4a017d5917e8",
+    "title_en": "Reviving communities home by home in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-12T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
+    "credibility": "high"
+  },
+  {
     "id": "4136d57febe3",
     "title_en": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
     "title_ar": "",
@@ -65,6 +78,19 @@
     "credibility": "high"
   },
   {
+    "id": "c808a4e9df36",
+    "title_en": "‘We face a new ordeal’: Gaza's search for the dead goes on",
+    "title_ar": "",
+    "excerpt_en": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-11T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+    "credibility": "high"
+  },
+  {
     "id": "c05be05a1b09",
     "title_en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
     "title_ar": "",
@@ -75,6 +101,19 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-09T21:04:09+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "1aaabf4f69fa",
+    "title_en": "Diplomats go virtual to witness Gaza displacement site up close",
+    "title_ar": "",
+    "excerpt_en": "Representatives from 12 countries carried out a “virtual diplomatic field visit” to a displacement site in the Gaza Strip and heard from some of the residents about their pressing needs, the United Nations said on Thursday.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-09T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
     "credibility": "high"
   },
   {
@@ -101,6 +140,58 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-06T18:52:48+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "837070e9db81",
+    "title_en": "Occupied Palestinian Territory: Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
+    "title_ar": "",
+    "excerpt_en": "Ongoing restrictions and closures of border crossings continue to hamper delivery of critical supplies into the Gaza Strip, amid mounting concern for children there and in the West Bank, the United Nations said on Monday.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-06T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+    "credibility": "high"
+  },
+  {
+    "id": "6ad682c6d528",
+    "title_en": "Expanding areas under Israeli control in Gaza increase risks to civilians, UN warns",
+    "title_ar": "",
+    "excerpt_en": "The continued expansion of areas under Israeli control in Gaza since October’s ceasefire agreement is placing civilians at greater risk and severely constraining humanitarian operations, the UN and humanitarian partners&nbsp;warned on Wednesday.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-01T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167852",
+    "credibility": "high"
+  },
+  {
+    "id": "c46385fd7c4b",
+    "title_en": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
+    "title_ar": "",
+    "excerpt_en": "The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-06-30T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
+    "credibility": "high"
+  },
+  {
+    "id": "9b3c6b7575f8",
+    "title_en": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process and two civil society representatives. Stay tuned for live updates.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-06-29T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
     "credibility": "high"
   }
 ]
