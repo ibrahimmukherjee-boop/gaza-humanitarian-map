@@ -1,5 +1,31 @@
 [
   {
+    "id": "47a9b93d30d7",
+    "title_en": "Sheikh Hamad: The Arab leader who broke Israel’s siege on Gaza",
+    "title_ar": "",
+    "excerpt_en": "A look at Sheikh Hamad bin Khalifa Al Thani&#039;s enduring legacy of solidarity and support for the Palestinian people.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-13T05:39:53+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/13/sheikh-hamad-the-arab-leader-who-broke-israels-siege-on-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "6cdcd19bc9f8",
+    "title_en": "Elderly Palestinian describes being beaten up by Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers assaulted 79-year-old Ibrahim al-Jabour and his family in Masafer Yatta in the Occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-13T05:06:03+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_elderly-palestinian-beaten-up-by-israeli-settlers-130726?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "317f195b496f",
     "title_en": "Detained by settlers, US Democrat Ro Khanna now faces pro-Israel attacks",
     "title_ar": "",
@@ -10,45 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-12T21:59:36+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/12/detained-by-settlers-us-democrat-ro-khanna-now-faces-pro-israel-attacks?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "841672984c48",
-    "title_en": "Deadly Israeli strikes pound Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israel’s military has attacked several places across Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-12T21:33:10+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/deadly-israeli-strikes-pound-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5614afd79e6b",
-    "title_en": "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia",
-    "title_ar": "",
-    "excerpt_en": "Pro-Palestine activists unfurled a giant Palestinian flag and a banner on London&#039;s Tower Bridge.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-12T21:21:27+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "88f1739a508e",
-    "title_en": "IDF says it hit weapons site in Gaza, as 6 said killed in Strip, including girl",
-    "title_ar": "",
-    "excerpt_en": "<p>IDF says unaware of incident in which 9-year-old reported killed; says operatives were inside arms factory during strike, 2 Hamas members killed last week</p>\n<p>The post <a href=\"https://www.timesofisrael.com/idf-says-it-hit-weapons-site-in-gaza-as-6-said-killed-in-strip-including-girl/\">IDF says it hit weapons site in Gaza, as 6 said killed in Strip, including girl</a> appeared first on <a hr",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-12T17:17:04+00:00",
-    "url": "https://www.timesofisrael.com/idf-says-it-hit-weapons-site-in-gaza-as-6-said-killed-in-strip-including-girl/",
     "credibility": "medium"
   },
   {
@@ -130,19 +117,6 @@
     "credibility": "high"
   },
   {
-    "id": "3f9f8090d3ac",
-    "title_en": "Israeli police officer filmed throwing stun grenade into car in West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israel's police force says the officer acted \"not in accordance with procedure\" and that it has opened an investigation.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-06T18:52:48+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "837070e9db81",
     "title_en": "Occupied Palestinian Territory: Aid restrictions in Gaza, ‘senseless’ infant deaths in the West Bank",
     "title_ar": "",
@@ -153,6 +127,19 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+    "credibility": "high"
+  },
+  {
+    "id": "2ea604216144",
+    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+    "title_ar": "",
+    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-07-02T04:59:55+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
