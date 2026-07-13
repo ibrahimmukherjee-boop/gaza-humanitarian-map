@@ -1,5 +1,59 @@
 [
   {
+    "id": "d680cb03e99c",
+    "title_en": "Lebanon: LRP Health Sector At a Glance Report - Q1 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Lebanon, occupied Palestinian territory, Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/25/db/25db",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-13T12:03:12+00:00",
+    "url": "https://reliefweb.int/report/lebanon/lebanon-lrp-health-sector-glance-report-q1-2026",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "8efe43fa4b2b",
+    "title_en": "Kyrgyzstan: WFP Kyrgyz Republic Country Brief, July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Kyrgyzstan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/33/9f/339f8493-ad5f-4fa6-8e54-2215329f8c7d.png\" /></p>\n                     ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-13T11:16:25+00:00",
+    "url": "https://reliefweb.int/report/kyrgyzstan/wfp-kyrgyz-republic-country-brief-july-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "d4f4f94047fd",
+    "title_en": "UNHCR Rwanda - Burundian Forcibly Displaced Persons - 30 June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Rwanda, Burundi</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/45/02/4502d1e0-74bf-5646-aca1-03b16c9df2b0.png\" /></p>\n ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-13T11:03:31+00:00",
+    "url": "https://reliefweb.int/report/rwanda/unhcr-rwanda-burundian-forcibly-displaced-persons-30-june-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "4a017d5917e8",
     "title_en": "Reviving communities home by home in Gaza",
     "title_ar": "",
