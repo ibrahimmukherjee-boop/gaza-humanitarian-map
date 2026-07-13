@@ -1,5 +1,58 @@
 [
   {
+    "id": "a7f17e8b6def",
+    "title_en": "World: Statement on El Niño by Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, 13 July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/4f/d7/4fd73853-a680-428f-8b5f-03220a733c6a.png\"",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-13T14:59:05+00:00",
+    "url": "https://reliefweb.int/report/world/statement-el-nino-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-13-july-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "3eff5ce5274b",
+    "title_en": "WFP Venezuela Earthquakes Response Situation Update 12 July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/9d/c4/9dc46659-76f8-4605-b484-0f4bbb9d9024.png\" /></p>\n                        <p>Please",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-13T14:06:31+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-earthquakes-response-situation-update-12-july-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "8721d089a130",
+    "title_en": "Bangladesh: WFP Activates Anticipatory Action and Shock-Responsive Social Protection Ahead of Peak Flooding in the Chittagong Hill Tracts [EN/BN]",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Bangladesh</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/74/78/74787d60-8017-42f9-ae13-a6c9923b8285.png\" /></p>\n   ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-13T13:53:28+00:00",
+    "url": "https://reliefweb.int/report/bangladesh/wfp-activates-anticipatory-action-and-shock-responsive-social-protection-ahead-peak-flooding-chittagong-hill-tracts-enbn",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "4a017d5917e8",
     "title_en": "Reviving communities home by home in Gaza",
     "title_ar": "",
@@ -189,24 +242,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "2ea604216144",
-    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-    "title_ar": "",
-    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-02T04:59:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "6ad682c6d528",

@@ -1,5 +1,70 @@
 [
   {
+    "id": "a7f17e8b6def",
+    "title_en": "World: Statement on El Niño by Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, 13 July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/4f/d7/4fd73853-a680-428f-8b5f-03220a733c6a.png\"",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-13T14:59:05+00:00",
+    "url": "https://reliefweb.int/report/world/statement-el-nino-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-13-july-2026",
+    "credibility": "medium"
+  },
+  {
+    "id": "7d17fe668174",
+    "title_en": "What is the EU’s plan to cut trade with illegal Israeli settlements?",
+    "title_ar": "",
+    "excerpt_en": "Foreign ministers&#039; meeting comes months after the EU imposed sanctions on Israel over West Bank settlement construction.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-13T14:33:14+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/13/what-is-the-eus-plan-to-cut-trade-with-illegal-israeli-settlements?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "3eff5ce5274b",
+    "title_en": "WFP Venezuela Earthquakes Response Situation Update 12 July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/9d/c4/9dc46659-76f8-4605-b484-0f4bbb9d9024.png\" /></p>\n                        <p>Please",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-13T14:06:31+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/wfp-venezuela-earthquakes-response-situation-update-12-july-2026",
+    "credibility": "medium"
+  },
+  {
+    "id": "146858793a90",
+    "title_en": "Hamas denies UN accusations over Gaza aid distribution interference",
+    "title_ar": "",
+    "excerpt_en": "UN accuses Hamas of obstructing aid and risking workers&#039; safety, but the group denies it and defends its actions.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-13T13:59:43+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/13/hamas-denies-un-accusations-over-gaza-aid-distribution-interference?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "8721d089a130",
+    "title_en": "Bangladesh: WFP Activates Anticipatory Action and Shock-Responsive Social Protection Ahead of Peak Flooding in the Chittagong Hill Tracts [EN/BN]",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Bangladesh</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/74/78/74787d60-8017-42f9-ae13-a6c9923b8285.png\" /></p>\n   ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-13T13:53:28+00:00",
+    "url": "https://reliefweb.int/report/bangladesh/wfp-activates-anticipatory-action-and-shock-responsive-social-protection-ahead-peak-flooding-chittagong-hill-tracts-enbn",
+    "credibility": "medium"
+  },
+  {
     "id": "98c0b1562ffe",
     "title_en": "Poll: Israel support not priority for most younger religiously affiliated US Jews",
     "title_ar": "",
@@ -26,45 +91,6 @@
     "credibility": "medium"
   },
   {
-    "id": "d680cb03e99c",
-    "title_en": "Lebanon: LRP Health Sector At a Glance Report - Q1 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Lebanon, occupied Palestinian territory, Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/25/db/25db",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-13T12:03:12+00:00",
-    "url": "https://reliefweb.int/report/lebanon/lebanon-lrp-health-sector-glance-report-q1-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "8efe43fa4b2b",
-    "title_en": "Kyrgyzstan: WFP Kyrgyz Republic Country Brief, July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Kyrgyzstan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/33/9f/339f8493-ad5f-4fa6-8e54-2215329f8c7d.png\" /></p>\n                     ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-13T11:16:25+00:00",
-    "url": "https://reliefweb.int/report/kyrgyzstan/wfp-kyrgyz-republic-country-brief-july-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "d4f4f94047fd",
-    "title_en": "UNHCR Rwanda - Burundian Forcibly Displaced Persons - 30 June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Rwanda, Burundi</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/45/02/4502d1e0-74bf-5646-aca1-03b16c9df2b0.png\" /></p>\n ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-13T11:03:31+00:00",
-    "url": "https://reliefweb.int/report/rwanda/unhcr-rwanda-burundian-forcibly-displaced-persons-30-june-2026",
-    "credibility": "medium"
-  },
-  {
     "id": "66640066036a",
     "title_en": "UN official says Hamas obstructing Gaza aid: ‘Dangerous pattern of intimidation, violence’",
     "title_ar": "",
@@ -75,19 +101,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-07-13T10:44:36+00:00",
     "url": "https://www.timesofisrael.com/un-official-says-hamas-obstructing-gaza-aid-dangerous-pattern-of-intimidation-violence/",
-    "credibility": "medium"
-  },
-  {
-    "id": "ab68ace11e70",
-    "title_en": "In Wales, an artist sews names of Gaza’s infant victims on christening gown",
-    "title_ar": "",
-    "excerpt_en": "Diana Williams embroiders names of 300 babies killed by Israel on gown, an evocative work she hopes will reach New York.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-13T09:05:54+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/13/i-have-to-do-something-a-welsh-artist-honours-gazas-child-victims?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -179,19 +192,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
-    "credibility": "high"
-  },
-  {
-    "id": "2ea604216144",
-    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-    "title_ar": "",
-    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-02T04:59:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
