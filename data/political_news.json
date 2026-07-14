@@ -1,5 +1,44 @@
 [
   {
+    "id": "44469946faaa",
+    "title_en": "Spain: Europe | Wildfires overview and EU response since 1 July - DG ECHO Daily Map | 14/07/2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Spain, France, Croatia, Portugal</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/st",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-14T17:17:17+00:00",
+    "url": "https://reliefweb.int/map/spain/europe-wildfires-overview-and-eu-response-1-july-dg-echo-daily-map-14072026",
+    "credibility": "medium"
+  },
+  {
+    "id": "55d28973bc0c",
+    "title_en": "Israeli strike on police post in north Gaza kills seven, officials say",
+    "title_ar": "",
+    "excerpt_en": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-14T17:13:27+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "b457f79ea5cb",
+    "title_en": "oPt: Sawasya Field Visit Highlights Support for Women’s Rehabilitation and Gender-Responsive Justice Services in Palestine",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Women</div>\n                                                  <p>Please refer to the attached files.</p>\n                        <p><strong>زيارة ميدانية لبرنامج سواسية ومانحيه تسلط الضوء على دعم إعادة تأهيل النساء وتعزيز خدمات العدالة المستجيبة للنوع الاج",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-14T17:02:12+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/sawasya-field-visit-highlights-support-womens-rehabilitation-and-gender-responsive-justice-services-palestine",
+    "credibility": "medium"
+  },
+  {
     "id": "934b7e424e01",
     "title_en": "Israeli attack on north Gaza police station kills eight",
     "title_ar": "",
@@ -65,19 +104,6 @@
     "credibility": "medium"
   },
   {
-    "id": "55d28973bc0c",
-    "title_en": "Israeli strike on police post in north Gaza kills seven, officials say",
-    "title_ar": "",
-    "excerpt_en": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-14T13:46:14+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "28dedc25acce",
     "title_en": "oPt: Gaza Flashquote: Continued violence against children in Gaza",
     "title_ar": "",
@@ -88,19 +114,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-14T13:07:13+00:00",
     "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-flashquote-continued-violence-against-children-gaza",
-    "credibility": "medium"
-  },
-  {
-    "id": "012ef970083e",
-    "title_en": "WFP Djibouti Country Brief July 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Djibouti</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f6/ca/f6caf89e-3d1b-4c18-b3b0-45ad5327afe2.png\" /></p>\n                       ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-14T12:53:44+00:00",
-    "url": "https://reliefweb.int/report/djibouti/wfp-djibouti-country-brief-july-2026",
     "credibility": "medium"
   },
   {
