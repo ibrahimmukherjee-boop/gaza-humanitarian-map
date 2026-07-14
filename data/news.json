@@ -1,5 +1,41 @@
 [
   {
+    "id": "9cba70ca6f2b",
+    "title_en": "Ethiopia Country Environmental Profile, June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Ethiopia</div>\n                                      <div class=\"tag source\">Sources: CCCM Cluster, Shelter Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f1/bf/f1bf423b-d4ac-48bc-9a11-c18",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T13:55:06+00:00",
+    "url": "https://reliefweb.int/report/ethiopia/ethiopia-country-environmental-profile-june-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "00a2bc95d361",
+    "title_en": "oPt: Market Monitoring: Shelter and Household Items - 22-29 June 2026 | Gaza Strip",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Sources: Shelter Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/01/c2/01c2ecd8-b2ff-48d2-",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T13:52:19+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/market-monitoring-shelter-and-household-items-22-29-june-2026-gaza-strip",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "55d28973bc0c",
     "title_en": "Israeli strike on police post in north Gaza kills seven, officials say",
     "title_ar": "",
@@ -15,6 +51,59 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
+  },
+  {
+    "id": "28dedc25acce",
+    "title_en": "oPt: Gaza Flashquote: Continued violence against children in Gaza",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Médecins Sans Frontières</div>\n                                                                                              <p><em>“Since 9 July our teams in Gaza have treated four children who have been hit by stray bullets from Israeli forces, including a ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T13:07:13+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-flashquote-continued-violence-against-children-gaza",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "012ef970083e",
+    "title_en": "WFP Djibouti Country Brief July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Djibouti</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f6/ca/f6caf89e-3d1b-4c18-b3b0-45ad5327afe2.png\" /></p>\n                       ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T12:53:44+00:00",
+    "url": "https://reliefweb.int/report/djibouti/wfp-djibouti-country-brief-july-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "79e503247f3f",
+    "title_en": "World: Protection in Danger Monthly News Brief - May 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Bangladesh, Lebanon, Myanmar, occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Insecurity Insight</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/69/9a/699a7407-b9a6",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T12:52:08+00:00",
+    "url": "https://reliefweb.int/report/world/protection-danger-monthly-news-brief-may-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
   },
   {
     "id": "7c6786a62095",
