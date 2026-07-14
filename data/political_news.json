@@ -1,18 +1,5 @@
 [
   {
-    "id": "44469946faaa",
-    "title_en": "Spain: Europe | Wildfires overview and EU response since 1 July - DG ECHO Daily Map | 14/07/2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Spain, France, Croatia, Portugal</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/st",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-14T17:17:17+00:00",
-    "url": "https://reliefweb.int/map/spain/europe-wildfires-overview-and-eu-response-1-july-dg-echo-daily-map-14072026",
-    "credibility": "medium"
-  },
-  {
     "id": "55d28973bc0c",
     "title_en": "Israeli strike on police post in north Gaza kills seven, officials say",
     "title_ar": "",
@@ -26,19 +13,6 @@
     "credibility": "high"
   },
   {
-    "id": "b457f79ea5cb",
-    "title_en": "oPt: Sawasya Field Visit Highlights Support for Women’s Rehabilitation and Gender-Responsive Justice Services in Palestine",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Women</div>\n                                                  <p>Please refer to the attached files.</p>\n                        <p><strong>زيارة ميدانية لبرنامج سواسية ومانحيه تسلط الضوء على دعم إعادة تأهيل النساء وتعزيز خدمات العدالة المستجيبة للنوع الاج",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-14T17:02:12+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/sawasya-field-visit-highlights-support-womens-rehabilitation-and-gender-responsive-justice-services-palestine",
-    "credibility": "medium"
-  },
-  {
     "id": "934b7e424e01",
     "title_en": "Israeli attack on north Gaza police station kills eight",
     "title_ar": "",
@@ -49,97 +23,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-07-14T16:02:54+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c248a82ae39b",
-    "title_en": "oPt: WFP Palestine Emergency Response External Situation Report #92, 14 July 2026 (Reporting period: 1-30 June 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/7f/ea/7fea599f-0bc6-48fc-ae72-7eb02c5876d5.png\" /></p>\n                        <p>Please ref",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-14T15:59:43+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-emergency-response-external-situation-report-92-14-july-2026-reporting-period-1-30-june-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "0362cd5c0944",
-    "title_en": "Angola: Southern Africa: Humanitarian Snapshot (as of July 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Angola, Botswana, Comoros, Eswatini, Lesotho, Madagascar, Malawi, Mozambique, Namibia, Seychelles, South Africa, United Republic of Tanzania, Zambia, Zimbabwe</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                    ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-14T14:52:41+00:00",
-    "url": "https://reliefweb.int/report/angola/southern-africa-humanitarian-snapshot-july-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "9cba70ca6f2b",
-    "title_en": "Ethiopia Country Environmental Profile, June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Ethiopia</div>\n                                      <div class=\"tag source\">Sources: CCCM Cluster, Shelter Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f1/bf/f1bf423b-d4ac-48bc-9a11-c18",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-14T13:55:06+00:00",
-    "url": "https://reliefweb.int/report/ethiopia/ethiopia-country-environmental-profile-june-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "00a2bc95d361",
-    "title_en": "oPt: Market Monitoring: Shelter and Household Items - 22-29 June 2026 | Gaza Strip",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Sources: Shelter Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/01/c2/01c2ecd8-b2ff-48d2-",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-14T13:52:19+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/market-monitoring-shelter-and-household-items-22-29-june-2026-gaza-strip",
-    "credibility": "medium"
-  },
-  {
-    "id": "28dedc25acce",
-    "title_en": "oPt: Gaza Flashquote: Continued violence against children in Gaza",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Médecins Sans Frontières</div>\n                                                                                              <p><em>“Since 9 July our teams in Gaza have treated four children who have been hit by stray bullets from Israeli forces, including a ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-14T13:07:13+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-flashquote-continued-violence-against-children-gaza",
-    "credibility": "medium"
-  },
-  {
-    "id": "8ccdb02809e1",
-    "title_en": "US lawmaker detained by settlers says lack of punishment shows Israeli complicity",
-    "title_ar": "",
-    "excerpt_en": "<p>Israel's 'genocidal' response to October 7 and the 'apartheid' conditions in the West Bank lead Ro Khanna to drop 'pro-Israel progressive' label he was using 4 years ago</p>\n<p>The post <a href=\"https://www.timesofisrael.com/us-lawmaker-detained-by-settlers-says-lack-of-punishment-shows-israeli-complicity/\">US lawmaker detained by settlers says lack of punishment shows Israeli complicity</a> ap",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-14T09:24:26+00:00",
-    "url": "https://www.timesofisrael.com/us-lawmaker-detained-by-settlers-says-lack-of-punishment-shows-israeli-complicity/",
-    "credibility": "medium"
-  },
-  {
-    "id": "74d6e9d6ee8f",
-    "title_en": "Katz seeks pardon for soldier who killed subdued Palestinian stabber; IDF opposed",
-    "title_ar": "",
-    "excerpt_en": "<p>Defense minister's move aims to shorten time before Elor Azaria's record is automatically expunged; incident exposed deep rifts in Israeli society over IDF activities in West Bank</p>\n<p>The post <a href=\"https://www.timesofisrael.com/katz-seeks-pardon-for-soldier-who-killed-subdued-palestinian-stabber-idf-opposed/\">Katz seeks pardon for soldier who killed subdued Palestinian stabber; IDF oppos",
-    "excerpt_ar": "",
-    "source": "Times of Israel",
-    "source_region": "israel",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-14T09:13:53+00:00",
-    "url": "https://www.timesofisrael.com/katz-seeks-pardon-for-soldier-who-killed-subdued-palestinian-stabber-idf-opposed/",
     "credibility": "medium"
   },
   {
