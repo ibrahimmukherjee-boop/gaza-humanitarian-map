@@ -1,5 +1,59 @@
 [
   {
+    "id": "7e152f64b75e",
+    "title_en": "WFP Tajikistan Country Brief, July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Tajikistan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/74/c3/74c34d80-9322-45e9-900e-2ccf3e6a32b2.png\" /></p>\n                        <p>Please refer to the attached f",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T09:32:49+00:00",
+    "url": "https://reliefweb.int/report/tajikistan/wfp-tajikistan-country-brief-july-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "9eef3ad93c86",
+    "title_en": "World: Public support for refugees remains stable after 75 years of Convention protection",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Australia, Brazil, France, Japan, Netherlands, Spain, Sweden, United States of America</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                                              <p>New Ipsos survey with UNHCR finds support for refugees re",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T08:33:08+00:00",
+    "url": "https://reliefweb.int/report/world/public-support-refugees-remains-stable-after-75-years-convention-protection",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "f14c105357c5",
+    "title_en": "Lao PDR: WFP Lao People's Democratic Republic Country Brief, July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Lao People's Democratic Republic (the)</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/de/90/de901085-da12-4433-a6a3-103d709ee88f.png\" /></p>\n                        <p>Pl",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T07:22:49+00:00",
+    "url": "https://reliefweb.int/report/lao-peoples-democratic-republic/wfp-lao-peoples-democratic-republic-country-brief-july-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "7c6786a62095",
     "title_en": "Today's top news: El Niño, Venezuela, Occupied Palestinian Territory, Ukraine",
     "title_ar": "",
