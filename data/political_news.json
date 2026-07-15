@@ -1,5 +1,18 @@
 [
   {
+    "id": "64d0e39e4080",
+    "title_en": "Protests in Paris, Gaza for release of Hussam Abu Safia",
+    "title_ar": "",
+    "excerpt_en": "Protests were held in Paris and Gaza demanding the release of Palestinian doctor Hussam Abu Safia.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-15T19:48:50+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/protests-in-paris-gaza-for-release-of-hussam-abu-safia?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "87bbc8290634",
     "title_en": "Palestinian homes sealed off by Israeli military restrictions",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-15T18:49:42+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/palestinian-homes-sealed-off-by-israeli-military-restrictions?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "18789ca5ab46",
-    "title_en": "Father, mother, daughter killed in Israeli attack on Gaza home",
-    "title_ar": "",
-    "excerpt_en": "Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-15T16:24:39+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
     "credibility": "medium"
   },
   {
