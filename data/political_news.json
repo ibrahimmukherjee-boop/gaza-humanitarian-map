@@ -1,15 +1,15 @@
 [
   {
-    "id": "58c957493f03",
-    "title_en": "Palestine weekly: Israel attacks children, hospitals in bloody week in Gaza",
+    "id": "766e0b371885",
+    "title_en": "Waiting for Hassan: Another Gaza doctor held by Israel without charge",
     "title_ar": "",
-    "excerpt_en": "Israel&#039;s grip on the occupied West Bank tightens through outposts, demolitions, and army-backed settler raids.",
+    "excerpt_en": "Hassan Khalil Almukayed is among at least 15 Palestinian doctors from Gaza currently in Israeli detention.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-14T21:05:39+00:00",
-    "url": "https://www.aljazeera.com/features/2026/7/14/palestine-weekly-israel-attacks-children-hospitals-in-bloody-week-in-gaza?traffic_source=rss",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-15T06:55:33+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/15/waiting-for-hassan-another-gaza-doctor-held-by-israel-without-charge?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -65,19 +65,6 @@
     "credibility": "high"
   },
   {
-    "id": "c05be05a1b09",
-    "title_en": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-    "title_ar": "",
-    "excerpt_en": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-09T21:04:09+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "1aaabf4f69fa",
     "title_en": "Diplomats go virtual to witness Gaza displacement site up close",
     "title_ar": "",
@@ -88,19 +75,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-09T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
-    "credibility": "high"
-  },
-  {
-    "id": "2db4dc019ed8",
-    "title_en": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-    "title_ar": "",
-    "excerpt_en": "The lawyer for Dr Hussam Abu Safiya tells the BBC his client was so badly beaten he could not recognise him during a visit last week.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-07T16:10:14+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c07yy3pgrlmo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
