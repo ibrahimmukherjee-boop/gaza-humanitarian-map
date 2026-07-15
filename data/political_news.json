@@ -1,5 +1,31 @@
 [
   {
+    "id": "8efadb4e653a",
+    "title_en": "World: WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Pan American Health Organization</div>\n                                                                                              <p>Washington, D.C., 15 July 2026 (PAHO) – Childhood vaccination in the Americas continued to recover in 2025, with the number of unvaccinated children",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-15T13:03:06+00:00",
+    "url": "https://reliefweb.int/report/world/who-and-unicef-estimates-show-routine-immunization-has-rebounded-americas-declining-measles-coverage-leaves-communities-vulnerable-outbreaks",
+    "credibility": "medium"
+  },
+  {
+    "id": "5871b98527da",
+    "title_en": "Spain’s Oscar-winning actor raises Palestine flag at World Cup match",
+    "title_ar": "",
+    "excerpt_en": "Spain&#039;s Oscar-winning actor Javier Bardem had a message for Palestinians as he raised Palestine flag during World Cup.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-15T13:02:53+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spains-oscar-winning-actor-raises-palestine-flag-at-world-cup-match?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a8c8d1993522",
     "title_en": "Israeli air attack on Gaza apartment kills family of three",
     "title_ar": "",
@@ -13,6 +39,19 @@
     "credibility": "medium"
   },
   {
+    "id": "0f5035f7aa7e",
+    "title_en": "WFP Guatemala Country Brief, July 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Guatemala</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c9/b4/c9b438d9-440b-42de-ac6c-aba2db66da6c.png\" /></p>\n                      ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-15T12:06:25+00:00",
+    "url": "https://reliefweb.int/report/guatemala/wfp-guatemala-country-brief-july-2026",
+    "credibility": "medium"
+  },
+  {
     "id": "94931ff70a66",
     "title_en": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
     "title_ar": "",
@@ -23,6 +62,19 @@
     "statement_type": "official_statement",
     "timestamp": "2026-07-15T11:36:32+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "1e9377533b2f",
+    "title_en": "EU provides €20 million in humanitarian funding following earthquakes in Venezuela",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                                                                <p>The European Union is releasin",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-15T10:33:06+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/eu-provides-eur20-million-humanitarian-funding-following-earthquakes-venezuela",
     "credibility": "medium"
   },
   {

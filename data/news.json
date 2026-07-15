@@ -1,5 +1,23 @@
 [
   {
+    "id": "8efadb4e653a",
+    "title_en": "World: WHO and UNICEF estimates show routine immunization has rebounded in the Americas, but declining measles coverage leaves communities vulnerable to outbreaks",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Pan American Health Organization</div>\n                                                                                              <p>Washington, D.C., 15 July 2026 (PAHO) – Childhood vaccination in the Americas continued to recover in 2025, with the number of unvaccinated children",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-15T13:03:06+00:00",
+    "url": "https://reliefweb.int/report/world/who-and-unicef-estimates-show-routine-immunization-has-rebounded-americas-declining-measles-coverage-leaves-communities-vulnerable-outbreaks",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "0f5035f7aa7e",
     "title_en": "WFP Guatemala Country Brief, July 2026",
     "title_ar": "",
@@ -28,24 +46,6 @@
     "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/eu-provides-eur20-million-humanitarian-funding-following-earthquakes-venezuela",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "50c6a73f1c4f",
-    "title_en": "Jordan Operational Update - April-June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Jordan, Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/38/cc/38cc5977-fa05-5e11-967d-7ca07ae2d804.",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-15T08:03:12+00:00",
-    "url": "https://reliefweb.int/report/jordan/jordan-operational-update-april-june-2026",
-    "tags": [
-      "displacement",
       "humanitarian"
     ],
     "location_tags": [
