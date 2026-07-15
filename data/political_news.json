@@ -1,5 +1,18 @@
 [
   {
+    "id": "18789ca5ab46",
+    "title_en": "Father, mother, daughter killed in Israeli attack on Gaza home",
+    "title_ar": "",
+    "excerpt_en": "Palestinians held a funeral for a father, a mother and their six-year-old daughter killed in an Israeli air attack.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-15T16:24:39+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/father-mother-daughter-killed-in-israeli-attack-on-gaza-home?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ecdd7097a4c1",
     "title_en": "Legal challenge says Trump ICC sanctions tread on US citizens’ rights",
     "title_ar": "",
@@ -36,32 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-15T13:02:53+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/15/spains-oscar-winning-actor-raises-palestine-flag-at-world-cup-match?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a8c8d1993522",
-    "title_en": "Israeli air attack on Gaza apartment kills family of three",
-    "title_ar": "",
-    "excerpt_en": "One child survives hit on Deir el-Balah home as Israel escalates attacks across territory despite October &#039;ceasefire&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-15T12:11:11+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/15/israeli-air-attack-on-gaza-apartment-kills-family-of-3?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "94931ff70a66",
-    "title_en": "‘Cycle of chaos’: Israel killing Gaza civil officials to derail its future",
-    "title_ar": "",
-    "excerpt_en": "Israel&#039;s relentless Gaza attacks aim to sabotage the &#039;ceasefire&#039; and ensure perpetual chaos, analysts warn.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-15T11:36:32+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/15/cycle-of-chaos-israel-killing-gaza-civil-officials-to-derail-its-future?traffic_source=rss",
     "credibility": "medium"
   },
   {
