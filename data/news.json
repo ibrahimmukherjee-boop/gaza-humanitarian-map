@@ -1,5 +1,23 @@
 [
   {
+    "id": "aeb376809ab0",
+    "title_en": "Quick Note - Environmental Issues - June 2026 Earthquakes Venezuela",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Sources: Shelter Cluster, UN High Commissioner for Refugees</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/bf/",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-14T23:56:36+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/quick-note-environmental-issues-june-2026-earthquakes-venezuela",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "7d325f752d56",
     "title_en": "Venezuela Earthquakes June 2026: Urban Search and Rescue (USAR) Team Snapshot (As of 14 July, 10:00 GMT-4)",
     "title_ar": "",
@@ -113,42 +131,6 @@
     "timestamp": "2026-07-14T14:52:41+00:00",
     "url": "https://reliefweb.int/report/angola/southern-africa-humanitarian-snapshot-july-2026",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "9cba70ca6f2b",
-    "title_en": "Ethiopia Country Environmental Profile, June 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Ethiopia</div>\n                                      <div class=\"tag source\">Sources: CCCM Cluster, Shelter Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f1/bf/f1bf423b-d4ac-48bc-9a11-c18",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-14T13:55:06+00:00",
-    "url": "https://reliefweb.int/report/ethiopia/ethiopia-country-environmental-profile-june-2026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "00a2bc95d361",
-    "title_en": "oPt: Market Monitoring: Shelter and Household Items - 22-29 June 2026 | Gaza Strip",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Sources: Shelter Cluster, UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/01/c2/01c2ecd8-b2ff-48d2-",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-07-14T13:52:19+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/market-monitoring-shelter-and-household-items-22-29-june-2026-gaza-strip",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
