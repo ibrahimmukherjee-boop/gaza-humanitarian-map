@@ -1,5 +1,41 @@
 [
   {
+    "id": "50c6a73f1c4f",
+    "title_en": "Jordan Operational Update - April-June 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Jordan, Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/38/cc/38cc5977-fa05-5e11-967d-7ca07ae2d804.",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-15T08:03:12+00:00",
+    "url": "https://reliefweb.int/report/jordan/jordan-operational-update-april-june-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "74a583f9fcfe",
+    "title_en": "Afghanistan: WHO EMR Polio Bulletin Issue No. 1449, Week 27 (ending on 12/07/2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Afghanistan, Djibouti, occupied Palestinian territory, Pakistan, Somalia, Sudan, Yemen</div>\n                                      <div class=\"tag source\">Source: World Health Organization</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/t",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-07-15T06:03:14+00:00",
+    "url": "https://reliefweb.int/report/afghanistan/who-emr-polio-bulletin-issue-no-1449-week-27-ending-12072026",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "55d28973bc0c",
     "title_en": "Israeli strike on police post in north Gaza kills seven, officials say",
     "title_ar": "",
