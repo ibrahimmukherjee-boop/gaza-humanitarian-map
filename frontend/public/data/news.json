@@ -1,5 +1,22 @@
 [
   {
+    "id": "f32d3493b8df",
+    "title_en": "Today's top news: Ukraine, Pakistan, Occupied Palestinian Territory, Democratic Republic of the Congo, Rwanda",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Ukraine, Pakistan, Occupied Palestinian Territory, Democratic Republic of the Congo, Rwanda</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidd",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-07-16T16:17:18+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-ukraine-pakistan-occupied-palestinian-territory-democratic-republic-congo",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "7b6c0f2e456e",
     "title_en": "Today's top news: Pakistan, Venezuela, Occupied Palestinian Territory, Central African Republic, Cuba",
     "title_ar": "",
