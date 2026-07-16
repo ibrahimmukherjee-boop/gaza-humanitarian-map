@@ -13,6 +13,19 @@
     "credibility": "medium"
   },
   {
+    "id": "dee566ef43b2",
+    "title_en": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
+    "title_ar": "",
+    "excerpt_en": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-16T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
+    "credibility": "high"
+  },
+  {
     "id": "55d28973bc0c",
     "title_en": "Israeli strike on police post in north Gaza kills seven, officials say",
     "title_ar": "",
@@ -114,19 +127,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-06-30T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
-    "credibility": "high"
-  },
-  {
-    "id": "9b3c6b7575f8",
-    "title_en": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlement activities in occupied Palestinian territory, declared illegal under a decade-old resolution, are under the spotlight at the Security Council’s open meeting at 10am local time on Monday, with updates from the office of the UN Special Coordinator for the Middle East Peace Process and two civil society representatives. Stay tuned for live updates.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-06-29T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167830",
     "credibility": "high"
   }
 ]
