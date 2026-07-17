@@ -1,5 +1,18 @@
 [
   {
+    "id": "0192fd02cf5c",
+    "title_en": "Israel, Gaza and the future of US power",
+    "title_ar": "",
+    "excerpt_en": "Congressman Ro Khanna joins Sreenivasan Jain.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-17T20:38:12+00:00",
+    "url": "https://www.aljazeera.com/video/the-india-report/2026/7/17/2271?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7242d64337ae",
     "title_en": "Life after amputation: Gaza women find recovery through football",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-17T16:21:49+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "6787ad936c66",
-    "title_en": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
-    "title_ar": "",
-    "excerpt_en": "An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-17T15:40:10+00:00",
-    "url": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss",
     "credibility": "medium"
   },
   {
