@@ -1,5 +1,31 @@
 [
   {
+    "id": "8fa2edde32b9",
+    "title_en": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+    "title_ar": "",
+    "excerpt_en": "Twenty people also injured in strike on funeral procession for Palestinian killed by Israel earlier in the day.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-17T16:21:49+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "6787ad936c66",
+    "title_en": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
+    "title_ar": "",
+    "excerpt_en": "An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-17T15:40:10+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "8d0d135d0738",
     "title_en": "US seeks extradition of wealthy pro-Palestine donor from Spain",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-17T12:12:14+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/17/church-of-england-backs-palestinian-christians-despite-backlash?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3ce729c183a7",
-    "title_en": "The Church of England has taken a long-overdue step on Palestine",
-    "title_ar": "",
-    "excerpt_en": "By agreeing to hear Palestinian Christians, the Synod has begun to confront its history and responsibilities.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-17T11:34:02+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/7/17/the-church-of-england-has-taken-a-long-overdue-step-on-palestine?traffic_source=rss",
     "credibility": "medium"
   },
   {
