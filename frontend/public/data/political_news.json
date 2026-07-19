@@ -1,5 +1,18 @@
 [
   {
+    "id": "58d46443bce9",
+    "title_en": "Israeli ministers join march to Gaza to demand return of settlements",
+    "title_ar": "",
+    "excerpt_en": "Hundreds gather near the border as coalition figures push to rebuild communities evacuated in 2005.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-19T20:55:11+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c8ed3508a08e",
     "title_en": "The story behind Gaza’s #TheyLiedToYou campaign",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-19T16:06:55+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israeli-settlers-torch-homes-and-mosque-in-masafer-yatta?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "8fce03377782",
-    "title_en": "Israel uses law to destroy Palestinian education in East Jerusalem",
-    "title_ar": "",
-    "excerpt_en": "Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-19T15:46:23+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
     "credibility": "medium"
   },
   {
