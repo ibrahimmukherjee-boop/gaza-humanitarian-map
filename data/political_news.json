@@ -1,5 +1,18 @@
 [
   {
+    "id": "c8ed3508a08e",
+    "title_en": "The story behind Gaza’s #TheyLiedToYou campaign",
+    "title_ar": "",
+    "excerpt_en": "The story behind Gaza’s #TheyLiedToYou campaign",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-19T18:54:54+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "13bd10d2ef2b",
     "title_en": "Israeli settlers torch homes and mosque in Masafer Yatta",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-19T15:46:23+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "02287ee374c0",
-    "title_en": "Who controls football in Palestine?",
-    "title_ar": "",
-    "excerpt_en": "For Palestinians fighting Israeli occupation, football has never been just a game.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-19T14:27:02+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/who-controls-football-in-palestine?traffic_source=rss",
     "credibility": "medium"
   },
   {
