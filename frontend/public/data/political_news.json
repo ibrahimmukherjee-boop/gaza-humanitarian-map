@@ -1,5 +1,18 @@
 [
   {
+    "id": "8fce03377782",
+    "title_en": "Israel uses law to destroy Palestinian education in East Jerusalem",
+    "title_ar": "",
+    "excerpt_en": "Legislation recently passed by the Knesset is meant to dismantle the Palestinian education system in East Jerusalem.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-19T15:46:23+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/7/19/israel-uses-law-to-destroy-palestinian-education-in-east-jerusalem?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "02287ee374c0",
     "title_en": "Who controls football in Palestine?",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-19T14:27:02+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/who-controls-football-in-palestine?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9154704ecbed",
-    "title_en": "Gaza cheers for Spain as World Cup final anticipation mounts",
-    "title_ar": "",
-    "excerpt_en": "Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-19T10:09:25+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
     "credibility": "medium"
   },
   {
