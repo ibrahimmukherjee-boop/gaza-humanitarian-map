@@ -1,5 +1,57 @@
 [
   {
+    "id": "a7d1e78d6d7e",
+    "title_en": "Hamas names Khalil al-Hayya as new overall leader",
+    "title_ar": "",
+    "excerpt_en": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-20T14:02:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "c08909e9e7c6",
+    "title_en": "Israeli ministers and settlers call for return to Gaza settlements",
+    "title_ar": "",
+    "excerpt_en": "‘Gaza is ours.’",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-20T13:29:39+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-ministers-and-settlers-call-for-return-to-gaza-settlements?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "906fe40a526f",
+    "title_en": "Why Palestinians in Gaza are celebrating Spain’s World Cup win",
+    "title_ar": "",
+    "excerpt_en": "Thousands gathered across Gaza to watch the World Cup final, with many backing Spain over its support for Palestinians.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-20T13:21:51+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/why-palestinians-in-gaza-are-celebrating-spains-world-cup-win?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "8bf7022834dd",
+    "title_en": "Who is Khalil al-Hayya, Hamas’s newly elected political chief?",
+    "title_ar": "",
+    "excerpt_en": "Veteran negotiator assumes Palestinian group&#039;s overall leadership following a wartime election process.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-20T13:18:47+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "cb91b9203e0f",
     "title_en": "Don’t believe Andy Burnham’s PR machine",
     "title_ar": "",
@@ -114,19 +166,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
-    "credibility": "high"
-  },
-  {
-    "id": "2ea604216144",
-    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-    "title_ar": "",
-    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-02T04:59:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
