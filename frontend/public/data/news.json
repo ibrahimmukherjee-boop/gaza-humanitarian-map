@@ -1,5 +1,22 @@
 [
   {
+    "id": "e996eb1560ef",
+    "title_en": "Today's top news: Democratic Republic of the Congo, Burundi, Sudan, Occupied Palestinian Territory, Ukraine",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Democratic Republic of the Congo, Burundi, Sudan, Occupied Palestinian Territory, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-07-20T16:51:28+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-burundi-sudan-occupied-palestinian-territory-ukraine",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "a7d1e78d6d7e",
     "title_en": "Hamas names Khalil al-Hayya as new overall leader",
     "title_ar": "",
@@ -181,23 +198,6 @@
     "source": "UN News",
     "timestamp": "2026-07-11T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "7426ec3db52e",
-    "title_en": "Today's top news: Venezuela, Occupied Palestinian Territory, Lebanon",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Venezuela, Occupied Palestinian Territory, Lebanon</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"UN Relief Chi",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-10T16:25:05+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-venezuela-occupied-palestinian-territory-lebanon",
     "tags": [
       "humanitarian"
     ],
