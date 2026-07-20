@@ -1,5 +1,18 @@
 [
   {
+    "id": "459f5ac8f3e6",
+    "title_en": "Occupied West Bank World Cup screening halted for funeral",
+    "title_ar": "",
+    "excerpt_en": "A screening of the FIFA World Cup final in Ramallah was halted following news that two Palestinians were killed.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-20T10:33:16+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/occupied-west-bank-world-cup-screening-halted-for-funeral?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "e9e80f040768",
     "title_en": "Last night, I was Spanish, and so were millions around the world",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-20T06:21:31+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5756b828c69c",
-    "title_en": "Palestinians celebrate Spain’s World Cup victory",
-    "title_ar": "",
-    "excerpt_en": "Palestinians across Gaza and the Occupied West Bank celebrated Spain’s World Cup victory.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-20T02:23:45+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
     "credibility": "medium"
   },
   {
