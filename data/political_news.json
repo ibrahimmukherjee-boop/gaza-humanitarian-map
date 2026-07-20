@@ -1,5 +1,18 @@
 [
   {
+    "id": "7291d326e690",
+    "title_en": "Gaza residents weigh in on election of new Hamas leader",
+    "title_ar": "",
+    "excerpt_en": "Gaza residents weigh in on election of new Hamas leader",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-20T20:53:29+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a42b2f83b5e3",
     "title_en": "What does Khalil al-Hayya’s election win mean for Gaza?",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-20T19:43:02+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9cd8db55c160",
-    "title_en": "Israeli air strike injures 14 in Gaza City",
-    "title_ar": "",
-    "excerpt_en": "An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-20T16:45:23+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
     "credibility": "medium"
   },
   {
