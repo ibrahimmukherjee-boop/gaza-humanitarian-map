@@ -1,5 +1,18 @@
 [
   {
+    "id": "9cd8db55c160",
+    "title_en": "Israeli air strike injures 14 in Gaza City",
+    "title_ar": "",
+    "excerpt_en": "An Israeli air strike on Gaza City injured at least 14 people, according to Gaza health officials.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-20T16:45:23+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/israeli-air-strike-injures-14-in-gaza-city?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a7d1e78d6d7e",
     "title_en": "Hamas names Khalil al-Hayya as new overall leader",
     "title_ar": "",
@@ -49,32 +62,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-20T13:18:47+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/20/who-is-khalil-al-hayya-hamas-newly-elected-political-chief?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "cb91b9203e0f",
-    "title_en": "Don’t believe Andy Burnham’s PR machine",
-    "title_ar": "",
-    "excerpt_en": "As his empty Gaza apology clearly demonstrates, he will not bring the radical change Labour really needs.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-20T12:15:05+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/7/20/dont-believe-andy-burnhams-pr-machine?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a28787d7d920",
-    "title_en": "Iran says Spain World Cup win brings joy to critics of US, Israel",
-    "title_ar": "",
-    "excerpt_en": "Iran praises Spain&#039;s win over Argentina after Spanish government&#039;s condemnation of policies on Gaza and war on Iran.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-20T11:50:40+00:00",
-    "url": "https://www.aljazeera.com/sports/2026/7/20/iran-says-spain-world-cup-win-brought-joy-to-critics-of-us-israel?traffic_source=rss",
     "credibility": "medium"
   },
   {
