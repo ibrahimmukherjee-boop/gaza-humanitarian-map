@@ -1,5 +1,18 @@
 [
   {
+    "id": "a42b2f83b5e3",
+    "title_en": "What does Khalil al-Hayya’s election win mean for Gaza?",
+    "title_ar": "",
+    "excerpt_en": "Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-20T19:43:02+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "9cd8db55c160",
     "title_en": "Israeli air strike injures 14 in Gaza City",
     "title_ar": "",
@@ -114,19 +127,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-01T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167852",
-    "credibility": "high"
-  },
-  {
-    "id": "c46385fd7c4b",
-    "title_en": "Despite record $100 million shortfall, Palestine relief agency still ‘a critical platform’ for Gaza recovery",
-    "title_ar": "",
-    "excerpt_en": "The UN agency serving 5.9 million Palestine refugees, UNRWA, continues to strive to deliver on its mandate while facing an unprecedented $100 million budget shortfall, a gap it hopes to narrow during Tuesday’s pledging conference at UN Headquarters.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-06-30T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/06/1167845",
     "credibility": "high"
   }
 ]
