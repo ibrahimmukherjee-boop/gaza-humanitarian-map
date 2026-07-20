@@ -1,5 +1,18 @@
 [
   {
+    "id": "5756b828c69c",
+    "title_en": "Palestinians celebrate Spain’s World Cup victory",
+    "title_ar": "",
+    "excerpt_en": "Palestinians across Gaza and the Occupied West Bank celebrated Spain’s World Cup victory.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-20T02:23:45+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/palestinians-celebrate-spains-world-cup-victory?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "58d46443bce9",
     "title_en": "Israeli ministers join march to Gaza to demand return of settlements",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-19T20:55:11+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/19/israeli-ministers-join-march-to-gaza-to-demand-return-of-settlements?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c8ed3508a08e",
-    "title_en": "The story behind Gaza’s #TheyLiedToYou campaign",
-    "title_ar": "",
-    "excerpt_en": "The story behind Gaza’s #TheyLiedToYou campaign",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-19T18:54:54+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/the-story-behind-gazas-theyliedtoyou-campaign?traffic_source=rss",
     "credibility": "medium"
   },
   {
