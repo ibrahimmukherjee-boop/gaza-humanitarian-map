@@ -155,23 +155,6 @@
     "credibility": "high"
   },
   {
-    "id": "4136d57febe3",
-    "title_en": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-11T18:00:09+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "c808a4e9df36",
     "title_en": "‘We face a new ordeal’: Gaza's search for the dead goes on",
     "title_ar": "",
@@ -240,6 +223,24 @@
       "Gaza Strip"
     ],
     "credibility": "high"
+  },
+  {
+    "id": "2ea604216144",
+    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+    "title_ar": "",
+    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-02T04:59:55+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
   },
   {
     "id": "6ad682c6d528",

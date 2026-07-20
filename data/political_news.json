@@ -1,5 +1,18 @@
 [
   {
+    "id": "e9e80f040768",
+    "title_en": "Last night, I was Spanish, and so were millions around the world",
+    "title_ar": "",
+    "excerpt_en": "For many of us, Gaza was on our mind when we watched and celebrated Spain’s triumph at the World Cup.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-20T06:21:31+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/7/20/last-night-i-was-spanish-and-so-were-millions-around-the-world?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "5756b828c69c",
     "title_en": "Palestinians celebrate Spain’s World Cup victory",
     "title_ar": "",
@@ -52,19 +65,6 @@
     "credibility": "high"
   },
   {
-    "id": "4136d57febe3",
-    "title_en": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-11T18:00:09+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "c808a4e9df36",
     "title_en": "‘We face a new ordeal’: Gaza's search for the dead goes on",
     "title_ar": "",
@@ -101,6 +101,19 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-06T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167880",
+    "credibility": "high"
+  },
+  {
+    "id": "2ea604216144",
+    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+    "title_ar": "",
+    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-07-02T04:59:55+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
