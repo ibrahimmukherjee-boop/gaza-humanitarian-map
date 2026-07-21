@@ -1,5 +1,18 @@
 [
   {
+    "id": "a2d072932049",
+    "title_en": "MSF demands Israel release detained Palestinian healthcare workers",
+    "title_ar": "",
+    "excerpt_en": "The NGO is &#039;outraged&#039; by Israel&#039;s treatment of the health professionals and warns that &#039;silence has become complicity&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-20T23:41:28+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7291d326e690",
     "title_en": "Gaza residents weigh in on election of new Hamas leader",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-20T20:53:29+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/gaza-residents-weigh-in-on-election-of-new-hamas-leader?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a42b2f83b5e3",
-    "title_en": "What does Khalil al-Hayya’s election win mean for Gaza?",
-    "title_ar": "",
-    "excerpt_en": "Al-Hayya wins Hamas leadership with a single-vote margin, signalling a focus on Gaza amidst continued Israeli aggression",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-20T19:43:02+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/20/what-does-khalil-al-hayyas-election-win-mean-for-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
