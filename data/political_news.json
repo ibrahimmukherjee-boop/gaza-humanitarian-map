@@ -1,5 +1,18 @@
 [
   {
+    "id": "be875ab7acef",
+    "title_en": "Israeli air strike in Gaza City kills family of six, medics say",
+    "title_ar": "",
+    "excerpt_en": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-21T14:47:41+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "8394c49b9f5c",
     "title_en": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
     "title_ar": "",
@@ -13,17 +26,17 @@
     "credibility": "medium"
   },
   {
-    "id": "998e2bf43139",
-    "title_en": "Arizona’s primary elections: Which US races to watch and why they matter",
+    "id": "af73eeac98c3",
+    "title_en": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
     "title_ar": "",
-    "excerpt_en": "From the governor’s race to Democratic divisions over Gaza, here’s what could shape Arizona elections on Tuesday.",
+    "excerpt_en": "The Security Council is holding its monthly debate on Syria amid reports of an Israeli attack in occupied territory and discussions of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as the UN chief heads",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-21T10:28:16+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/21/arizonas-primary-elections-which-us-races-to-watch-and-why-they-matter?traffic_source=rss",
-    "credibility": "medium"
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-21T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167984",
+    "credibility": "high"
   },
   {
     "id": "a7d1e78d6d7e",
