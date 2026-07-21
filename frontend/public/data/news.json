@@ -34,6 +34,24 @@
     "credibility": "medium"
   },
   {
+    "id": "7dc98ceda7e7",
+    "title_en": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
+    "title_ar": "",
+    "excerpt_en": "Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-07-21T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167991",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "af73eeac98c3",
     "title_en": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
     "title_ar": "",
