@@ -1,5 +1,18 @@
 [
   {
+    "id": "255a15b2f7c8",
+    "title_en": "Five Palestinians die in fire after Israeli attack in Gaza",
+    "title_ar": "",
+    "excerpt_en": "An Israeli air attack on an apartment in Gaza City set the building on fire, killing five people.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-21T07:55:43+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/five-palestinians-die-in-fire-after-israeli-attack-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "8ef4907f2032",
     "title_en": "‘We just want to live’: Palestinians in Gaza react to Hamas election",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-21T06:18:42+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/21/we-just-want-to-live-palestinians-in-gaza-react-to-hamas-election?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a2d072932049",
-    "title_en": "MSF demands Israel release detained Palestinian healthcare workers",
-    "title_ar": "",
-    "excerpt_en": "The NGO is &#039;outraged&#039; by Israel&#039;s treatment of the health professionals and warns that &#039;silence has become complicity&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-20T23:41:28+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/20/msf-demands-israel-release-detained-palestinian-healthcare-workers?traffic_source=rss",
     "credibility": "medium"
   },
   {
