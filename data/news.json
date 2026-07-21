@@ -1,5 +1,39 @@
 [
   {
+    "id": "be875ab7acef",
+    "title_en": "Israeli air strike in Gaza City kills family of six, medics say",
+    "title_ar": "",
+    "excerpt_en": "Firas al-Masri, his wife and their four children died in the attack, which the Israeli military says targeted a Hamas operative.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-21T14:47:41+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "af73eeac98c3",
+    "title_en": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
+    "title_ar": "",
+    "excerpt_en": "The Security Council is holding its monthly debate on Syria amid reports of an Israeli attack in occupied territory and discussions of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as the UN chief heads",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-07-21T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1167984",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e996eb1560ef",
     "title_en": "Today's top news: Democratic Republic of the Congo, Burundi, Sudan, Occupied Palestinian Territory, Ukraine",
     "title_ar": "",
