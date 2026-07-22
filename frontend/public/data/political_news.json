@@ -1,5 +1,18 @@
 [
   {
+    "id": "8044e4af1add",
+    "title_en": "Gaza man returns home after family believed he was dead",
+    "title_ar": "",
+    "excerpt_en": "Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-22T19:59:42+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "de05479015ad",
     "title_en": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-22T17:02:50+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9e54b5a4fd9c",
-    "title_en": "Elon and the Other Gaza",
-    "title_ar": "",
-    "excerpt_en": "How the world&#039;s richest man helped trigger an HIV crisis in one of the world&#039;s poorest countries.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-22T15:30:00+00:00",
-    "url": "https://www.aljazeera.com/video/people-power/2026/7/22/elon-and-the-other-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
