@@ -1,5 +1,22 @@
 [
   {
+    "id": "58ceb9b80c2d",
+    "title_en": "Today's top news: Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Ukraine",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__i",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-07-22T16:26:54+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-sudan-occupied-palestinian-territory-ukraine",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "83ae1f6a1e5d",
     "title_en": "Today's top news: Middle East, Syria, Afghanistan, Venezuela, Rwanda, Occupied Palestinian Territory, Lebanon",
     "title_ar": "",
