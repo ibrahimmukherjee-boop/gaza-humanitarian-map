@@ -1,5 +1,18 @@
 [
   {
+    "id": "de05479015ad",
+    "title_en": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
+    "title_ar": "",
+    "excerpt_en": "The newly appointed leader says Hamas would work to help the people of Gaza and achieve a united Palestinian state.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-22T18:43:51+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ade4b9b1c278",
     "title_en": "Hamas’s new leader calls for permanent Gaza ceasefire",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-22T15:30:00+00:00",
     "url": "https://www.aljazeera.com/video/people-power/2026/7/22/elon-and-the-other-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5eea78acc086",
-    "title_en": "Israeli strike leaves two Palestinians burnt beyond recognition",
-    "title_ar": "",
-    "excerpt_en": "An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-22T13:23:49+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss",
     "credibility": "medium"
   },
   {
