@@ -1,5 +1,31 @@
 [
   {
+    "id": "5eea78acc086",
+    "title_en": "Israeli strike leaves two Palestinians burnt beyond recognition",
+    "title_ar": "",
+    "excerpt_en": "An Israeli strike hit a civilian vehicle in central Gaza, killing two Palestinians.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-22T13:23:49+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/israeli-strike-leaves-two-palestinians-burnt-beyond-recognition?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7e6e31a660d1",
+    "title_en": "Settlers attack Palestinian towns in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Settlers attack Palestinian towns in Occupied West Bank",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-22T12:51:35+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/settlers-attack-palestinian-towns-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "9b3fd7e800fe",
     "title_en": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
     "title_ar": "",
