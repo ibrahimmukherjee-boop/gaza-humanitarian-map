@@ -1,5 +1,18 @@
 [
   {
+    "id": "dc654573fd06",
+    "title_en": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+    "title_ar": "",
+    "excerpt_en": "The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-23T05:15:27+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "9812965ab61d",
     "title_en": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-23T03:07:01+00:00",
     "url": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c72e40c65a54",
-    "title_en": "Wounded Gaza journalists call for urgent medical evacuation",
-    "title_ar": "",
-    "excerpt_en": "Wounded and chronically ill Palestinian journalists held a protest calling for urgent medical evacuation from Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-22T21:36:37+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -88,19 +88,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-16T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
-    "credibility": "high"
-  },
-  {
-    "id": "55d28973bc0c",
-    "title_en": "Israeli strike on police post in north Gaza kills seven, officials say",
-    "title_ar": "",
-    "excerpt_en": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-14T17:13:27+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
