@@ -1,5 +1,18 @@
 [
   {
+    "id": "2c82381f1062",
+    "title_en": "Two Palestinians shot dead by Israeli forces as West Bank fields set ablaze",
+    "title_ar": "",
+    "excerpt_en": "Two men were killed in the town of Beit Furik, east of Nablus. An Israeli settler was also reportedly stabbed.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-23T15:52:58+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/23/two-palestinians-shot-dead-by-israeli-forces-as-west-bank-fields-set-ablaze?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "b18dbd5ce387",
     "title_en": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
     "title_ar": "",
@@ -13,17 +26,17 @@
     "credibility": "medium"
   },
   {
-    "id": "2713ef189b36",
-    "title_en": "Israel releases 35 detainees from Gaza",
+    "id": "e20f8b4f4448",
+    "title_en": "Gaza's food gains could unravel without sustained aid, UN warns",
     "title_ar": "",
-    "excerpt_en": "Israel releases 35 detainees from Gaza",
+    "excerpt_en": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-23T11:36:28+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/israel-releases-35-detainees-from-gaza?traffic_source=rss",
-    "credibility": "medium"
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-23T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
+    "credibility": "high"
   },
   {
     "id": "be875ab7acef",
