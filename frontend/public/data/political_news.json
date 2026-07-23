@@ -1,5 +1,18 @@
 [
   {
+    "id": "b18dbd5ce387",
+    "title_en": "Rebuilding Gaza to cost $71bn, must include Palestinians, report finds",
+    "title_ar": "",
+    "excerpt_en": "Rebuilding the enclave will cost seven times the combined cost of all past offensives, says joint report.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-23T13:06:35+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/23/rebuilding-gaza-to-cost-71bn-must-include-palestinians-report-finds?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "2713ef189b36",
     "title_en": "Israel releases 35 detainees from Gaza",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-23T11:08:23+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/right-wing-israeli-groups-storm-al-aqsa-as-palestinians-barred-from-worship?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "331b971461f1",
-    "title_en": "‘Back from the dead’: The continuing agony over Gaza’s 9,500 missing people",
-    "title_ar": "",
-    "excerpt_en": "Palestinian&#039;s sudden return alive after family held his funeral highlights suffering of those still waiting for answers.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-23T08:57:18+00:00",
-    "url": "https://www.aljazeera.com/features/2026/7/23/back-from-the-dead-the-continuing-agony-of-gazas-9500-missing-persons?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d5dfea76e792",
-    "title_en": "Photos: Gaza’s shelter crisis",
-    "title_ar": "",
-    "excerpt_en": "Gaza faces a deepening housing crisis as more than 92 percent of homes have been damaged or destroyed by Israel.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-23T08:12:46+00:00",
-    "url": "https://www.aljazeera.com/gallery/2026/7/23/photos-gazas-shelter-crisis?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -153,19 +140,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-09T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167912",
-    "credibility": "high"
-  },
-  {
-    "id": "2ea604216144",
-    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-    "title_ar": "",
-    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-02T04:59:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
