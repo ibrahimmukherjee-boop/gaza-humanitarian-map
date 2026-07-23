@@ -1,7 +1,24 @@
 [
   {
+    "id": "b263d99d0ef7",
+    "title_en": "Today's top news: Middle East, Chad, Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Afghanistan",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Middle East, Chad, Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Afghanistan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-07-23T16:02:03+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-middle-east-chad-democratic-republic-congo-sudan-occupied-palestinian",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e20f8b4f4448",
-    "title_en": "Gaza's food gains could unravel without sustained aid, UN warns",
+    "title_en": "Gaza’s food gains could unravel without sustained aid, UN warns",
     "title_ar": "",
     "excerpt_en": "Food security and child nutrition have improved across the Gaza Strip largely due to a scale-up in humanitarian assistance and commercial traffic, but progress remains fragile and could quickly reverse without sustained access, funding and recovery support.",
     "excerpt_ar": "",
@@ -200,23 +217,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
     "tags": [
       "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "7b6c0f2e456e",
-    "title_en": "Today's top news: Pakistan, Venezuela, Occupied Palestinian Territory, Central African Republic, Cuba",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Pakistan, Venezuela, Occupied Palestinian Territory, Central African Republic, Cuba</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-15T16:49:50+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-pakistan-venezuela-occupied-palestinian-territory-central-african-republic",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
