@@ -1,5 +1,18 @@
 [
   {
+    "id": "9812965ab61d",
+    "title_en": "In Gaza, a long path to recovery for one woman who lost eye, and daughter",
+    "title_ar": "",
+    "excerpt_en": "Psychological wounds compound Najwa&#039;s physical injuries after losing her daughter in an Israeli air strike.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-23T03:07:01+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/23/in-gaza-a-long-path-to-recovery-for-one-woman-who-lost-eye-and-daughter?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c72e40c65a54",
     "title_en": "Wounded Gaza journalists call for urgent medical evacuation",
     "title_ar": "",
@@ -10,32 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-22T21:36:37+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "8044e4af1add",
-    "title_en": "Gaza man returns home after family believed he was dead",
-    "title_ar": "",
-    "excerpt_en": "Hamada Al Banna reunited with his family more than a year after an explosion that left him in a coma.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-22T19:59:42+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/gaza-man-returns-home-after-family-believed-he-was-dead?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "de05479015ad",
-    "title_en": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
-    "title_ar": "",
-    "excerpt_en": "The newly appointed leader says Hamas would work to help the people of Gaza and achieve a united Palestinian state.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-22T18:43:51+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
     "credibility": "medium"
   },
   {
