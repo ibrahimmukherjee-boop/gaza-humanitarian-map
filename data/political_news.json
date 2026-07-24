@@ -1,5 +1,18 @@
 [
   {
+    "id": "ef9346c25d92",
+    "title_en": "Israeli settlers escalate attacks on Palestinians near Nablus",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers have set fire to Palestinian homes and vehicles in villages near Nablus",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-24T20:40:27+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "844c107590a8",
     "title_en": "Four Palestinians and two Israelis killed in West Bank shooting",
     "title_ar": "",
@@ -49,45 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-24T16:32:35+00:00",
     "url": "https://www.aljazeera.com/economy/2026/7/24/life-without-refrigerators-gaza-residents-fight-heat-and-food-spoilage?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "69b936ea4c5a",
-    "title_en": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
-    "title_ar": "",
-    "excerpt_en": "Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-24T16:04:17+00:00",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9ee81c925079",
-    "title_en": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-    "title_ar": "",
-    "excerpt_en": "Visit will be Netanyahu&#039;s seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-24T16:01:18+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9725e7c9ce2e",
-    "title_en": "Israel builds Gaza barrier as politicians push for settlements",
-    "title_ar": "",
-    "excerpt_en": "Recent satellite images reveal the construction of a huge earthen barrier dividing Gaza as Israelis discuss settlements.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-24T15:27:35+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss",
     "credibility": "medium"
   },
   {
