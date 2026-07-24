@@ -17,6 +17,23 @@
     "credibility": "medium"
   },
   {
+    "id": "6ab7fc736b6d",
+    "title_en": "Today's top news: Venezuela, Occupied Palestinian Territory, Lebanon, Ukraine",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Venezuela, Occupied Palestinian Territory, Lebanon, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Supp",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-07-24T16:05:11+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-venezuela-occupied-palestinian-territory-lebanon-ukraine-0",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "b263d99d0ef7",
     "title_en": "Today's top news: Middle East, Chad, Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Afghanistan",
     "title_ar": "",
@@ -180,23 +197,6 @@
     "source": "OCHA",
     "timestamp": "2026-07-17T16:37:14+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-pakistan-democratic-republic-congo-venezuela-occupied-palestinian-territory",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "f32d3493b8df",
-    "title_en": "Today's top news: Ukraine, Pakistan, Occupied Palestinian Territory, Democratic Republic of the Congo, Rwanda",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Ukraine, Pakistan, Occupied Palestinian Territory, Democratic Republic of the Congo, Rwanda</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidd",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-16T16:17:18+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-ukraine-pakistan-occupied-palestinian-territory-democratic-republic-congo",
     "tags": [
       "humanitarian"
     ],
