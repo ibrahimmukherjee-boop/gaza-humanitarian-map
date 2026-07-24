@@ -8,9 +8,35 @@
     "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-07-24T16:37:17+00:00",
+    "timestamp": "2026-07-24T18:19:23+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
+  },
+  {
+    "id": "7917599142c2",
+    "title_en": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp",
+    "title_ar": "",
+    "excerpt_en": "Huge crater after back-to-back Israeli strikes on Gaza refugee camp.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-24T18:01:18+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/huge-crater-after-back-to-back-israeli-strikes-on-gaza-refugee-camp?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "034dde43ca87",
+    "title_en": "Israel raids hospital, shuts off Nablus following deadly settler attack",
+    "title_ar": "",
+    "excerpt_en": "Israel has arrested wounded Palestinians in a hospital as it shuts off Nablus following Friday’s deadly settler attack",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-24T17:59:43+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-raids-hospital-shuts-off-nablus-following-deadly-settler-attack?traffic_source=rss",
+    "credibility": "medium"
   },
   {
     "id": "1c13d55590c1",
@@ -75,19 +101,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-24T13:19:17+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "14ed3912e9b8",
-    "title_en": "US summons Malaysia envoy over Israel policy",
-    "title_ar": "",
-    "excerpt_en": "Malaysia does not have any diplomatic ties with Israel and has long maintained its support for the Palestinian cause.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-24T12:49:27+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
     "credibility": "medium"
   },
   {
