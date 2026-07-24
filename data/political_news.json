@@ -8,9 +8,48 @@
     "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-07-24T15:36:18+00:00",
+    "timestamp": "2026-07-24T16:37:17+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
+  },
+  {
+    "id": "69b936ea4c5a",
+    "title_en": "LIVE: Israeli settlers attack West Bank’s Nablus, shooting leaves six dead",
+    "title_ar": "",
+    "excerpt_en": "Four Palestinians and two Israelis killed after about 20 settlers raid the village of Tal in occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-24T16:04:17+00:00",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/24/live-israeli-settlers-attack-west-banks-nablus-shooting-leaves-six-dead?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "9ee81c925079",
+    "title_en": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
+    "title_ar": "",
+    "excerpt_en": "Visit will be Netanyahu&#039;s seventh to White House, underscoring US commitment during war with Iran, genocide in Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-24T16:01:18+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "9725e7c9ce2e",
+    "title_en": "Israel builds Gaza barrier as politicians push for settlements",
+    "title_ar": "",
+    "excerpt_en": "Recent satellite images reveal the construction of a huge earthen barrier dividing Gaza as Israelis discuss settlements.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-24T15:27:35+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israel-builds-gaza-barrier-as-politicians-push-for-settlements?traffic_source=rss",
+    "credibility": "medium"
   },
   {
     "id": "c7c31468b339",
@@ -36,19 +75,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-24T12:49:27+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/24/us-summons-malaysia-envoy-over-israel-policy?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c6337399a998",
-    "title_en": "Israel launches clampdown after deadly clash in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli clampdown follows a clash between settlers and Palestinians which killed at least six people.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-24T09:35:39+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
     "credibility": "medium"
   },
   {
