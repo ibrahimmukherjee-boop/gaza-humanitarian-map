@@ -1,5 +1,22 @@
 [
   {
+    "id": "844c107590a8",
+    "title_en": "Four Palestinians and one Israeli killed in West Bank shooting",
+    "title_ar": "",
+    "excerpt_en": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-24T12:06:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "b263d99d0ef7",
     "title_en": "Today's top news: Middle East, Chad, Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Afghanistan",
     "title_ar": "",
@@ -138,24 +155,6 @@
     "credibility": "high"
   },
   {
-    "id": "a7d1e78d6d7e",
-    "title_en": "Hamas names Khalil al-Hayya as new overall leader",
-    "title_ar": "",
-    "excerpt_en": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-20T14:02:31+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "a927deb9da3d",
     "title_en": "The cost of inaction: Cameroon’s humanitarian response under strain",
     "title_ar": "",
@@ -258,5 +257,23 @@
       "Gaza Strip"
     ],
     "credibility": "high"
+  },
+  {
+    "id": "2ea604216144",
+    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+    "title_ar": "",
+    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-02T04:59:55+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
   }
 ]

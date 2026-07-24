@@ -1,5 +1,18 @@
 [
   {
+    "id": "844c107590a8",
+    "title_en": "Four Palestinians and one Israeli killed in West Bank shooting",
+    "title_ar": "",
+    "excerpt_en": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-24T12:06:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "c6337399a998",
     "title_en": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
     "title_ar": "",
@@ -65,19 +78,6 @@
     "credibility": "high"
   },
   {
-    "id": "a7d1e78d6d7e",
-    "title_en": "Hamas names Khalil al-Hayya as new overall leader",
-    "title_ar": "",
-    "excerpt_en": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-20T14:02:31+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx25nzkyj50o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "dee566ef43b2",
     "title_en": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
     "title_ar": "",
@@ -114,6 +114,19 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-11T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
+    "credibility": "high"
+  },
+  {
+    "id": "2ea604216144",
+    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
+    "title_ar": "",
+    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-07-02T04:59:55+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
