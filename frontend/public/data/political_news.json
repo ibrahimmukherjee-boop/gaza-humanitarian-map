@@ -1,5 +1,18 @@
 [
   {
+    "id": "844c107590a8",
+    "title_en": "Four Palestinians and two Israelis killed in West Bank shooting",
+    "title_ar": "",
+    "excerpt_en": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-24T22:49:59+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "23641764969b",
     "title_en": "UNESCO places occupied West Bank, Lebanon sites on endangered heritage list",
     "title_ar": "",
@@ -24,19 +37,6 @@
     "timestamp": "2026-07-24T20:40:27+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/israeli-settlers-escalate-attacks-on-palestinians-near-nablus?traffic_source=rss",
     "credibility": "medium"
-  },
-  {
-    "id": "844c107590a8",
-    "title_en": "Four Palestinians and two Israelis killed in West Bank shooting",
-    "title_ar": "",
-    "excerpt_en": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-24T18:19:23+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "7917599142c2",
