@@ -1,5 +1,18 @@
 [
   {
+    "id": "4f3d5d6d0029",
+    "title_en": "Israeli forces tear gas journalists reporting Nablus shootout",
+    "title_ar": "",
+    "excerpt_en": "Israeli troops fired tear gas at Palestinians and journalists in Tal a day after a deadly shootout",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-25T21:08:24+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-tear-gas-journalists-reporting-nablus-shootout?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "8c0814e2c581",
     "title_en": "Head of Hamas-led police in northern Gaza killed by Israeli strike",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-25T12:41:14+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ef0eaae2b1cb",
-    "title_en": "Trump faces backlash for using ‘Palestinian’ as an insult",
-    "title_ar": "",
-    "excerpt_en": "US President Donald Trump is facing backlash after using ‘Palestinian’ as an insult while mocking a Democratic Senator.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-25T12:11:33+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/trump-faces-backlash-for-using-palestinian-as-an-insult?traffic_source=rss",
     "credibility": "medium"
   },
   {
