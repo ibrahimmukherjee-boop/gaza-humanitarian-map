@@ -1,5 +1,18 @@
 [
   {
+    "id": "f704ed021835",
+    "title_en": "Israeli forces target Gaza’s Al-Aqsa hospital",
+    "title_ar": "",
+    "excerpt_en": "At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-25T22:07:36+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "4f3d5d6d0029",
     "title_en": "Israeli forces tear gas journalists reporting Nablus shootout",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-25T20:00:43+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/25/head-of-hamas-led-police-in-northern-gaza-killed-by-israeli-strike?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a08584e3f8c3",
-    "title_en": "Baby rescued after Israeli settlers set home on fire amid raids",
-    "title_ar": "",
-    "excerpt_en": "A baby was rescued by her family after her home was set on fire by Israeli settlers in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-25T12:41:14+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/baby-rescued-after-israeli-settlers-set-home-on-fire-amid-raids?traffic_source=rss",
     "credibility": "medium"
   },
   {
