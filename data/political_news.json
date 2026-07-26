@@ -1,5 +1,18 @@
 [
   {
+    "id": "4edbbeccdbcf",
+    "title_en": "Israel carries out double tap strike in central Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israel carries out double tap strike in central Gaza",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-26T14:47:02+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "64cbff644c69",
     "title_en": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
     "title_ar": "",
@@ -39,17 +52,17 @@
     "credibility": "medium"
   },
   {
-    "id": "d97e5caf5766",
-    "title_en": "‘No accountability for settler war crimes against Palestinians’",
+    "id": "29685c5cd06b",
+    "title_en": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
     "title_ar": "",
-    "excerpt_en": "‘No accountability for settler war crimes against Palestinians’",
+    "excerpt_en": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-07-26T11:31:17+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
-    "credibility": "medium"
+    "timestamp": "2026-07-26T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
+    "credibility": "high"
   },
   {
     "id": "844c107590a8",
@@ -127,32 +140,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-16T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
-    "credibility": "high"
-  },
-  {
-    "id": "4a017d5917e8",
-    "title_en": "Reviving communities home by home in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-12T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
-    "credibility": "high"
-  },
-  {
-    "id": "c808a4e9df36",
-    "title_en": "‘We face a new ordeal’: Gaza's search for the dead goes on",
-    "title_ar": "",
-    "excerpt_en": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-11T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
     "credibility": "high"
   },
   {
