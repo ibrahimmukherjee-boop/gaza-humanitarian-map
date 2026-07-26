@@ -1,5 +1,31 @@
 [
   {
+    "id": "8280bc11f142",
+    "title_en": "Israeli protesters denounce deadly settler violence",
+    "title_ar": "",
+    "excerpt_en": "Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-26T10:06:52+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e52c5f88a26f",
+    "title_en": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
+    "title_ar": "",
+    "excerpt_en": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-26T08:55:10+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "d8232e70d081",
     "title_en": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
     "title_ar": "",
@@ -36,32 +62,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-26T05:29:49+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/26/house-of-hope-new-film-follows-a-waldorf-inspired-school-in-the-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "61a79b072a0d",
-    "title_en": "Israel arrests nine at Tel Aviv protest against West Bank settler violence",
-    "title_ar": "",
-    "excerpt_en": "Protest group says at least 200 demonstrated in Israeli capital a day after major escalation of West Bank violence.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-26T01:52:56+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/26/israel-arrests-nine-at-tel-aviv-protest-against-west-bank-settler-violence?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "6c2dd4415515",
-    "title_en": "What’s behind the Israeli crackdown in the occupied West Bank?",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-25T23:30:45+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
