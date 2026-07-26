@@ -1,5 +1,18 @@
 [
   {
+    "id": "ec41b717bff3",
+    "title_en": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
+    "title_ar": "",
+    "excerpt_en": "The surge in violence comes after four Palestinians and two soldiers were killed in a gunfight on Friday.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-26T12:52:29+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/26/israeli-crackdown-in-occupied-west-bank-intensifies-settlers-cause-mayhem?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "d97e5caf5766",
     "title_en": "‘No accountability for settler war crimes against Palestinians’",
     "title_ar": "",
@@ -36,32 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-26T08:55:10+00:00",
     "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d8232e70d081",
-    "title_en": "Israel raids West Bank live: PM Netanyahu threatens ‘more broad action’",
-    "title_ar": "",
-    "excerpt_en": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-26T07:55:30+00:00",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "6fb9e0fe502c",
-    "title_en": "Israeli settlers set fire to mosque in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-26T07:12:26+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
