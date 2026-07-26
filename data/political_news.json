@@ -1,5 +1,31 @@
 [
   {
+    "id": "d8232e70d081",
+    "title_en": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+    "title_ar": "",
+    "excerpt_en": "Incursions and arrests ongoing as terrified Palestinian residents brace for soldier and settler attacks.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-26T07:55:30+00:00",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "6fb9e0fe502c",
+    "title_en": "Israeli settlers set fire to mosque in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-26T07:12:26+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "66a2aae5334f",
     "title_en": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
     "title_ar": "",
@@ -49,19 +75,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-25T23:30:45+00:00",
     "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f704ed021835",
-    "title_en": "Israeli forces target Gaza’s Al-Aqsa hospital",
-    "title_ar": "",
-    "excerpt_en": "At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-25T22:07:36+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
     "credibility": "medium"
   },
   {
