@@ -1,5 +1,31 @@
 [
   {
+    "id": "64cbff644c69",
+    "title_en": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
+    "title_ar": "",
+    "excerpt_en": "The head of internal security for Hamas in central Gaza was among the dead.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-26T13:51:53+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ce8b1588c63d",
+    "title_en": "Why are Israeli settlers on a rampage in the occupied West Bank?",
+    "title_ar": "",
+    "excerpt_en": "Settlers torch two mosques in the Palestinian territory as Israeli PM Benjamin Netanyahu threatens &#039;more broad action&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-26T13:31:04+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/26/why-are-israeli-settlers-on-a-rampage-in-the-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ec41b717bff3",
     "title_en": "Israeli crackdown in occupied West Bank intensifies, settlers cause mayhem",
     "title_ar": "",
@@ -23,32 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-26T11:31:17+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/no-accountability-for-settler-war-crimes-against?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "8280bc11f142",
-    "title_en": "Israeli protesters denounce deadly settler violence",
-    "title_ar": "",
-    "excerpt_en": "Dozens of Israeli activists protested in Tel Aviv against settler violence in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-26T10:06:52+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-protesters-denounce-deadly-settler-violence?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e52c5f88a26f",
-    "title_en": "Becoming the story: Injured journalists battle to leave Gaza for treatment",
-    "title_ar": "",
-    "excerpt_en": "Gaza journalists injured or battling illness during the war are demanding urgent medical evacuation abroad.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-26T08:55:10+00:00",
-    "url": "https://www.aljazeera.com/features/2026/7/26/becoming-the-story-injured-journalists-battle-to-leave-gaza-for-treatment?traffic_source=rss",
     "credibility": "medium"
   },
   {
