@@ -1,5 +1,31 @@
 [
   {
+    "id": "6c55a3e40d1e",
+    "title_en": "Israeli government nods to international stabilisation force in Gaza",
+    "title_ar": "",
+    "excerpt_en": "The ISF, to be staffed by &#039;friendly countries&#039;, will operate in areas outside of Israel&#039;s military control.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-26T21:10:07+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e7570b7ce4e3",
+    "title_en": "Palestinians hope international peace force can rebuild Gaza",
+    "title_ar": "",
+    "excerpt_en": "Palestinians in Gaza cautiously welcome Israel’s approval for an international stabilisation force to enter the strip.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-26T21:01:18+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "4ff36f4b5fb1",
     "title_en": "Israeli settlers burn two mosques in occupied West Bank",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-26T18:51:34+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-burn-two-mosques-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "4edbbeccdbcf",
-    "title_en": "Israel carries out double tap strike in central Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israel carries out double tap strike in central Gaza",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-26T14:47:02+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israel-carries-out-double-tap-strike-in-central-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
