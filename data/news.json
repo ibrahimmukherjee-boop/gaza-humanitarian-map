@@ -1,5 +1,23 @@
 [
   {
+    "id": "29685c5cd06b",
+    "title_en": "Gaza: Dialysis patients face grueling hospital journey by donkey cart",
+    "title_ar": "",
+    "excerpt_en": "Shortly before sunrise, Palestinian Fathi Hajji begins an arduous thrice weekly journey to Nasser Hospital in Khan Younis in the war-ravaged Gaza Strip.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-07-26T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "844c107590a8",
     "title_en": "Four Palestinians and two Israelis killed in West Bank shooting",
     "title_ar": "",
@@ -216,41 +234,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
     "tags": [
       "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "4a017d5917e8",
-    "title_en": "Reviving communities home by home in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Displacement has drastically reshaped every aspect of daily life in war-ravaged Gaza for 24-year-old Mayyada, who is seven months pregnant with twins and caring for her two-year-old daughter, but now she and her family are getting settled into a temporary home of their own.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-07-12T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167921",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "c808a4e9df36",
-    "title_en": "‘We face a new ordeal’: Gaza's search for the dead goes on",
-    "title_ar": "",
-    "excerpt_en": "After thousands of buildings were destroyed in the Gaza Strip during the Israel-Hamas war, local teams and civil defense personnel continue the arduous and delicate mission to remove rubble and search for the remains of missing persons believed to still be buried under the debris of homes destroyed by Israeli airstrikes.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-07-11T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167922",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
