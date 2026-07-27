@@ -1,29 +1,29 @@
 [
   {
-    "id": "6c55a3e40d1e",
-    "title_en": "Israeli government nods to international stabilisation force in Gaza",
+    "id": "e14f2b4d8f80",
+    "title_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
     "title_ar": "",
-    "excerpt_en": "The ISF, to be staffed by &#039;friendly countries&#039;, will operate in areas outside of Israel&#039;s military control.",
+    "excerpt_en": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-26T21:10:07+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/26/israeli-government-nods-to-international-stabilisation-force-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e7570b7ce4e3",
-    "title_en": "Palestinians hope international peace force can rebuild Gaza",
-    "title_ar": "",
-    "excerpt_en": "Palestinians in Gaza cautiously welcome Israel’s approval for an international stabilisation force to enter the strip.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-07-26T21:01:18+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
-    "credibility": "medium"
+    "timestamp": "2026-07-26T21:23:53+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "140ef275669a",
+    "title_en": "BBC speaks to Palestinians targeted by Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers set fire to two mosques, as well as cars and agricultural land in the occupied West Bank, Palestinian officials say.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-07-26T20:58:36+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
   },
   {
     "id": "29685c5cd06b",
@@ -65,19 +65,6 @@
     "credibility": "high"
   },
   {
-    "id": "be875ab7acef",
-    "title_en": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-    "title_ar": "",
-    "excerpt_en": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-21T15:54:11+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "7dc98ceda7e7",
     "title_en": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
     "title_ar": "",
@@ -114,19 +101,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-16T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
-    "credibility": "high"
-  },
-  {
-    "id": "2ea604216144",
-    "title_en": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
-    "title_ar": "",
-    "excerpt_en": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-02T04:59:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
