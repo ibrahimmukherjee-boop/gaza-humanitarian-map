@@ -1,5 +1,44 @@
 [
   {
+    "id": "dc7ad4c3f936",
+    "title_en": "Israeli raid sparks fire at UN Palestinian refugee centre",
+    "title_ar": "",
+    "excerpt_en": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-27T15:39:58+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "366f02eb1053",
+    "title_en": "Mapping Israeli settler violence in the West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-27T15:27:22+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "9d9c351ff8b3",
+    "title_en": "How Israel uses settler-soldier terror to colonise the West Bank",
+    "title_ar": "",
+    "excerpt_en": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-27T15:27:09+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7f5ec7717cdc",
     "title_en": "Israel’s approval of limited Gaza force a calculated manoeuvre, experts say",
     "title_ar": "",
@@ -36,19 +75,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-27T12:26:05+00:00",
     "url": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "238132fbaa29",
-    "title_en": "Israeli forces storm multiple West Bank towns, settler violence worsens",
-    "title_ar": "",
-    "excerpt_en": "At least 20 West Bank towns and villages have been raided, with homes demolished and dozens of Palestinians arrested.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-27T10:41:01+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/27/israeli-forces-storm-multiple-west-bank-towns-settler-violence-worsens?traffic_source=rss",
     "credibility": "medium"
   },
   {
