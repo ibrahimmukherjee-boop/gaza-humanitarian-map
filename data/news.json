@@ -1,5 +1,22 @@
 [
   {
+    "id": "16222b16aeec",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo, Rwanda, Ukraine",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo, Rwanda, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-07-27T16:32:13+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-sudan-democratic-republic-congo-rwanda-ukraine",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e14f2b4d8f80",
     "title_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
     "title_ar": "",
@@ -198,23 +215,6 @@
     "source": "OCHA",
     "timestamp": "2026-07-20T16:51:28+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-burundi-sudan-occupied-palestinian-territory-ukraine",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "a927deb9da3d",
-    "title_en": "The cost of inaction: Cameroon’s humanitarian response under strain",
-    "title_ar": "",
-    "excerpt_en": "<span>The cost of inaction: Cameroon’s humanitarian response under strain</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A young woman ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-19T14:49:12+00:00",
-    "url": "https://www.unocha.org/news/cost-inaction-cameroons-humanitarian-response-under-strain",
     "tags": [
       "humanitarian"
     ],
