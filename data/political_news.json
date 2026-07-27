@@ -1,5 +1,18 @@
 [
   {
+    "id": "03dee4a6b4e4",
+    "title_en": "Has Burnham kept his promise to do better on Israel’s war on Gaza?",
+    "title_ar": "",
+    "excerpt_en": "Will Britain&#039;s new cabinet change the country’s role in Israel’s war on Gaza?",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-27T20:12:45+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/has-burnham-kept-his-promise-to-do-better-on-israels-war-on-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "4936b681032c",
     "title_en": "Will UNESCO’s heritage listing halt Israeli plans for West Bank’s Sebastia?",
     "title_ar": "",
@@ -10,45 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-27T17:36:12+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/27/will-unescos-heritage-listing-halt-israeli-plans-for-west-banks-sebastia?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "dc7ad4c3f936",
-    "title_en": "Israeli raid sparks fire at UN Palestinian refugee centre",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces raided a United Nations Relief and Works Agency for Palestine Refugees training centre.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-27T15:39:58+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/israeli-raid-sparks-fire-at-un-palestinian-refugee-centre?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "366f02eb1053",
-    "title_en": "Mapping Israeli settler violence in the West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-27T15:27:22+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9d9c351ff8b3",
-    "title_en": "How Israel uses settler-soldier terror to colonise the West Bank",
-    "title_ar": "",
-    "excerpt_en": "Settler attacks are not isolated incidents. They are all part of a strategy to grab land and colonise.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-27T15:27:09+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/7/27/how-israel-uses-settler-soldier-terror-to-colonise-the-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
