@@ -1,5 +1,22 @@
 [
   {
+    "id": "7fe94e6425e7",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Democratic Republic of the Congo, Lebanon",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Democratic Republic of the Congo, Lebanon</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-07-28T16:02:26+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-democratic-republic-congo-lebanon",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "a6c831d96946",
     "title_en": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
     "title_ar": "",
