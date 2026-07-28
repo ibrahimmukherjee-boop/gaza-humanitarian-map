@@ -17,6 +17,40 @@
     "credibility": "high"
   },
   {
+    "id": "e14f2b4d8f80",
+    "title_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+    "title_ar": "",
+    "excerpt_en": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-26T21:23:53+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "140ef275669a",
+    "title_en": "BBC speaks to Palestinians targeted by Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers set fire to two mosques, as well as cars and agricultural land in the occupied West Bank, Palestinian officials say.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-26T20:58:36+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "29685c5cd06b",
     "title_en": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
     "title_ar": "",
