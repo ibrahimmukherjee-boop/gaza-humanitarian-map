@@ -1,5 +1,18 @@
 [
   {
+    "id": "cb4f01fff2aa",
+    "title_en": "Palestine weekly: West Bank in flames after Tal killings",
+    "title_ar": "",
+    "excerpt_en": "Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-28T05:58:22+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7d28525c7142",
     "title_en": "Israeli ex-generals urge Trump to push Netanyahu on ‘settler terror’",
     "title_ar": "",
@@ -11,45 +24,6 @@
     "timestamp": "2026-07-28T04:43:53+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/28/israeli-ex-generals-urge-trump-to-push-netanyahu-on-settler-terror?traffic_source=rss",
     "credibility": "medium"
-  },
-  {
-    "id": "9b48fcfb649f",
-    "title_en": "UN slams Israel’s expansion of illegal settlements in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "UN chief Guterres says settlements a &#039;flagrant violation&#039; of international law, amid escalating violence.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-27T21:17:15+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/27/un-slams-israels-expansion-of-illegal-settlements-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e14f2b4d8f80",
-    "title_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-    "title_ar": "",
-    "excerpt_en": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-26T21:23:53+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "140ef275669a",
-    "title_en": "BBC speaks to Palestinians targeted by Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers set fire to two mosques, as well as cars and agricultural land in the occupied West Bank, Palestinian officials say.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-26T20:58:36+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "29685c5cd06b",
