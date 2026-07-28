@@ -1,5 +1,22 @@
 [
   {
+    "id": "a6c831d96946",
+    "title_en": "Security Council LIVE: Updates on US–Iran war and Gaza’s Board of Peace amid regional tensions",
+    "title_ar": "",
+    "excerpt_en": "Regional tensions are mounting as the US-Iran war continues and a rising number of Israeli attacks are threatening Gaza’s fragile October ceasefire that ended two years of war with Hamas. Security Council members are hearing updates on Tuesday, including from US President Donald Trump's fledgling Board of Peace. Join our live coverage.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-07-28T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168037",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "16222b16aeec",
     "title_en": "Today's top news: Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo, Rwanda, Ukraine",
     "title_ar": "",
@@ -8,6 +25,23 @@
     "source": "OCHA",
     "timestamp": "2026-07-27T16:32:13+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-sudan-democratic-republic-congo-rwanda-ukraine",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "6c7807e2f87f",
+    "title_en": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
+    "title_ar": "",
+    "excerpt_en": "The United Nations continues to monitor developments in the Occupied Palestinian Territory amid rising violence and greater restrictions in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-07-27T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168035",
     "tags": [
       "humanitarian"
     ],

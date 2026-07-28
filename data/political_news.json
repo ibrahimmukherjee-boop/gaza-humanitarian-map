@@ -1,5 +1,18 @@
 [
   {
+    "id": "4d6994ee9f0d",
+    "title_en": "Israeli soldier runs marathon around Gaza outpost",
+    "title_ar": "",
+    "excerpt_en": "An Israeli soldier filmed himself running a marathon around a military outpost in Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-28T13:18:48+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "33cd9aa5bff0",
     "title_en": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
     "title_ar": "",
@@ -24,6 +37,19 @@
     "timestamp": "2026-07-28T12:32:42+00:00",
     "url": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss",
     "credibility": "medium"
+  },
+  {
+    "id": "a6c831d96946",
+    "title_en": "Security Council LIVE: Updates on US–Iran war and Gaza’s Board of Peace amid regional tensions",
+    "title_ar": "",
+    "excerpt_en": "Regional tensions are mounting as the US-Iran war continues and a rising number of Israeli attacks are threatening Gaza’s fragile October ceasefire that ended two years of war with Hamas. Security Council members are hearing updates on Tuesday, including from US President Donald Trump's fledgling Board of Peace. Join our live coverage.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-07-28T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168037",
+    "credibility": "high"
   },
   {
     "id": "e94883f1e4aa",
@@ -52,43 +78,17 @@
     "credibility": "medium"
   },
   {
-    "id": "17ef2c989302",
-    "title_en": "Netanyahu meets Trump at the White House: What’s on the agenda, what’s next",
+    "id": "6c7807e2f87f",
+    "title_en": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
     "title_ar": "",
-    "excerpt_en": "The Israeli PM&#039;s visit to the US comes amid raids in the occupied West Bank, before the October 27 elections.",
+    "excerpt_en": "The United Nations continues to monitor developments in the Occupied Palestinian Territory amid rising violence and greater restrictions in the occupied West Bank.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-07-28T09:29:16+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/28/netanyahu-in-the-white-house-whats-on-the-agenda-and-whats-next?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ef0024819bcc",
-    "title_en": "Sixty Palestinians detained by Israel return to Gaza, describe abuses",
-    "title_ar": "",
-    "excerpt_en": "The freed men, some in wheelchairs, describe horrific abuses in Israeli detention.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-28T08:25:07+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/28/sixty-palestinians-detained-by-israel-return-to-gaza-describe-abuses?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "77fb665245ec",
-    "title_en": "Colombia’s president-elect to suspend Palestine embassy",
-    "title_ar": "",
-    "excerpt_en": "Colombia’s far-right president-elect says he&#039;ll close or suspend embassies in these countries",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-28T08:19:12+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
-    "credibility": "medium"
+    "timestamp": "2026-07-27T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168035",
+    "credibility": "high"
   },
   {
     "id": "e14f2b4d8f80",
