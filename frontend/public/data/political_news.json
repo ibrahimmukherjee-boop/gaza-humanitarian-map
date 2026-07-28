@@ -1,15 +1,41 @@
 [
   {
-    "id": "4d6994ee9f0d",
-    "title_en": "Israeli soldier runs marathon around Gaza outpost",
+    "id": "088c73165234",
+    "title_en": "West Bank quarry owner appeals to Trump after settler raid",
     "title_ar": "",
-    "excerpt_en": "An Israeli soldier filmed himself running a marathon around a military outpost in Gaza.",
+    "excerpt_en": "West Bank quarry owner appeals to Trump after settler raid",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-28T19:23:29+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/west-bank-quarry-owner-appeals-to-trump-after-settler-raid?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "bf7f1db0018f",
+    "title_en": "‘The dream I carried is gone’: Miscarriages rise amid trauma of Gaza’s war",
+    "title_ar": "",
+    "excerpt_en": "At al-Awda Hospital, doctors say about 70% of pregnancy losses they see are linked to Israel&#039;s genocide and blockade.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-28T18:46:57+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/28/the-dream-i-carried-is-gone-miscarriages-rise-amid-trauma-of-gazas-war?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "4be18a0840a7",
+    "title_en": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
+    "title_ar": "",
+    "excerpt_en": "Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-07-28T13:18:48+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/israeli-soldier-runs-marathon-around-gaza-outpost?traffic_source=rss",
+    "timestamp": "2026-07-28T18:24:26+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss",
     "credibility": "medium"
   },
   {
