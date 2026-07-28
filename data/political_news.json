@@ -1,5 +1,31 @@
 [
   {
+    "id": "33cd9aa5bff0",
+    "title_en": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+    "title_ar": "",
+    "excerpt_en": "Pregnant Palestinian woman loses baby after Israeli checkpoint stop",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-28T13:02:50+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/pregnant-palestinian-woman-loses-baby-after-israeli-checkpoint-stop?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "513298da5aad",
+    "title_en": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
+    "title_ar": "",
+    "excerpt_en": "Settlers burned homes and a mosque in at-Tuwani. Residents say it is part of a campaign to push them off their land.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-28T12:32:42+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "e94883f1e4aa",
     "title_en": "Israeli settler attack on at-Tuwani",
     "title_ar": "",
@@ -27,7 +53,7 @@
   },
   {
     "id": "17ef2c989302",
-    "title_en": "Netanyahu in the White House: What’s on the agenda and what’s next?",
+    "title_en": "Netanyahu meets Trump at the White House: What’s on the agenda, what’s next",
     "title_ar": "",
     "excerpt_en": "The Israeli PM&#039;s visit to the US comes amid raids in the occupied West Bank, before the October 27 elections.",
     "excerpt_ar": "",
@@ -62,19 +88,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-07-28T08:19:12+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/colombias-president-elect-to-suspend-palestine-embassy?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "cb4f01fff2aa",
-    "title_en": "Palestine weekly: West Bank in flames after Tal killings",
-    "title_ar": "",
-    "excerpt_en": "Deadly settler attack outside Nablus sets off days of raids, arson, closures and mass arrests.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-28T05:58:22+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/28/palestine-weekly-west-bank-in-flames-after-tal-killings?traffic_source=rss",
     "credibility": "medium"
   },
   {
