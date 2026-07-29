@@ -1,5 +1,23 @@
 [
   {
+    "id": "7cb4bb32b85b",
+    "title_en": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+    "title_ar": "",
+    "excerpt_en": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-29T05:01:12+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "7fe94e6425e7",
     "title_en": "Today's top news: Occupied Palestinian Territory, Democratic Republic of the Congo, Lebanon",
     "title_ar": "",
@@ -76,23 +94,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-07-26T21:23:53+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "140ef275669a",
-    "title_en": "BBC speaks to Palestinians targeted by Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers set fire to two mosques, as well as cars and agricultural land in the occupied West Bank, Palestinian officials say.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-26T20:58:36+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/cwy47pkpkrwo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
