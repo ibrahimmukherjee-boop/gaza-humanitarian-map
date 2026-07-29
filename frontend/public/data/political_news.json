@@ -1,5 +1,31 @@
 [
   {
+    "id": "2678d8487604",
+    "title_en": "New investigation shows how an Israeli settler escaped justice",
+    "title_ar": "",
+    "excerpt_en": "A Palestinian rights&#039; group found that an Israeli settler killed Awdah Hathaleen but is still escaping justice.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-29T19:55:31+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/29/new-investigation-shows-how-an-israeli-settler-escaped-justice?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "cf20ec7ddc5b",
+    "title_en": "Ice cream for education: Gaza cafe raises funds for studies",
+    "title_ar": "",
+    "excerpt_en": "In war-torn Gaza, a group of Palestinian students opened Flora, an ice cream shop and cafe, to pay university fees.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-29T19:46:57+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/ice-cream-for-education-gaza-cafe-raises-funds-for-studies?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ad445f977cee",
     "title_en": "Why Saudi Arabia holds the key to Palestinian statehood",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-29T14:39:57+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/7/29/why-saudi-arabia-holds-the-key-to-palestinian-statehood?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "13989eb9a2dc",
-    "title_en": "‘There is no ceasefire’ say Palestinians in Gaza after new Israeli strikes",
-    "title_ar": "",
-    "excerpt_en": "&#039;There is no ceasefire&#039; say Palestinians in Gaza after new Israeli strikes",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-29T14:09:09+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/there-is-no-ceasefire-say-palestinians-in-gaza-after-new-israeli-strikes?traffic_source=rss",
     "credibility": "medium"
   },
   {
