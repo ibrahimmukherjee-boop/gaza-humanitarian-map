@@ -1,5 +1,31 @@
 [
   {
+    "id": "b4929bab087e",
+    "title_en": "War and shortages push Gaza hospitals to breaking point",
+    "title_ar": "",
+    "excerpt_en": "Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-30T05:21:15+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "605650102123",
+    "title_en": "Israel building new land barriers in Gaza and displacing families",
+    "title_ar": "",
+    "excerpt_en": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-30T05:05:24+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "720199202d81",
     "title_en": "Israeli strikes leave buildings burning in Gaza City",
     "title_ar": "",
@@ -78,19 +104,6 @@
     "credibility": "high"
   },
   {
-    "id": "e14f2b4d8f80",
-    "title_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-    "title_ar": "",
-    "excerpt_en": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-26T21:23:53+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "29685c5cd06b",
     "title_en": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
     "title_ar": "",
@@ -101,19 +114,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-26T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1168026",
-    "credibility": "high"
-  },
-  {
-    "id": "844c107590a8",
-    "title_en": "Four Palestinians and two Israelis killed in West Bank shooting",
-    "title_ar": "",
-    "excerpt_en": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-24T22:49:59+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
