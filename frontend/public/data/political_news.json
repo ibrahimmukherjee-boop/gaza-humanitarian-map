@@ -1,5 +1,18 @@
 [
   {
+    "id": "4bab0fcacfb8",
+    "title_en": "Israeli strikes kill at least four, including children, across Gaza Strip",
+    "title_ar": "",
+    "excerpt_en": "Bombings take place as Hamas officials meet with Qatari, Egyptian and Turkish mediators in Cairo to discuss truce.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-30T11:32:30+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/30/israeli-strikes-kill-at-least-four-including-children-across-gaza-strip?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a1b98f100a60",
     "title_en": "Israeli raids and settler attacks intensify across the occupied West Bank",
     "title_ar": "",
@@ -36,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-30T09:24:32+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/7/30/apartheid-wealth-cannot-buy-silence-on-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3cf20cf9e4f3",
-    "title_en": "India’s arms sale to Israel risks complicity in Gaza genocide, Amnesty says",
-    "title_ar": "",
-    "excerpt_en": "Rights group says India continues to support the Israeli military despite genocide &#039;broadcast worldwide on daily basis&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-30T07:13:24+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
     "credibility": "medium"
   },
   {
