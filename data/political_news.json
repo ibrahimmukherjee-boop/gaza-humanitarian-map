@@ -1,5 +1,31 @@
 [
   {
+    "id": "a1b98f100a60",
+    "title_en": "Israeli raids and settler attacks intensify across the occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli raids and settler attacks intensify across the occupied West Bank",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-30T10:21:53+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/israeli-raids-and-settler-attacks-intensify-across-the-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a099fd24c79c",
+    "title_en": "Several children killed and wounded in Israeli attacks across Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israeli strikes hit multiple areas across Gaza overnight, including tents sheltering displaced families in al-Mawasi.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-30T10:20:19+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/several-children-killed-and-wounded-in-israeli-attacks-across-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "8af1827e6768",
     "title_en": "Apartheid wealth cannot buy silence on Gaza",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-30T07:13:24+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/30/indias-arms-sale-to-israel-risks-complicity-in-gaza-genocide-amnesty-says?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b4929bab087e",
-    "title_en": "War and shortages push Gaza hospitals to breaking point",
-    "title_ar": "",
-    "excerpt_en": "Gaza’s collapsing health system leaves dialysis patients, amputees and trauma survivors without vital care.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-30T05:21:15+00:00",
-    "url": "https://www.aljazeera.com/features/2026/7/30/war-and-shortages-push-gaza-hospitals-to-breaking-point?traffic_source=rss",
     "credibility": "medium"
   },
   {
