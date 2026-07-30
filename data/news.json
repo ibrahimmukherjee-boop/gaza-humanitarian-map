@@ -1,5 +1,22 @@
 [
   {
+    "id": "605650102123",
+    "title_en": "Israel building new land barriers in Gaza and displacing families",
+    "title_ar": "",
+    "excerpt_en": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-30T05:05:24+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "e5d6e1790e6e",
     "title_en": "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Haiti",
     "title_ar": "",
@@ -120,23 +137,6 @@
     "credibility": "high"
   },
   {
-    "id": "e14f2b4d8f80",
-    "title_en": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-    "title_ar": "",
-    "excerpt_en": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-26T21:23:53+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "29685c5cd06b",
     "title_en": "Gaza: Dialysis patients face gruelling hospital journey by donkey cart",
     "title_ar": "",
@@ -153,23 +153,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "844c107590a8",
-    "title_en": "Four Palestinians and two Israelis killed in West Bank shooting",
-    "title_ar": "",
-    "excerpt_en": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-24T22:49:59+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "6ab7fc736b6d",
