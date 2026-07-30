@@ -1,13 +1,26 @@
 [
   {
-    "id": "f4a1723ea40b",
-    "title_en": "Police arrest dozens at London rally supporting Palestine Action",
+    "id": "e086e683f9b8",
+    "title_en": "Rights report reconstructs fatal shooting of Palestinian man",
     "title_ar": "",
-    "excerpt_en": "The protest is the first in support of the proscribed group since Andy Burnham became prime minister.",
+    "excerpt_en": "Rights report reconstructs fatal shooting of Palestinian man",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "official_statement",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-30T17:23:21+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/rights-report-reconstructs-fatal-shooting-of-palestinian-man?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "f4a1723ea40b",
+    "title_en": "Police arrest dozens at London rally supporting Palestine Action",
+    "title_ar": "",
+    "excerpt_en": "The first protest supporting group since Andy Burnham became PM comes as Supreme Court opens way for appeal.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
     "timestamp": "2026-07-30T14:22:02+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/30/police-arrest-dozens-at-london-rally-supporting-palestine-action?traffic_source=rss",
     "credibility": "medium"
