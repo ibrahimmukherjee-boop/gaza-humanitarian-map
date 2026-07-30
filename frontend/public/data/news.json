@@ -1,5 +1,22 @@
 [
   {
+    "id": "605650102123",
+    "title_en": "Israel building new land barriers in Gaza and displacing families",
+    "title_ar": "",
+    "excerpt_en": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-30T05:05:24+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "e5d6e1790e6e",
     "title_en": "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Haiti",
     "title_ar": "",
@@ -32,6 +49,24 @@
       "Gaza Strip"
     ],
     "credibility": "high"
+  },
+  {
+    "id": "7cb4bb32b85b",
+    "title_en": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
+    "title_ar": "",
+    "excerpt_en": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-29T05:01:12+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
   },
   {
     "id": "7fe94e6425e7",
