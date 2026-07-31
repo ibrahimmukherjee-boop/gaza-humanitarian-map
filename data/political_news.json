@@ -1,5 +1,18 @@
 [
   {
+    "id": "746482ad6988",
+    "title_en": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+    "title_ar": "",
+    "excerpt_en": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T19:18:54+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "05236ce810dc",
     "title_en": "Three-year roadmap proposed for Hamas disarmament in Gaza",
     "title_ar": "",
@@ -49,6 +62,19 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-31T15:18:31+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "af4f5c6e23e2",
+    "title_en": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
+    "title_ar": "",
+    "excerpt_en": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-07-31T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
     "credibility": "high"
   },
   {
