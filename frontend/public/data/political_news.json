@@ -1,5 +1,18 @@
 [
   {
+    "id": "7fcefa8b3364",
+    "title_en": "Israeli blockades seal off village in the occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T03:35:52+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "d07dc3af47a8",
     "title_en": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-07-30T23:51:40+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "09bd5abbc15e",
-    "title_en": "Hamas reaches Gaza disarmament agreement with Board of Peace",
-    "title_ar": "",
-    "excerpt_en": "US president says Israel will withdraw from Gaza once the Palestinian group disarms.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-30T22:34:19+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/30/trump-says-board-of-peace-reaches-agreement-on-disarmament-of-hamas-in-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
