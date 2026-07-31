@@ -1,5 +1,31 @@
 [
   {
+    "id": "411fb0eaae93",
+    "title_en": "The promise I made to Ismail al-Ghoul",
+    "title_ar": "",
+    "excerpt_en": "He asked me to keep telling Gaza’s story. Two years after Israel killed him, I have not stopped.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T15:30:15+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/7/31/the-promise-i-made-to-ismail-al-ghoul?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "3e0319f4b52a",
+    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+    "title_ar": "",
+    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T15:18:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "8403a727533b",
     "title_en": "Palestinians in Gaza react to latest ceasefire deal",
     "title_ar": "",
@@ -49,32 +75,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-31T10:47:57+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "54acd9a06a57",
-    "title_en": "Eleven Palestinians, including children, injured in Israel’s Nablus raids",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-31T09:33:37+00:00",
-    "url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d34a192fc0da",
-    "title_en": "Her mother said no to a phone. Then came the Gaza genocide",
-    "title_ar": "",
-    "excerpt_en": "As the world debated social media use, Eman Lulu&#039;s phone became a lifeline and a window into Gaza for millions.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-31T09:23:54+00:00",
-    "url": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
     "credibility": "medium"
   },
   {
