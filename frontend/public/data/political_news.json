@@ -1,5 +1,31 @@
 [
   {
+    "id": "54acd9a06a57",
+    "title_en": "At least 11, including children, injured in Israeli raids near Nablus",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers and soldiers storm occupied West Bank towns, arrests made after intensified violence in town of Tal.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T09:33:37+00:00",
+    "url": "https://www.aljazeera.com/news/2026/7/31/at-least-11-including-children-injured-in-israeli-raids-near-nablus?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d34a192fc0da",
+    "title_en": "Her mother said no to a phone. Then came the Gaza genocide",
+    "title_ar": "",
+    "excerpt_en": "As the world debated social media use, Eman Lulu&#039;s phone became a lifeline and a window into Gaza for millions.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T09:23:54+00:00",
+    "url": "https://www.aljazeera.com/features/longform/2026/7/31/her-mother-said-no-to-a-phone-then-came-the-gaza-genocide?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "8b662a911b78",
     "title_en": "Hamas agrees to phased disarmament in Gaza",
     "title_ar": "",
@@ -24,19 +50,6 @@
     "timestamp": "2026-07-31T04:25:49+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "7fcefa8b3364",
-    "title_en": "Israeli blockades seal off village in the occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Al Jazeera visited the occupied West Bank village of Sinjil, where Israeli road closures have blocked all main entrances",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-31T03:35:52+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-blockades-seal-off-village-in-the-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "605650102123",
