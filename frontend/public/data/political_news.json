@@ -1,5 +1,18 @@
 [
   {
+    "id": "11cff0ccae8e",
+    "title_en": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T22:12:48+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "746482ad6988",
     "title_en": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-07-31T19:18:54+00:00",
     "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "05236ce810dc",
-    "title_en": "Three-year roadmap proposed for Hamas disarmament in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-31T16:35:17+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/three-year-roadmap-proposed-for-hamas-disarmament-in-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
