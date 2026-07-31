@@ -1,5 +1,18 @@
 [
   {
+    "id": "0b6c9ef144d0",
+    "title_en": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+    "title_ar": "",
+    "excerpt_en": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T04:25:49+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "7fcefa8b3364",
     "title_en": "Israeli blockades seal off village in the occupied West Bank",
     "title_ar": "",
@@ -14,28 +27,15 @@
   },
   {
     "id": "d07dc3af47a8",
-    "title_en": "Iran war live: Gaza Board of Peace lauds ‘historic’ disarmament agreement",
+    "title_en": "Gaza live: Hamas reportedly agrees to ‘historic’ disarmament agreement",
     "title_ar": "",
-    "excerpt_en": "Hamas member told Al Jazeera all implementation would be conditioned on Israel implementing its part of deal.",
+    "excerpt_en": "The roadmap would see Hamas hand in its weapons and hand over running Gaza to an apolitical committee.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
     "timestamp": "2026-07-31T00:03:58+00:00",
     "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "2b9ee18d0fdb",
-    "title_en": "Trump announces Hamas to disarm paving way for Israel to withdraw from Gaza",
-    "title_ar": "",
-    "excerpt_en": "US President Donald Trump said on TruthSocial that an agreement has been reached for Hamas to fully disarm.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-30T23:51:40+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/30/trump-announces-hamas-to-disarm-paving-way-for-israel-to-withdraw-from-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
