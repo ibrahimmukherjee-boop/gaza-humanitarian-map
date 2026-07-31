@@ -1,9 +1,35 @@
 [
   {
+    "id": "8403a727533b",
+    "title_en": "Palestinians in Gaza react to latest ceasefire deal",
+    "title_ar": "",
+    "excerpt_en": "‘Enough is enough’, Palestinians in Gaza express little hope that the latest ceasefire deal will end the war.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-07-31T12:59:48+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-sv-gazans-react-to-latest-deal-ps?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0b688a44f428",
+    "title_en": "The waiting game: Gaza’s CT scan shortage causing worries and worse",
+    "title_ar": "",
+    "excerpt_en": "Gaza suffering from health crisis caused by a shortage of CT scan machines, leading to worsening medical issues for many.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T12:55:32+00:00",
+    "url": "https://www.aljazeera.com/features/2026/7/31/the-waiting-game-gazas-shortage-in-ct-scans-causing-worries-and-worse?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "dfe0ae0adb1d",
     "title_en": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
     "title_ar": "",
-    "excerpt_en": "Under the agreement, Israel would have to withdraw from Gaza. But experts remain sceptical.",
+    "excerpt_en": "Under the agreement, Israel would have to withdraw from Gaza. But Palestinians remain sceptical.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
@@ -192,19 +218,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-21T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167984",
-    "credibility": "high"
-  },
-  {
-    "id": "dee566ef43b2",
-    "title_en": "Gaza farmers battle to rebuild as WFP warns of West Bank settler violence",
-    "title_ar": "",
-    "excerpt_en": "The UN is supporting farmers in Gaza who are struggling to rebuild their smallholdings in areas devastated by the Hamas-Israel war.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-16T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167960",
     "credibility": "high"
   }
 ]
