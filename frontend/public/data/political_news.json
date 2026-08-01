@@ -1,7 +1,7 @@
 [
   {
     "id": "14a897468cc8",
-    "title_en": "Palestinian children among those detained in Israeli West Bank raids",
+    "title_en": "Palestinian children among those detained by Israel in West Bank raids",
     "title_ar": "",
     "excerpt_en": "Settler violence escalates, with illegal outposts and frequent attacks reported across Ramallah, Hebron and Nablus.",
     "excerpt_ar": "",
@@ -27,9 +27,9 @@
   },
   {
     "id": "4f9b8b85d3d2",
-    "title_en": "Israeli strikes kill four across Gaza, destroy medical supply warehouse",
+    "title_en": "Israeli strikes kill seven across Gaza, destroy medical supply warehouse",
     "title_ar": "",
-    "excerpt_en": "Attacks kill four as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.",
+    "excerpt_en": "Attacks kill seven as Gaza Health Ministry condemns &#039;heinous&#039; strike on medicine stores, days after disarmament deal.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
@@ -49,19 +49,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-01T14:07:36+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/01-08-israel-strike-gaza-hospital-sv-mp4?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "634114da7786",
-    "title_en": "Children run marathon to spotlight Gaza’s growing orphan crises",
-    "title_ar": "",
-    "excerpt_en": "Children run marathon to spotlight Gaza&#039;s growing orphan crisis",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-01T13:46:33+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/children-run-marathon-to-spotlight-gazas-growing-orphan-crises?traffic_source=rss",
     "credibility": "medium"
   },
   {
