@@ -1,5 +1,31 @@
 [
   {
+    "id": "89b398aa5bb8",
+    "title_en": "The Board of Peace is a failed body and should be abandoned",
+    "title_ar": "",
+    "excerpt_en": "The Palestinian issue should be returned to the UN framework and anchored again in international law.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-02T12:06:31+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/8/2/the-board-of-peace-is-a-failed-body-and-should-be-abandoned?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "620f39747896",
+    "title_en": "Ben-Gvir mocks Palestinian detainee over prison conditions",
+    "title_ar": "",
+    "excerpt_en": "Ben-Gvir mocks Palestinian detainee over prison conditions",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-02T11:09:03+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "57e8c167108c",
     "title_en": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-02T05:27:04+00:00",
     "url": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a510538762fe",
-    "title_en": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
-    "title_ar": "",
-    "excerpt_en": "Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-02T02:58:51+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
     "credibility": "medium"
   },
   {
