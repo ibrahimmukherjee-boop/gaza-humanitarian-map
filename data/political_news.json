@@ -1,16 +1,29 @@
 [
   {
     "id": "aaf9e0450a17",
-    "title_en": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+    "title_en": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
     "title_ar": "",
     "excerpt_en": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-08-02T15:02:56+00:00",
+    "timestamp": "2026-08-02T15:50:59+00:00",
     "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
+  },
+  {
+    "id": "af82b30ff30f",
+    "title_en": "Israeli settlers shoot Palestinian child during farm raid",
+    "title_ar": "",
+    "excerpt_en": "CCTV captured the moment a nine-year-old Palestinian boy was shot in the back by Israeli settlers.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-02T15:36:28+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/israeli-settlers-shoot-palestinian-child-during-farm-raid?traffic_source=rss",
+    "credibility": "medium"
   },
   {
     "id": "89b398aa5bb8",
@@ -23,19 +36,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-02T12:06:31+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/8/2/the-board-of-peace-is-a-failed-body-and-should-be-abandoned?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "620f39747896",
-    "title_en": "Ben-Gvir mocks Palestinian detainee over prison conditions",
-    "title_ar": "",
-    "excerpt_en": "Ben-Gvir mocks Palestinian detainee over prison conditions",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-02T11:09:03+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/ben-gvir-mocks-palestinian-detainee-over-prison-conditions?traffic_source=rss",
     "credibility": "medium"
   },
   {
