@@ -1,5 +1,22 @@
 [
   {
+    "id": "91ef3e90b5aa",
+    "title_en": "Today's top news: Ukraine, Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo, Rwanda",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Ukraine, Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo, Rwanda</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-03T16:39:01+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-ukraine-occupied-palestinian-territory-sudan-democratic-republic-congo-rwanda",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "aaf9e0450a17",
     "title_en": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
     "title_ar": "",
