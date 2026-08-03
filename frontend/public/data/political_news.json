@@ -1,5 +1,31 @@
 [
   {
+    "id": "87403627f62c",
+    "title_en": "New illegal Israeli outpost spotted in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Palestinians say settlers are establishing a new illegal outpost near Arabuna, Deir Ghazala and Faqqua.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T17:07:37+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/new-illegal-israeli-outpost-spotted-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "92989d4c4c26",
+    "title_en": "Inside the Palestine Action protests",
+    "title_ar": "",
+    "excerpt_en": "After the UK proscribed Palestine Action as a terrorist organisation, thousands were arrested or investigated.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T16:30:56+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "38a8727aa6a1",
     "title_en": "How Israel and the European far right tried to exploit Ceuta",
     "title_ar": "",
@@ -36,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-03T13:31:52+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "74e924eadbe6",
-    "title_en": "Massive Attack says members held after pro-Palestine display in Singapore",
-    "title_ar": "",
-    "excerpt_en": "Music group says &#039;proud&#039; to have made &#039;impromptu expression&#039; of support for Palestine by unfurling flag during concert.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-03T13:23:21+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/3/massive-attack-says-members-held-after-pro-palestine-display-in-singapore?traffic_source=rss",
     "credibility": "medium"
   },
   {
