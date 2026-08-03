@@ -1,5 +1,31 @@
 [
   {
+    "id": "fc73efb48b49",
+    "title_en": "Can Netanyahu survive Israel’s most consequential election?",
+    "title_ar": "",
+    "excerpt_en": "Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T18:16:00+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "3c72663ea526",
+    "title_en": "Israel top court hears challenge to UNRWA ban",
+    "title_ar": "",
+    "excerpt_en": "Israel&#039;s highest court heard a constitutional challenge to legislation banning UNRWA&#039;s operations in Israel.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-03T18:13:43+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "87403627f62c",
     "title_en": "New illegal Israeli outpost spotted in occupied West Bank",
     "title_ar": "",
@@ -36,32 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-03T15:41:20+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "4b5fb511d1df",
-    "title_en": "Hilltop Youth: A group intent on taking over the West Bank by violence",
-    "title_ar": "",
-    "excerpt_en": "The Hilltop Youth is a radical religious Zionist group devoted to seizing Palestinian land in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-03T14:15:43+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/3/hilltop-youth-a-group-intent-on-taking-over-the-west-bank-by-violence?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "32c52aeb8021",
-    "title_en": "Heatwave in Gaza compounds Palestinian suffering",
-    "title_ar": "",
-    "excerpt_en": "Heatwave in Gaza compounds Palestinian suffering",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-03T13:31:52+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/heatwave-in-gaza-compounds-palestinian-suffering?traffic_source=rss",
     "credibility": "medium"
   },
   {
