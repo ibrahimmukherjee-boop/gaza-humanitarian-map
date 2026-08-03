@@ -1,5 +1,31 @@
 [
   {
+    "id": "38a8727aa6a1",
+    "title_en": "How Israel and the European far right tried to exploit Ceuta",
+    "title_ar": "",
+    "excerpt_en": "A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T15:41:20+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "4b5fb511d1df",
+    "title_en": "Hilltop Youth: A group intent on taking over the West Bank by violence",
+    "title_ar": "",
+    "excerpt_en": "The Hilltop Youth is a radical religious Zionist group devoted to seizing Palestinian land in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T14:15:43+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/3/hilltop-youth-a-group-intent-on-taking-over-the-west-bank-by-violence?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "32c52aeb8021",
     "title_en": "Heatwave in Gaza compounds Palestinian suffering",
     "title_ar": "",
@@ -36,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-03T12:09:19+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/palestines-new-ambassador-to-spain-calls-for-deeper-friendship?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "fa9d36ec48d8",
-    "title_en": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-03T10:53:47+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
