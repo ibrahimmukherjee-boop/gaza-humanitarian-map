@@ -1,5 +1,18 @@
 [
   {
+    "id": "604a0c55bf72",
+    "title_en": "Will Israel withdraw from Gaza if Hamas disarms?",
+    "title_ar": "",
+    "excerpt_en": "Israel says it has doubts about the Palestinian group laying down its weapons.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T21:05:11+00:00",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "fc73efb48b49",
     "title_en": "Can Netanyahu survive Israel’s most consequential election?",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-03T16:30:56+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/inside-the-palestine-action-protests?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "38a8727aa6a1",
-    "title_en": "How Israel and the European far right tried to exploit Ceuta",
-    "title_ar": "",
-    "excerpt_en": "A potent narrative is emerging linking migration to anti-Semitism in an effort to undermine pro-Palestinian solidarity.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-03T15:41:20+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/8/3/how-israel-and-the-european-far-right-tried-to-exploit-ceuta?traffic_source=rss",
     "credibility": "medium"
   },
   {
