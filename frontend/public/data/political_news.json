@@ -8,9 +8,22 @@
     "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-08-04T13:59:24+00:00",
+    "timestamp": "2026-08-04T15:07:52+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
+  },
+  {
+    "id": "f05bc6e22fe0",
+    "title_en": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
+    "title_ar": "",
+    "excerpt_en": "Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-04T14:51:51+00:00",
+    "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
+    "credibility": "medium"
   },
   {
     "id": "deaeb6854d0c",
@@ -179,19 +192,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-29T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1168045",
-    "credibility": "high"
-  },
-  {
-    "id": "7cb4bb32b85b",
-    "title_en": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
-    "title_ar": "",
-    "excerpt_en": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-29T05:01:12+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/clyxgn37lg5o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
