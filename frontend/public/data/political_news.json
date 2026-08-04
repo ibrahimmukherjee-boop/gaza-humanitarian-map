@@ -1,5 +1,18 @@
 [
   {
+    "id": "e0154d295a86",
+    "title_en": "‘I wanted to hug whatever remained’: Gaza families’ 3-year wait for funeral",
+    "title_ar": "",
+    "excerpt_en": "Thousands gather for mass funeral of 112 members of Abu Shreia and al-Hassaina families killed in 2023 Israeli attack.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-04T20:32:51+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/4/i-wanted-to-hug-whatever-remained-gaza-families-3-year-wait-for-funeral?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "b3861a2c2b9f",
     "title_en": "Mass funeral held for 112 members of two Palestinian families",
     "title_ar": "",
@@ -10,32 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-04T18:35:35+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/mass-funeral-held-for-112-members-of-two-palestinian-families?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a252346e52cb",
-    "title_en": "Israel election pressure fuels settlement push as West Bank violence surges",
-    "title_ar": "",
-    "excerpt_en": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-04T18:08:08+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ad132fb3c86e",
-    "title_en": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
-    "title_ar": "",
-    "excerpt_en": "Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-04T17:03:24+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
     "credibility": "medium"
   },
   {
