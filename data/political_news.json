@@ -39,6 +39,19 @@
     "credibility": "high"
   },
   {
+    "id": "1831fae22f1d",
+    "title_en": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
+    "title_ar": "",
+    "excerpt_en": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-04T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
+    "credibility": "high"
+  },
+  {
     "id": "1c1c2fe16cce",
     "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
     "title_ar": "",
@@ -244,19 +257,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-07-21T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1167991",
-    "credibility": "high"
-  },
-  {
-    "id": "af73eeac98c3",
-    "title_en": "Security Council LIVE: Spotlight on Syria as Guterres heads to Damascus",
-    "title_ar": "",
-    "excerpt_en": "The Security Council discussed the situation on the ground in Syria amid reports of an Israeli attack in occupied territory and of a multi-national oil pipeline to counter the closure of the critical Strait of Hormuz – still the focus of the ongoing US-Iran war. The meeting follows UN independent investigators’ findings that security conditions remain fragile in the south as António Guterres&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-21T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167984",
     "credibility": "high"
   }
 ]
