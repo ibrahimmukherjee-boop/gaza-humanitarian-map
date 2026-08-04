@@ -1,5 +1,18 @@
 [
   {
+    "id": "7eec39eb6646",
+    "title_en": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
+    "title_ar": "",
+    "excerpt_en": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-04T01:43:51+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "96ebb61ce72d",
     "title_en": "From Trump to El-Sayed: US Arabs in Michigan centre Palestine in politics",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-03T21:05:11+00:00",
     "url": "https://www.aljazeera.com/video/inside-story/2026/8/3/will-israel-withdraw-from-gaza-if-hamas-disarms?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "fc73efb48b49",
-    "title_en": "Can Netanyahu survive Israel’s most consequential election?",
-    "title_ar": "",
-    "excerpt_en": "Israelis head to the polls in October for the country&#039;s first election since the war on Gaza began.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-03T18:16:00+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/can-netanyahu-survive-israels-most-consequential-election?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3c72663ea526",
-    "title_en": "Israel top court hears challenge to UNRWA ban",
-    "title_ar": "",
-    "excerpt_en": "Israel&#039;s highest court heard a constitutional challenge to legislation banning UNRWA&#039;s operations in Israel.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-03T18:13:43+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/israel-top-court-hears-challenge-to-unrwa-ban?traffic_source=rss",
     "credibility": "medium"
   },
   {
