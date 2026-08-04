@@ -1,5 +1,44 @@
 [
   {
+    "id": "0fb595fa15db",
+    "title_en": "Who is behind settler violence in the occupied West Bank?",
+    "title_ar": "",
+    "excerpt_en": "A look at the main settler groups driving the escalation against Palestinians in the West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-04T11:04:03+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/4/who-is-behind-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "bd64f1d00459",
+    "title_en": "Tech giant Palantir posts ‘otherworldly’ growth despite criticism over Gaza",
+    "title_ar": "",
+    "excerpt_en": "Second-quarter revenue jumped 93 percent but Palantir&#039;s ties to Israel and role in military technology are controversial",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-04T10:11:06+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/4/tech-giant-palantir-posts-otherworldly-growth-despite-criticism-over-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "302d122ec3ca",
+    "title_en": "Palestinian patients return to Gaza as thousands still await evacuation",
+    "title_ar": "",
+    "excerpt_en": "Palestinian patients returned to Gaza after receiving medical treatment abroad, reuniting after years of separation.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-04T10:04:49+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/palestinian-patients-return-to-gaza-as-thousands-still-await-evacuation?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "1feeb34aa677",
     "title_en": "Cars burn in reported settler attack in occupied West Bank",
     "title_ar": "",
@@ -23,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-04T06:00:10+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/4/palestine-weekly-israel-kills-dozens-in-gaza-after-hamas-disarmament-deal?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "7eec39eb6646",
-    "title_en": "Board of Peace says no Israeli withdrawal from Gaza before Hamas disarms",
-    "title_ar": "",
-    "excerpt_en": "Netanyahu and board director Maldenov meet amid tensions over Gaza disarmament roadmap and recent Israeli attacks.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-04T01:43:51+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/4/board-of-peace-says-no-israeli-withdrawal-from-gaza-before-hamas-disarms?traffic_source=rss",
     "credibility": "medium"
   },
   {
