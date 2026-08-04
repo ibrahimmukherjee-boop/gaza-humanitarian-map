@@ -1,5 +1,31 @@
 [
   {
+    "id": "a252346e52cb",
+    "title_en": "Israel election pressure fuels settlement push as West Bank violence surges",
+    "title_ar": "",
+    "excerpt_en": "Analysts point to uptick in activity of settlement movement as it bids to entrench West Bank chokehold.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-04T18:08:08+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/4/israel-election-pressure-fuels-settlement-push-as-west-bank-violence-surges?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ad132fb3c86e",
+    "title_en": "Gaza holds mass funeral for 112 people killed in Israel’s 2023 Sabra attack",
+    "title_ar": "",
+    "excerpt_en": "Thousands join to bury remains after they were recovered from rubble of homes destroyed during Israel’s genocidal war.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-04T17:03:24+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/4/gaza-holds-mass-funeral-for-112-people-killed-in-israels-2023-sabra-attack?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "913f9abb522f",
     "title_en": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
     "title_ar": "",
@@ -11,32 +37,6 @@
     "timestamp": "2026-08-04T15:07:52+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "f05bc6e22fe0",
-    "title_en": "Photos: Thousands in Gaza City join mass funeral for 112 Palestinians",
-    "title_ar": "",
-    "excerpt_en": "Bodies wrapped in Palestinian flags carried through the streets in one of the largest funerals since war on Gaza began.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-04T14:51:51+00:00",
-    "url": "https://www.aljazeera.com/gallery/2026/8/4/photos-thousands-in-gaza-city-join-mass-funeral-for-112-palestinians?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "deaeb6854d0c",
-    "title_en": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
-    "title_ar": "",
-    "excerpt_en": "Hamas negotiator says deal to disarm was necessary to ‘save Gaza’",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-04T13:34:43+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/4/hamas-negotiator-says-deal-to-disarm-was-necessary-to-save?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "1c1c2fe16cce",
