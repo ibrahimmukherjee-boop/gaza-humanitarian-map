@@ -1,5 +1,18 @@
 [
   {
+    "id": "a0ad9cef2676",
+    "title_en": "Gaza father opens play center to restore childhood amid Israeli attacks",
+    "title_ar": "",
+    "excerpt_en": "A Palestinian father opened a Gaza play center offering children free escape and joy amid near daily Israeli attacks.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-05T14:08:46+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-gaza-jump-city-children-sv-mp4?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "169edb8b61d7",
     "title_en": "Protesters stage sit-in against settler violence-linked Smotrich funds",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-05T11:31:32+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b889ce2a4509",
-    "title_en": "Israeli raid deepens fears across West Bank refugee camps",
-    "title_ar": "",
-    "excerpt_en": "Israeli raid deepens fears across West Bank refugee camps",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-05T10:30:17+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/5/israeli-raid-deepens-fears-across-west-bank-refugee-camps?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9049c46d6df7",
-    "title_en": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
-    "title_ar": "",
-    "excerpt_en": "While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-05T10:09:22+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/8/5/how-israeli-restrictions-on-palestinians-movement-break-up-the-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -140,19 +127,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-07-31T20:58:27+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "345604d6028c",
-    "title_en": "What's in the Gaza peace deal roadmap?",
-    "title_ar": "",
-    "excerpt_en": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-31T16:00:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
