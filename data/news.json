@@ -1,5 +1,22 @@
 [
   {
+    "id": "6dfa339e99f2",
+    "title_en": "Today's top news: Ukraine, Lebanon, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Ukraine, Lebanon, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidd",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-05T16:45:43+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-ukraine-lebanon-occupied-palestinian-territory-democratic-republic-congo",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "a413ce634bde",
     "title_en": "Today's top news: Afghanistan, Occupied Palestinian Territory, Venezuela",
     "title_ar": "",
@@ -247,23 +264,6 @@
     "source": "OCHA",
     "timestamp": "2026-07-30T16:51:47+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-middle-east-democratic-republic-congo-occupied-palestinian-territory-sudan",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e5d6e1790e6e",
-    "title_en": "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Haiti",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <i",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-29T16:50:21+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-occupied-palestinian-territory-haiti-0",
     "tags": [
       "humanitarian"
     ],
