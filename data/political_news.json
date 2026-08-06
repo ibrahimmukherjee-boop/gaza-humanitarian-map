@@ -1,5 +1,18 @@
 [
   {
+    "id": "76a566b445f7",
+    "title_en": "UNICEF says one child killed per day in Gaza since ‘ceasefire’",
+    "title_ar": "",
+    "excerpt_en": "At least 300 children reported killed in Gaza in 300 days since October 2025 truce between Israel and Hamas was agreed.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-06T15:00:54+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/6/unicef-says-one-child-killed-per-day-in-gaza-since-ceasefire-2?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "1d91a7d79a9c",
     "title_en": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
     "title_ar": "",
@@ -91,16 +104,29 @@
     "credibility": "high"
   },
   {
-    "id": "f58a80753f00",
-    "title_en": "Israeli official says troops won't pull back in Gaza without 'genuine' Hamas disarmament",
+    "id": "345604d6028c",
+    "title_en": "What's in the Gaza peace deal roadmap?",
     "title_ar": "",
-    "excerpt_en": "Donald Trump insists Israel is \"very happy\" with a proposal for the Palestinian group to give up weapons in exchange for an Israeli withdrawal.",
+    "excerpt_en": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
     "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-31T20:58:27+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cd9wjj4qleeo?at_medium=RSS&at_campaign=rss",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T16:00:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "3e0319f4b52a",
+    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+    "title_ar": "",
+    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T15:18:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -117,16 +143,16 @@
     "credibility": "high"
   },
   {
-    "id": "0b6c9ef144d0",
-    "title_en": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+    "id": "605650102123",
+    "title_en": "Israel building new land barriers in Gaza and displacing families",
     "title_ar": "",
-    "excerpt_en": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+    "excerpt_en": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-07-31T04:25:49+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-07-30T05:05:24+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
