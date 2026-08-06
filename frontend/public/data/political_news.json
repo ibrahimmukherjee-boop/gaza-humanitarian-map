@@ -1,5 +1,18 @@
 [
   {
+    "id": "1d91a7d79a9c",
+    "title_en": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
+    "title_ar": "",
+    "excerpt_en": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-06T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
+    "credibility": "high"
+  },
+  {
     "id": "151b7a1edbe3",
     "title_en": "Shifting US politics offers opportunity for Palestinian self-determination",
     "title_ar": "",
@@ -192,19 +205,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-07-23T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1168006",
-    "credibility": "high"
-  },
-  {
-    "id": "7dc98ceda7e7",
-    "title_en": "Israeli attacks on Gaza intensify amid surge of West Bank settler violence",
-    "title_ar": "",
-    "excerpt_en": "Amid intensified deadly Israeli attacks in Gaza, the UN chief and top officials condemned the killings while a surge violence rocked the West Bank and aid agencies scrambled to help Palestinians.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-07-21T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1167991",
     "credibility": "high"
   }
 ]
