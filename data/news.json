@@ -1,39 +1,5 @@
 [
   {
-    "id": "6dfa339e99f2",
-    "title_en": "Today's top news: Ukraine, Lebanon, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Ukraine, Lebanon, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidd",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-05T16:45:43+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-ukraine-lebanon-occupied-palestinian-territory-democratic-republic-congo",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "a413ce634bde",
-    "title_en": "Today's top news: Afghanistan, Occupied Palestinian Territory, Venezuela",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Afghanistan, Occupied Palestinian Territory, Venezuela</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Afghanist",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-04T17:30:49+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-afghanistan-occupied-palestinian-territory-venezuela",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "913f9abb522f",
     "title_en": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
     "title_ar": "",
@@ -83,40 +49,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "9a5f5d5d878c",
-    "title_en": "DRC - Ebola transit centre - 3 August 2026",
-    "title_ar": "",
-    "excerpt_en": "<span>DRC - Ebola transit centre - 3 August 2026</span>\n\n            <div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Description<br />STORY: OCHA / DRC EBOLA TRANSIT CENTRE<br />TRT: 4:42<br />SOURCE: OCHA / UNIFEED-NAIROBI<br />RESTRICTIONS: PLEASE CREDIT OCHA ON SCREEN<br />LANGUAGE: ENGLISH / FRENCH / NATS</p>\n<p>DATELINE: 31 JULY AND 1 AUGUS",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-03T21:25:08+00:00",
-    "url": "https://www.unocha.org/media-centre/drc-ebola-transit-centre-3-august-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "91ef3e90b5aa",
-    "title_en": "Today's top news: Ukraine, Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo, Rwanda",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Ukraine, Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo, Rwanda</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-03T16:39:01+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-ukraine-occupied-palestinian-territory-sudan-democratic-republic-congo-rwanda",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "c4d04b7114a7",
@@ -188,23 +120,6 @@
     "credibility": "medium"
   },
   {
-    "id": "781eb616f73f",
-    "title_en": "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-31T16:59:19+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-occupied-palestinian-territory-lebanon",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "3e0319f4b52a",
     "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
     "title_ar": "",
@@ -254,23 +169,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "e674c467867c",
-    "title_en": "Today's top news: Middle East, Democratic Republic of the Congo, Occupied Palestinian Territory, Sudan, Ukraine, Yemen",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Middle East, Democratic Republic of the Congo, Occupied Palestinian Territory, Sudan, Ukraine, Yemen</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--l",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-30T16:51:47+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-middle-east-democratic-republic-congo-occupied-palestinian-territory-sudan",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "3f6fcead6581",
