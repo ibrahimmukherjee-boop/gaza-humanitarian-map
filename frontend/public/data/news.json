@@ -1,9 +1,61 @@
 [
   {
+    "id": "93477a3a37f1",
+    "title_en": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+    "title_ar": "",
+    "excerpt_en": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-06T18:37:12+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "7f16caf8bc1f",
+    "title_en": "Six years in limbo: The human cost of shelter funding gaps in north-east Nigeria",
+    "title_ar": "",
+    "excerpt_en": "<span>Six years in limbo: The human cost of shelter funding gaps in north-east Nigeria</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"B",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-06T18:34:16+00:00",
+    "url": "https://www.unocha.org/news/six-years-limbo-human-cost-shelter-funding-gaps-north-east-nigeria",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "3029587fe825",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Lebanon, Sudan, Chad",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Lebanon, Sudan, Chad</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A child sta",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-06T17:20:49+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-lebanon-sudan-chad",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "1d91a7d79a9c",
     "title_en": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
     "title_ar": "",
-    "excerpt_en": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
+    "excerpt_en": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement supposedly came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
     "excerpt_ar": "",
     "source": "UN News",
     "timestamp": "2026-08-06T12:00:00+00:00",
@@ -249,23 +301,6 @@
     "source": "UN News",
     "timestamp": "2026-07-31T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e674c467867c",
-    "title_en": "Today's top news: Middle East, Democratic Republic of the Congo, Occupied Palestinian Territory, Sudan, Ukraine, Yemen",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Middle East, Democratic Republic of the Congo, Occupied Palestinian Territory, Sudan, Ukraine, Yemen</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--l",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-07-30T16:51:47+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-middle-east-democratic-republic-congo-occupied-palestinian-territory-sudan",
     "tags": [
       "humanitarian"
     ],
