@@ -26,10 +26,23 @@
     "credibility": "medium"
   },
   {
+    "id": "d89f1e56f38a",
+    "title_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "title_ar": "",
+    "excerpt_en": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-09T12:12:10+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "94a3d6f05849",
     "title_en": "Israel rejects Trump’s 15-point plan for Gaza",
     "title_ar": "",
-    "excerpt_en": "Prime Minister Benjamin Netanyahu says Israel will not ⁠withdraw ​forces from Gaza until Hamas ⁠fully disarms.",
+    "excerpt_en": "Prime Minister Benjamin Netanyahu says Israel will not ⁠⁠withdraw ​forces from Gaza until Hamas ⁠⁠fully disarms.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
@@ -50,6 +63,19 @@
     "timestamp": "2026-08-09T10:35:00+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
     "credibility": "medium"
+  },
+  {
+    "id": "3deba5198de3",
+    "title_en": "Israel accused of weaponising archaeology at ancient West Bank sites",
+    "title_ar": "",
+    "excerpt_en": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-08T23:43:44+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
   },
   {
     "id": "93477a3a37f1",
@@ -140,32 +166,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-02T15:50:59+00:00",
     "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "fb847163ae0f",
-    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-    "title_ar": "",
-    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-01T05:01:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "3e0319f4b52a",
-    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-    "title_ar": "",
-    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-31T15:18:31+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
