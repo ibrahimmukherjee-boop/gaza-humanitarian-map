@@ -1,5 +1,44 @@
 [
   {
+    "id": "64bd6f3d0ca2",
+    "title_en": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+    "title_ar": "",
+    "excerpt_en": "As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-09T14:26:30+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d89f1e56f38a",
+    "title_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "title_ar": "",
+    "excerpt_en": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-09T14:18:10+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "570ee422087e",
+    "title_en": "Israel’s ‘Green Rafah’ plan aims to fragment Gaza, experts say",
+    "title_ar": "",
+    "excerpt_en": "Experts warn Israel&#039;s new administrative zones in Gaza seek to erase the Palestinian cause and force mass displacement.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-09T13:54:41+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/9/israels-green-rafah-plan-aims-to-fragment-gaza-experts-say?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "56c289a88769",
     "title_en": "Netanyahu rejects Trump’s Board of Peace plan for Gaza",
     "title_ar": "",
@@ -26,19 +65,6 @@
     "credibility": "medium"
   },
   {
-    "id": "d89f1e56f38a",
-    "title_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "title_ar": "",
-    "excerpt_en": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-09T12:12:10+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "94a3d6f05849",
     "title_en": "Israel rejects Trump’s 15-point plan for Gaza",
     "title_ar": "",
@@ -49,19 +75,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-09T11:31:18+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/9/israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a570bec49783",
-    "title_en": "Palestinians in occupied West Bank hold firm on Indigenous Peoples’ Day",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers and the military are continuing a campaign to displace Palestinians in the West Bank, residents say.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-09T10:35:00+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/9/palestinians-in-the-west-bank-hold-firm-on-indigenous-peoples-day?traffic_source=rss",
     "credibility": "medium"
   },
   {
