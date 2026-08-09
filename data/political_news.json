@@ -1,5 +1,18 @@
 [
   {
+    "id": "e9aecbb3dbf6",
+    "title_en": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
+    "title_ar": "",
+    "excerpt_en": "Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-09T16:08:19+00:00",
+    "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "d9ca1fbc8900",
     "title_en": "Gaza’s children still struggling with hunger as another famine threatens",
     "title_ar": "",
@@ -75,19 +88,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-09T13:15:54+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/netanyahu-rejects-trumps-board-of-peace-plan-for-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ba4fc5eef450",
-    "title_en": "Israel rejects Donald Trump’s Gaza Board of Peace plan",
-    "title_ar": "",
-    "excerpt_en": "Israel has rejected Donald Trump’s 15-point Board of Peace plan for Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-09T12:51:34+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/israel-rejects-donald-trumps-gaza-board-of-peace-plan?traffic_source=rss",
     "credibility": "medium"
   },
   {
