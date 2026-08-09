@@ -1,5 +1,18 @@
 [
   {
+    "id": "d89f1e56f38a",
+    "title_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+    "title_ar": "",
+    "excerpt_en": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-09T21:25:04+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "52a5e84a08de",
     "title_en": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
     "title_ar": "",
@@ -76,19 +89,6 @@
     "timestamp": "2026-08-09T14:26:30+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
     "credibility": "medium"
-  },
-  {
-    "id": "d89f1e56f38a",
-    "title_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "title_ar": "",
-    "excerpt_en": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-09T14:18:10+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "3deba5198de3",
