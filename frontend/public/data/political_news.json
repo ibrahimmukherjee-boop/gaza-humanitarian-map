@@ -1,5 +1,18 @@
 [
   {
+    "id": "d00525c902a1",
+    "title_en": "Union reports 108 attacks on Palestinian journalists in July",
+    "title_ar": "",
+    "excerpt_en": "Palestinian Journalists Syndicate exposes rising threats, with over 270 journalists killed in Gaza since October 2023.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-09T23:01:25+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/9/union-reports-108-attacks-on-palestinian-journalists-in-july?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "d89f1e56f38a",
     "title_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
     "title_ar": "",
@@ -62,19 +75,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-09T14:47:29+00:00",
     "url": "https://www.aljazeera.com/features/2026/8/9/gazas-children-still-struggling-with-hunger-as-another-famine-threatens?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "16848e9ab91a",
-    "title_en": "Gaza engineer builds animal shelters out of empty cans",
-    "title_ar": "",
-    "excerpt_en": "Gaza engineer builds animal shelters out of empty cans",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-09T14:28:34+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/gaza-engineer-builds-animal-shelters-out-of-empty-cans?traffic_source=rss",
     "credibility": "medium"
   },
   {
