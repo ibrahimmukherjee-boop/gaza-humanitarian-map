@@ -1,5 +1,18 @@
 [
   {
+    "id": "85260fad29db",
+    "title_en": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
+    "title_ar": "",
+    "excerpt_en": "Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilian lives.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-10T10:13:31+00:00",
+    "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "012dfd5a5e80",
     "title_en": "Israeli forces kill one in Gaza as another body recovered from rubble",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-10T07:43:01+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a4c33c5e2e02",
-    "title_en": "Israel confirms death of Palestinian detainee, nearly two years late",
-    "title_ar": "",
-    "excerpt_en": "The family of Ihab Diab disputes Israeli claims of health issues, alleging torture was behind his prison death.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-10T02:59:45+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/10/israel-confirms-death-of-palestinian-detainee-nearly-two-years-late?traffic_source=rss",
     "credibility": "medium"
   },
   {
