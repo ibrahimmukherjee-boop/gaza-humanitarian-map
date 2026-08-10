@@ -1,5 +1,18 @@
 [
   {
+    "id": "d7ce32f8350a",
+    "title_en": "Netanyahu’s veto and the limits of American power",
+    "title_ar": "",
+    "excerpt_en": "Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-10T18:35:31+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "5f91e3f081aa",
     "title_en": "Palestinian club football to restart in September after Gaza war suspension",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-10T14:18:52+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "77b4f1ca8b04",
-    "title_en": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
-    "title_ar": "",
-    "excerpt_en": "The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-10T13:59:58+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
     "credibility": "medium"
   },
   {
