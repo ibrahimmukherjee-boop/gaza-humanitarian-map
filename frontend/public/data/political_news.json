@@ -1,5 +1,18 @@
 [
   {
+    "id": "012dfd5a5e80",
+    "title_en": "Israeli forces kill one in Gaza as another body recovered from rubble",
+    "title_ar": "",
+    "excerpt_en": "Gaza Health Ministry says hospitals receive bodies of two Palestinians as Netanyahu rejects Trump plan to end war.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-10T07:43:01+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/10/israeli-forces-kill-one-in-gaza-as-another-body-recovered-from-rubble?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a4c33c5e2e02",
     "title_en": "Israel confirms death of Palestinian detainee, nearly two years late",
     "title_ar": "",
@@ -50,32 +63,6 @@
     "timestamp": "2026-08-09T21:25:04+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "52a5e84a08de",
-    "title_en": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
-    "title_ar": "",
-    "excerpt_en": "‘We&#039;re going backwards.’",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-09T20:02:57+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/9/palestinians-say-netanyahus-decision-leaves-no-clear-path-to-peace?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "59533b1a9fcb",
-    "title_en": "Israel is ‘trying to make Palestine disappear’: The Elders",
-    "title_ar": "",
-    "excerpt_en": "Former Irish President Mary Robinson: Israel ‘erasing Palestine physically, economically, culturally and politically’.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-08-09T19:30:00+00:00",
-    "url": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "3deba5198de3",
