@@ -1,5 +1,22 @@
 [
   {
+    "id": "16d60d55ba7e",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Ukraine, Sudan, Rwanda",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Ukraine, Sudan, Rwanda</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Women and",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-10T16:16:03+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-ukraine-sudan-rwanda",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "09d7a914b3b5",
     "title_en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
     "title_ar": "",
