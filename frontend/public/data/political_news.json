@@ -1,5 +1,31 @@
 [
   {
+    "id": "032e4a1226fb",
+    "title_en": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+    "title_ar": "",
+    "excerpt_en": "Ben-Gvir posts AI video of starving Palestinian ahead of elections",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-10T14:18:52+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/ben-gvir-posts-ai-video-of-starving-palestinian-ahead-of-elections?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "77b4f1ca8b04",
+    "title_en": "Why Netanyahu’s ‘coup’ against Gaza plan risks endless war",
+    "title_ar": "",
+    "excerpt_en": "The Israeli leader’s rejection of a US-led roadmap threatens to entrench a state of conflict, analysts say.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-10T13:59:58+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/10/why-netanyahus-coup-against-gaza-plan-risks-endless-war?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "9a1d431c4e88",
     "title_en": "Gaza honours Al Jazeera’s Anas al-Sharif and Mohammed Qraiqea",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-10T11:17:16+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/8/10/remembering-anas-mohammed-and-gazas-other-slain-journalists?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "85260fad29db",
-    "title_en": "One year on, Gaza mourns journalist Anas al-Sharif’s death",
-    "title_ar": "",
-    "excerpt_en": "Gaza remembers Anas al-Sharif, a journalist whose voice defined the impact of war on civilians&#039; lives.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-10T10:13:31+00:00",
-    "url": "https://www.aljazeera.com/gallery/2026/8/10/one-year-on-gaza-mourns-journalist-anas-al-sharifs-death?traffic_source=rss",
     "credibility": "medium"
   },
   {
