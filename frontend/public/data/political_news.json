@@ -1,5 +1,18 @@
 [
   {
+    "id": "5d2b32704f34",
+    "title_en": "Can Netanyahu defy Trump on his Gaza peace plan?",
+    "title_ar": "",
+    "excerpt_en": "Can Netanyahu risk continuing to defy Trump?",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-11T00:00:19+00:00",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a8c002b86519",
     "title_en": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-08-10T21:03:53+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d7ce32f8350a",
-    "title_en": "Netanyahu’s veto and the limits of American power",
-    "title_ar": "",
-    "excerpt_en": "Trump has the leverage to enforce his Gaza plan. Netanyahu is betting that he lacks the political will to use it.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-10T18:35:31+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
     "credibility": "medium"
   },
   {
