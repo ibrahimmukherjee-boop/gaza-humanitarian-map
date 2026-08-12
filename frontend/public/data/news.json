@@ -17,6 +17,24 @@
     "credibility": "high"
   },
   {
+    "id": "7fc14694c353",
+    "title_en": "Israeli settlers besieging Palestinian families in West Bank village",
+    "title_ar": "",
+    "excerpt_en": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-12T16:14:08+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "41a7ef19fb66",
     "title_en": "Today's top news: Colombia, Occupied Palestinian Territory, Democratic Republic of Congo, West Africa",
     "title_ar": "",

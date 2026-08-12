@@ -1,5 +1,18 @@
 [
   {
+    "id": "30277d9979e7",
+    "title_en": "Israel vows to keep troops in Lebanon, Gaza and Syria",
+    "title_ar": "",
+    "excerpt_en": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-12T20:26:07+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "339143fb113a",
     "title_en": "‘Platformicide’ of Palestine: Activists struggle to be heard on Meta",
     "title_ar": "",
@@ -11,6 +24,19 @@
     "timestamp": "2026-08-12T20:15:38+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/12/platformicide-of-palestine-activists-struggle-to-be-heard-on-meta?traffic_source=rss",
     "credibility": "medium"
+  },
+  {
+    "id": "7fc14694c353",
+    "title_en": "Israeli settlers besieging Palestinian families in West Bank village",
+    "title_ar": "",
+    "excerpt_en": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-12T16:14:08+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
   },
   {
     "id": "a2b98cc21ad8",
