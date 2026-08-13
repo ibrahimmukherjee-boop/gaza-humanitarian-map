@@ -1,5 +1,18 @@
 [
   {
+    "id": "a1e179f92f3d",
+    "title_en": "Israeli forces order families to evacuate homes in Qusra",
+    "title_ar": "",
+    "excerpt_en": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-13T19:36:15+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "18ef0ce9157b",
     "title_en": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-13T14:41:58+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "db1030d10c2d",
-    "title_en": "Report from scene of Palestinian homes besieged by settlers",
-    "title_ar": "",
-    "excerpt_en": "Report from scene of Palestinian homes besieged by settlers",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-13T14:08:14+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/report-from-scene-of-palestinian-homes-besieged-by-settlers?traffic_source=rss",
     "credibility": "medium"
   },
   {
