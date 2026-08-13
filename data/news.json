@@ -1,5 +1,22 @@
 [
   {
+    "id": "4f721e2a06aa",
+    "title_en": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+    "title_ar": "",
+    "excerpt_en": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-13T14:58:09+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "16a88981d29c",
     "title_en": "Occupied West Bank: Settler siege of Palestinians marks a new low: OHCHR",
     "title_ar": "",
@@ -15,24 +32,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "4f721e2a06aa",
-    "title_en": "More troops to be sent to West Bank village besieged by Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Two Palestinian families in the village of Qusra say they have been trapped in their homes, with water and power cut off, since Sunday.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-13T08:12:53+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "90fce03477e4",
