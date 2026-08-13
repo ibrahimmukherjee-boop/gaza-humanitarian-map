@@ -1,7 +1,20 @@
 [
   {
+    "id": "2950c0c95fae",
+    "title_en": "Three Palestinian families besieged in their homes by Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-13T04:34:46+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a45cb5c1690f",
-    "title_en": "Israeli settlers besiege Palestinian families in West Bank’s Qusra",
+    "title_en": "Israeli settlers besiege three Palestinian families in West Bank’s Qusra",
     "title_ar": "",
     "excerpt_en": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.",
     "excerpt_ar": "",
@@ -10,45 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-13T03:54:09+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "43c8b01aa23b",
-    "title_en": "11-year-old boy shot by Israeli forces in Gaza",
-    "title_ar": "",
-    "excerpt_en": "The father of an 11-year-old boy says Israeli forces shot his son in the head and leg in Khan Younis.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-12T21:06:12+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/11-year-old-boy-shot-by-israeli-forces-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0bde1e658e82",
-    "title_en": "Israeli air strike kills one in northern Gaza",
-    "title_ar": "",
-    "excerpt_en": "Strike on a tuk-tuk in Beit Lahiya kills one, wounds five in first Israeli aerial bombardment in a week",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-12T20:58:42+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/12/israeli-air-strike-kills-one-in-northern-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "30277d9979e7",
-    "title_en": "Israel vows to keep troops in Lebanon, Gaza and Syria",
-    "title_ar": "",
-    "excerpt_en": "Israeli defence minister Israel Katz has said that Israel “will under no circumstances” withdraw its troops.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-12T20:26:07+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/12/israel-vows-to-keep-troops-in-lebanon-gaza-and-syria?traffic_source=rss",
     "credibility": "medium"
   },
   {
