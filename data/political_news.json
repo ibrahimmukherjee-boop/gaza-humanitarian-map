@@ -1,5 +1,31 @@
 [
   {
+    "id": "8146c27ae88c",
+    "title_en": "Pro-Palestine activists smear red paint on Danish defence company",
+    "title_ar": "",
+    "excerpt_en": "Pro-Palestine activists smear red paint on Danish defence company",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-13T09:18:11+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/pro-palestine-activists-smear-red-paint-on-danish-defence-company?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0093e3013ff2",
+    "title_en": "US diplomat calls Israeli settler siege of West Bank homes ‘act of terror’",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers have blocked the homes of three Palestinian families in Qusra, cutting them off from food and supplies.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-13T08:38:13+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/13/us-diplomat-calls-israeli-settler-siege-of-west-bank-homes-act-of-terror?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "4f721e2a06aa",
     "title_en": "More troops to be sent to West Bank village besieged by Israeli settlers",
     "title_ar": "",
@@ -36,32 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-13T07:00:38+00:00",
     "url": "https://www.aljazeera.com/features/2026/8/13/they-destroyed-us-palestinian-family-sleeps-in-the-open-after-demolition?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "2950c0c95fae",
-    "title_en": "Three Palestinian families besieged in their homes by Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Three Palestinian families in Qusra, occupied West Bank, are being besieged inside their homes.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-13T04:34:46+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/three-palestinian-families-besieged-in-their-homes-by-israeli-settlers?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a45cb5c1690f",
-    "title_en": "Israeli settlers’ siege of Palestinian homes in West Bank enters fourth day",
-    "title_ar": "",
-    "excerpt_en": "Dozens of settlers besiege Palestinian families in Qusra, cutting off water, power and essential supplies.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-13T03:54:09+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/13/israeli-settlers-besiege-three-palestinian-families-in-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
