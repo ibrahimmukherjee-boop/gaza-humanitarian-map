@@ -1,5 +1,23 @@
 [
   {
+    "id": "9f0f40b7bbf5",
+    "title_en": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-14T17:03:17+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "3094c5f614fb",
     "title_en": "Today's top news: Democratic Republic of the Congo, Ukraine, Occupied Palestinian Territory, Cameroon",
     "title_ar": "",
@@ -15,23 +33,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "4f721e2a06aa",
-    "title_en": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-    "title_ar": "",
-    "excerpt_en": "The mayor of Qusra says Israeli troops have been telling families to leave their houses, using some as barracks.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-13T20:12:17+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "632f8d33cea5",
@@ -101,24 +102,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "7fc14694c353",
-    "title_en": "Israeli settlers besieging Palestinian families in West Bank village",
-    "title_ar": "",
-    "excerpt_en": "Israeli security forces have reportedly withdrawn and about a dozen settlers are said to remain at the site where two families have been besieged since Sunday.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-12T16:14:08+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn0npjkqrleo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "41a7ef19fb66",
@@ -422,23 +405,6 @@
     "source": "UN News",
     "timestamp": "2026-07-28T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1168037",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "6c7807e2f87f",
-    "title_en": "Guterres: Fast-tracking West Bank outposts is a ‘flagrant violation’ of international law",
-    "title_ar": "",
-    "excerpt_en": "The United Nations continues to monitor developments in the Occupied Palestinian Territory amid rising violence and greater restrictions in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-07-27T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1168035",
     "tags": [
       "humanitarian"
     ],
