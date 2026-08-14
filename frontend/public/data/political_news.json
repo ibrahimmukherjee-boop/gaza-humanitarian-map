@@ -1,5 +1,18 @@
 [
   {
+    "id": "c71e7064ea16",
+    "title_en": "Fear and attacks grip Taybeh, the last all-Christian town in the West Bank",
+    "title_ar": "",
+    "excerpt_en": "Historic Taybeh, a Palestinian Christian town in the occupied West Bank, targeted by settlers in coordinated attacks.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-14T05:08:32+00:00",
+    "url": "https://www.aljazeera.com/features/2026/8/14/fear-and-attacks-grip-taybeh-the-last-all-christian-town-in-the-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f1d1b236a29c",
     "title_en": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-14T00:39:26+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "77ee309f1696",
-    "title_en": "Gaza City police chief killed as Israel pushes on with deadly strikes",
-    "title_ar": "",
-    "excerpt_en": "Latest Israeli attacks kill police official Jamal Abu Kamil in Gaza City and another person in Khan Younis.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-13T23:09:15+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/13/gaza-city-police-chief-killed-as-israel-pushes-on-with-deadly-strikes?traffic_source=rss",
     "credibility": "medium"
   },
   {
