@@ -1,5 +1,18 @@
 [
   {
+    "id": "19b97698ebf3",
+    "title_en": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
+    "title_ar": "",
+    "excerpt_en": "Israel’s Defence Minister Israel Katz praised radical Hilltop Youth settlers for ‘holding onto’ Palestinian land.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-14T00:39:26+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/08-14-2026-katz-ganim-clip-mp4?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "77ee309f1696",
     "title_en": "Gaza City police chief killed as Israel pushes on with deadly strikes",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-13T19:36:15+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "18ef0ce9157b",
-    "title_en": "Judge nixes Trump lawsuit alleging Harvard did not protect Jewish students",
-    "title_ar": "",
-    "excerpt_en": "Ruling latest setback in Trump administration response to Gaza war protests that swept college campuses.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-13T18:28:14+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/13/judge-nixes-trump-lawsuit-alleging-harvard-did-not-protect-jewish-students?traffic_source=rss",
     "credibility": "medium"
   },
   {
