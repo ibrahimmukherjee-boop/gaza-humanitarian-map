@@ -1,5 +1,31 @@
 [
   {
+    "id": "fa27d4582c73",
+    "title_en": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+    "title_ar": "",
+    "excerpt_en": "Israeli soldiers prevent aid delivery to besieged Palestinians",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-14T12:11:56+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/14/israeli-soldiers-prevent-aid-delivery-to-besieged-palestinians?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "8354b3c569df",
+    "title_en": "Israeli forces block activists from reaching besieged Qusra families",
+    "title_ar": "",
+    "excerpt_en": "About 15 Palestinians, including two children, have been trapped in three homes in Qusra for nearly a week.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-14T12:09:47+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/14/israeli-forces-block-activists-from-reaching-besieged-qusra-families?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ce0e5dc9e283",
     "title_en": "Huckabee calls Israeli settlers ‘terrorists’: Can US push end Qusra siege?",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-14T11:28:14+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/14/huckabee-calls-israeli-settlers-terrorists-can-us-push-end-qusra-siege?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "49a9c4ffe565",
-    "title_en": "What is a ‘ceasefire’ supposed to achieve?",
-    "title_ar": "",
-    "excerpt_en": "Gaza, Lebanon, Iran, Ukraine: four ceasefires, none that held. AJLabs on why truces keep collapsing.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-14T09:00:51+00:00",
-    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/14/what-is-a-ceasefire-supposed-to-achieve?traffic_source=rss",
     "credibility": "medium"
   },
   {
