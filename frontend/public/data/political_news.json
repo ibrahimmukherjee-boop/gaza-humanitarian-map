@@ -1,5 +1,18 @@
 [
   {
+    "id": "f1d1b236a29c",
+    "title_en": "UN, Palestinian ministry condemn Israeli settler siege of West Bank homes",
+    "title_ar": "",
+    "excerpt_en": "UN rights office and Palestine Foreign Ministry call days-long Israeli settler siege in Qusra &#039;criminal&#039; and &#039;inhumane&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-08-14T02:21:29+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/14/un-palestinian-ministry-condemn-israeli-settler-siege-of-west-bank-homes?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "19b97698ebf3",
     "title_en": "Israel’s Katz hails settlers for ‘holding onto’ Palestinian land",
     "title_ar": "",
@@ -50,19 +63,6 @@
     "timestamp": "2026-08-13T20:12:17+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "a1e179f92f3d",
-    "title_en": "Israeli forces order families to evacuate homes in Qusra",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-13T19:36:15+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "f8d31ec84187",
