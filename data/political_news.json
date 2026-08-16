@@ -1,5 +1,18 @@
 [
   {
+    "id": "9ade0d7cd62c",
+    "title_en": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+    "title_ar": "",
+    "excerpt_en": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-16T19:23:28+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "71805ff55428",
     "title_en": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-16T13:17:57+00:00",
     "url": "https://www.aljazeera.com/gallery/2026/8/16/timeline-the-one-week-siege-of-qusra-by-israeli-settlers-in-the-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "212d9875bb74",
-    "title_en": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
-    "title_ar": "",
-    "excerpt_en": "Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-16T11:54:55+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
     "credibility": "medium"
   },
   {
