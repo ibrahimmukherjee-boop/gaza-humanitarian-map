@@ -1,5 +1,18 @@
 [
   {
+    "id": "212d9875bb74",
+    "title_en": "‘Spearhead of annexation’: Israel hands West Bank rule to civilian police",
+    "title_ar": "",
+    "excerpt_en": "Israel&#039;s transfer of West Bank policing to civilian forces cements de facto annexation and empowers settler militias.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-16T11:54:55+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/16/spearhead-of-annexation-israel-hands-west-bank-rule-to-civilian-police?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "68d8a7456bd3",
     "title_en": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-16T10:32:42+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "72e39713bdb7",
-    "title_en": "How a simple lighter has become the backbone of life in Gaza",
-    "title_ar": "",
-    "excerpt_en": "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-16T06:10:58+00:00",
-    "url": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
     "credibility": "medium"
   },
   {
