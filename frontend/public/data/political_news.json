@@ -39,6 +39,19 @@
     "credibility": "medium"
   },
   {
+    "id": "68d8a7456bd3",
+    "title_en": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+    "title_ar": "",
+    "excerpt_en": "‘We were praying for her to faint’.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-16T10:32:42+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "9f0f40b7bbf5",
     "title_en": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
     "title_ar": "",
@@ -231,19 +244,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-07-29T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/07/1168045",
-    "credibility": "high"
-  },
-  {
-    "id": "a6c831d96946",
-    "title_en": "Security Council LIVE: Updates on Gaza, West Bank amid regional tensions",
-    "title_ar": "",
-    "excerpt_en": "Regional tensions are mounting as the US-Iran war continues and a rising number of Israeli attacks are threatening Gaza’s fragile October ceasefire that ended two years of war with Hamas. Security Council members heard briefings followed by an open debate on Tuesday. UN News app users click here for live coverage.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-07-28T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1168037",
     "credibility": "high"
   }
 ]
