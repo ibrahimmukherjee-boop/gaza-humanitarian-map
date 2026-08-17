@@ -1,5 +1,57 @@
 [
   {
+    "id": "b274287c0cd8",
+    "title_en": "Israel releases 35 Palestinian prisoners back into Gaza",
+    "title_ar": "",
+    "excerpt_en": "Emotional reunions greeted 35 Palestinians prisoners released by Israel into Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-17T00:05:34+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "26343649114d",
+    "title_en": "Iran war live: Tehran-US MoU set to expire; Hamas’s al-Khayya meets Kushner",
+    "title_ar": "",
+    "excerpt_en": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-17T00:00:35+00:00",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "5fa1018a6ebc",
+    "title_en": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
+    "title_ar": "",
+    "excerpt_en": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-16T23:58:45+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "76200c9c4f54",
+    "title_en": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
+    "title_ar": "",
+    "excerpt_en": "Far-right National Security Minister Ben-Gvir sits on Israel&#039;s security cabinet, which helps shape war and policy.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-16T23:58:34+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "66f49e0cc5dc",
     "title_en": "What could stop Israeli settler attacks on Palestinians?",
     "title_ar": "",
@@ -75,19 +127,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-16T17:46:21+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c97a051a8216",
-    "title_en": "Israeli army besieges Palestinian homes in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli troops have raided the village of Qusra, south of Nablus, in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-16T17:45:52+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
