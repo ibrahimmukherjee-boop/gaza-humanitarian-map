@@ -1,5 +1,18 @@
 [
   {
+    "id": "6555964ebea3",
+    "title_en": "Watch: Young chef, 16, cooking up gourmet meals in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Yasser Ayad, 16, has become a culinary star on social media as he cooks traiditional Palestinain dishes in Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-17T10:51:03+00:00",
+    "url": "https://www.aljazeera.com/features/2026/8/17/watch-young-chef-16-cooking-up-gourmet-meals-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "0af7cc5988a9",
     "title_en": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
     "title_ar": "",
@@ -14,7 +27,7 @@
   },
   {
     "id": "a475e5039468",
-    "title_en": "Kushner to meet Netanyahu to push Trump Gaza plan",
+    "title_en": "Kushner meets Netanyahu to push Trump Gaza plan",
     "title_ar": "",
     "excerpt_en": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
     "excerpt_ar": "",
@@ -36,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-17T04:58:47+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0bad71a56fcb",
-    "title_en": "Palestinian-American travels to West Bank home encircled by Israeli settler",
-    "title_ar": "",
-    "excerpt_en": "Palestinian-American Loui Ridi is flying from the US to Qusra, where Israeli settlers have encircled his family’s home.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-17T03:41:30+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-american-qusra-sv-mp4?traffic_source=rss",
     "credibility": "medium"
   },
   {
