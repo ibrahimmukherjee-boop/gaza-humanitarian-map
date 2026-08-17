@@ -1,5 +1,18 @@
 [
   {
+    "id": "b260c3c40787",
+    "title_en": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
+    "title_ar": "",
+    "excerpt_en": "A boat has left Bristol as part of a wider campaign to break Israel’s blockade and deliver aid to Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-17T19:32:06+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "24071cb98bdc",
     "title_en": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
     "title_ar": "",
@@ -24,19 +37,6 @@
     "timestamp": "2026-08-17T16:02:58+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "b64b4d161a42",
-    "title_en": "Boat sets sail from Bristol, aiming to break Israel’s siege of Gaza",
-    "title_ar": "",
-    "excerpt_en": "Twelve people including the captain are on board &#039;Kate&#039;, the latest vessel attempting to deliver aid.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-17T14:12:08+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/17/boat-sets-sail-from-bristol-aiming-to-break-israels-siege-of-gaza?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "9f0f40b7bbf5",
