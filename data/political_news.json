@@ -1,5 +1,18 @@
 [
   {
+    "id": "0af7cc5988a9",
+    "title_en": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+    "title_ar": "",
+    "excerpt_en": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-08-17T08:43:12+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "a475e5039468",
     "title_en": "Kushner to meet Netanyahu to push Trump Gaza plan",
     "title_ar": "",
@@ -24,19 +37,6 @@
     "timestamp": "2026-08-17T04:58:47+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-14-2026-gaza-femigenocide-sv-mp4?traffic_source=rss",
     "credibility": "medium"
-  },
-  {
-    "id": "0af7cc5988a9",
-    "title_en": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-    "title_ar": "",
-    "excerpt_en": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-08-17T04:50:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "0bad71a56fcb",
@@ -75,19 +75,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-17T00:05:34+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/08-17-26-pal-prisoners-release-sv-mp4?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "26343649114d",
-    "title_en": "Iran war live: Tehran warns of shift to offensive posture as US MoU expires",
-    "title_ar": "",
-    "excerpt_en": "Hamas calls on Board of Peace to &#039;compel&#039; Israel to accept the Gaza peace plan after meeting Jared Kushner in Cairo.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-17T00:00:35+00:00",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
     "credibility": "medium"
   },
   {
