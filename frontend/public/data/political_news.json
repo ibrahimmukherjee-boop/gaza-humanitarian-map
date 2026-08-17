@@ -1,5 +1,18 @@
 [
   {
+    "id": "a475e5039468",
+    "title_en": "Kushner to meet Netanyahu to push Trump Gaza plan",
+    "title_ar": "",
+    "excerpt_en": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-08-17T08:13:04+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a32dca68c4a9",
     "title_en": "Lawyer says Israel’s targeting of Palestinian women is a form of genocide",
     "title_ar": "",
@@ -75,45 +88,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-17T00:00:35+00:00",
     "url": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5fa1018a6ebc",
-    "title_en": "UN’s Albanese: Israel outsourcing coercion to settlers in West Bank",
-    "title_ar": "",
-    "excerpt_en": "UN Special Rapporteur Francesca Albanese says Israel bears responsibility and is outsourcing coercion to settlers.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-16T23:58:45+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/uns-albanese-israel-outsourcing-coercion-to-settlers-in-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "76200c9c4f54",
-    "title_en": "Israeli minister calls for killing ’30 to 40′ Palestinians in Gaza nightly",
-    "title_ar": "",
-    "excerpt_en": "Far-right National Security Minister Ben-Gvir sits on Israel&#039;s security cabinet, which helps shape war and policy.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-16T23:58:34+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/16/israeli-minister-calls-for-killing-30-to-40-palestinians-in-gaza-nightly?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "66f49e0cc5dc",
-    "title_en": "What could stop Israeli settler attacks on Palestinians?",
-    "title_ar": "",
-    "excerpt_en": "Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-08-16T21:54:58+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
     "credibility": "medium"
   },
   {
