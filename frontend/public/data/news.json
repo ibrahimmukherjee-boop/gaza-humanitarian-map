@@ -1,5 +1,22 @@
 [
   {
+    "id": "e76eb032d887",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Lebanon, Sudan",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Lebanon, Sudan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A woman sits insi",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-17T16:35:03+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-lebanon-sudan-1",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "0af7cc5988a9",
     "title_en": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
     "title_ar": "",
@@ -250,23 +267,6 @@
     "source": "OCHA",
     "timestamp": "2026-08-07T16:51:00+00:00",
     "url": "https://www.unocha.org/news/eight-things-know-about-humanitarian-risks-el-nino-across-southern-and-eastern-africa",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "b7910ac25853",
-    "title_en": "Today's top news: Ukraine, Occupied Palestinian Territory, Democratic Republic of the Congo, South Sudan",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Ukraine, Occupied Palestinian Territory, Democratic Republic of the Congo, South Sudan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden fi",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-07T16:33:14+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-ukraine-occupied-palestinian-territory-democratic-republic-congo-south-sudan",
     "tags": [
       "humanitarian"
     ],
