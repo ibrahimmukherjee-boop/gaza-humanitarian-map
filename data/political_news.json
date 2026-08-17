@@ -1,5 +1,18 @@
 [
   {
+    "id": "0af7cc5988a9",
+    "title_en": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+    "title_ar": "",
+    "excerpt_en": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-08-17T04:50:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "0bad71a56fcb",
     "title_en": "Palestinian-American travels to West Bank home encircled by Israeli settler",
     "title_ar": "",
@@ -115,19 +128,6 @@
     "timestamp": "2026-08-16T20:55:19+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
     "credibility": "medium"
-  },
-  {
-    "id": "0af7cc5988a9",
-    "title_en": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
-    "title_ar": "",
-    "excerpt_en": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-16T19:58:14+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "9f0f40b7bbf5",
