@@ -1,5 +1,23 @@
 [
   {
+    "id": "355fabfbf3cc",
+    "title_en": "World Humanitarian Day: Remembering the humanitarians who never returned home",
+    "title_ar": "",
+    "excerpt_en": "<span>World Humanitarian Day: Remembering the humanitarians who never returned home</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Left",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-18T13:24:38+00:00",
+    "url": "https://www.unocha.org/news/world-humanitarian-day-remembering-humanitarians-who-never-returned-home",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e76eb032d887",
     "title_en": "Today's top news: Occupied Palestinian Territory, Lebanon, Sudan",
     "title_ar": "",
@@ -275,23 +293,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "1dee173b3130",
-    "title_en": "Eight things to know about the humanitarian risks of El Niño across Southern and Eastern Africa",
-    "title_ar": "",
-    "excerpt_en": "<span>Eight things to know about the humanitarian risks of El Niño across Southern and Eastern Africa</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-07T16:51:00+00:00",
-    "url": "https://www.unocha.org/news/eight-things-know-about-humanitarian-risks-el-nino-across-southern-and-eastern-africa",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "93477a3a37f1",
