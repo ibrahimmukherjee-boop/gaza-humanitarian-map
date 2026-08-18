@@ -1,5 +1,18 @@
 [
   {
+    "id": "50775e4cb3ed",
+    "title_en": "Israeli strike on Gaza City cafe kills six, including child",
+    "title_ar": "",
+    "excerpt_en": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-18T18:32:24+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-strike-on-gaza-city-cafe-kills-six-including-child?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "02da8ba2800f",
     "title_en": "Palestinian living in caves older than Israel",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-18T15:53:12+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "cc69dd67f530",
-    "title_en": "Disarmament, humanitarian aid at centre of new Gaza ‘working groups’",
-    "title_ar": "",
-    "excerpt_en": "What to know about the new Gaza working groups conditioning reconstruction on immediate disarmament.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-18T13:58:58+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/18/what-to-know-about-gaza-working-groups-and-their-mandate?traffic_source=rss",
     "credibility": "medium"
   },
   {
