@@ -1,5 +1,31 @@
 [
   {
+    "id": "4f8986ce0d7f",
+    "title_en": "Palestine weekly: Global outcry fails to break West Bank siege",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-18T07:46:17+00:00",
+    "url": "https://www.aljazeera.com/features/2026/8/18/palestine-weekly-global-outcry-fails-break-west-bank-siege?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "59b76646cdc6",
+    "title_en": "Israel’s siege on Gaza is creating a breast cancer crisis",
+    "title_ar": "",
+    "excerpt_en": "Al Jazeera looks at the devastating impact that Israel&#039;s war and siege on Gaza are having on women with breast cancer.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-18T07:43:45+00:00",
+    "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ac5d32499456",
     "title_en": "Israeli settler children attack ambulance in occupied West Bank",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-17T23:25:17+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "299f2a9f4bd6",
-    "title_en": "Palestinian American reunites with family under siege in West Bank",
-    "title_ar": "",
-    "excerpt_en": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-17T20:57:19+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
