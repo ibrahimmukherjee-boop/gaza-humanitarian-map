@@ -13,6 +13,19 @@
     "credibility": "high"
   },
   {
+    "id": "7a729f24a4fc",
+    "title_en": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+    "title_ar": "",
+    "excerpt_en": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-19T17:14:21+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "b026b5d77a5d",
     "title_en": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
     "title_ar": "",
