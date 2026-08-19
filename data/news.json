@@ -17,6 +17,23 @@
     "credibility": "medium"
   },
   {
+    "id": "bd930762ddf1",
+    "title_en": "Today's top news: World Humanitarian Day, Ukraine, Occupied Palestinian Territory, Lebanon, Venezuela, Somalia",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: World Humanitarian Day, Ukraine, Occupied Palestinian Territory, Lebanon, Venezuela, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hid",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-19T17:37:29+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-world-humanitarian-day-ukraine-occupied-palestinian-territory-lebanon",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "1bc4eb9ce063",
     "title_en": "Israel opens up bids for highly-sensitive West Bank settlement project",
     "title_ar": "",
