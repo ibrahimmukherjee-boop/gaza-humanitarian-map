@@ -1,15 +1,28 @@
 [
   {
-    "id": "8f0c26abe3c0",
-    "title_en": "US ambassador to Israel calls settler violence ‘terror’",
+    "id": "b4944bdda6bd",
+    "title_en": "Breastfeeding in Gaza: Mothers seek help to provide for their babies",
     "title_ar": "",
-    "excerpt_en": "US Ambassador to Israel Mike Huckabee says Israeli settler violence in the occupied West Bank",
+    "excerpt_en": "Breastfeeding mothers in Gaza struggle to feed their babies amid hunger, displacement, stress and living conditions.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-08-19T00:49:10+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-ambassador-to-israel-calls-settler-violence?traffic_source=rss",
+    "timestamp": "2026-08-19T08:46:51+00:00",
+    "url": "https://www.aljazeera.com/features/2026/8/19/breastfeeding-in-gaza-mothers-seek-help-to-provide-for-their-babies?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ae4e4c69dc7f",
+    "title_en": "Aid workers faced record number of attacks in 2025, UN says",
+    "title_ar": "",
+    "excerpt_en": "Gaza remains the deadliest place for humanitarian workers for third consecutive year, with 186 killed in 2025.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-19T08:40:54+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/19/aid-workers-faced-record-number-of-attacks-in-2025-un-says?traffic_source=rss",
     "credibility": "medium"
   },
   {
