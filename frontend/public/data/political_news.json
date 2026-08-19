@@ -1,5 +1,18 @@
 [
   {
+    "id": "b376e67e7209",
+    "title_en": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+    "title_ar": "",
+    "excerpt_en": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-19T17:46:01+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "1bc4eb9ce063",
     "title_en": "Israel opens up bids for highly-sensitive West Bank settlement project",
     "title_ar": "",
@@ -88,19 +101,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-19T13:20:08+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3a3261e26a9c",
-    "title_en": "Why aid entering Gaza may not reach those who need it",
-    "title_ar": "",
-    "excerpt_en": "It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-19T13:01:39+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
     "credibility": "medium"
   },
   {
