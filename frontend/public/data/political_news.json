@@ -1,16 +1,55 @@
 [
   {
     "id": "b65b22294ddb",
-    "title_en": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+    "title_en": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
     "title_ar": "",
-    "excerpt_en": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+    "excerpt_en": "She initially survived the attack but her body was recovered days later in Gaza City in 2024.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
     "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-19T12:41:46+00:00",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-19T13:53:51+00:00",
     "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
+  },
+  {
+    "id": "e28aa547a857",
+    "title_en": "Israeli forces mark Palestinians with numbers amid mass arrests",
+    "title_ar": "",
+    "excerpt_en": "Palestinian detainees were marked with numbers during a mass Israeli arrest campaign in Qabatiya.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-19T13:20:08+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "3a3261e26a9c",
+    "title_en": "Why aid entering Gaza may not reach those who need it",
+    "title_ar": "",
+    "excerpt_en": "It is extremely difficult for trucks to get through the Israeli blockade, let alone for drivers to reach aid warehouses.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-19T13:01:39+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "dcf213de9580",
+    "title_en": "Palestinian factions explore broad alliance for November elections",
+    "title_ar": "",
+    "excerpt_en": "Hamas, breakaway Fatah faction consider unified electoral list to challenge Mahmoud Abbas as political landscape shifts.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-19T13:00:43+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
+    "credibility": "medium"
   },
   {
     "id": "567b19cbe38e",
@@ -205,19 +244,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-03T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
-    "credibility": "high"
-  },
-  {
-    "id": "af4f5c6e23e2",
-    "title_en": "Middle East: Civilian death toll climbs in Gaza, Lebanon and West Bank as UN chief demands ‘the fighting must stop’",
-    "title_ar": "",
-    "excerpt_en": "Violence and civilian casualties are rising across the Middle East – from Israeli airstrikes in Gaza to continued hostilities in Lebanon and the West Bank – UN agencies reported on Friday as the Secretary-General declared “the fighting must stop”.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-07-31T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/07/1168062",
     "credibility": "high"
   }
 ]
