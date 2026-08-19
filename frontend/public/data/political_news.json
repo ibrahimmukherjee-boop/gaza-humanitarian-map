@@ -1,5 +1,31 @@
 [
   {
+    "id": "a023ba94c97c",
+    "title_en": "Palestinian refugee and two relatives drown off English coast",
+    "title_ar": "",
+    "excerpt_en": "A girl is taken to hospital in critical condition in what PM Burnham calls a &#039;terrible family tragedy&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-19T14:52:39+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "f64c456f8d94",
+    "title_en": "Israel numbers Palestinian detainee foreheads: What we know",
+    "title_ar": "",
+    "excerpt_en": "Palestinian news outlets reported a man with the number ‘44’ written on his forehead following a raid in Qabatiya.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-19T14:48:55+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "b65b22294ddb",
     "title_en": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
     "title_ar": "",
