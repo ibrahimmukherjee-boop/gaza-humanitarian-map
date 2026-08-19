@@ -1,5 +1,31 @@
 [
   {
+    "id": "17a3a451ac06",
+    "title_en": "Israeli strike on Gaza City police headquarters kills women’s police chief",
+    "title_ar": "",
+    "excerpt_en": "An Israeli strike on Gaza City’s police headquarters has killed the women’s police chief and several officers.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-19T21:22:17+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-strike-on-gaza-city-police-headquarters-kills-womens-police-chief?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "88a34f43c392",
+    "title_en": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
+    "title_ar": "",
+    "excerpt_en": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-19T21:09:15+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "b376e67e7209",
     "title_en": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
     "title_ar": "",
@@ -24,19 +50,6 @@
     "timestamp": "2026-08-19T17:16:28+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "7a729f24a4fc",
-    "title_en": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
-    "title_ar": "",
-    "excerpt_en": "Israeli air strikes on Gaza kill 10 Palestinians, targeting police headquarters and a refugee camp in separate attacks.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-19T17:14:21+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "b65b22294ddb",
