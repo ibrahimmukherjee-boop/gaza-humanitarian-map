@@ -1,5 +1,18 @@
 [
   {
+    "id": "b65b22294ddb",
+    "title_en": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
+    "title_ar": "",
+    "excerpt_en": "The five-year-old spent hours on the phone to paramedics before her body was recovered days later in Gaza City in 2024.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-19T12:41:46+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "567b19cbe38e",
     "title_en": "Palestinians condemn Israeli step to advance illegal E1 settlement plan",
     "title_ar": "",
@@ -179,19 +192,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-06T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
-    "credibility": "high"
-  },
-  {
-    "id": "913f9abb522f",
-    "title_en": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
-    "title_ar": "",
-    "excerpt_en": "The bodies - belonging to members of two extended families - have only recently been recovered from under rubble in Gaza City.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-04T15:07:52+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn0n99npjejo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
