@@ -208,23 +208,6 @@
     "credibility": "high"
   },
   {
-    "id": "e76eb032d887",
-    "title_en": "Today's top news: Occupied Palestinian Territory, Lebanon, Sudan",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Lebanon, Sudan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A woman sits insi",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-17T16:35:03+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-lebanon-sudan-1",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "0af7cc5988a9",
     "title_en": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
     "title_ar": "",
@@ -426,23 +409,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-01T05:01:56+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "3e0319f4b52a",
-    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-    "title_ar": "",
-    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-31T15:18:31+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
