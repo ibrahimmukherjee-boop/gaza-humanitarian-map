@@ -1,5 +1,18 @@
 [
   {
+    "id": "b65b22294ddb",
+    "title_en": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+    "title_ar": "",
+    "excerpt_en": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-20T04:17:53+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "1bc4eb9ce063",
     "title_en": "Israel opens up bids for highly-sensitive West Bank settlement project",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-19T17:46:01+00:00",
     "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "b65b22294ddb",
-    "title_en": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-    "title_ar": "",
-    "excerpt_en": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-19T15:33:32+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
