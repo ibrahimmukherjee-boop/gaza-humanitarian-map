@@ -86,6 +86,23 @@
     "credibility": "high"
   },
   {
+    "id": "0e48fbcbc32a",
+    "title_en": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitement against Palestinians",
+    "title_ar": "",
+    "excerpt_en": "Reports of new illegal Israeli outposts in the occupied West Bank raised alarms at UN Headquarters on Wednesday while the UN rights office called on Israel to condemn its national security minister’s words that incite “violence amounting to atrocity crimes” against Palestinians.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-08-19T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/08/1168171",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "8152d27af749",
     "title_en": "World Humanitarian Day 2026: Aid workers under fire as armed drones transform war-making",
     "title_ar": "",
@@ -400,24 +417,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "c4d04b7114a7",
-    "title_en": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces reportedly killed more than two dozen Palestinians in Gaza and violated Lebanese airspace more than 100 times over the weekend despite ongoing ceasefire agreements, UN agencies and peacekeepers said on Monday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-08-03T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "fb847163ae0f",
