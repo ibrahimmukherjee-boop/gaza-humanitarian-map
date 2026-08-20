@@ -1,5 +1,18 @@
 [
   {
+    "id": "d943ab90a3c5",
+    "title_en": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-20T05:10:09+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "b65b22294ddb",
     "title_en": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
     "title_ar": "",
@@ -156,6 +169,19 @@
     "credibility": "high"
   },
   {
+    "id": "09d7a914b3b5",
+    "title_en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+    "title_ar": "",
+    "excerpt_en": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-08-10T14:43:08+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "d89f1e56f38a",
     "title_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
     "title_ar": "",
@@ -166,32 +192,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-09T21:25:04+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "3deba5198de3",
-    "title_en": "Israel accused of weaponising archaeology at ancient West Bank sites",
-    "title_ar": "",
-    "excerpt_en": "Israel is planning large-scale land expropriations in historic, Palestinian areas of the West Bank.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-08T23:43:44+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c20d8qre98do?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "93477a3a37f1",
-    "title_en": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
-    "title_ar": "",
-    "excerpt_en": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-06T18:37:12+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -221,6 +221,19 @@
     "credibility": "high"
   },
   {
+    "id": "1c1c2fe16cce",
+    "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+    "title_ar": "",
+    "excerpt_en": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T23:13:03+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "c4d04b7114a7",
     "title_en": "Israel violates Lebanese airspace, kills over two dozen in Gaza in weekend strikes",
     "title_ar": "",
@@ -231,6 +244,45 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-03T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168067",
+    "credibility": "high"
+  },
+  {
+    "id": "fb847163ae0f",
+    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "title_ar": "",
+    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-01T05:01:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "345604d6028c",
+    "title_en": "What's in the Gaza peace deal roadmap?",
+    "title_ar": "",
+    "excerpt_en": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T16:00:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "3e0319f4b52a",
+    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+    "title_ar": "",
+    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-07-31T15:18:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
