@@ -1,5 +1,22 @@
 [
   {
+    "id": "1bc4eb9ce063",
+    "title_en": "Israel opens up bids for highly sensitive West Bank settlement project",
+    "title_ar": "",
+    "excerpt_en": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-20T10:30:52+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "d943ab90a3c5",
     "title_en": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
     "title_ar": "",
@@ -26,23 +43,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-20T04:17:53+00:00",
     "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "1bc4eb9ce063",
-    "title_en": "Israel opens up bids for highly-sensitive West Bank settlement project",
-    "title_ar": "",
-    "excerpt_en": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-20T00:53:20+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
