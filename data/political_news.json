@@ -1,5 +1,18 @@
 [
   {
+    "id": "1c125dbd2266",
+    "title_en": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
+    "title_ar": "",
+    "excerpt_en": "Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-20T13:05:05+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "1bc4eb9ce063",
     "title_en": "Israel opens up bids for highly sensitive West Bank settlement project",
     "title_ar": "",
@@ -205,19 +218,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-08-10T14:43:08+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "d89f1e56f38a",
-    "title_en": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-    "title_ar": "",
-    "excerpt_en": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-09T21:25:04+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
