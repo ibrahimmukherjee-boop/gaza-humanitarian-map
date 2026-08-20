@@ -1,5 +1,31 @@
 [
   {
+    "id": "f9569c4f0e84",
+    "title_en": "Funeral for 50 Palestinians recovered from Gaza rubble",
+    "title_ar": "",
+    "excerpt_en": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-20T13:39:38+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "41a03bb10656",
+    "title_en": "West Ham urges fans to stop chanting ‘anti-Palestine message’",
+    "title_ar": "",
+    "excerpt_en": "Club relegated from the Premier League last season appeals to fans to stop &#039;anti-Palestine message&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-20T13:13:24+00:00",
+    "url": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "1c125dbd2266",
     "title_en": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
     "title_ar": "",
@@ -36,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-20T09:08:58+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/20/state-backed-israeli-settler-violence-forces-west-bank-displacement-hrw?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "98a3e76164e7",
-    "title_en": "Ben-Gvir celebrates demolition of Palestinian homes in Israel",
-    "title_ar": "",
-    "excerpt_en": "Far-right Israeli minister Itamar Ben-Gvir has praised the destruction of 10,000 Palestinian homes in Israel.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-20T08:16:47+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/ben-gvir-celebrates-demolition-of-palestinian-homes-in-israel?traffic_source=rss",
     "credibility": "medium"
   },
   {
