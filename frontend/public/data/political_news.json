@@ -1,5 +1,18 @@
 [
   {
+    "id": "1bc4eb9ce063",
+    "title_en": "Israel opens up bids for highly-sensitive West Bank settlement project",
+    "title_ar": "",
+    "excerpt_en": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-20T00:53:20+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "ec001b6ccdd5",
     "title_en": "‘We do not trust Israeli judiciary’ says Hind Rajab’s grandmother",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-19T17:46:01+00:00",
     "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "1bc4eb9ce063",
-    "title_en": "Israel opens up bids for highly-sensitive West Bank settlement project",
-    "title_ar": "",
-    "excerpt_en": "Israeli plans to build on the area east of Jerusalem - which would divide the occupied West Bank in two - have long been internationally condemned.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-19T17:16:28+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
