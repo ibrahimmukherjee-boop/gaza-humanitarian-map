@@ -1,5 +1,18 @@
 [
   {
+    "id": "334590014db1",
+    "title_en": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+    "title_ar": "",
+    "excerpt_en": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-20T18:55:14+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "34d40b746232",
     "title_en": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-20T17:02:43+00:00",
     "url": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f9569c4f0e84",
-    "title_en": "Funeral for 50 Palestinians recovered from Gaza rubble",
-    "title_ar": "",
-    "excerpt_en": "A funeral has been held in Gaza for 50 Palestinians whose bodies were recently recovered from the rubble.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-20T13:39:38+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -257,19 +257,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-01T05:01:56+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "345604d6028c",
-    "title_en": "What's in the Gaza peace deal roadmap?",
-    "title_ar": "",
-    "excerpt_en": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-31T16:00:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {

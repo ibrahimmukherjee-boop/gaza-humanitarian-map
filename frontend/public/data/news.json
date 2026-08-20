@@ -1,5 +1,22 @@
 [
   {
+    "id": "334590014db1",
+    "title_en": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+    "title_ar": "",
+    "excerpt_en": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-20T18:55:14+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "3f1bccea49d2",
     "title_en": "Today's top news: Ukraine, Democratic Republic of the Congo, Occupied Palestinian Territory",
     "title_ar": "",
@@ -410,24 +427,6 @@
     "timestamp": "2026-08-01T05:01:56+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "345604d6028c",
-    "title_en": "What's in the Gaza peace deal roadmap?",
-    "title_ar": "",
-    "excerpt_en": "Hamas says it has accepted a disarmament plan for Gaza which will see it lay down its arms and Israeli troops withdraw from the territory.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-31T16:00:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c20e94k2ex5o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "infrastructure",
       "humanitarian"
     ],
     "location_tags": [
