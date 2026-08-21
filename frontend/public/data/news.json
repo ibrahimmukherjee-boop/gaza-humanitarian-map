@@ -1,5 +1,23 @@
 [
   {
+    "id": "172fa98bd1bb",
+    "title_en": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-21T15:58:57+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "217cf03fbd66",
     "title_en": "Israel re-establishes closed West Bank settlement, defying growing international protests",
     "title_ar": "",
@@ -199,24 +217,6 @@
     "timestamp": "2026-08-18T16:44:39+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-ukraine-colombia-occupied-palestinian-territory-democratic-republic-congo-chad",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "355fabfbf3cc",
-    "title_en": "World Humanitarian Day: Remembering the humanitarians who never returned home",
-    "title_ar": "",
-    "excerpt_en": "<span>World Humanitarian Day: Remembering the humanitarians who never returned home</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Left",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-18T13:24:38+00:00",
-    "url": "https://www.unocha.org/news/world-humanitarian-day-remembering-humanitarians-who-never-returned-home",
-    "tags": [
-      "health",
       "humanitarian"
     ],
     "location_tags": [
