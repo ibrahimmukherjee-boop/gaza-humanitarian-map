@@ -1,5 +1,18 @@
 [
   {
+    "id": "eda62fae32ec",
+    "title_en": "Weddings in Gaza offer rare moments of joy amid genocide",
+    "title_ar": "",
+    "excerpt_en": "In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-21T13:29:19+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "4cd8f4900df1",
     "title_en": "Israeli soldiers throw belongings from besieged Palestinian home",
     "title_ar": "",
@@ -36,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-21T11:57:21+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/21/why-israeli-tenders-for-illegal-e1-west-bank-settlement-prompted-outrage?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "75d2dcb20cc3",
-    "title_en": "Who does the law serve in the occupied West Bank?",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers attack six times a day in the occupied West Bank. AJLabs looks at how Palestinian land is taken.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-21T11:12:32+00:00",
-    "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
