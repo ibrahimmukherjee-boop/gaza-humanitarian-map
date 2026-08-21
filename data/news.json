@@ -1,5 +1,23 @@
 [
   {
+    "id": "217cf03fbd66",
+    "title_en": "Israel reopens evacuated West Bank settlement, defying growing international protests",
+    "title_ar": "",
+    "excerpt_en": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-21T05:00:57+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "334590014db1",
     "title_en": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
     "title_ar": "",
@@ -409,6 +427,23 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-01T05:01:56+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "3e0319f4b52a",
+    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+    "title_ar": "",
+    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-31T15:18:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
