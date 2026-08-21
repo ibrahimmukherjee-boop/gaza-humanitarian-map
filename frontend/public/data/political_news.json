@@ -1,5 +1,18 @@
 [
   {
+    "id": "4cd8f4900df1",
+    "title_en": "Israeli soldiers throw belongings from besieged Palestinian home",
+    "title_ar": "",
+    "excerpt_en": "Israeli soldiers were filmed throwing belongings from Palestinian homes in Qusra.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-21T13:01:54+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-soldiers-throw-belongings-from-besieged-palestinian-home?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "1b7398a31103",
     "title_en": "How a Swedish Palestinian minister raised controversy with Star of David",
     "title_ar": "",
@@ -36,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-21T11:12:32+00:00",
     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/21/who-does-the-law-serve-in-the-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0c15a039c2f4",
-    "title_en": "Israeli settlers set fire to Palestinian home while family asleep",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-21T07:58:41+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
     "credibility": "medium"
   },
   {
