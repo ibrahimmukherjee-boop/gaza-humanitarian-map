@@ -1,5 +1,31 @@
 [
   {
+    "id": "0c15a039c2f4",
+    "title_en": "Israeli settlers set fire to Palestinian home while family asleep",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers set fire to a Palestinian home while a mother and her children were sleeping inside.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-21T07:58:41+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/israeli-settlers-set-fire-to-palestinian-home-while-family-asleep?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d6fd40952d7c",
+    "title_en": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+    "title_ar": "",
+    "excerpt_en": "The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-21T07:56:21+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c13cbb0a6839",
     "title_en": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
     "title_ar": "",
