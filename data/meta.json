@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-08-22T05:34:18.540600+00:00",
-  "refresh_heartbeat": "2026-08-22T05:34:18.540600+00:00",
-  "news_last_updated": "2026-08-22T05:34:18.540600+00:00",
-  "political_last_updated": "2026-08-22T05:34:18.540600+00:00",
-  "latest_headline_at": "2026-08-21T16:23:43+00:00",
+  "last_updated": "2026-08-22T05:51:59.287512+00:00",
+  "refresh_heartbeat": "2026-08-22T05:51:59.287512+00:00",
+  "news_last_updated": "2026-08-22T05:51:59.287512+00:00",
+  "political_last_updated": "2026-08-22T05:51:59.287512+00:00",
+  "latest_headline_at": "2026-08-21T19:31:47+00:00",
   "sources": [
     "OpenStreetMap",
     "ReliefWeb",

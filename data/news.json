@@ -1,5 +1,23 @@
 [
   {
+    "id": "b883c8579a24",
+    "title_en": "How Israel is expanding settlements in drive to reshape West Bank",
+    "title_ar": "",
+    "excerpt_en": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-21T19:31:47+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "infrastructure",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "634b03c02042",
     "title_en": "Today's top news: Colombia, Occupied Palestinian Territory, Central African Republic",
     "title_ar": "",
@@ -444,23 +462,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-01T05:01:56+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "3e0319f4b52a",
-    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-    "title_ar": "",
-    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-07-31T15:18:31+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
