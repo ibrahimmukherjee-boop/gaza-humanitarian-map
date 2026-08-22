@@ -1,5 +1,31 @@
 [
   {
+    "id": "5d9a09c2b717",
+    "title_en": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
+    "title_ar": "",
+    "excerpt_en": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-22T15:45:40+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e8b921a2506b",
+    "title_en": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
+    "title_ar": "",
+    "excerpt_en": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-22T15:30:49+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "dd1615f838a6",
     "title_en": "As families retrieve bodies, Gaza is running out of places to bury the dead",
     "title_ar": "",
