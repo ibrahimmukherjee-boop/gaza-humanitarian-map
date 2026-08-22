@@ -1,5 +1,18 @@
 [
   {
+    "id": "f30cb43d3bb1",
+    "title_en": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
+    "title_ar": "",
+    "excerpt_en": "A donkey belonging to a Palestinian farmer was reportedly stolen and dragged to death by Israeli settlers.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-22T16:41:43+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "5d9a09c2b717",
     "title_en": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-22T12:51:55+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "7a765dab07d1",
-    "title_en": "Hundreds of children take part in swimming class on Gaza’s shore",
-    "title_ar": "",
-    "excerpt_en": "On Gaza’s shore, 1,300 Palestinian children joined a swimming class to cope with the trauma of Israel’s genocidal war.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-22T11:58:55+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/hundreds-of-children-take-part-in-swimming-class-on-gazas-shore?traffic_source=rss",
     "credibility": "medium"
   },
   {
