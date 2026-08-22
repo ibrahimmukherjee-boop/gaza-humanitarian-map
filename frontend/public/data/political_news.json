@@ -1,5 +1,31 @@
 [
   {
+    "id": "83facb8e709a",
+    "title_en": "Why is Israel building new illegal settlements?",
+    "title_ar": "",
+    "excerpt_en": "Israel opens construction bids for new illegal housing units in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-22T19:40:58+00:00",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "988febb1fad7",
+    "title_en": "Israeli strikes kill two and injure others as Gaza attacks continue",
+    "title_ar": "",
+    "excerpt_en": "Israeli drone attack targeted a family in the central city of Deir el-Balah, killing one person and wounding others.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-22T19:24:51+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "45e17410b798",
     "title_en": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
     "title_ar": "",
@@ -23,32 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-22T16:41:43+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-clip-palestinian-donkey-killed-by-setllers-ps?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5d9a09c2b717",
-    "title_en": "Settlers target Palestinian homes in Occupied West Bank’s Area B",
-    "title_ar": "",
-    "excerpt_en": "Palestinians in Qaryut say Israeli settlers, backed by the military, are forcing families from their homes.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-22T15:45:40+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/22-08-reported-nida-live-westbank-ps?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e8b921a2506b",
-    "title_en": "Over 100 ex-diplomats urge France, UK to sanction Israel over Palestine",
-    "title_ar": "",
-    "excerpt_en": "An open letter demands a ban on arms transfers and a freeze on EU-Israel and UK-Israel trade agreements.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-22T15:30:49+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
     "credibility": "medium"
   },
   {
