@@ -1,5 +1,18 @@
 [
   {
+    "id": "45e17410b798",
+    "title_en": "Israel’s Chief Rabbi says Palestinians are not a people and have no rights",
+    "title_ar": "",
+    "excerpt_en": "Israel’s Chief Rabbi denied Palestinians are a people, claimed Gaza for Jews and called for its destruction and return.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-22T17:54:52+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-israel-rabbi-palestinians-clip?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f30cb43d3bb1",
     "title_en": "Sanctioned by EU, Israeli settler steals and kills Palestinian donkey",
     "title_ar": "",
@@ -36,32 +49,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-22T15:30:49+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/22/over-100-ex-diplomats-urge-france-uk-to-sanction-israel-over-palestine?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "dd1615f838a6",
-    "title_en": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-    "title_ar": "",
-    "excerpt_en": "Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-22T13:10:45+00:00",
-    "url": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3b444bfa4f61",
-    "title_en": "Jewish activists push back against Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Jewish activists provide a ‘protective presence’ to deter settler violence in parts of the Occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-22T12:51:55+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/jewish-activists-push-back-against-israeli-settlers?traffic_source=rss",
     "credibility": "medium"
   },
   {
