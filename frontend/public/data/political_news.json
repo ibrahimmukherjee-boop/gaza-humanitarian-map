@@ -1,5 +1,18 @@
 [
   {
+    "id": "eef9a41c68aa",
+    "title_en": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+    "title_ar": "",
+    "excerpt_en": "The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-23T11:00:18+00:00",
+    "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "467e39864478",
     "title_en": "Israeli air strike near Gaza refugee camp kills one person and injures two",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-23T08:38:01+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "8ef4b410cdde",
-    "title_en": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
-    "title_ar": "",
-    "excerpt_en": "Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-08-23T05:10:05+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
     "credibility": "medium"
   },
   {
