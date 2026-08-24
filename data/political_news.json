@@ -1,5 +1,18 @@
 [
   {
+    "id": "9a178bfc8968",
+    "title_en": "Israel warns of 'forceful' response to kites flown from Gaza",
+    "title_ar": "",
+    "excerpt_en": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-24T13:56:22+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "cf32efed0c7f",
     "title_en": "Activists occupy UK aircraft parts factory over Israel links",
     "title_ar": "",
@@ -296,19 +309,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-04T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
-    "credibility": "high"
-  },
-  {
-    "id": "1c1c2fe16cce",
-    "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
-    "title_ar": "",
-    "excerpt_en": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-03T23:13:03+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
