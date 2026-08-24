@@ -1,5 +1,18 @@
 [
   {
+    "id": "eaac71bcd734",
+    "title_en": "Displaced Palestinian builds mud shelter as tents offer little relief",
+    "title_ar": "",
+    "excerpt_en": "A displaced Palestinian has built a traditional mud-brick house as an alternative to tents.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-24T20:45:51+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/displaced-palestinian-builds-mud-shelter-as-tents-offer-little-relief?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7b602776a0de",
     "title_en": "Video: Israel attacks desalination plant and mosque in Gaza",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-24T19:00:55+00:00",
     "url": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "87a6c58d2858",
-    "title_en": "Israeli strike on Gaza shelter extends casualty list",
-    "title_ar": "",
-    "excerpt_en": "More than 1,200 Palestinians have been killed since the October 2025 ceasefire agreement.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-24T16:27:36+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
     "credibility": "medium"
   },
   {
