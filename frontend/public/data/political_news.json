@@ -1,5 +1,18 @@
 [
   {
+    "id": "ffd7c4bfe5ef",
+    "title_en": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+    "title_ar": "",
+    "excerpt_en": "Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-24T11:57:26+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c09f2ae09373",
     "title_en": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-24T08:45:10+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/24/e1-settlement-why-netanyahu-israels-right-might-not-mind-global-outrage?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d9c0dbc53ac5",
-    "title_en": "The right to health in Gaza is now a privilege",
-    "title_ar": "",
-    "excerpt_en": "The devastated healthcare system cannot reach Gaza’s most vulnerable – those who live in displacement camps",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-24T07:08:07+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/8/24/the-right-to-health-in-gaza-is-now-a-privilege?traffic_source=rss",
     "credibility": "medium"
   },
   {
