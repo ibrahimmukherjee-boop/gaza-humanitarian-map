@@ -1,5 +1,44 @@
 [
   {
+    "id": "7b602776a0de",
+    "title_en": "Video: Israel attacks desalination plant and mosque in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israel has attacked a critical water desalination plant and a mosque in Gaza as it intensifies attacks on the enclave.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-24T19:21:01+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "23bd0ea24545",
+    "title_en": "Israeli restrictions cause fuel shortage in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli restrictions are disrupting fuel supplies across the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-24T19:18:00+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0ed30df6678c",
+    "title_en": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli settler attacks in the occupied West Bank aren’t just ‘clashes’, they fit the definition of pogroms.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-24T19:09:45+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "9cc818be98e8",
     "title_en": "Israel threatens attacks in Gaza over children’s kites",
     "title_ar": "",
@@ -23,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-24T16:27:36+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/24/israeli-strike-on-gaza-shelter-extends-casualty-list?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b20fbd4881b1",
-    "title_en": "Why Israeli settler attacks on Palestinians in West Bank are pogroms",
-    "title_ar": "",
-    "excerpt_en": "Waves of settler attacks, aided by Israel&#039;s military, increasingly fit the definition of a pogrom.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-24T15:02:34+00:00",
-    "url": "https://www.aljazeera.com/features/2026/8/24/why-israeli-settler-attacks-on-palestinians-in-west-bank-are-pogroms?traffic_source=rss",
     "credibility": "medium"
   },
   {
