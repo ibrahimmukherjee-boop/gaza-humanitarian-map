@@ -190,41 +190,6 @@
     "credibility": "high"
   },
   {
-    "id": "1bc4eb9ce063",
-    "title_en": "Israel opens up bids for highly sensitive West Bank settlement project",
-    "title_ar": "",
-    "excerpt_en": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-20T10:30:52+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "d943ab90a3c5",
-    "title_en": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Australia's foreign minister summoned the Israeli ambassador over \"insulting\" Zomi Frankcom decision.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-20T07:33:11+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "bd930762ddf1",
     "title_en": "Today's top news: World Humanitarian Day, Ukraine, Occupied Palestinian Territory, Lebanon, Venezuela, Somalia",
     "title_ar": "",
@@ -257,6 +222,23 @@
       "Gaza Strip"
     ],
     "credibility": "high"
+  },
+  {
+    "id": "7e4fa4082858",
+    "title_en": "Families' agonising search for answers as thousands still missing in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-19T05:04:00+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
   },
   {
     "id": "8152d27af749",
@@ -444,23 +426,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-03T23:13:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "fb847163ae0f",
-    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-    "title_ar": "",
-    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-01T05:01:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
