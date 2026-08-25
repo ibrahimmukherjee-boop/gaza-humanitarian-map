@@ -1,5 +1,18 @@
 [
   {
+    "id": "376c2c38432f",
+    "title_en": "Israeli protesters block aid trucks from reaching Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israeli protesters block aid trucks from reaching Gaza",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-25T19:02:18+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "79f75ed8df89",
     "title_en": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-25T15:23:17+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "bf64d2f43a09",
-    "title_en": "One year since Gaza journalist killed by Israel",
-    "title_ar": "",
-    "excerpt_en": "It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-25T15:09:10+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
     "credibility": "medium"
   },
   {
