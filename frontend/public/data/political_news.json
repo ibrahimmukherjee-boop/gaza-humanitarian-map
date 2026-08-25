@@ -1,5 +1,18 @@
 [
   {
+    "id": "cda4b44fa799",
+    "title_en": "Israeli forces block Palestinian American Lou Ridi from walking on his land",
+    "title_ar": "",
+    "excerpt_en": "Israeli forces told Palestinian American Lou Ridi he cannot walk on his own land in Qusra, while settlers roam freely.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-25T19:27:00+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-forces-block-palestinian-american-lou-ridi-from-walking-on-his-land?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "376c2c38432f",
     "title_en": "Israeli protesters block aid trucks from reaching Gaza",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-25T17:39:22+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "84d45ec5a0ea",
-    "title_en": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
-    "title_ar": "",
-    "excerpt_en": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-25T15:23:17+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
     "credibility": "medium"
   },
   {
