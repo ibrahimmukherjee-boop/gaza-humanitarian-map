@@ -225,23 +225,6 @@
     "credibility": "medium"
   },
   {
-    "id": "b376e67e7209",
-    "title_en": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-    "title_ar": "",
-    "excerpt_en": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-19T17:46:01+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "bd930762ddf1",
     "title_en": "Today's top news: World Humanitarian Day, Ukraine, Occupied Palestinian Territory, Lebanon, Venezuela, Somalia",
     "title_ar": "",
@@ -310,23 +293,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "0af7cc5988a9",
-    "title_en": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-    "title_ar": "",
-    "excerpt_en": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-17T16:02:58+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "94fcdbd8d198",
@@ -478,6 +444,23 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-03T23:13:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "fb847163ae0f",
+    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "title_ar": "",
+    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-01T05:01:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
