@@ -330,24 +330,6 @@
     "credibility": "high"
   },
   {
-    "id": "9f0f40b7bbf5",
-    "title_en": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Two families have been trapped in their homes in the occupied West Bank for several days.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-14T17:03:17+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "0c9163be7776",
     "title_en": "900 obstacles and counting: West Bank families trapped as aid access shrinks",
     "title_ar": "",
@@ -469,5 +451,22 @@
       "Gaza Strip"
     ],
     "credibility": "high"
+  },
+  {
+    "id": "1c1c2fe16cce",
+    "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+    "title_ar": "",
+    "excerpt_en": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-03T23:13:03+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
   }
 ]
