@@ -1,5 +1,31 @@
 [
   {
+    "id": "bf64d2f43a09",
+    "title_en": "One year since Gaza journalist killed by Israel",
+    "title_ar": "",
+    "excerpt_en": "It’s been one year since AP journalist Mariam Dagga was killed in Israeli strikes on Gaza’s Nasser Hospital.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-25T15:09:10+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/one-year-since-gaza-journalist-killed-by-israel?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "60c0c863b479",
+    "title_en": "No, the Democratic Party is not shifting on Israel",
+    "title_ar": "",
+    "excerpt_en": "The Democratic establishment is still firmly in the pro-Israeli camp while trying to appeal to its pro-Palestine voters.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-25T15:03:46+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/8/25/no-the-democratic-party-is-not-shifting-on-israel?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7d75f20371b3",
     "title_en": "Israeli attacks kill five in Gaza, including two children, medics say",
     "title_ar": "",
@@ -62,19 +88,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-25T12:20:37+00:00",
     "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/25/how-water-becomes-a-weapon-of-war?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a5b9d87cfbbf",
-    "title_en": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-    "title_ar": "",
-    "excerpt_en": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-25T11:52:40+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
     "credibility": "medium"
   },
   {
