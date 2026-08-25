@@ -169,19 +169,6 @@
     "credibility": "high"
   },
   {
-    "id": "b376e67e7209",
-    "title_en": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
-    "title_ar": "",
-    "excerpt_en": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-19T17:46:01+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "0e48fbcbc32a",
     "title_en": "Raising alarm over new illegal Israeli outposts, UN condemns attacks, incitement against Palestinians",
     "title_ar": "",
@@ -205,19 +192,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-18T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168160",
-    "credibility": "high"
-  },
-  {
-    "id": "0af7cc5988a9",
-    "title_en": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-    "title_ar": "",
-    "excerpt_en": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-17T16:02:58+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -335,6 +309,19 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-03T23:13:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "fb847163ae0f",
+    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "title_ar": "",
+    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-01T05:01:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
