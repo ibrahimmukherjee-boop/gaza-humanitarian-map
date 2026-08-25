@@ -1,5 +1,22 @@
 [
   {
+    "id": "7d75f20371b3",
+    "title_en": "Israeli attacks kill five in Gaza, including two children, medics say",
+    "title_ar": "",
+    "excerpt_en": "An Israeli strike on Monday killed a four-year-old boy, while a 10-year-old girl was hit by a bullet inside her tent, according to medics and relatives.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-25T14:07:50+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "234080105266",
     "title_en": "Today's top news: Sudan, South Sudan, Occupied Palestinian Territory",
     "title_ar": "",
@@ -200,23 +217,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "b65b22294ddb",
-    "title_en": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-    "title_ar": "",
-    "excerpt_en": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-20T04:17:53+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
