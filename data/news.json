@@ -1,5 +1,22 @@
 [
   {
+    "id": "34eae062fe2b",
+    "title_en": "Security Council LIVE: Rising tensions in Gaza, West Bank",
+    "title_ar": "",
+    "excerpt_en": "Amid illegal Israeli settlement surges, continued attacks in Gaza and the West Bank alongside tensions throughout Occupied Palestinian Territory, the Security Council is meeting at 10am (local time) on Wednesday to hear briefings on the latest developments. UN News app users can follow here.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-08-26T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/08/1168204",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "ffa7497355fd",
     "title_en": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
     "title_ar": "",
@@ -393,23 +410,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "1831fae22f1d",
-    "title_en": "Gaza ‘unsafe for civilians’ as Israeli attacks hit homes and classrooms",
-    "title_ar": "",
-    "excerpt_en": "Gaza remains unsafe for civilians as Israeli attacks continue, including on schools and canvas classrooms, despite the October Israel-Hamas ceasefire that ended two years of war, the Office for the Coordination of Humanitarian Affairs (OCHA) warned on Tuesday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-08-04T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168077",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
