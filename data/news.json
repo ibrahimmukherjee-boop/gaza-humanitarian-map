@@ -1,5 +1,22 @@
 [
   {
+    "id": "062589315c1c",
+    "title_en": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
+    "title_ar": "",
+    "excerpt_en": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-26T08:17:45+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "d402498c8819",
     "title_en": "Today's top news: Haiti, Ukraine, Sudan, Occupied Palestinian Territory",
     "title_ar": "",
@@ -146,23 +163,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-21T05:00:57+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "334590014db1",
-    "title_en": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-    "title_ar": "",
-    "excerpt_en": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-20T18:55:14+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
@@ -425,6 +425,23 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-03T23:13:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "fb847163ae0f",
+    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "title_ar": "",
+    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-01T05:01:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
