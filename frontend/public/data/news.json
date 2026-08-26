@@ -1,5 +1,23 @@
 [
   {
+    "id": "ffa7497355fd",
+    "title_en": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
+    "title_ar": "",
+    "excerpt_en": "It marks the shutting of the last of the Palestinian refugee agency's facilities in the sector of the city, after Israel passed a law against it.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-26T10:34:39+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "062589315c1c",
     "title_en": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
     "title_ar": "",
@@ -147,23 +165,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "217cf03fbd66",
-    "title_en": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-    "title_ar": "",
-    "excerpt_en": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-21T05:00:57+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
