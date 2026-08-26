@@ -1,5 +1,39 @@
 [
   {
+    "id": "ccf56fa7197f",
+    "title_en": "Funeral held for renowned Palestinian artist Sliman Mansour",
+    "title_ar": "",
+    "excerpt_en": "The 79-year-old was best known for paintings depicting the Palestinian landscape and cultural scenes featuring Palestinian symbols of identity.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-26T16:58:36+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c8xker87k7do?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "727d284f6132",
+    "title_en": "Today's top news: Asia floods, Occupied Palestinian Territory, Colombia, Burundi",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Asia floods, Occupied Palestinian Territory, Colombia, Burundi</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"C",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-26T16:56:58+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-asia-floods-occupied-palestinian-territory-colombia-burundi",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "34eae062fe2b",
     "title_en": "Security Council LIVE: Rising tensions in Gaza, West Bank",
     "title_ar": "",
@@ -172,24 +206,6 @@
     "credibility": "high"
   },
   {
-    "id": "172fa98bd1bb",
-    "title_en": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-21T15:58:57+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "3f1bccea49d2",
     "title_en": "Today's top news: Ukraine, Democratic Republic of the Congo, Occupied Palestinian Territory",
     "title_ar": "",
@@ -217,23 +233,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168180",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "bd930762ddf1",
-    "title_en": "Today's top news: World Humanitarian Day, Ukraine, Occupied Palestinian Territory, Lebanon, Venezuela, Somalia",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: World Humanitarian Day, Ukraine, Occupied Palestinian Territory, Lebanon, Venezuela, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hid",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-19T17:37:29+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-world-humanitarian-day-ukraine-occupied-palestinian-territory-lebanon",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
@@ -443,6 +442,23 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-01T05:01:56+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "3e0319f4b52a",
+    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+    "title_ar": "",
+    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-07-31T15:18:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
