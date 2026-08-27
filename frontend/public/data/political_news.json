@@ -1,15 +1,41 @@
 [
   {
-    "id": "005fbcd7c0f9",
-    "title_en": "Ben Shapiro’s anti-Muslim film is nothing new",
+    "id": "4cf4642b5431",
+    "title_en": "Besieged Qusra residents fear permanent Israeli presence",
     "title_ar": "",
-    "excerpt_en": "Shapiro’s film recycles decades-old anti-Muslim tropes to portray critics of Israel’s genocide in Gaza as extremists.",
+    "excerpt_en": "Israeli forces have installed three new metal gates near Palestinian homes that are under siege in Qusra.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-27T16:23:13+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/27/besieged-qusra-residents-fear-permanent-israeli-presence?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "03e55f132994",
+    "title_en": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
+    "title_ar": "",
+    "excerpt_en": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-27T14:17:24+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "02eb59b213be",
+    "title_en": "Israeli settlers targeting Palestinian factories to force workers off land",
+    "title_ar": "",
+    "excerpt_en": "Settler violence threatens to collapse the fragile Palestinian economy.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-08-27T07:43:39+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/8/27/ben-shapiros-anti-muslim-film-is-nothing-new?traffic_source=rss",
+    "timestamp": "2026-08-27T13:21:20+00:00",
+    "url": "https://www.aljazeera.com/economy/2026/8/27/israeli-settlers-targeting-palestinian-factories-to-force-workers-off-land?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -62,19 +88,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-08-26T08:17:45+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "7d75f20371b3",
-    "title_en": "Israeli attacks kill five in Gaza, including two children, medics say",
-    "title_ar": "",
-    "excerpt_en": "An Israeli strike on Monday killed a four-year-old boy, while a 10-year-old girl was hit by a bullet inside her tent, according to medics and relatives.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-25T14:07:50+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -247,19 +260,6 @@
     "credibility": "high"
   },
   {
-    "id": "1d91a7d79a9c",
-    "title_en": "Gaza: 300 children killed in 300 days of Israeli-Hamas ‘ceasefire’",
-    "title_ar": "",
-    "excerpt_en": "At least 300 children in Gaza have been reportedly killed in as many days since a ceasefire agreement supposedly came into effect last October to suspend military operations between Hamas fighters and the Israel Defense Forces, the UN Children’s Fund (UNICEF) said on Thursday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-06T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168088",
-    "credibility": "high"
-  },
-  {
     "id": "1c1c2fe16cce",
     "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
     "title_ar": "",
@@ -283,19 +283,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-01T05:01:56+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "3e0319f4b52a",
-    "title_en": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
-    "title_ar": "",
-    "excerpt_en": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-07-31T15:18:31+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c2dkje4p4klo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
