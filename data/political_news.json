@@ -1,15 +1,15 @@
 [
   {
-    "id": "034d0436ffb8",
-    "title_en": "Three killed in strikes on Gaza as Israel renews threats over kite-flying",
+    "id": "7bce10c6e54b",
+    "title_en": "New Israeli roadblocks entrench siege of homes in West Bank’s Qusra",
     "title_ar": "",
-    "excerpt_en": "Israeli defence minister renews threat to expel Palestinians from areas where kites or balloons are being flown in Gaza.",
+    "excerpt_en": "After weeks of settler siege, three new Israeli gates around Palestinian homes in Qusra raise fears in West Bank.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-27T18:56:08+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/27/three-killed-in-strikes-on-gaza-as-israel-renews-threats-over-kite-flying?traffic_source=rss",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-28T00:59:11+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/28/new-israeli-roadblocks-entrench-siege-of-homes-in-west-banks-qusra?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -23,6 +23,32 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-27T14:17:24+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cew92l07kwzo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "57cf4552b64f",
+    "title_en": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
+    "title_ar": "",
+    "excerpt_en": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to families in need.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-27T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/08/1168220",
+    "credibility": "high"
+  },
+  {
+    "id": "efc1c5939113",
+    "title_en": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
+    "title_ar": "",
+    "excerpt_en": "The seizure of a vocational training centre in occupied East Jerusalem has left hundreds of Palestinian young people without access to skills and training that could help shape their futures.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-27T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/08/1168219",
     "credibility": "high"
   },
   {
@@ -218,19 +244,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-13T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
-    "credibility": "high"
-  },
-  {
-    "id": "a2b98cc21ad8",
-    "title_en": "Security Council LIVE: Spotlight on Israeli settler violence in West Bank",
-    "title_ar": "",
-    "excerpt_en": "The Security Council held an open debate on Tuesday which is expected to address escalating Israeli settler violence in the occupied West Bank as attacks on Palestinians and their property continue. UN News&nbsp;app users can follow here.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-11T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168113",
     "credibility": "high"
   },
   {
