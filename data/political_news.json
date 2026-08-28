@@ -1,29 +1,68 @@
 [
   {
-    "id": "15e38febe1b0",
-    "title_en": "PA activists face ‘terror’ charges over Trump golf resort protest: Report",
+    "id": "052e46d16671",
+    "title_en": "Board of Peace envoy Mladenov warns Gaza ceasefire risks ‘collapse’",
     "title_ar": "",
-    "excerpt_en": "Protesters targeted Trump’s Ayrshire resort with red paint and slogans saying &#039;Gaza is not 4 sale&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-28T11:25:55+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/28/pa-activists-face-terror-charges-over-trump-golf-resort-protest-report?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "12f297737efe",
-    "title_en": "Children take cover behind shopping cart during Israeli drone fire",
-    "title_ar": "",
-    "excerpt_en": "Video shows children in Gaza taking cover behind a shopping cart during a reported gun attack by an Israeli drone.",
+    "excerpt_en": "In an interview with Al Jazeera, Nicolay Mladenov says that a return to war would be &#039;devastating&#039;.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "diplomatic",
-    "timestamp": "2026-08-28T09:01:51+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/children-take-cover-behind-shopping-cart-during-israeli-drone-fire?traffic_source=rss",
+    "timestamp": "2026-08-28T16:44:45+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/28/board-of-peace-envoy-mladenov-warns-gaza-ceasefire-risks-collapse?traffic_source=rss",
     "credibility": "medium"
+  },
+  {
+    "id": "1691fd7669a0",
+    "title_en": "Gaza forced to use unreliable online payments amid ‘cash famine’",
+    "title_ar": "",
+    "excerpt_en": "Israeli restrictions and war damage have created a liquidity crisis, crippling Gaza&#039;s banking system and daily commerce.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-28T16:44:24+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/28/gaza-forced-to-use-unreliable-online-payments-amid-cash-famine?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "eaa7fa36c090",
+    "title_en": "Israeli strikes kill five people, including three from one family, in Gaza",
+    "title_ar": "",
+    "excerpt_en": "The latest round of attacks comes as Palestinians across the strip continue to face severe food insecurity.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-28T16:38:41+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strikes-kill-five-people-including-three-from-one-family-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7b7fb0fdaf63",
+    "title_en": "The two types of Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlement expansion in the occupied West Bank isn’t just driven by ideology, but also by economic incentives.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-28T16:02:08+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/the-two-types-of-israeli-settlers?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "09368585c087",
+    "title_en": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-28T14:06:13+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
   },
   {
     "id": "03e55f132994",
@@ -270,19 +309,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-03T23:13:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "fb847163ae0f",
-    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-    "title_ar": "",
-    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-01T05:01:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]

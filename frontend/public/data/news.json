@@ -1,5 +1,22 @@
 [
   {
+    "id": "09368585c087",
+    "title_en": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-28T14:06:13+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "9ca701103922",
     "title_en": "Today's top news: Asia floods, Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon, Syria, Djibouti",
     "title_ar": "",
@@ -242,23 +259,6 @@
     "credibility": "medium"
   },
   {
-    "id": "634b03c02042",
-    "title_en": "Today's top news: Colombia, Occupied Palestinian Territory, Central African Republic",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Colombia, Occupied Palestinian Territory, Central African Republic</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img al",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-21T16:23:43+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-colombia-occupied-palestinian-territory-central-african-republic",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "27d309ae95a3",
     "title_en": "Middle East: 94 per cent need shelter in Gaza, Israel ramps up demolitions in Lebanon",
     "title_ar": "",
@@ -426,23 +426,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-03T23:13:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "fb847163ae0f",
-    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-    "title_ar": "",
-    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-01T05:01:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
