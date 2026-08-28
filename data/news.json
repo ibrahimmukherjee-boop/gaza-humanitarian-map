@@ -34,6 +34,23 @@
     "credibility": "medium"
   },
   {
+    "id": "909bdecc3682",
+    "title_en": "OCHA-managed Kenya Humanitarian Fund helps drought-affected communities recover",
+    "title_ar": "",
+    "excerpt_en": "<span>OCHA-managed Kenya Humanitarian Fund helps drought-affected communities recover </span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"N",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-08-28T13:19:30+00:00",
+    "url": "https://www.unocha.org/news/ocha-managed-kenya-humanitarian-fund-helps-drought-affected-communities-recover",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "9ca701103922",
     "title_en": "Today's top news: Asia floods, Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon, Syria, Djibouti",
     "title_ar": "",
@@ -215,23 +232,6 @@
     "source": "OCHA",
     "timestamp": "2026-08-25T16:19:32+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-haiti-ukraine-sudan-occupied-palestinian-territory",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "234080105266",
-    "title_en": "Today's top news: Sudan, South Sudan, Occupied Palestinian Territory",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Sudan, South Sudan, Occupied Palestinian Territory</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A man moves t",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-24T16:36:54+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-sudan-south-sudan-occupied-palestinian-territory",
     "tags": [
       "humanitarian"
     ],
