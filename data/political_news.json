@@ -1,5 +1,18 @@
 [
   {
+    "id": "505f0dcbac89",
+    "title_en": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+    "title_ar": "",
+    "excerpt_en": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-29T00:53:56+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ad34f8e8ed2b",
     "title_en": "Israeli strike kills three Palestinians in Jenin",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-28T22:11:36+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3a310d59f9f2",
-    "title_en": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-    "title_ar": "",
-    "excerpt_en": "Israel&#039;s prime minister and defence minister praise the attack as Hamas calls for Israeli &#039;crimes&#039; to stop.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-28T17:47:17+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
     "credibility": "medium"
   },
   {
