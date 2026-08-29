@@ -1,5 +1,18 @@
 [
   {
+    "id": "0e15388520f7",
+    "title_en": "US judge rules against Trump’s effort to deport pro-Palestinian students",
+    "title_ar": "",
+    "excerpt_en": "A federal judge criticised the Trump government for attempting to infringe upon foreign students&#039; rights to free speech.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-08-29T18:56:19+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "12e55109c3c2",
     "title_en": "Israeli army arrests six Palestinians after settler violence in West Bank",
     "title_ar": "",
@@ -14,7 +27,7 @@
   },
   {
     "id": "96ebede2c546",
-    "title_en": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+    "title_en": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
     "title_ar": "",
     "excerpt_en": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
     "excerpt_ar": "",
@@ -39,45 +52,6 @@
     "credibility": "medium"
   },
   {
-    "id": "ed2e430a09b7",
-    "title_en": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
-    "title_ar": "",
-    "excerpt_en": "An UNRWA vocational centre in the occupied West Bank has been raided by Israeli forces and ordered to close.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-29T13:10:04+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f756ee40df75",
-    "title_en": "UNRWA’s first and last vocational college in East Jerusalem is under attack",
-    "title_ar": "",
-    "excerpt_en": "Israel threatens the Qalandiya Training Centre, one of Jerusalem&#039;s oldest still-operational educational institutions.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-29T12:58:25+00:00",
-    "url": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "7f387993f3bb",
-    "title_en": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
-    "title_ar": "",
-    "excerpt_en": "After nearly three years of war, a farmer returns to Sheikh Ijlin’s renowned grape fields.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-29T12:56:27+00:00",
-    "url": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "09368585c087",
     "title_en": "BBC tracks one week of Israeli settler violence in occupied West Bank",
     "title_ar": "",
@@ -88,6 +62,19 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-28T14:06:13+00:00",
     "url": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "1277121ec27e",
+    "title_en": "Four children killed as separate attacks in Gaza destroy aid supplies",
+    "title_ar": "",
+    "excerpt_en": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said on Friday.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-28T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/08/1168229",
     "credibility": "high"
   },
   {
