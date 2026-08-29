@@ -1,9 +1,22 @@
 [
   {
+    "id": "96ebede2c546",
+    "title_en": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+    "title_ar": "",
+    "excerpt_en": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-08-29T15:25:43+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "4aba0d8133a2",
     "title_en": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
     "title_ar": "",
-    "excerpt_en": "At least four Palestinians are trapped inside the home, while settlers have set fire to nearby Palestinian land.",
+    "excerpt_en": "At least four people trapped inside their home, as earlier siege on Palestinian families has continued for three weeks.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
