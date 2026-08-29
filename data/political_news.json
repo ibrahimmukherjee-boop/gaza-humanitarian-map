@@ -1,5 +1,57 @@
 [
   {
+    "id": "4aba0d8133a2",
+    "title_en": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
+    "title_ar": "",
+    "excerpt_en": "At least four Palestinians are trapped inside the home, while settlers have set fire to nearby Palestinian land.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-29T13:11:41+00:00",
+    "url": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ed2e430a09b7",
+    "title_en": "Israel raids, shutters UNRWA lifeline for Palestinian refugees",
+    "title_ar": "",
+    "excerpt_en": "An UNRWA vocational centre in the occupied West Bank has been raided by Israeli forces and ordered to close.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-29T13:10:04+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israel-raids-shutters-unrwa-lifeline-for-palestinian-refugees?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "f756ee40df75",
+    "title_en": "UNRWA’s first and last vocational college in East Jerusalem is under threat",
+    "title_ar": "",
+    "excerpt_en": "Israel threatens the Qalandiya Training Centre, one of Jerusalem&#039;s oldest still-operational educational institutions.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-29T12:58:25+00:00",
+    "url": "https://www.aljazeera.com/features/2026/8/29/unrwas-first-and-last-vocational-college-in-east-jerusalem-is-under-threat?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7f387993f3bb",
+    "title_en": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+    "title_ar": "",
+    "excerpt_en": "After nearly three years of war, a farmer returns to Sheikh Ijlin’s renowned grape fields.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-29T12:56:27+00:00",
+    "url": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "09368585c087",
     "title_en": "BBC tracks one week of Israeli settler violence in occupied West Bank",
     "title_ar": "",
