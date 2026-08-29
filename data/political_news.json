@@ -1,5 +1,18 @@
 [
   {
+    "id": "ab4350a9aa4b",
+    "title_en": "Gaza runs out of cancer medicines, as Israeli strikes continue",
+    "title_ar": "",
+    "excerpt_en": "Officials at Gaza’s Al-Aqsa Martyrs Hospital say cancer medicines have completely run out, as Israeli strikes continue.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-29T20:07:47+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/29-08-sv-gaza-hospitals-targetting-fm?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "0e15388520f7",
     "title_en": "US judge rules against Trump’s effort to deport pro-Palestinian students",
     "title_ar": "",
@@ -36,19 +49,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-08-29T15:25:43+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "4aba0d8133a2",
-    "title_en": "Israeli settlers surround Palestinian home in occupied West Bank’s Qusra",
-    "title_ar": "",
-    "excerpt_en": "At least four people trapped inside their home, as earlier siege on Palestinian families has continued for three weeks.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-29T13:11:41+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/29/israeli-settlers-surround-palestinian-home-in-occupied-west-banks-qusra?traffic_source=rss",
     "credibility": "medium"
   },
   {
