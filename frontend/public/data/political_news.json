@@ -1,5 +1,18 @@
 [
   {
+    "id": "07d85a773b1d",
+    "title_en": "Israeli settlers attack international news team in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "A news team, working for the US network NBC and a Palestinian woman were injured in an attack by masked Israeli settler",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-29T23:48:22+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-settlers-attack-international-news-team-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ab4350a9aa4b",
     "title_en": "Gaza runs out of cancer medicines, as Israeli strikes continue",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-08-29T18:56:19+00:00",
     "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "12e55109c3c2",
-    "title_en": "Israeli army arrests six Palestinians after settler violence in West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-08-29T17:09:10+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
