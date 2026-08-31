@@ -1,5 +1,18 @@
 [
   {
+    "id": "c44136aa792a",
+    "title_en": "Two Palestinians reported dead as Israeli forces raid Nablus",
+    "title_ar": "",
+    "excerpt_en": "Footage shows Israeli military vehicles and personnel deployed across Nablus city in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-08-31T03:08:35+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/two-palestinians-reported-dead-as-israeli-forces-raid-nablus?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "93817012c160",
     "title_en": "Israeli strike kills 3-year-old child in Gaza",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-30T20:50:04+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/jose-andres-renews-call-for-investigation-into-wck-gaza-staff-killings?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f275adc880f9",
-    "title_en": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-30T19:33:18+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-settler-rabbi-says-palestinians-should-leave-the-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b6f0db783393",
-    "title_en": "Former Israeli soldiers pose as Pro-Palestinian supporters in the US",
-    "title_ar": "",
-    "excerpt_en": "Former Israeli soldiers posed as pro-Palestinian supporters in New York City to deceive people into engaging with them.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-30T19:06:11+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/former-israeli-soldiers-pose-as-pro-palestinian-supporters-in-the-us?traffic_source=rss",
     "credibility": "medium"
   },
   {
