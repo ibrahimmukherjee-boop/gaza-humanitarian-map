@@ -1,5 +1,22 @@
 [
   {
+    "id": "9c296ca93dcb",
+    "title_en": "UK raises case of British activist detained by settlers in West Bank with Israel",
+    "title_ar": "",
+    "excerpt_en": "Finn Joughin, a 22-year-old student activist, was arrested in the Palestinian village of Umm Al-Kheir.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-31T10:00:23+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c3d7xgge7vgo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "7f4b094cf002",
     "title_en": "OCHA-managed pooled fund helps Syrians replant a new future",
     "title_ar": "",
@@ -461,6 +478,23 @@
     "source": "BBC Middle East",
     "timestamp": "2026-08-03T23:13:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "fb847163ae0f",
+    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+    "title_ar": "",
+    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-01T05:01:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
