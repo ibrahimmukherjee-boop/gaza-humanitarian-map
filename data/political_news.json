@@ -1,5 +1,18 @@
 [
   {
+    "id": "5010b177482c",
+    "title_en": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+    "title_ar": "",
+    "excerpt_en": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-31T22:16:18+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "56bcb1283ade",
     "title_en": "Israeli outposts expand as Palestinian homes are demolished",
     "title_ar": "",
@@ -10,32 +23,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-08-31T20:48:36+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d21f276cfb56",
-    "title_en": "Damaged Gaza ambulance becomes ‘dream bus’ for children",
-    "title_ar": "",
-    "excerpt_en": "A damaged ambulance in Gaza has been converted by the Palestinian Red Crescent Society into the ‘Dream Bus’.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-31T18:36:29+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/damaged-gaza-ambulance-becomes-dream-bus-for-children?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "459d28825861",
-    "title_en": "Palestinian farmers rebuild what Israeli settlers destroy in West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli settler pogroms destroy greenhouses and crops, but Burin&#039;s farmers insist on rebuilding.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-31T18:17:20+00:00",
-    "url": "https://www.aljazeera.com/news/2026/8/31/palestinian-farmers-rebuild-what-israeli-settlers-destroy-in-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
