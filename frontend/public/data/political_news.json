@@ -1,5 +1,31 @@
 [
   {
+    "id": "989bacf07b94",
+    "title_en": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-01T16:15:01+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a5bd603f11d2",
+    "title_en": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
+    "title_ar": "",
+    "excerpt_en": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-01T15:29:48+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "cf7994adb01e",
     "title_en": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
     "title_ar": "",
