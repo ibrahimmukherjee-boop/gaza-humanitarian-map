@@ -1,5 +1,23 @@
 [
   {
+    "id": "b009e8216ded",
+    "title_en": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+    "title_ar": "",
+    "excerpt_en": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-01T20:24:28+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "5a504f093c92",
     "title_en": "Today's top news: Democratic Republic of the Congo, Nepal, Sudan, Occupied Palestinian Territory, Lebanon",
     "title_ar": "",
@@ -17,22 +35,22 @@
     "credibility": "high"
   },
   {
-    "id": "b009e8216ded",
-    "title_en": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
+    "id": "5fbae8198bd5",
+    "title_en": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
     "title_ar": "",
-    "excerpt_en": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
+    "excerpt_en": "Lack of funding has forced the World Food Programme (WFP) to slash aid to families in the West Bank by half even though needs have more than doubled over the past two years.",
     "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-09-01T12:58:44+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+    "source": "UN News",
+    "timestamp": "2026-09-01T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168237",
     "tags": [
-      "aid",
+      "health",
       "humanitarian"
     ],
     "location_tags": [
       "Gaza Strip"
     ],
-    "credibility": "medium"
+    "credibility": "high"
   },
   {
     "id": "01bc90fdac73",
@@ -410,23 +428,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168138",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "16a88981d29c",
-    "title_en": "Occupied West Bank: Settler siege of Palestinians marks a new low",
-    "title_ar": "",
-    "excerpt_en": "In the occupied West Bank, the UN human rights office, OHCHR, appealed on Thursday to Israeli authorities to help Palestinian families trapped in their homes by settlers for days, amid an intensifying campaign to seize their land.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-08-13T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [

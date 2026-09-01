@@ -1,5 +1,44 @@
 [
   {
+    "id": "2d36009c5235",
+    "title_en": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+    "title_ar": "",
+    "excerpt_en": "Three Palestinian children were among four people killed in Israeli strikes on Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-01T20:59:43+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "730c85e23b19",
+    "title_en": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+    "title_ar": "",
+    "excerpt_en": "International aid organisations are struggling for money as the United States has led a sharp cut in Western donations.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-01T20:40:55+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "b009e8216ded",
+    "title_en": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
+    "title_ar": "",
+    "excerpt_en": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-01T20:24:28+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "214a8e3fd9aa",
     "title_en": "UN food agency cuts aid in West Bank amid funding crisis",
     "title_ar": "",
@@ -26,42 +65,16 @@
     "credibility": "medium"
   },
   {
-    "id": "ca6aa0867144",
-    "title_en": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
+    "id": "5fbae8198bd5",
+    "title_en": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
     "title_ar": "",
-    "excerpt_en": "After a newly built desalination plant was destroyed, displaced families in northern Gaza struggle to find clean water.",
+    "excerpt_en": "Lack of funding has forced the World Food Programme (WFP) to slash aid to families in the West Bank by half even though needs have more than doubled over the past two years.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-09-01T16:45:35+00:00",
-    "url": "https://www.aljazeera.com/features/2026/9/1/destroyed-desalination-plant-worsens-gazas-drinking-water-crisis?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "989bacf07b94",
-    "title_en": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "UK Foreign Secretary condemns Israeli settlements in the occupied West Bank",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-01T16:15:01+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b009e8216ded",
-    "title_en": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
-    "title_ar": "",
-    "excerpt_en": "Reports say the Israeli military carried out strikes after a raid by Israeli special forces and Israel-backed Palestinian militiamen was discovered.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-01T12:58:44+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
+    "timestamp": "2026-09-01T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168237",
     "credibility": "high"
   },
   {
@@ -312,19 +325,6 @@
     "credibility": "high"
   },
   {
-    "id": "16a88981d29c",
-    "title_en": "Occupied West Bank: Settler siege of Palestinians marks a new low",
-    "title_ar": "",
-    "excerpt_en": "In the occupied West Bank, the UN human rights office, OHCHR, appealed on Thursday to Israeli authorities to help Palestinian families trapped in their homes by settlers for days, amid an intensifying campaign to seize their land.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-13T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168130",
-    "credibility": "high"
-  },
-  {
     "id": "09d7a914b3b5",
     "title_en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
     "title_ar": "",
@@ -335,19 +335,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-08-10T14:43:08+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "1c1c2fe16cce",
-    "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
-    "title_ar": "",
-    "excerpt_en": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-03T23:13:03+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
