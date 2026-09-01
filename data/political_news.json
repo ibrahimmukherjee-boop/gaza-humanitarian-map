@@ -1,41 +1,28 @@
 [
   {
-    "id": "2d91b0f1c7e4",
-    "title_en": "Israeli forces raze West Bank homes as EU weighs ban on settlement goods",
+    "id": "853bd40ee556",
+    "title_en": "Israeli attacks on Gaza kill at least four, including children",
     "title_ar": "",
-    "excerpt_en": "Pogroms in the occupied West Bank continue, with Israeli forces demolishing homes and settlers attacking residents.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-01T05:27:17+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/1/israeli-forces-raze-west-bank-homes-as-eu-weighs-ban-on-settlement-goods?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5010b177482c",
-    "title_en": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
-    "title_ar": "",
-    "excerpt_en": "Israeli pogroms target Palestinians and an NBC crew in the occupied West Bank.",
+    "excerpt_en": "At least three killed and several wounded in an Israeli air attack in the al-Kateeba district west of Gaza City.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-08-31T22:16:18+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
+    "timestamp": "2026-09-01T09:48:07+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/1/israeli-attacks-on-gaza-kill-at-least-four-including-children?traffic_source=rss",
     "credibility": "medium"
   },
   {
-    "id": "56bcb1283ade",
-    "title_en": "Israeli outposts expand as Palestinian homes are demolished",
+    "id": "92ebb0940de1",
+    "title_en": "Palestine weekly: Israel’s rightwing campaigns on anti-Palestinian abuses",
     "title_ar": "",
-    "excerpt_en": "Israeli forces demolish Palestinian homes in Nablus, while in Hebron settlers cleared land for a new outpost.",
+    "excerpt_en": "Israeli ministers escalate campaign rhetoric with AI ads as Gaza strikes widen ahead of tight October election.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-08-31T20:48:36+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/8/31/israeli-outposts-expand-as-palestinian-homes-are-demolished?traffic_source=rss",
+    "timestamp": "2026-09-01T07:02:25+00:00",
+    "url": "https://www.aljazeera.com/features/2026/9/1/palestine-weekly-israels-rightwing-campaigns-on-anti-palestinian-abuses?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -322,19 +309,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-03T23:13:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "fb847163ae0f",
-    "title_en": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-    "title_ar": "",
-    "excerpt_en": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-01T05:01:56+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c4g4djgdyk2o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
