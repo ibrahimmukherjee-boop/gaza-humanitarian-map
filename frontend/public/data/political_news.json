@@ -1,5 +1,31 @@
 [
   {
+    "id": "214a8e3fd9aa",
+    "title_en": "UN food agency cuts aid in West Bank amid funding crisis",
+    "title_ar": "",
+    "excerpt_en": "UN food agency cuts aid in West Bank amid funding crisis",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-01T18:23:25+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/un-food-agency-cuts-aid-in-west-bank-amid-funding-crisis?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "bb1c8035c84e",
+    "title_en": "Health crisis looming as Gaza heads towards rainy season, warns WHO",
+    "title_ar": "",
+    "excerpt_en": "Water quality in embattled Palestinian enclave already poor; flooding will exacerbate threat to health, says UN agency.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-01T18:22:17+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/1/health-crisis-looming-as-gaza-heads-towards-rainy-season-warns-who?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ca6aa0867144",
     "title_en": "Destroyed desalination plant worsens Gaza’s drinking water crisis",
     "title_ar": "",
@@ -23,32 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-01T16:15:01+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/uk-foreign-secretary-condemns-israeli-settlements-in-the-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a5bd603f11d2",
-    "title_en": "Qatar says efforts under way to end Iran-US war and reopen Strait of Hormuz",
-    "title_ar": "",
-    "excerpt_en": "Qatar accuses Israel of exploiting regional conflicts to impose new realities in Palestine, Lebanon, and Syria.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-01T15:29:48+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/1/qatar-says-efforts-under-way-to-end-iran-us-war-and-reopen-strait-of-hormuz?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "cf7994adb01e",
-    "title_en": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
-    "title_ar": "",
-    "excerpt_en": "Palestinian farmers inspect olive trees bulldozed by Israeli forces",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-01T14:55:56+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinian-farmers-inspect-olive-trees-bulldozed-by-israeli-forces?traffic_source=rss",
     "credibility": "medium"
   },
   {
