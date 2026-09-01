@@ -1,5 +1,22 @@
 [
   {
+    "id": "5a504f093c92",
+    "title_en": "Today's top news: Democratic Republic of the Congo, Nepal, Sudan, Occupied Palestinian Territory, Lebanon",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Democratic Republic of the Congo, Nepal, Sudan, Occupied Palestinian Territory, Lebanon </span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-01T17:05:34+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-nepal-sudan-occupied-palestinian-territory-lebanon",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "b009e8216ded",
     "title_en": "Israel says senior Hamas member seized as strikes kill three during Gaza raid",
     "title_ar": "",
@@ -101,23 +118,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "909bdecc3682",
-    "title_en": "OCHA-managed Kenya Humanitarian Fund helps drought-affected communities recover",
-    "title_ar": "",
-    "excerpt_en": "<span>OCHA-managed Kenya Humanitarian Fund helps drought-affected communities recover </span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"N",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-28T13:19:30+00:00",
-    "url": "https://www.unocha.org/news/ocha-managed-kenya-humanitarian-fund-helps-drought-affected-communities-recover",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "1277121ec27e",
