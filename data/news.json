@@ -1,5 +1,22 @@
 [
   {
+    "id": "e051a9195865",
+    "title_en": "Today's top news: Asia floods, Middle East, Occupied Palestinian Territory, Syria, Democratic Republic of the Congo, Sudan, Ukraine",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Asia floods, Middle East, Occupied Palestinian Territory, Syria, Democratic Republic of the Congo, Sudan, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-i",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-02T17:14:05+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-asia-floods-middle-east-occupied-palestinian-territory-syria-democratic",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "dcbfc5146d47",
     "title_en": "Mohamed Yahya",
     "title_ar": "",
@@ -139,23 +156,6 @@
     "credibility": "high"
   },
   {
-    "id": "6cb246576ffc",
-    "title_en": "Today's top news: Asia floods, Occupied Palestinian Territory, Lebanon, Ukraine, Venezuela",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Asia floods, Occupied Palestinian Territory, Lebanon, Ukraine, Venezuela</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-28T17:36:32+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-asia-floods-occupied-palestinian-territory-lebanon-ukraine-venezuela",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "09368585c087",
     "title_en": "BBC tracks one week of Israeli settler violence in occupied West Bank",
     "title_ar": "",
@@ -258,24 +258,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "ffa7497355fd",
-    "title_en": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
-    "title_ar": "",
-    "excerpt_en": "It marks the shutting of the last of the Palestinian refugee agency's facilities in the sector of the city, after Israel passed a law against it.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-26T10:34:39+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "3f1b7aa67ce9",
