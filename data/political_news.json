@@ -1,5 +1,57 @@
 [
   {
+    "id": "e93fc606d8af",
+    "title_en": "Worshippers tear-gassed as Israeli attacks on West Bank mosques surge",
+    "title_ar": "",
+    "excerpt_en": "Palestinian authorities say Israeli forces and settlers have &#039;violated&#039; 13 West Bank mosques this year.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-02T07:40:20+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/2/israeli-forces-settlers-attack-two-west-bank-mosques?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "344d82c8db47",
+    "title_en": "As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’",
+    "title_ar": "",
+    "excerpt_en": "Imprisoned in Spain, James &#039;Fergie&#039; Chambers has supported charities but is accused of aiding Hamas.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-02T06:35:33+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "1f075bd99779",
+    "title_en": "Mark Ruffalo comments cause pushback against anti-Semitism ‘smear campaign’",
+    "title_ar": "",
+    "excerpt_en": "The actor criticised Paramount-Warner Bros merger, linking it to Oracle&#039;s ties with Israeli military amid Gaza genocide.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-02T06:04:51+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/2/mark-ruffalo-comments-spark-pushback-against-antisemitism-smear-campaign?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "88c52b566cfe",
+    "title_en": "Palestinian artist Saint Levant delays tour amid US visa complications",
+    "title_ar": "",
+    "excerpt_en": "Visa cancellations or delays have forced international artists to rethink US tours under President Donald Trump.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-02T05:33:13+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/2/palestinian-artist-saint-levant-delays-tour-amid-us-visa-complications?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "b009e8216ded",
     "title_en": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
     "title_ar": "",
@@ -104,19 +156,6 @@
     "credibility": "high"
   },
   {
-    "id": "ccf56fa7197f",
-    "title_en": "Funeral held for renowned Palestinian artist Sliman Mansour",
-    "title_ar": "",
-    "excerpt_en": "The 79-year-old was best known for paintings depicting the Palestinian landscape and cultural scenes featuring Palestinian symbols of identity.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-26T16:58:36+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c8xker87k7do?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "34eae062fe2b",
     "title_en": "Security Council LIVE: Rising tensions in Gaza, West Bank",
     "title_ar": "",
@@ -140,19 +179,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-26T10:34:39+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "062589315c1c",
-    "title_en": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-    "title_ar": "",
-    "excerpt_en": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-08-26T08:17:45+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -283,6 +309,19 @@
     "statement_type": "official_statement",
     "timestamp": "2026-08-10T14:43:08+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "1c1c2fe16cce",
+    "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+    "title_ar": "",
+    "excerpt_en": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T23:13:03+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]

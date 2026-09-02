@@ -208,23 +208,6 @@
     "credibility": "high"
   },
   {
-    "id": "ccf56fa7197f",
-    "title_en": "Funeral held for renowned Palestinian artist Sliman Mansour",
-    "title_ar": "",
-    "excerpt_en": "The 79-year-old was best known for paintings depicting the Palestinian landscape and cultural scenes featuring Palestinian symbols of identity.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-26T16:58:36+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c8xker87k7do?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "34eae062fe2b",
     "title_en": "Security Council LIVE: Rising tensions in Gaza, West Bank",
     "title_ar": "",
@@ -252,23 +235,6 @@
     "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "062589315c1c",
-    "title_en": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
-    "title_ar": "",
-    "excerpt_en": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-26T08:17:45+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c0lrw8325pzo?at_medium=RSS&at_campaign=rss",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
@@ -446,6 +412,23 @@
     "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "1c1c2fe16cce",
+    "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+    "title_ar": "",
+    "excerpt_en": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-03T23:13:03+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "tags": [
       "humanitarian"
     ],
     "location_tags": [
