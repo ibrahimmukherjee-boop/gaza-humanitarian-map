@@ -1,5 +1,44 @@
 [
   {
+    "id": "e9618dc9241a",
+    "title_en": "Israel still wants to remove Palestinians from Gaza, defence minister says",
+    "title_ar": "",
+    "excerpt_en": "Israel Katz says &#039;there is no real solution for Gaza&#039; without de-populating the territory.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-02T21:19:32+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/2/israel-still-wants-to-remove-palestinians-from-gaza-defence-minister-says?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "07004408c407",
+    "title_en": "Two Palestinians killed as settlers, Israeli forces raid West Bank village",
+    "title_ar": "",
+    "excerpt_en": "Teenagers killed in settlers attack on al-Mughayyer as West Bank violence continues.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-02T20:59:46+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/2/two-palestinian-killed-as-settlers-israeli-forces-raid-west-bank-village?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "2dac97475fcc",
+    "title_en": "Israeli protesters call for an end to settler violence",
+    "title_ar": "",
+    "excerpt_en": "Israeli protesters gathered in Jerusalem on Wednesday to condemn violence by Jewish settlers in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-02T20:07:41+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-protesters-call-for-an-end-to-settler-violence?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f094f9327029",
     "title_en": "Dreams shattered: Gaza amputees struggle under blockade and rubble",
     "title_ar": "",
@@ -10,32 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-02T19:35:36+00:00",
     "url": "https://www.aljazeera.com/features/2026/9/2/dreams-shattered-gaza-amputees-struggle-under-blockade-and-rubble?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c8f9bfe4624b",
-    "title_en": "Will the EU take action against Israel?",
-    "title_ar": "",
-    "excerpt_en": "Surge in Israeli settler attacks against Palestinians",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-02T18:46:21+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/9/2/will-the-eu-take-action-against-israel?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c05dc4969b0e",
-    "title_en": "Brazilian activist demands Tunisia release Sumud Flotilla organisers",
-    "title_ar": "",
-    "excerpt_en": "Activists say four organisers of flotilla that sought to break Gaza blockade have been held in Tunisia since March.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-02T17:10:17+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/2/brazilian-activist-demands-tunisia-release-sumud-flotilla-organisers?traffic_source=rss",
     "credibility": "medium"
   },
   {
