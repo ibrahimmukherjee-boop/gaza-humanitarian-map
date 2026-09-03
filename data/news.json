@@ -1,5 +1,22 @@
 [
   {
+    "id": "355cb3c3af36",
+    "title_en": "Today's top news: Asia floods, Occupied Palestinian Territory, Madagascar",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Asia floods, Occupied Palestinian Territory, Madagascar</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Humanita",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-03T15:08:00+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-asia-floods-occupied-palestinian-territory-madagascar",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e05fd5470cc3",
     "title_en": "Palestinian teens killed during settler attack on West Bank village, officials say",
     "title_ar": "",
@@ -154,23 +171,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "7f4b094cf002",
-    "title_en": "OCHA-managed pooled fund helps Syrians replant a new future",
-    "title_ar": "",
-    "excerpt_en": "<span>OCHA-managed pooled fund helps Syrians replant a new future</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Khalaf Al Ali, a farme",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-08-29T03:07:10+00:00",
-    "url": "https://www.unocha.org/news/ocha-managed-pooled-fund-helps-syrians-replant-new-future",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "09368585c087",
