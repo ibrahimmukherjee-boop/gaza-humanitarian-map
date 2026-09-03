@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-03T14:06:40.236550+00:00",
-  "refresh_heartbeat": "2026-09-03T14:06:40.236550+00:00",
-  "news_last_updated": "2026-09-03T14:06:40.236550+00:00",
-  "political_last_updated": "2026-09-03T14:06:40.236550+00:00",
-  "latest_headline_at": "2026-09-03T09:53:58+00:00",
+  "last_updated": "2026-09-03T17:09:59.149343+00:00",
+  "refresh_heartbeat": "2026-09-03T17:09:59.149343+00:00",
+  "news_last_updated": "2026-09-03T17:09:59.149343+00:00",
+  "political_last_updated": "2026-09-03T17:09:59.149343+00:00",
+  "latest_headline_at": "2026-09-03T15:05:57+00:00",
   "sources": [
     "OpenStreetMap",
     "ReliefWeb",
@@ -11,7 +11,7 @@
     "Curated hotlines"
   ],
   "facilities_count": 10,
-  "news_count": 26,
+  "news_count": 25,
   "note_en": "Verify all locations and phone numbers locally before acting. Data may be delayed.",
   "note_ar": "تحقق من جميع المواقع وأرقام الهاتف محلياً قبل التصرف. قد تتأخر البيانات."
 }
