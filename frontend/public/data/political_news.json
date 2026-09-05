@@ -1,5 +1,31 @@
 [
   {
+    "id": "145ce76f61d3",
+    "title_en": "Did Israel’s destruction of Gaza worsen its water crisis?",
+    "title_ar": "",
+    "excerpt_en": "Scientists say Israel’s destruction of Gaza’s sewage system may have worsened the Mediterranean&#039;s algae bloom crisis.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-05T03:46:20+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/did-israels-destruction-of-gaza-worsen-its-water-crisis?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "c3a36566d7ea",
+    "title_en": "‘To challenge deadly blockade’: New flotilla mission sets sail for Gaza",
+    "title_ar": "",
+    "excerpt_en": "Human rights advocates call for diplomatic measures to guarantee flotilla safety and end Israel&#039;s deadly Gaza blockade.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-05T02:43:23+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/5/to-challenge-deadly-blockade-new-flotilla-mission-sets-sail-for-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "6f88fe13d154",
     "title_en": "Israeli police kill Palestinian in Jerusalem as army blocks aid for Qusra",
     "title_ar": "",
