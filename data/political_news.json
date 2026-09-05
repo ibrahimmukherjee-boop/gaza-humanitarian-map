@@ -1,5 +1,18 @@
 [
   {
+    "id": "921fe5d56e59",
+    "title_en": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+    "title_ar": "",
+    "excerpt_en": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-05T15:37:12+00:00",
+    "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "fcddbb1b2b1b",
     "title_en": "Israel must protect West Bank’s Palestinians amid settler pogroms: US envoy",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-05T12:04:52+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/5/israel-must-guarantee-safety-of-west-bank-population-ambassador?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "37db12ecdb6c",
-    "title_en": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-05T09:52:44+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
