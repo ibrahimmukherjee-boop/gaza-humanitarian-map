@@ -1,5 +1,18 @@
 [
   {
+    "id": "d13e96094125",
+    "title_en": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
+    "title_ar": "",
+    "excerpt_en": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-06T17:03:20+00:00",
+    "url": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "dde59e3cd9cc",
     "title_en": "Khalid Abdalla: ‘It’s important for me to be in service of justice’",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-06T13:15:46+00:00",
     "url": "https://www.aljazeera.com/features/2026/9/6/seven-mouths-one-meal-feeding-a-family-through-gazas-food-crisis?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e70764a1a31d",
-    "title_en": "Palestinians mourn loved ones in mass funeral in Gaza City",
-    "title_ar": "",
-    "excerpt_en": "Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-06T13:13:36+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e837c0d495ab",
-    "title_en": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
-    "title_ar": "",
-    "excerpt_en": "Gaza families hold mass funeral for 100 people recovered from rubble in Zeitoun neighbourhood.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-06T11:13:50+00:00",
-    "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
     "credibility": "medium"
   },
   {
