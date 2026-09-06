@@ -1,5 +1,31 @@
 [
   {
+    "id": "e837c0d495ab",
+    "title_en": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
+    "title_ar": "",
+    "excerpt_en": "Gaza families hold mass funeral for 100 people recovered from rubble in Zeitoun neighbourhood.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-06T11:13:50+00:00",
+    "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "da37e6a48904",
+    "title_en": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
+    "title_ar": "",
+    "excerpt_en": "The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-06T10:42:14+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f02aac598a6f",
     "title_en": "Israeli flags become the latest weapon of settlers in West Bank domination",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-06T09:40:06+00:00",
     "url": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "dbaed99745f6",
-    "title_en": "Netanyahu boasts about bombing Qatar, says Gaza funds used for aid",
-    "title_ar": "",
-    "excerpt_en": "Netanyahu has called Qatar a &#039;hostile&#039; state and boasted that Israel bombed the country.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-06T01:02:08+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/6/netanyahu-boasts-about-bombing-qatar-says-gaza-funds-used-for-aid?traffic_source=rss",
     "credibility": "medium"
   },
   {
