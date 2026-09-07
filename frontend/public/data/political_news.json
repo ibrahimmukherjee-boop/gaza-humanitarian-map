@@ -1,5 +1,18 @@
 [
   {
+    "id": "3ba93d3d012b",
+    "title_en": "Israel’s removal of Gaza rubble risk to war crimes evidence: UN",
+    "title_ar": "",
+    "excerpt_en": "International Court of Justice ordered Israel in 2024 to prevent the destruction of evidence related to war crimes.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-07T21:00:58+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/7/israels-removal-of-gaza-rubble-risk-to-war-crimes-evidence-un?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ce07718659be",
     "title_en": "Israel’s plan to split the West Bank",
     "title_ar": "",
@@ -23,58 +36,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-07T17:50:10+00:00",
     "url": "https://www.aljazeera.com/video/the-bottom-line/2026/9/7/board-of-peace-touts-progress-as-palestinians-situation-worsens?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "af6a62ea6529",
-    "title_en": "Gaza: Genocide in Real Time?",
-    "title_ar": "",
-    "excerpt_en": "Gaza examined through occupation, blockade, mass killing and the genocide case before the ICJ.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-07T17:23:01+00:00",
-    "url": "https://www.aljazeera.com/video/aljazeerauntangles/2026/9/7/gaza-genocide-in-real-time?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "7f92e954146f",
-    "title_en": "Kosovo signs up to US-led Gaza stabilisation force",
-    "title_ar": "",
-    "excerpt_en": "Balkan state joins short list of countries agreeing to send peacekeepers to Palestinian enclave.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-07T16:52:57+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/7/kosovo-signs-up-to-us-led-gaza-stabilisation-force?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "1dc544eb6951",
-    "title_en": "‘Rhetoric differs’: How the UK’s relationship with Israel took a downturn",
-    "title_ar": "",
-    "excerpt_en": "The UK is planning to take new steps against illegal Israeli settlements as Palestinians suffer more violence.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-07T16:38:44+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/7/uk-relationship-with-israel?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "34f2161dd6c2",
-    "title_en": "Israel deports British activist who protected Palestinian children",
-    "title_ar": "",
-    "excerpt_en": "Pro-Palestinian volunteer Finn Joughin faces 10-year ban after kidnapping by Israeli settlers in West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-07T16:11:13+00:00",
-    "url": "https://www.aljazeera.com/features/2026/9/7/israel-deports-british-activist-who-protected-palestinian-children?traffic_source=rss",
     "credibility": "medium"
   },
   {
