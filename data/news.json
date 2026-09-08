@@ -1,5 +1,22 @@
 [
   {
+    "id": "98ee3402ba2d",
+    "title_en": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-08T15:36:34+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "c1180cd61c92",
     "title_en": "In Gaza, women-headed households face ‘impossible choices’ to survive",
     "title_ar": "",
@@ -10,6 +27,24 @@
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
     "tags": [
       "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "1473da098464",
+    "title_en": "UNGA: Appeal to global leadership to act before El Niño strikes",
+    "title_ar": "",
+    "excerpt_en": "<span>UNGA: Appeal to global leadership to act before El Niño strikes </span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Displaced people ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-08T08:54:56+00:00",
+    "url": "https://www.unocha.org/news/unga-appeal-global-leadership-act-el-nino-strikes",
+    "tags": [
+      "displacement",
       "humanitarian"
     ],
     "location_tags": [
@@ -182,23 +217,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-02T13:58:53+00:00",
     "url": "https://www.unocha.org/mohamed-yahya",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "5a504f093c92",
-    "title_en": "Today's top news: Democratic Republic of the Congo, Nepal, Sudan, Occupied Palestinian Territory, Lebanon",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Democratic Republic of the Congo, Nepal, Sudan, Occupied Palestinian Territory, Lebanon </span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-01T17:05:34+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-nepal-sudan-occupied-palestinian-territory-lebanon",
     "tags": [
       "humanitarian"
     ],
@@ -381,24 +399,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "fa07e258d5b0",
-    "title_en": "Gaza: Only three per cent of cropland available to grow food",
-    "title_ar": "",
-    "excerpt_en": "Amid ongoing deadly hostilities in Gaza, the enclave’s farmers face the increasingly difficult challenge of finding safe land to grow their crops.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-08-18T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168160",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "09d7a914b3b5",
