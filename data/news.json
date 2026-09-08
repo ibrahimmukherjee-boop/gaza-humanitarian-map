@@ -1,5 +1,22 @@
 [
   {
+    "id": "fc97f50c7c2c",
+    "title_en": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "title_ar": "",
+    "excerpt_en": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-07T21:12:37+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "aad823fc8fb5",
     "title_en": "Uganda: Health workers climb every mountain literally to support women",
     "title_ar": "",
@@ -154,42 +171,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "7e117e7fcfa1",
-    "title_en": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-    "title_ar": "",
-    "excerpt_en": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-09-02T11:51:46+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "b009e8216ded",
-    "title_en": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-    "title_ar": "",
-    "excerpt_en": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-09-01T20:24:28+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "5a504f093c92",
@@ -430,6 +411,23 @@
     "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "1c1c2fe16cce",
+    "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+    "title_ar": "",
+    "excerpt_en": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-03T23:13:03+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
+    "tags": [
       "humanitarian"
     ],
     "location_tags": [

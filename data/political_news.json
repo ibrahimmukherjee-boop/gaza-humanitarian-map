@@ -1,5 +1,31 @@
 [
   {
+    "id": "e08a9e4b9275",
+    "title_en": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
+    "title_ar": "",
+    "excerpt_en": "Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-08T05:34:30+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "fc97f50c7c2c",
+    "title_en": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "title_ar": "",
+    "excerpt_en": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-07T21:12:37+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "64b0adb25401",
     "title_en": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
     "title_ar": "",
@@ -36,32 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-03T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168275",
-    "credibility": "high"
-  },
-  {
-    "id": "7e117e7fcfa1",
-    "title_en": "More than 900 killed in Gaza this year despite ceasefire, Hamas-run health ministry says",
-    "title_ar": "",
-    "excerpt_en": "The ministry says the total number of people killed in the Strip since 10 October is now more than 1,300, including 301 children.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-02T11:51:46+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c7708dy33pdo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "b009e8216ded",
-    "title_en": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
-    "title_ar": "",
-    "excerpt_en": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-01T20:24:28+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c1wxex4vg35o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -231,6 +231,19 @@
     "statement_type": "official_statement",
     "timestamp": "2026-08-10T14:43:08+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "1c1c2fe16cce",
+    "title_en": "'Digital lifeline' - Gaza tech workers give glimpse of possible future",
+    "title_ar": "",
+    "excerpt_en": "Thousands of young people in Gaza are pursuing roles in the digital economy as the territory's wider recovery stalls.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-03T23:13:03+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c1m1xm8ykk2o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
