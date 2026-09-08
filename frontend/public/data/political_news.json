@@ -1,5 +1,31 @@
 [
   {
+    "id": "b1519954bad3",
+    "title_en": "Israeli forces kill Palestinian man and withhold his body near Nablus",
+    "title_ar": "",
+    "excerpt_en": "Israeli forces shot and killed a Palestinian man amid raids and arrests across the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-08T11:29:35+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/8/israeli-forces-kill-palestinian-man-and-withhold-his-body-near-nablus?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "6ee792ff82e2",
+    "title_en": "As Sweden heads to polls, Israel and Palestine policies are on the ballot",
+    "title_ar": "",
+    "excerpt_en": "With the left-wing coalition ahead in polling, the current right-wing government&#039;s policies could soon be up for debate.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-08T11:21:13+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/8/as-sweden-heads-to-polls-israel-and-palestine-policies-are-on-the-ballot?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "46d79bc4b01a",
     "title_en": "UK to announce trade ban on goods from illegal Israeli settlements",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-08T09:31:28+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/8/uk-to-announce-trade-ban-on-goods-from-illegal-israeli-settlements?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e08a9e4b9275",
-    "title_en": "Palestine weekly: Israeli ministers push for depopulation of Gaza",
-    "title_ar": "",
-    "excerpt_en": "Ethnic cleansing plans move from slogans to policy proposals, amid West Bank demolitions and mounting deaths in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-08T05:34:30+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/8/palestine-weekly-israeli-ministers-push-for-depopulation-of-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
