@@ -1,5 +1,22 @@
 [
   {
+    "id": "661abbbf6721",
+    "title_en": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+    "title_ar": "",
+    "excerpt_en": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-08T19:11:39+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "d40b7bd70bae",
     "title_en": "Today's top news: Yemen, Lebanon, Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo",
     "title_ar": "",
@@ -9,6 +26,24 @@
     "timestamp": "2026-09-08T17:38:58+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-yemen-lebanon-occupied-palestinian-territory-ukraine-democratic-republic-congo",
     "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "4ba2179060e0",
+    "title_en": "Displaced in Mozambique: Starting over in a new home",
+    "title_ar": "",
+    "excerpt_en": "<span>Displaced in Mozambique: Starting over in a new home</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Rosa Francisco outside her ne",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-08T16:32:05+00:00",
+    "url": "https://www.unocha.org/news/displaced-mozambique-starting-over-new-home",
+    "tags": [
+      "displacement",
       "humanitarian"
     ],
     "location_tags": [
@@ -209,23 +244,6 @@
     "credibility": "high"
   },
   {
-    "id": "e051a9195865",
-    "title_en": "Today's top news: Asia floods, Middle East, Occupied Palestinian Territory, Syria, Democratic Republic of the Congo, Sudan, Ukraine",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Asia floods, Middle East, Occupied Palestinian Territory, Syria, Democratic Republic of the Congo, Sudan, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-i",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-02T17:14:05+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-asia-floods-middle-east-occupied-palestinian-territory-syria-democratic",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "5fbae8198bd5",
     "title_en": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
     "title_ar": "",
@@ -393,24 +411,6 @@
     "timestamp": "2026-08-19T05:04:00+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "09d7a914b3b5",
-    "title_en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-    "title_ar": "",
-    "excerpt_en": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-10T14:43:08+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
