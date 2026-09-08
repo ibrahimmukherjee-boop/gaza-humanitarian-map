@@ -1,5 +1,22 @@
 [
   {
+    "id": "d40b7bd70bae",
+    "title_en": "Today's top news: Yemen, Lebanon, Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Lebanon, Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-08T17:38:58+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-lebanon-occupied-palestinian-territory-ukraine-democratic-republic-congo",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "98ee3402ba2d",
     "title_en": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
     "title_ar": "",
@@ -200,23 +217,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-02T17:14:05+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-asia-floods-middle-east-occupied-palestinian-territory-syria-democratic",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "dcbfc5146d47",
-    "title_en": "Mohamed Yahya",
-    "title_ar": "",
-    "excerpt_en": "<span>Mohamed Yahya</span>\n\n            <div class=\"field field--name-field-leader-title field--type-string field--label-hidden field__item\">Assistant Secretary-General for Humanitarian Affairs and Deputy Emergency Relief Coordinator</div>\n      <span><span>Jaspreet Kindra</span></span>\n<span><time datetime=\"2026-09-02T13:58:53+00:00\" title=\"2 September 2026 1.58 p.m.\">2 Sep. 2026 1.58 p.m.</time>",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-02T13:58:53+00:00",
-    "url": "https://www.unocha.org/mohamed-yahya",
     "tags": [
       "humanitarian"
     ],
