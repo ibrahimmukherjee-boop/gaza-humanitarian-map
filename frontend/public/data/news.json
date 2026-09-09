@@ -1,5 +1,22 @@
 [
   {
+    "id": "d4bb3a57a6d4",
+    "title_en": "Today's top news: Lebanon, Occupied Palestinian Territory, Sudan, Rwanda, Central African Republic, Myanmar",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Lebanon, Occupied Palestinian Territory, Sudan, Rwanda, Central African Republic, Myanmar</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-09T16:42:14+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-lebanon-occupied-palestinian-territory-sudan-rwanda-central-african-republic",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "661abbbf6721",
     "title_en": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
     "title_ar": "",
