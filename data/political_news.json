@@ -1,5 +1,31 @@
 [
   {
+    "id": "12a6da1dd1c1",
+    "title_en": "How the UK’s ban on Israeli settlement goods has limits",
+    "title_ar": "",
+    "excerpt_en": "Over a year, the UK imported just £6m ($8.1m) in goods recorded as Palestinian, including Israeli settlement goods.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-09T11:27:57+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/9/what-are-the-holes-in-the-uks-ban-on-imports-from-israeli-settlements?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "33acad387f67",
+    "title_en": "‘Overdue first step’: UK reacts to gov’t ban on Israeli settlement trade",
+    "title_ar": "",
+    "excerpt_en": "UK bans imports from illegal Israeli settlements in a strong policy move after recognising a Palestinian state last year.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-09T10:47:47+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/9/overdue-first-step-uk-reacts-to-govt-ban-on-israeli-settlement-trade?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "b18d1e95262b",
     "title_en": "Turkish jets perform dramatic flyover above Egypt’s pyramids",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-09T09:56:42+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/turkish-jets-perform-dramatic-flyover-above-egypts-pyramids?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "af307a7046a4",
-    "title_en": "What ‘right’ and ‘left’ mean in Israel today",
-    "title_ar": "",
-    "excerpt_en": "In Israel, the left-right divide is shaped less by economics than by positions on Palestinian statehood and occupation.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-09T07:22:27+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -218,19 +231,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-24T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168193",
-    "credibility": "high"
-  },
-  {
-    "id": "b883c8579a24",
-    "title_en": "How Israel is expanding settlements in drive to reshape West Bank",
-    "title_ar": "",
-    "excerpt_en": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-21T19:31:47+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
