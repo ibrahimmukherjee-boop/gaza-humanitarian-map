@@ -1,5 +1,18 @@
 [
   {
+    "id": "af307a7046a4",
+    "title_en": "What ‘right’ and ‘left’ mean in Israel today",
+    "title_ar": "",
+    "excerpt_en": "In Israel, the left-right divide is shaped less by economics than by positions on Palestinian statehood and occupation.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-09T07:22:27+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/9/what-right-and-left-mean-in-israel-today?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "661abbbf6721",
     "title_en": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
     "title_ar": "",
@@ -10,6 +23,32 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-09T01:45:15+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "9581789261d0",
+    "title_en": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+    "title_ar": "",
+    "excerpt_en": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-08T23:52:28+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "b7666172aab4",
+    "title_en": "British-Israeli relations at lowest ebb in decades",
+    "title_ar": "",
+    "excerpt_en": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-08T21:46:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -205,19 +244,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-19T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168171",
-    "credibility": "high"
-  },
-  {
-    "id": "7e4fa4082858",
-    "title_en": "Families' agonising search for answers as thousands still missing in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-19T05:04:00+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
