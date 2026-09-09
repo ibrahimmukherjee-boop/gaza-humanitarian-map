@@ -1,5 +1,31 @@
 [
   {
+    "id": "a8358b14e2cd",
+    "title_en": "Pro-Palestinian protesters oppose Israel embassy opening in Slovenia",
+    "title_ar": "",
+    "excerpt_en": "Pro-Palestinian protesters gathered in Slovenia’s capital to oppose the opening of Israel’s first resident embassy.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-09T20:53:26+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/09-09-sv-slovenia-protests-israeli-embassy-ljubljana-slov?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "f860d0627bbc",
+    "title_en": "Burnham defends UK ban on Israeli settlement trade",
+    "title_ar": "",
+    "excerpt_en": "UK Prime Minister Andy Burnham defended a ban on trade with Israeli settlements in the occupied West Bank",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-09T20:32:24+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/burnham-defends-uk-ban-on-israeli-settlement-trade?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "43f60cd23e81",
     "title_en": "Israeli strike targets home in Gaza’s al-Shati refugee camp",
     "title_ar": "",
@@ -10,58 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-09T19:37:47+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/israeli-strike-targets-home-in-gazas-al-shati-refugee-camp?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "454f085e02fd",
-    "title_en": "Breathing depends on a cylinder: Gaza faces medical oxygen crisis",
-    "title_ar": "",
-    "excerpt_en": "Only 12 of Gaza&#039;s 34 oxygen-generation stations remain operational, worsening the health crisis in the besieged enclave.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-09T18:40:38+00:00",
-    "url": "https://www.aljazeera.com/features/2026/9/9/breathing-depends-on-a-cylinder-gaza-faces-medical-oxygen-crisis?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "878ec643b1a8",
-    "title_en": "How significant are new European sanctions on illegal Israeli settlements?",
-    "title_ar": "",
-    "excerpt_en": "Israel is accused of the ethnic cleansing of Palestinians.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-09T18:23:27+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/9/9/how-significant-are-new-european-sanctions-on-illegal-israeli-settlements?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c4f57db4e610",
-    "title_en": "Palestinian child misses first day of school due to settler siege",
-    "title_ar": "",
-    "excerpt_en": "Four-year-old Kinda Hassan is missing the start of her first school year amid a month-long siege by Israeli settlers.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-09T17:32:46+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/9/palestinian-child-misses-first-day-of-school-due-to-settler-siege?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "12be99f213f9",
-    "title_en": "Inside Israel’s prisons, where Ben-Gvir’s cruelty is policy",
-    "title_ar": "",
-    "excerpt_en": "Palestinian prisoners are being kept in inhumane conditions in Israeli detention facilities, overseen by Ben-Gvir.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-09T17:04:24+00:00",
-    "url": "https://www.aljazeera.com/features/2026/9/9/inside-israels-prisons-where-ben-gvirs-cruelty-is-policy?traffic_source=rss",
     "credibility": "medium"
   },
   {
