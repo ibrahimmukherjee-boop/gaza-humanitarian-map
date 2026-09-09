@@ -17,6 +17,40 @@
     "credibility": "medium"
   },
   {
+    "id": "9581789261d0",
+    "title_en": "Chris Mason: Burnham looks to show he will go further than Starmer with West Bank sanctions",
+    "title_ar": "",
+    "excerpt_en": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-08T23:52:28+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "b7666172aab4",
+    "title_en": "British-Israeli relations at lowest ebb in decades",
+    "title_ar": "",
+    "excerpt_en": "Israel's response to London's trade ban with Israeli settlements in the occupied West Bank shows how important this moment is.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-08T21:46:31+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "d40b7bd70bae",
     "title_en": "Today's top news: Yemen, Lebanon, Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo",
     "title_ar": "",
@@ -400,22 +434,5 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "7e4fa4082858",
-    "title_en": "Families' agonising search for answers as thousands still missing in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-08-19T05:04:00+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   }
 ]
