@@ -1,5 +1,22 @@
 [
   {
+    "id": "eb5b58d868d4",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Cuba",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Cuba</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-10T16:17:06+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-cuba",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "62e4b305ef41",
     "title_en": "How a community living under demolition orders from Israel view UK sanctions",
     "title_ar": "",
@@ -233,23 +250,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-04T17:02:48+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-nepal-lebanon-occupied-palestinian-territory-syria-ukraine-colombia",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "fb4a5107c34b",
-    "title_en": "Ebola’s toll on humanity",
-    "title_ar": "",
-    "excerpt_en": "<span>Ebola’s toll on humanity</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"OCHA's Priscilla Lecomte interviews a volunteer with the ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-04T12:56:58+00:00",
-    "url": "https://www.unocha.org/news/ebolas-toll-humanity",
     "tags": [
       "humanitarian"
     ],

@@ -1,15 +1,41 @@
 [
   {
-    "id": "ed741d5f9c9a",
-    "title_en": "Israel will never stop me speaking up for Palestine",
+    "id": "5a8720d83382",
+    "title_en": "Family of four killed as they slept in Israeli strike on Gaza",
     "title_ar": "",
-    "excerpt_en": "Israel’s decision to bar British MPs exposes how far it will go to avoid scrutiny over its treatment of Palestinians.",
+    "excerpt_en": "Four members of a Palestinian family, including girls aged 8 and 12, were killed in an Israeli air attack as they slept",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-10T17:32:28+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e4447a1294de",
+    "title_en": "Israel arrests 100 Palestinians in a week as West Bank pogroms continue",
+    "title_ar": "",
+    "excerpt_en": "Palestinian Prisoner’s Society says detained include children, journalists and ex-prisoner freed in recent exchange deal",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-09-10T12:16:47+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/9/10/israel-will-never-stop-me-speaking-up-for-palestine?traffic_source=rss",
+    "timestamp": "2026-09-10T17:00:17+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/10/israel-arrests-100-palestinians-in-a-week-as-west-bank-pogroms-continue?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "8f94c2bc771e",
+    "title_en": "Jerusalem Daily: Israeli strikes devastate Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israeli air strikes have killed and injured dozens across Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-10T16:27:37+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/10/jerusalem-daily-israeli-strikes-devastate-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -257,6 +283,19 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-19T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168171",
+    "credibility": "high"
+  },
+  {
+    "id": "7e4fa4082858",
+    "title_en": "Families' agonising search for answers as thousands still missing in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-08-19T05:04:00+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
