@@ -1,7 +1,20 @@
 [
   {
+    "id": "34de97f787b0",
+    "title_en": "Israeli attacks kill at least four Palestinians in northern Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israeli attacks on the occupied Palestinian territory continue despite a &#039;ceasefire&#039; brokered in October.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-10T07:45:21+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/10/israeli-attacks-kill-at-least-four-palestinians-in-northern-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "62e4b305ef41",
-    "title_en": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+    "title_en": "How a community living under demolition orders from Israel view UK sanctions",
     "title_ar": "",
     "excerpt_en": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
     "excerpt_ar": "",
@@ -10,6 +23,19 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-09T22:17:22+00:00",
     "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "8229fff28944",
+    "title_en": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
+    "title_ar": "",
+    "excerpt_en": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-09T21:21:13+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -192,6 +218,19 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-24T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168193",
+    "credibility": "high"
+  },
+  {
+    "id": "b883c8579a24",
+    "title_en": "How Israel is expanding settlements in drive to reshape West Bank",
+    "title_ar": "",
+    "excerpt_en": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-08-21T19:31:47+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c2lq5g4dedpo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
