@@ -1,5 +1,18 @@
 [
   {
+    "id": "62e4b305ef41",
+    "title_en": "Land in limbo: BBC visits West Bank village in area earmarked by Israel for settlement",
+    "title_ar": "",
+    "excerpt_en": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-09T22:17:22+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "661abbbf6721",
     "title_en": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
     "title_ar": "",
@@ -88,19 +101,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-04T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168282",
-    "credibility": "high"
-  },
-  {
-    "id": "e05fd5470cc3",
-    "title_en": "Palestinian teens killed during settler attack on West Bank village",
-    "title_ar": "",
-    "excerpt_en": "Al-Mughayyir's council says they were trying to stop settlers stealing sheep, but the Israeli military says they threw stones at its troops.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-03T15:05:57+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cj6482r6yl4o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
