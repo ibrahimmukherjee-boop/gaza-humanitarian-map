@@ -451,5 +451,22 @@
       "Gaza Strip"
     ],
     "credibility": "high"
+  },
+  {
+    "id": "7e4fa4082858",
+    "title_en": "Families' agonising search for answers as thousands still missing in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-08-19T05:04:00+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
   }
 ]
