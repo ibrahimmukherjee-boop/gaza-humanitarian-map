@@ -1,5 +1,18 @@
 [
   {
+    "id": "65bf27e7f41d",
+    "title_en": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
+    "title_ar": "",
+    "excerpt_en": "US and Israeli officials are using a drop in acute malnutrition cases to claim Gaza has no hunger.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-11T12:30:02+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "255036368add",
     "title_en": "Pro-Palestine student suspended by King’s College London returns to campus",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-11T08:18:18+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0f7ead339900",
-    "title_en": "Settlers, soldiers, and Israeli impunity in the West Bank",
-    "title_ar": "",
-    "excerpt_en": "Armed settlers in military uniforms are seizing land and attacking Palestinian communities with near-total impunity.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-11T07:36:43+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/11/settlers-soldiers-and-israeli-impunity-in-the-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0382f7703c84",
-    "title_en": "NAZA, the Israeli film revealing new layers of the Gaza genocide",
-    "title_ar": "",
-    "excerpt_en": "A 25-minute standing ovation at the Biennale has put NAZA, an Israeli-made film confronting Israel’s genocide in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-11T05:25:34+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/naza-the-israeli-film-revealing-new-layers-of-the-gaza-genocide?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -140,19 +127,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-08T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
-    "credibility": "high"
-  },
-  {
-    "id": "fc97f50c7c2c",
-    "title_en": "Palestinian parents fear for children's lives at school as settler attacks grow",
-    "title_ar": "",
-    "excerpt_en": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-07T21:12:37+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -296,6 +270,19 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-19T05:04:00+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "09d7a914b3b5",
+    "title_en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
+    "title_ar": "",
+    "excerpt_en": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-08-10T14:43:08+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
