@@ -1,5 +1,31 @@
 [
   {
+    "id": "e6a043570857",
+    "title_en": "‘Tool of oppression’: Rising number of UK pro-Palestine voices debanked",
+    "title_ar": "",
+    "excerpt_en": "A Palestine Action prisoner&#039;s mother, politician George Galloway and a leftist news outlet are among those speaking up.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-11T15:22:21+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/11/tool-of-oppression-rising-number-of-uk-pro-palestine-voices-debanked?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "97844de4d267",
+    "title_en": "‘Majority do not welcome him’: Trump heads to Ireland amid fury over Gaza",
+    "title_ar": "",
+    "excerpt_en": "Protests set to erupt across Ireland, where President Connolly has long regarded the US as an untrustworthy power.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-11T14:09:52+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/11/majority-do-not-welcome-him-trump-heads-to-ireland-amid-fury-over-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "65bf27e7f41d",
     "title_en": "From hunger crisis to ‘obesity’: how Gaza’s UN data is being twisted",
     "title_ar": "",
@@ -10,32 +36,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-11T12:30:02+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/from-hunger-crisis-to-obesity-how-gazas-un-data-is-being-twisted?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "255036368add",
-    "title_en": "Pro-Palestine student suspended by King’s College London returns to campus",
-    "title_ar": "",
-    "excerpt_en": "College lifts suspension amid criticism from student groups over crackdown on pro-Palestine sentiments.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-11T08:22:02+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/11/pro-palestine-student-suspended-by-kings-college-london-returns-to-campus?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "39ba6d681dbf",
-    "title_en": "How 9/11 helped Israel sell its war on Palestinians to America",
-    "title_ar": "",
-    "excerpt_en": "The &#039;war on terror&#039; made Israeli repression easier to present as part of a shared struggle against a common enemy.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-11T08:18:18+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/9/11/how-9-11-helped-israel-sell-its-war-on-palestinians-to?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -62,19 +62,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-09T21:21:13+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cevw2lxnwk9o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "661abbbf6721",
-    "title_en": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
-    "title_ar": "",
-    "excerpt_en": "Britain's foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as Israel responds by shutting the UK consulate in East Jerusalem.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-09T01:45:15+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
