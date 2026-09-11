@@ -1,18 +1,5 @@
 [
   {
-    "id": "e6a043570857",
-    "title_en": "‘Tool of oppression’: Rising number of UK pro-Palestine voices debanked",
-    "title_ar": "",
-    "excerpt_en": "A Palestine Action prisoner&#039;s mother, politician George Galloway and a leftist news outlet are among those speaking up.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-11T15:22:21+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/11/tool-of-oppression-rising-number-of-uk-pro-palestine-voices-debanked?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "62e4b305ef41",
     "title_en": "How a community living under demolition orders from Israel view UK sanctions",
     "title_ar": "",
@@ -231,19 +218,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-08-19T05:04:00+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "09d7a914b3b5",
-    "title_en": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
-    "title_ar": "",
-    "excerpt_en": "The Trump administration is said to be unbothered by the Israeli prime minister's rejection of the deal, viewing it as campaign rhetoric ahead of a general election.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-08-10T14:43:08+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   }
 ]
