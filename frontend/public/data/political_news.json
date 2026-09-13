@@ -1,5 +1,44 @@
 [
   {
+    "id": "e7618f48be79",
+    "title_en": "Pro-Palestine protest demands Australia increases pressure on Israel",
+    "title_ar": "",
+    "excerpt_en": "A pro-Palestine protest in Sydney demanded that the Australian government take further action and implement on Israel.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-13T21:02:14+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/pro-palestine-protest-demands-australia-increases-pressure-on-israel?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "c2fb1d785e7b",
+    "title_en": "Jerusalem Daily: Pregnant woman killed in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israeli forces kill a pregnant Palestinian woman in Gaza and settler pogroms intensify across the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-13T20:46:34+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/jerusalem-daily-pregnant-woman-killed-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "8c5f289b6c60",
+    "title_en": "Israeli raid targets Palestinian journalist Ali al-Samoudi’s home",
+    "title_ar": "",
+    "excerpt_en": "Israeli forces reportedly raided the Jenin home of Palestinian journalist Ali al-Samoudi and beat his son.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-13T19:41:01+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/13/israeli-raid-targets-palestinian-journalist-ali-al-samoudis-home?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "eda8d7d2f7ff",
     "title_en": "French TV programme pulled after actress speaks out on Gaza",
     "title_ar": "",
