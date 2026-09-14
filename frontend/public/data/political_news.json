@@ -1,5 +1,18 @@
 [
   {
+    "id": "e4fdab0abb87",
+    "title_en": "Israel working to eliminate Palestinian presence from West Bank, NGO warns",
+    "title_ar": "",
+    "excerpt_en": "Israeli human rights group B’Tselem details five mechanisms used by Israel to dismantle Palestinian collective life.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-14T12:58:12+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/14/israel-working-to-eliminate-palestinian-presence-from-west-bank-ngo-warns?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "e11ff5236ecd",
     "title_en": "Animated map shows spread of illegal Israeli settlements across Palestine",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-14T05:56:36+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/14/animated-map-shows-spread-of-illegal-israeli-settlements-across-palestine?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "66b5c192f714",
-    "title_en": "Israeli minister threatens to revoke filmmakers’ citizenship over Gaza film",
-    "title_ar": "",
-    "excerpt_en": "Israeli Culture Minister Miki Zohar labels Gaza genocide film &#039;vile&#039; after it wins Venice Film Festival recognition.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-14T03:50:25+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/14/israeli-minister-threatens-to-revoke-filmmakers-citizenship-over-gaza-film?traffic_source=rss",
     "credibility": "medium"
   },
   {
