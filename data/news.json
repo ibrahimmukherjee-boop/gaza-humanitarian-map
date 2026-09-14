@@ -1,5 +1,22 @@
 [
   {
+    "id": "193d1b4bb890",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Ukraine",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A child st",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-14T16:26:53+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-sudan-ukraine",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "a4f843e18379",
     "title_en": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
     "title_ar": "",
