@@ -1,5 +1,18 @@
 [
   {
+    "id": "35e989bf7580",
+    "title_en": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
+    "title_ar": "",
+    "excerpt_en": "New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-15T06:53:50+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "73a9d44d5bdb",
     "title_en": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
     "title_ar": "",
@@ -10,32 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-15T01:23:53+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9066b123ca11",
-    "title_en": "Israeli attack targets Gaza displacement camp",
-    "title_ar": "",
-    "excerpt_en": "Israeli attack targets Gaza displacement camp",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-14T21:37:04+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/israeli-attack-targets-gaza-displacement-camp?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "11aa00ef025f",
-    "title_en": "Macklemore cut from Ed Sheeran tour for pro-Palestine stance",
-    "title_ar": "",
-    "excerpt_en": "Macklemore says he was dropped from Ed Sheeran’s US tour over his pro-Palestinian stance.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-14T21:29:50+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/14/macklemore-cut-from-ed-sheeran-tour-for-pro-palestine-stance?traffic_source=rss",
     "credibility": "medium"
   },
   {
