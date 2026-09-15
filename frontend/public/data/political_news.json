@@ -1,5 +1,18 @@
 [
   {
+    "id": "73a9d44d5bdb",
+    "title_en": "B’Tselem: Israeli settler violence aims to eliminate Palestinian existence",
+    "title_ar": "",
+    "excerpt_en": "Israeli rights group B’Tselem says Israeli settler violence aims to eliminate Palestinian existence.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-15T01:23:53+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/15/15-09-reported-west-bank-report-btselem-ps?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "9066b123ca11",
     "title_en": "Israeli attack targets Gaza displacement camp",
     "title_ar": "",
@@ -36,19 +49,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-14T21:12:07+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/14/israel-probing-naza-film-on-gaza-for-inciting-antisemitism?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "550ed560e625",
-    "title_en": "Macklemore dropped from Ed Sheeran tour following Palestine advocacy",
-    "title_ar": "",
-    "excerpt_en": "Gillette Stadium owner cites concerns over Macklemore&#039;s rhetoric as reason for barring him from performances.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-14T20:40:54+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/14/macklemore-dropped-from-ed-sheeran-tour-following-palestine-advocacy?traffic_source=rss",
     "credibility": "medium"
   },
   {
