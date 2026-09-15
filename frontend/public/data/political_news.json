@@ -1,5 +1,18 @@
 [
   {
+    "id": "18f4296f9fd1",
+    "title_en": "Gaza remains recovery points to possible war crimes, says UN rights chief",
+    "title_ar": "",
+    "excerpt_en": "Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.&nbsp;&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-15T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
+    "credibility": "high"
+  },
+  {
     "id": "7a6bf66b30d3",
     "title_en": "Why is pro-Palestinian activist Mahmoud Khalil suing Columbia University?",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-15T11:14:00+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/15/why-is-pro-palestinian-activist-mahmoud-khalil-suing-columbia-university?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "35e989bf7580",
-    "title_en": "Palestine weekly: Settlement sanctions spark diplomatic crisis",
-    "title_ar": "",
-    "excerpt_en": "New B&#039;Tselem report frames events on ground as Israel&#039;s &#039;project of elimination&#039; of Palestinians.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-15T06:53:50+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/15/palestine-weekly-settlement-sanctions-spark-diplomatic-crisis?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -62,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-12T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168320",
-    "credibility": "high"
-  },
-  {
-    "id": "62e4b305ef41",
-    "title_en": "How a community living under demolition orders from Israel view UK sanctions",
-    "title_ar": "",
-    "excerpt_en": "BBC's Middle East Correspondent Lucy Williamson visits the Palestinian community of Khan al Ahmar in the so-called E1 area, and the neighbouring Israeli settlement of Maale Admumim.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-09T22:17:22+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/cy5zpze3qe3o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
