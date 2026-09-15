@@ -13,19 +13,6 @@
     "credibility": "medium"
   },
   {
-    "id": "8149a65cd1a9",
-    "title_en": "Canada, the UK and Australia should investigate the WCK attack in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israel has made clear it is unwilling to hold to account those responsible for the deaths of seven humanitarian workers.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-15T15:25:39+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/9/15/canada-the-uk-and-australia-should-investigate-the-wck-attack-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "18f4296f9fd1",
     "title_en": "Gaza remains recovery points to possible war crimes, says UN rights chief",
     "title_ar": "",
@@ -192,19 +179,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-08-27T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168220",
-    "credibility": "high"
-  },
-  {
-    "id": "efc1c5939113",
-    "title_en": "After Israeli seizure of Kalandia training centre, UNRWA warns of impact on youth",
-    "title_ar": "",
-    "excerpt_en": "The seizure of a vocational training centre in occupied East Jerusalem has left hundreds of Palestinian young people without access to skills and training that could help shape their futures.&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-08-27T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168219",
     "credibility": "high"
   }
 ]
