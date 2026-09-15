@@ -1,5 +1,22 @@
 [
   {
+    "id": "1b2fb75937bd",
+    "title_en": "Today's top news: Yemen, Saudi Arabia, Occupied Palestinian Territory, Democratic Republic of the Congo",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Saudi Arabia, Occupied Palestinian Territory, Democratic Republic of the Congo</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden fie",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-15T16:52:18+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-saudi-arabia-occupied-palestinian-territory-democratic-republic-congo",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "18f4296f9fd1",
     "title_en": "Gaza remains recovery points to possible war crimes, says UN rights chief",
     "title_ar": "",
@@ -152,23 +169,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "d40b7bd70bae",
-    "title_en": "Today's top news: Yemen, Lebanon, Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Lebanon, Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-08T17:38:58+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-lebanon-occupied-palestinian-territory-ukraine-democratic-republic-congo",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "98ee3402ba2d",
