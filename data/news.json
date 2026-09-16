@@ -1,12 +1,12 @@
 [
   {
     "id": "775eaf120d5c",
-    "title_en": "At least 20 killed after war-damaged Gaza building collapses",
+    "title_en": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
     "title_ar": "",
-    "excerpt_en": "Dozens of people are missing beneath the rubble of the building in Gaza City, where some 10 families had been living.",
+    "excerpt_en": "Dozens of people are missing beneath the rubble of a building hit by an Israeli strike last year, where some 10 families had been living.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
-    "timestamp": "2026-09-16T11:22:51+00:00",
+    "timestamp": "2026-09-16T13:28:46+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
@@ -15,6 +15,23 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
+  },
+  {
+    "id": "ea1fc19b49c0",
+    "title_en": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
+    "title_ar": "",
+    "excerpt_en": "Search and rescue operations continued in Gaza City on Wednesday following the collapse of a bombed-out building that killed at least 20 people, according to reports.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-09-16T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
   },
   {
     "id": "1b2fb75937bd",
@@ -302,24 +319,6 @@
     "source": "UN News",
     "timestamp": "2026-08-28T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/08/1168229",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "57cf4552b64f",
-    "title_en": "Aid reaches hundreds of thousands in Gaza amid severe food insecurity",
-    "title_ar": "",
-    "excerpt_en": "As hunger deepens across Gaza, humanitarian agencies continue to deliver food and other essential supplies to families in need.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-08-27T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168220",
     "tags": [
       "aid",
       "humanitarian"
