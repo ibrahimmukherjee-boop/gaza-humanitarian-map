@@ -1,5 +1,31 @@
 [
   {
+    "id": "dca25dc17d80",
+    "title_en": "Rescue workers search for survivors after Gaza building collapse",
+    "title_ar": "",
+    "excerpt_en": "Rescue workers search for survivors after Gaza building collapse",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-16T21:15:42+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/rescue-workers-search-for-survivors-after-gaza-building-collapse?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "bd1f7616b54c",
+    "title_en": "Al-Mughayyir: A village under siege",
+    "title_ar": "",
+    "excerpt_en": "In al-Mughayyir, Palestinians say they are being squeezed into a smaller part of their own village in the West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-16T19:48:05+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/al-mughayyir-a-village-under-siege?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "07a783a81a73",
     "title_en": "UK trade unions back motion to boycott and sanction Israel",
     "title_ar": "",
@@ -49,19 +75,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-16T17:00:00+00:00",
     "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/9/16/neturei-karta-opposing-zionism?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b696b0c5c9e7",
-    "title_en": "Israeli ‘double-tap’ air strike responsible for killing schoolboy in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Two people were killed in the assault on Gaza City - a paramedic and a 15-year-old boy returning from school.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-16T15:00:20+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/16/israeli-double-tap-air-strike-responsible-for-killing-schoolboy-in-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
