@@ -1,5 +1,31 @@
 [
   {
+    "id": "775eaf120d5c",
+    "title_en": "At least 20 killed after war-damaged Gaza building collapses",
+    "title_ar": "",
+    "excerpt_en": "Dozens of people are missing beneath the rubble of the building in Gaza City, where 10 families had reportedly been living.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-16T09:45:19+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "7a53356907ff",
+    "title_en": "Human rights lawyer Noura Erakat arrested at hearing against Israel Bonds",
+    "title_ar": "",
+    "excerpt_en": "Palestinian human rights lawyer Noura Erakat was arrested in Florida after speaking against an Israel Bonds investment.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-16T09:19:50+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/human-rights-lawyer-noura-erakat-arrested-at-hearing-against-israel-bonds?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "65629744bbaf",
     "title_en": "At least 10 dead, dozens missing in Gaza building collapse",
     "title_ar": "",
@@ -14,28 +40,15 @@
   },
   {
     "id": "29973abda925",
-    "title_en": "Gaza residential building collapses, six families reportedly trapped",
+    "title_en": "Gaza building collapse kills 20, traps dozens under rubble",
     "title_ar": "",
-    "excerpt_en": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
+    "excerpt_en": "Rescuers comb wreckage of a bombed-out apartment building that collapsed overnight in Gaza City.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
     "timestamp": "2026-09-16T04:30:52+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "78b5959f8cca",
-    "title_en": "Israeli soldiers rappel from helicopter in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces rappelled from a helicopter onto the roof of a residential building in Yatta, in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-16T00:42:33+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
