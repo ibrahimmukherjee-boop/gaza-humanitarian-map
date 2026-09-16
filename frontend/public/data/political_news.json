@@ -1,5 +1,31 @@
 [
   {
+    "id": "65629744bbaf",
+    "title_en": "At least 10 dead, dozens missing in Gaza building collapse",
+    "title_ar": "",
+    "excerpt_en": "At least 10 Palestinians are dead and up to 70 more are believed missing after a building collapsed in Gaza City.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-16T05:06:52+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/at-least-10-dead-dozens-missing-in-gaza-building-collapse?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "29973abda925",
+    "title_en": "Gaza residential building collapses, six families reportedly trapped",
+    "title_ar": "",
+    "excerpt_en": "Rescue crews in Gaza pull survivors from a collapsed building as cries for help echo beneath the rubble, witnesses say.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-16T04:30:52+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/16/gaza-residential-building-collapses-six-families-reportedly-trapped?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "78b5959f8cca",
     "title_en": "Israeli soldiers rappel from helicopter in occupied West Bank",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-16T00:42:33+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/16/israeli-soldiers-rappel-from-helicopter-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "8b7cbf726e44",
-    "title_en": "Ed Sheeran blames US tour promoter for dropping Macklemore",
-    "title_ar": "",
-    "excerpt_en": "The British musician said it was important to &quot;set out some facts&quot; after US rapper voiced support for Palestine.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-15T22:21:44+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/15/ed-sheeran-blames-us-tour-promoter-for-dropping-macklemore?traffic_source=rss",
     "credibility": "medium"
   },
   {
