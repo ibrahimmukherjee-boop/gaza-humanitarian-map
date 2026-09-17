@@ -1,5 +1,18 @@
 [
   {
+    "id": "4e36a25e8a59",
+    "title_en": "UK charities, protest groups condemn Israeli ban threat after sanctions",
+    "title_ar": "",
+    "excerpt_en": "Having warned London of &#039;consequences&#039; for sanctions, Israel targets UK charities, campaign groups and Palestine Action.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-17T10:19:24+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f4e41703affc",
     "title_en": "US blocks Palestinian leader from UN meeting in New York for second year in row",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-17T04:35:52+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "01511e3db98c",
-    "title_en": "US extends visa ban on Palestinian officials before UN General Assembly",
-    "title_ar": "",
-    "excerpt_en": "Palestinian President Mahmoud Abbas is among those barred for the second year in a row.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-17T03:44:13+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/17/us-extends-visa-ban-on-palestinian-officials-before-un-general-assembly?traffic_source=rss",
     "credibility": "medium"
   },
   {
