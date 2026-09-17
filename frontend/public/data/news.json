@@ -1,5 +1,22 @@
 [
   {
+    "id": "9ef792b0a30a",
+    "title_en": "Today's top news: Syria, Yemen, Occupied Palestinian Territory, Lebanon",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Syria, Yemen, Occupied Palestinian Territory, Lebanon</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A former s",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-17T17:35:35+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-syria-yemen-occupied-palestinian-territory-lebanon",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "f4e41703affc",
     "title_en": "US blocks Palestinian leader from UN meeting in New York for second year in row",
     "title_ar": "",
@@ -206,23 +223,6 @@
     "credibility": "high"
   },
   {
-    "id": "eb5b58d868d4",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Cuba",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Cuba</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-10T16:17:06+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-cuba",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "b7666172aab4",
     "title_en": "British-Israeli relations at lowest ebb in decades",
     "title_ar": "",
@@ -320,24 +320,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168275",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "5fbae8198bd5",
-    "title_en": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Lack of funding has forced the World Food Programme (WFP) to slash aid to families in the West Bank by half even though needs have more than doubled over the past two years.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-09-01T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168237",
-    "tags": [
-      "health",
       "humanitarian"
     ],
     "location_tags": [

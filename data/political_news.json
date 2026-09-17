@@ -1,28 +1,28 @@
 [
   {
-    "id": "faf986214b81",
-    "title_en": "Gaza repairman helps journalists to keep documenting genocide",
+    "id": "c7ceb727b0dd",
+    "title_en": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
     "title_ar": "",
-    "excerpt_en": "As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.",
+    "excerpt_en": "Public broadcaster says country&#039;s participation cannot be justified amid &#039;appalling and ongoing loss of lives in Gaza&#039;.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-09-17T11:01:03+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
+    "timestamp": "2026-09-17T15:40:48+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
     "credibility": "medium"
   },
   {
-    "id": "4e36a25e8a59",
-    "title_en": "UK charities, protest groups condemn Israeli ban threat after sanctions",
+    "id": "227905a7ca6e",
+    "title_en": "‘Kosovo’s moves towards Israel are the price of aligning with US policy’",
     "title_ar": "",
-    "excerpt_en": "Having warned London of &#039;consequences&#039; for sanctions, Israel targets UK charities, campaign groups and Palestine Action.",
+    "excerpt_en": "Kosovo&#039;s decision to join a US-led Gaza force exposes the pull of its alliance with Washington, according to analysts.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-09-17T10:19:24+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/17/uk-charities-protest-groups-condemn-israeli-ban-threat-after-sanctions?traffic_source=rss",
+    "timestamp": "2026-09-17T15:10:12+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/17/kosovo-israel-ties?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -192,19 +192,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-03T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168275",
-    "credibility": "high"
-  },
-  {
-    "id": "5fbae8198bd5",
-    "title_en": "Food aid cutback in the occupied West Bank as health fears grow in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Lack of funding has forced the World Food Programme (WFP) to slash aid to families in the West Bank by half even though needs have more than doubled over the past two years.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-01T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168237",
     "credibility": "high"
   }
 ]
