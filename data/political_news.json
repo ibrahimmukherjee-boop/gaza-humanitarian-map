@@ -1,5 +1,18 @@
 [
   {
+    "id": "faf986214b81",
+    "title_en": "Gaza repairman helps journalists to keep documenting genocide",
+    "title_ar": "",
+    "excerpt_en": "As journalists in Gaza continue documenting the war, camera repairman Mohammed Radwan keeps damaged equipment in use.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-17T11:01:03+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/gaza-repairman-helps-journalists-to-keep-documenting-genocide?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "4e36a25e8a59",
     "title_en": "UK charities, protest groups condemn Israeli ban threat after sanctions",
     "title_ar": "",
@@ -24,45 +37,6 @@
     "timestamp": "2026-09-17T09:06:08+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "3ed73b9b2721",
-    "title_en": "Palestinians use radio to navigate Israeli occupation and pogroms",
-    "title_ar": "",
-    "excerpt_en": "Al Jazeera’s Nida Ibrahim explains how Palestinians use local radio to navigate Israel&#039;s occupation and settler pogroms.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-17T08:46:17+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-reported-nida-ibrahim-owb-violence-mp4?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0cff8c04d7cb",
-    "title_en": "Israel weaponises AI for West Bank demolitions",
-    "title_ar": "",
-    "excerpt_en": "AI tools push forced evictions of Palestinians, automating demolitions in occupied territories under Israeli control.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-17T06:30:08+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e3e4e33ecc40",
-    "title_en": "US bars Palestinian president from attending UNGA for second year",
-    "title_ar": "",
-    "excerpt_en": "The United States has declined to grant visas to Palestinian President Mahmoud Abbas.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-17T04:35:52+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-bars-palestinian-president-from-attending-unga-for-second-year?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "775eaf120d5c",
@@ -231,19 +205,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-01T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168237",
-    "credibility": "high"
-  },
-  {
-    "id": "1277121ec27e",
-    "title_en": "Four children killed as separate attacks in Gaza destroy aid supplies",
-    "title_ar": "",
-    "excerpt_en": "Israeli attacks killed four children and destroyed humanitarian aid supplies in what turned out to be a deadly week in war-ravaged Gaza, the UN emergency relief agency, OCHA, said on Friday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-08-28T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/08/1168229",
     "credibility": "high"
   }
 ]
