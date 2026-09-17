@@ -1,5 +1,44 @@
 [
   {
+    "id": "f4e41703affc",
+    "title_en": "US blocks Palestinian leader from UN meeting in New York for second year in row",
+    "title_ar": "",
+    "excerpt_en": "The US State Department extended visa sanctions after accusing Palestinian officials of failing to live up to peace process commitments.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-17T09:06:08+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "3ed73b9b2721",
+    "title_en": "Palestinians use radio to navigate Israeli occupation and pogroms",
+    "title_ar": "",
+    "excerpt_en": "Al Jazeera’s Nida Ibrahim explains how Palestinians use local radio to navigate Israel&#039;s occupation and settler pogroms.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-17T08:46:17+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/17/09-17-reported-nida-ibrahim-owb-violence-mp4?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0cff8c04d7cb",
+    "title_en": "Israel weaponises AI for West Bank demolitions",
+    "title_ar": "",
+    "excerpt_en": "AI tools push forced evictions of Palestinians, automating demolitions in occupied territories under Israeli control.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-17T06:30:08+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "e3e4e33ecc40",
     "title_en": "US bars Palestinian president from attending UNGA for second year",
     "title_ar": "",

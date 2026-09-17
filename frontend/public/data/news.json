@@ -1,5 +1,22 @@
 [
   {
+    "id": "f4e41703affc",
+    "title_en": "US blocks Palestinian leader from UN meeting in New York for second year in row",
+    "title_ar": "",
+    "excerpt_en": "The US State Department extended visa sanctions after accusing Palestinian officials of failing to live up to peace process commitments.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-17T09:06:08+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "3408d6e7da92",
     "title_en": "Today's top news: Occupied Palestinian Territory, Democratic Republic of the Congo, Sudan",
     "title_ar": "",
@@ -32,6 +49,24 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
+  },
+  {
+    "id": "54bafc6a79b2",
+    "title_en": "Uganda: A concrete effort to rebuild lives",
+    "title_ar": "",
+    "excerpt_en": "<span>Uganda: A concrete effort to rebuild lives</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Zawadi Furaha, a refugee from the Democ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-16T13:28:43+00:00",
+    "url": "https://www.unocha.org/news/uganda-concrete-effort-rebuild-lives",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
   },
   {
     "id": "ea1fc19b49c0",
@@ -179,23 +214,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-10T16:17:06+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-cuba",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "d4bb3a57a6d4",
-    "title_en": "Today's top news: Lebanon, Occupied Palestinian Territory, Sudan, Rwanda, Central African Republic, Myanmar",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Lebanon, Occupied Palestinian Territory, Sudan, Rwanda, Central African Republic, Myanmar</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-09T16:42:14+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-lebanon-occupied-palestinian-territory-sudan-rwanda-central-african-republic",
     "tags": [
       "humanitarian"
     ],
