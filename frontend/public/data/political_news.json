@@ -1,5 +1,18 @@
 [
   {
+    "id": "c2f0051cbd25",
+    "title_en": "Ed Sheeran concert set to go ahead after outcry over Gaza",
+    "title_ar": "",
+    "excerpt_en": "Sheeran may perform solo after musicians dropped out of tour over expulsion of Macklemore for supporting Palestine.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-19T17:14:45+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/19/ed-sheeran-concert-set-to-go-ahead-after-outcry-over-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "485821714903",
     "title_en": "Jerusalem Daily: Gaza’s children return to schools",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-19T12:59:31+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/19/three-palestinians-killed-in-israeli-strikes-across-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3831abd0665c",
-    "title_en": "In Gaza, actors perform a war they are still living",
-    "title_ar": "",
-    "excerpt_en": "In Gaza, Palestinian actors turn stories of siege and loss into theatre, while confronting the same fears and hardships.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-19T12:18:52+00:00",
-    "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -88,19 +88,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-09-15T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
-    "credibility": "high"
-  },
-  {
-    "id": "3b401036cdfe",
-    "title_en": "Israeli minister threatens to revoke filmmakers' citizenship over Gaza documentary",
-    "title_ar": "",
-    "excerpt_en": "The film accuses the Israeli army of mass civilian killing in Gaza, and Israeli officials say it could be treasonous.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-14T18:26:20+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c9vgy8d8256go?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
