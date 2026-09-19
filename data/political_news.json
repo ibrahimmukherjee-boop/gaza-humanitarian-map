@@ -1,5 +1,18 @@
 [
   {
+    "id": "485821714903",
+    "title_en": "Jerusalem Daily: Gaza’s children return to schools",
+    "title_ar": "",
+    "excerpt_en": "It&#039;s the first official day back to school for Gaza&#039;s children.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-19T15:38:58+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/19/jerusalem-daily-gazas-children-return-to-schools?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "e8096eb8b1ac",
     "title_en": "Child among three Palestinians killed in Israeli attacks across Gaza",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-19T12:18:52+00:00",
     "url": "https://www.aljazeera.com/features/2026/9/19/in-gaza-actors-perform-a-war-they-are-still-living?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "bb61afbf373e",
-    "title_en": "EU urges US to lift travel ban on Palestinian delegation for UNGA meeting",
-    "title_ar": "",
-    "excerpt_en": "The United Nations General Assembly will allow Palestinian President Mahmoud Abbas to address via a prerecorded video.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-19T09:05:13+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/19/eu-urges-us-to-lift-travel-ban-on-palestinian-delegation-for-unga-meeting?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "98aeeed54190",
-    "title_en": "NAZA: Why are old Gaza allegations causing new fury in Israel?",
-    "title_ar": "",
-    "excerpt_en": "Israeli soldiers&#039; Gaza testimony causes backlash across much of the country&#039;s political establishment.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-19T07:50:44+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/19/naza-why-are-old-gaza-allegations-causing-new-fury-in-israel?traffic_source=rss",
     "credibility": "medium"
   },
   {
