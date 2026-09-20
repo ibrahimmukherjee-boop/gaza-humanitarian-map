@@ -1,5 +1,31 @@
 [
   {
+    "id": "ddbe65e516a5",
+    "title_en": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+    "title_ar": "",
+    "excerpt_en": "Hundreds of Tunisians have protested in Tunis, demanding the release of four Global Sumud Flotilla activists.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-20T14:38:01+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7e91fd9b105a",
+    "title_en": "The pro-Israel censors are starting to lose",
+    "title_ar": "",
+    "excerpt_en": "The Macklemore controversy demonstrates that the cost of speaking up for Palestine is diminishing.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-20T14:00:32+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "dcf860637acf",
     "title_en": "Gaza’s children return to classrooms after years of Israeli attacks",
     "title_ar": "",
@@ -49,19 +75,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-20T11:26:20+00:00",
     "url": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "45f109258abe",
-    "title_en": "Echoicide: Who decides which truths survive in Gaza?",
-    "title_ar": "",
-    "excerpt_en": "From Gaza to the digital age, visibility has become one of the central political struggles of modern conflicts.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-20T08:32:45+00:00",
-    "url": "https://www.aljazeera.com/news-analysis/2026/9/20/echoicide-who-decides-which-truths-survive-in-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
