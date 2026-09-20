@@ -1,5 +1,18 @@
 [
   {
+    "id": "9bda5250ba57",
+    "title_en": "Gaza artists honour Macklemore for supporting Palestine",
+    "title_ar": "",
+    "excerpt_en": "Artists in Gaza are painting murals on destroyed walls, honouring US rapper Macklemore for his support for Palestine.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-20T17:59:10+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gaza-artists-honour-macklemore-for-supporting-palestine?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ddbe65e516a5",
     "title_en": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
     "title_ar": "",
@@ -23,45 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-20T14:00:32+00:00",
     "url": "https://www.aljazeera.com/opinions/2026/9/20/the-pro-israel-censors-are-starting-to-lose?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "dcf860637acf",
-    "title_en": "Gaza’s children return to classrooms after years of Israeli attacks",
-    "title_ar": "",
-    "excerpt_en": "Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-20T12:38:21+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e8416895a235",
-    "title_en": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces have killed a Palestinian man near Jenin, and an Israeli settler was fatally shot in a separate incident.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-20T12:11:22+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "bdc1afcd4c0e",
-    "title_en": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
-    "title_ar": "",
-    "excerpt_en": "Pro-Palestine protesters rallied outside Ed Sheeran’s solo concert in Philadelphia.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-20T12:00:16+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
     "credibility": "medium"
   },
   {
