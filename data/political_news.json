@@ -1,54 +1,15 @@
 [
   {
-    "id": "58fa1a90b2df",
-    "title_en": "NFL’s Azeez Al-Shaair honours another Palestinian girl killed by Israel",
+    "id": "4a72d594cfd3",
+    "title_en": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed",
     "title_ar": "",
-    "excerpt_en": "Azeez Al-Shaair has paid tribute to another Palestinian child killed by Israel, despite the NFL fine last week.",
+    "excerpt_en": "Jerusalem Daily: Ben-Gvir demands death penalty for Palestinian who killed settler",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-09-21T12:49:07+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/nfls-azeez-al-shaair-honours-another-palestinian-girl-killed-by-israel?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "23594ab74fcf",
-    "title_en": "Israeli attacks on Gaza kill three, including a child",
-    "title_ar": "",
-    "excerpt_en": "Israeli attacks on Palestinians continue in Gaza despite a &#039;ceasefire&#039; signed in October.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-21T12:32:43+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/21/israeli-attacks-on-gaza-kill-three-including-a-child?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "aca7c9f37b6c",
-    "title_en": "Israeli forces arrest dozens of Palestinians in occupied West Bank raid",
-    "title_ar": "",
-    "excerpt_en": "At least 53 young men are being held in Biddu after raids left the town in lockdown, with schools and businesses shut.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-21T12:31:10+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/21/israeli-forces-arrest-dozens-of-palestinians-in-occupied-west-bank-raid?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e576d1bf4df6",
-    "title_en": "NFL’s Azeez Al-Shaair pays tribute to slain Palestinian girl Wafaa Akila",
-    "title_ar": "",
-    "excerpt_en": "Al-Shaair wears eye black with Akila&#039;s name despite being fined for displaying messages about Israel&#039;s genocide in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-21T11:26:41+00:00",
-    "url": "https://www.aljazeera.com/sports/2026/9/21/nfls-azeez-al-shaair-pays-tribute-to-slain-palestinian-girl-wafaa-akila?traffic_source=rss",
+    "timestamp": "2026-09-21T17:19:59+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/21/jerusalem-daily-ben-gvir-demands-death-penalty-for-palestinian-who-killed?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -101,19 +62,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-09-15T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
-    "credibility": "high"
-  },
-  {
-    "id": "86d33c999776",
-    "title_en": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
-    "title_ar": "",
-    "excerpt_en": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-14T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168333",
     "credibility": "high"
   },
   {

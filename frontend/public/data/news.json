@@ -1,5 +1,40 @@
 [
   {
+    "id": "7fcd546ea10d",
+    "title_en": "Mozambique: “Hope arrived in a mobile phone notification”",
+    "title_ar": "",
+    "excerpt_en": "<span>Mozambique: “Hope arrived in a mobile phone notification”</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"People displaced by floo",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-21T14:59:24+00:00",
+    "url": "https://www.unocha.org/news/mozambique-hope-arrived-mobile-phone-notification",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "f7e7d4ec99fc",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Ukraine, Haiti, Afghanistan",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Ukraine, Haiti, Afghanistan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img al",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-21T14:14:33+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-ukraine-haiti-afghanistan",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "58264095f66d",
     "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Haiti",
     "title_ar": "",
@@ -102,24 +137,6 @@
     "credibility": "medium"
   },
   {
-    "id": "54bafc6a79b2",
-    "title_en": "Uganda: A concrete effort to rebuild lives",
-    "title_ar": "",
-    "excerpt_en": "<span>Uganda: A concrete effort to rebuild lives</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Zawadi Furaha, a refugee from the Democ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-16T13:28:43+00:00",
-    "url": "https://www.unocha.org/news/uganda-concrete-effort-rebuild-lives",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "ea1fc19b49c0",
     "title_en": "Gaza: At least 20 killed in deadly building collapse, search for survivors continues",
     "title_ar": "",
@@ -128,23 +145,6 @@
     "source": "UN News",
     "timestamp": "2026-09-16T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "1b2fb75937bd",
-    "title_en": "Today's top news: Yemen, Saudi Arabia, Occupied Palestinian Territory, Democratic Republic of the Congo",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Saudi Arabia, Occupied Palestinian Territory, Democratic Republic of the Congo</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden fie",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-15T16:52:18+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-saudi-arabia-occupied-palestinian-territory-democratic-republic-congo",
     "tags": [
       "humanitarian"
     ],
@@ -163,24 +163,6 @@
     "timestamp": "2026-09-15T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "86d33c999776",
-    "title_en": "Six UN staff killed in Gaza school strike; Lebanon violations mount",
-    "title_ar": "",
-    "excerpt_en": "Israeli strikes killed six UN workers and civilians at a school sheltering displaced families in Gaza as needs grow, according to the UN agency for Palestine refugees, UNRWA.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-09-14T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168333",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
