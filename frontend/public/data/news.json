@@ -1,5 +1,22 @@
 [
   {
+    "id": "226efe677b76",
+    "title_en": "“We are able to lead”: Local humanitarians call for equal partnership",
+    "title_ar": "",
+    "excerpt_en": "<span>“We are able to lead”: Local humanitarians call for equal partnership</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Nour Hussein",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-22T20:17:23+00:00",
+    "url": "https://www.unocha.org/news/we-are-able-lead-local-humanitarians-call-equal-partnership",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "364278a8b766",
     "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Somalia",
     "title_ar": "",
@@ -95,23 +112,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-21T14:14:33+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-ukraine-haiti-afghanistan",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "58264095f66d",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Haiti",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__ite",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-18T16:43:46+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-haiti",
     "tags": [
       "humanitarian"
     ],
