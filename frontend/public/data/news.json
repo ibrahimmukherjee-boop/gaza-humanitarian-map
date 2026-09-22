@@ -1,5 +1,22 @@
 [
   {
+    "id": "7cd6706977b3",
+    "title_en": "The support behind every response",
+    "title_ar": "",
+    "excerpt_en": "<span>The support behind every response</span>\n<span><span>Elayne Wangalwa</span></span>\n<span><time datetime=\"2026-09-21T23:14:35+00:00\" title=\"21 September 2026 11.14 p.m.\">21 Sep. 2026 11.14 p.m.</time>\n</span>\n\n            <div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Behind every humanitarian response is a community of committed supporter",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-21T23:14:35+00:00",
+    "url": "https://www.unocha.org/support-behind-every-response",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "882b7dae62f8",
     "title_en": "UN relief chief urges stronger humanitarian diplomacy to defend international humanitarian law",
     "title_ar": "",
@@ -77,23 +94,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-18T16:25:31+00:00",
     "url": "https://www.unocha.org/media-centre/drc-alima-ebola-treatment-centre-18-september-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "9ef792b0a30a",
-    "title_en": "Today's top news: Syria, Yemen, Occupied Palestinian Territory, Lebanon",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Syria, Yemen, Occupied Palestinian Territory, Lebanon</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A former s",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-17T17:35:35+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-syria-yemen-occupied-palestinian-territory-lebanon",
     "tags": [
       "humanitarian"
     ],
