@@ -1,5 +1,23 @@
 [
   {
+    "id": "364278a8b766",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Somalia",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A displace",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-22T17:53:46+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-sudan-somalia",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "7cd6706977b3",
     "title_en": "The support behind every response",
     "title_ar": "",
@@ -94,23 +112,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-18T16:43:46+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-haiti",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "ea51849fa893",
-    "title_en": "DRC - Alima Ebola treatment centre - 18 September 2026",
-    "title_ar": "",
-    "excerpt_en": "<span>DRC - Alima Ebola treatment centre - 18 September 2026</span>\n\n            <div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Description<br />STORY: OCHA / ALIMA EBOLA TREATMENT CENTRE<br />TRT: 5:45<br />SOURCE: OCHA<br />RESTRICTIONS: PLEASE CREDIT OCHA ON SCREEN<br />LANGUAGE: ENGLISH / NATS<br />DATELINE: 12 SEPTEMBER 2026, RWAMPARA, ITU",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-18T16:25:31+00:00",
-    "url": "https://www.unocha.org/media-centre/drc-alima-ebola-treatment-centre-18-september-2026",
     "tags": [
       "humanitarian"
     ],
