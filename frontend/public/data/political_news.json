@@ -1,5 +1,31 @@
 [
   {
+    "id": "d50edd05abcc",
+    "title_en": "Palestinians turn to communal ovens to bake bread in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Amid Gaza’s food crisis, bread remains a staple as displaced families use communal ovens to save on costly fuel.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-22T07:26:16+00:00",
+    "url": "https://www.aljazeera.com/features/2026/9/22/palestinians-turn-to-communal-ovens-to-bake-bread-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "6eb16eda5d8c",
+    "title_en": "Attempted murder for the man who shot three Palestinians in Vermont",
+    "title_ar": "",
+    "excerpt_en": "Jason Eaton was found guilty of attempted second-degree murder for the shooting of three Palestinian college students.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-22T06:16:54+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_us-man-who-shot-three-palestinians-guilty-220926?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ca56fc1392be",
     "title_en": "Why does the US want to send Israel 40,000 bombs?",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-22T05:15:34+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/why-does-the-us-want-to-send-israel-40000-bombs?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3955619ae161",
-    "title_en": "Trump returns to the UN, what will he say?",
-    "title_ar": "",
-    "excerpt_en": "Trump returns to UNGA amid Iran war he started, Israeli violations of a Gaza ceasefire, and scrutiny of US aims.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-22T00:31:56+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/aje-onl-nf_trump-returns-to-the-un-what-will-he-say-210926?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -101,19 +114,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-08T21:46:31+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "98ee3402ba2d",
-    "title_en": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-08T15:36:34+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
