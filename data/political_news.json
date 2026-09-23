@@ -1,5 +1,18 @@
 [
   {
+    "id": "0f81c8c7576e",
+    "title_en": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
+    "title_ar": "",
+    "excerpt_en": "Israel's PM denounces the French president after he appeared to downplay Hamas's activities in the occupied territory.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-23T11:30:58+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ck1l6yyg52qvo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "86b9a6e11913",
     "title_en": "What Palestinian children endure in Israeli detention",
     "title_ar": "",
@@ -26,32 +39,6 @@
     "credibility": "high"
   },
   {
-    "id": "6eff5e269dba",
-    "title_en": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
-    "title_ar": "",
-    "excerpt_en": "France&#039;s Macron says suffering in Gaza should &#039;shame all of us&#039; as Canada&#039;s Carney pledges $71m for two-state efforts.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-23T02:36:32+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b8544ea6a572",
-    "title_en": "UK Prime Minister vows not to ‘stand by’ as Palestinians suffer",
-    "title_ar": "",
-    "excerpt_en": "UK PM Burnham condemned Israel’s war on Gaza, and explains why the UK sanctioned illegal Israeli settlements.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-23T02:24:01+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "70c5a95ae86b",
     "title_en": "‘Time is running out’ for Israel-Palestine two-State solution",
     "title_ar": "",
@@ -75,19 +62,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-17T09:06:08+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cq783jlrr282o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "775eaf120d5c",
-    "title_en": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-    "title_ar": "",
-    "excerpt_en": "Some 10 families had reportedly been living in the six-storey building in Gaza City that was hit by an Israeli strike last year.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-16T17:16:47+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
