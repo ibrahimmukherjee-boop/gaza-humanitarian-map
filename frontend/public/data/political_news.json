@@ -1,5 +1,44 @@
 [
   {
+    "id": "f2564a15ffd2",
+    "title_en": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-23T19:29:49+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ce9b182492e1",
+    "title_en": "Israel’s ambassador to the US says son injured in West Bank car-ramming",
+    "title_ar": "",
+    "excerpt_en": "Palestinian shot dead as Israel&#039;s ambassador to the US identifies injured soldier as his son.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-23T18:49:45+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/23/israels-ambassador-to-the-us-says-son-injured-in-west-bank-car-ramming?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "85e5066864a9",
+    "title_en": "US lawmakers seek sanctions for Israel’s ‘E1’ West Bank settlement plan",
+    "title_ar": "",
+    "excerpt_en": "Project would effectively cleave Palestinian territory in half and has prompted widespread international condemnation.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-23T18:48:26+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a0e5ccbfc9e5",
     "title_en": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven",
     "title_ar": "",
