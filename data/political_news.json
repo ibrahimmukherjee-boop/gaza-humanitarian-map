@@ -1,5 +1,31 @@
 [
   {
+    "id": "e1cfe5572ca9",
+    "title_en": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
+    "title_ar": "",
+    "excerpt_en": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-23T21:26:14+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "f4b18eeea506",
+    "title_en": "Gaza flotilla activist on hunger strike in Tunisia jail ‘on verge of death’",
+    "title_ar": "",
+    "excerpt_en": "Wael Naouar has been hospitalised as his hunger strike enters its 39th day, the Gaza Sumud Flotilla says.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-23T20:56:15+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f2564a15ffd2",
     "title_en": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
     "title_ar": "",
@@ -36,32 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-23T18:48:26+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/23/us-lawmakers-seek-sanctions-for-israels-e1-west-bank-settlement-plan?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a0e5ccbfc9e5",
-    "title_en": "Board of Peace plans $2.4bn Gaza reconstruction as Israel kills seven",
-    "title_ar": "",
-    "excerpt_en": "Violations against Palestinians in Gaza continue even as world leaders call on Israel to adhere to ceasefire deal.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-23T17:45:03+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/23/board-of-peace-plans-2-4bn-gaza-reconstruction-as-israel-kills-seven?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "2bd6b0b2cf3e",
-    "title_en": "Jerusalem Daily: World leaders condemn Israel at UN",
-    "title_ar": "",
-    "excerpt_en": "Palestinians protest Israel’s prison visit bans as settler pogroms continue across the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-23T17:35:55+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/jerusalem-daily-world-leaders-condemn-israel-at-un?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -205,19 +205,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-04T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168282",
-    "credibility": "high"
-  },
-  {
-    "id": "edd464ffba84",
-    "title_en": "Lebanon–Israel tensions escalate as Gaza sees major aid delivery",
-    "title_ar": "",
-    "excerpt_en": "Peacekeepers in Lebanon have reported a marked deterioration in the security situation along the Blue Line of separation, with Israeli forces intensifying their military footprint in violation of a landmark Security Council resolution, UN Spokesperson Stéphane Dujarric said on Thursday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-03T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168275",
     "credibility": "high"
   }
 ]
