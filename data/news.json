@@ -1,5 +1,39 @@
 [
   {
+    "id": "fbea94ca31c9",
+    "title_en": "“A declaration is not protection,” UN relief chief urges action for humanitarian workers",
+    "title_ar": "",
+    "excerpt_en": "<span>“A declaration is not protection,” UN relief chief urges action for humanitarian workers</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <im",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-23T23:06:58+00:00",
+    "url": "https://www.unocha.org/news/declaration-not-protection-un-relief-chief-urges-action-humanitarian-workers",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "c0c72be007fb",
+    "title_en": "“Children’s biggest dreams should not be about survival,” Deputy UN relief chief urges action for Palestinians",
+    "title_ar": "",
+    "excerpt_en": "<span>“Children’s biggest dreams should not be about survival,” Deputy UN relief chief urges action for Palestinians</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hid",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-23T21:34:13+00:00",
+    "url": "https://www.unocha.org/news/childrens-biggest-dreams-should-not-be-about-survival-deputy-un-relief-chief-urges-action",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e1cfe5572ca9",
     "title_en": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
     "title_ar": "",
@@ -163,41 +197,6 @@
     "timestamp": "2026-09-21T18:09:23+00:00",
     "url": "https://www.unocha.org/news/un-relief-chief-urges-stronger-humanitarian-diplomacy-defend-international-humanitarian-law",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "19942df44d3d",
-    "title_en": "OCHA at the United Nations General Assembly",
-    "title_ar": "",
-    "excerpt_en": "<span>OCHA at the United Nations General Assembly</span>\n\n            <div class=\"field field--name-field-basic-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Humanitarian workers in Ituri Province",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-21T17:14:19+00:00",
-    "url": "https://www.unocha.org/ocha-united-nations-general-assembly",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "7fcd546ea10d",
-    "title_en": "Mozambique: “Hope arrived in a mobile phone notification”",
-    "title_ar": "",
-    "excerpt_en": "<span>Mozambique: “Hope arrived in a mobile phone notification”</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"People displaced by floo",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-21T14:59:24+00:00",
-    "url": "https://www.unocha.org/news/mozambique-hope-arrived-mobile-phone-notification",
-    "tags": [
-      "displacement",
       "humanitarian"
     ],
     "location_tags": [
