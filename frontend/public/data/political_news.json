@@ -1,9 +1,22 @@
 [
   {
-    "id": "6eff5e269dba",
-    "title_en": "Canada pledges aid for Palestine as UK and France demand action at UNGA",
+    "id": "cccf4970655e",
+    "title_en": "Reports of violence against women in Gaza surge, UN agency finds",
     "title_ar": "",
-    "excerpt_en": "Canada pledges 100 million Canadian dollars ($71m) for Palestinians as UK and France urge action on Israeli settlements.",
+    "excerpt_en": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-23T05:02:26+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "6eff5e269dba",
+    "title_en": "France rebukes world over Gaza as Canada, UK back Palestinian state at UNGA",
+    "title_ar": "",
+    "excerpt_en": "France&#039;s Macron says suffering in Gaza should &#039;shame all of us&#039; as Canada&#039;s Carney pledges $71m for two-state efforts.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
@@ -26,17 +39,17 @@
     "credibility": "medium"
   },
   {
-    "id": "daf1d6ac5267",
-    "title_en": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
+    "id": "70c5a95ae86b",
+    "title_en": "‘Time is running out’ for Israel-Palestine two-State solution",
     "title_ar": "",
-    "excerpt_en": "Organisers say more than 300 constituents met with House and Senate members from 26 states to demand US policy shift.",
+    "excerpt_en": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.&nbsp;",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-22T21:30:51+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
-    "credibility": "medium"
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-22T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168401",
+    "credibility": "high"
   },
   {
     "id": "f4e41703affc",
@@ -117,6 +130,19 @@
     "credibility": "high"
   },
   {
+    "id": "98ee3402ba2d",
+    "title_en": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+    "title_ar": "",
+    "excerpt_en": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-08T15:36:34+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "c1180cd61c92",
     "title_en": "In Gaza, women-headed households face ‘impossible choices’ to survive",
     "title_ar": "",
@@ -127,6 +153,19 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-08T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
+    "credibility": "high"
+  },
+  {
+    "id": "fc97f50c7c2c",
+    "title_en": "Palestinian parents fear for children's lives at school as settler attacks grow",
+    "title_ar": "",
+    "excerpt_en": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-07T21:12:37+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
