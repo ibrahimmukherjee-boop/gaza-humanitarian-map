@@ -1,5 +1,31 @@
 [
   {
+    "id": "6eff5e269dba",
+    "title_en": "Canada pledges aid for Palestine as UK and France demand action at UNGA",
+    "title_ar": "",
+    "excerpt_en": "Canada pledges 100 million Canadian dollars ($71m) for Palestinians as UK and France urge action on Israeli settlements.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-23T02:36:32+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/23/canada-pledges-aid-for-palestine-as-uk-and-france-demand-action-at-unga?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "b8544ea6a572",
+    "title_en": "UK Prime Minister vows not to ‘stand by’ as Palestinians suffer",
+    "title_ar": "",
+    "excerpt_en": "UK PM Burnham condemned Israel’s war on Gaza, and explains why the UK sanctioned illegal Israeli settlements.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-23T02:24:01+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/uk-prime-minister-vows-not-to-stand-by-as-palestinians-suffer?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "daf1d6ac5267",
     "title_en": "Palestinian Americans meet US lawmakers as Trump seeks $2.8bn for Israel",
     "title_ar": "",
@@ -10,32 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-22T21:30:51+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/22/palestinian-americans-meet-us-lawmakers-as-trump-seeks-2-8bn-for-israel?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b6a9b2da0677",
-    "title_en": "Brazil’s Lula: Gaza’s ‘pain and trauma’ will last generations",
-    "title_ar": "",
-    "excerpt_en": "Brazilian President Luiz Inacio Lula da Silva condemned the “pain and trauma” inflicted by Israel’s government in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-22T19:59:36+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/brazils-lula-gazas-pain-and-trauma-will-last-generations?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b726a1b8fb7d",
-    "title_en": "Trump admin asks top US court to reverse pro-Palestinian scholar’s release",
-    "title_ar": "",
-    "excerpt_en": "US solicitor general challenges lower court&#039;s ruling on Georgetown scholar&#039;s detention, sparking constitutional debates.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-22T19:52:16+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/22/trump-admin-asks-top-us-court-to-reverse-pro-palestinian-scholars-release?traffic_source=rss",
     "credibility": "medium"
   },
   {
