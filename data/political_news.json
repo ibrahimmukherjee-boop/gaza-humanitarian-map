@@ -1,5 +1,31 @@
 [
   {
+    "id": "9a6ee3c29caf",
+    "title_en": "‘They uprooted it all’: Israel bulldozes Palestinian-owned olive groves",
+    "title_ar": "",
+    "excerpt_en": "Israeli bulldozers uprooted olive groves near Ramallah in the occupied West Bank weeks before the annual harvest.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-24T03:32:28+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/24/they-uprooted-it-all-israel-bulldozes-palestinian-owned-olive-groves?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "540eaa671049",
+    "title_en": "Israel moves to bar both main Arab lists from October election",
+    "title_ar": "",
+    "excerpt_en": "Excluding Ra&#039;am and the Joint List leaves Palestinian citizens in Israel without major Knesset representation options.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-24T02:06:59+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/24/israel-moves-to-bar-both-main-arab-lists-from-october-election?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "e1cfe5572ca9",
     "title_en": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-23T20:56:15+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/23/gaza-flotilla-activist-on-hunger-strike-in-tunisia-jail-on-verge-of-death?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f2564a15ffd2",
-    "title_en": "Israeli soldier wounded in car-ramming attack in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli soldier Neria Leiter wounded in a suspected car-ramming attack near the illegal settlement of Beit Horon.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-23T19:29:49+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/23/23-09-sv-israeli-solider-injured-leiter-il?traffic_source=rss",
     "credibility": "medium"
   },
   {
