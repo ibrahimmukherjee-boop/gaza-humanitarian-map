@@ -1,5 +1,22 @@
 [
   {
+    "id": "e1cfe5572ca9",
+    "title_en": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
+    "title_ar": "",
+    "excerpt_en": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-24T10:11:15+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "fbea94ca31c9",
     "title_en": "“A declaration is not protection,” UN relief chief urges action for humanitarian workers",
     "title_ar": "",
@@ -32,23 +49,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "e1cfe5572ca9",
-    "title_en": "Trump's Board of Peace unveils $2.45bn plan to begin Gaza's reconstruction",
-    "title_ar": "",
-    "excerpt_en": "The figure was announced during a meeting of the group's board at the sidelines of the UN General Assembly in New York.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-09-23T21:26:14+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "e2c84cbbf880",
