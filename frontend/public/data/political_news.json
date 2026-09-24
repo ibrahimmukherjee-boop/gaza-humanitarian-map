@@ -13,32 +13,6 @@
     "credibility": "high"
   },
   {
-    "id": "8d4dd459e93c",
-    "title_en": "Gaza watches Israel’s elections with fear and antipathy",
-    "title_ar": "",
-    "excerpt_en": "Palestinians are following the campaign, but few feel next month&#039;s vote will make their lives any better.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-24T07:07:02+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/24/gaza-watches-israels-election-with-fear-and-antipathy?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "694163055323",
-    "title_en": "Gaza $2.45 billion reconstruction plan. Who decides its future?",
-    "title_ar": "",
-    "excerpt_en": "Gaza’s $2.45bn recovery plan spans housing, health and 4G, but Israeli pullout and Hamas’s disarmament remain unclear.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-24T06:09:05+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/gaza-2-45-billion-reconstruction-plan-who-decides-its-future?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "0f81c8c7576e",
     "title_en": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
     "title_ar": "",
@@ -153,19 +127,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-08T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
-    "credibility": "high"
-  },
-  {
-    "id": "fc97f50c7c2c",
-    "title_en": "Palestinian parents fear for children's lives at school as settler attacks grow",
-    "title_ar": "",
-    "excerpt_en": "A headteacher in the occupied West Bank has installed new barbed wire fencing after three pupils were killed this year.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-07T21:12:37+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c3wj45g73g1o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
