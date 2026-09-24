@@ -1,5 +1,57 @@
 [
   {
+    "id": "25f06681b7ef",
+    "title_en": "Netanyahu blames ‘juvenile delinquents’ for violence in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "As spoke at the UN, Israeli Prime Minister Benjamin Netanyahu downplayed settler violence in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-24T20:54:28+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/netanyahu-blames-juvenile-delinquents-for-violence-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d7df1c7996e1",
+    "title_en": "Israel moves to ban main Palestinian-led lists from election",
+    "title_ar": "",
+    "excerpt_en": "Israel’s election panel has voted to disqualify the two main Palestinian-led lists from next month’s election.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-24T19:54:00+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d978dc8c7898",
+    "title_en": "US rapper Macklemore announces Free Palestine tour after Ed Sheeran fallout",
+    "title_ar": "",
+    "excerpt_en": "Macklemore says &#039;being apolitical during a genocide doesn’t work&#039;, promises to donate proceeds to Palestinian causes.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-24T19:22:27+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/24/us-rapper-macklemore-announces-free-palestine-tour-after-ed-sheeran-fallout?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e0a22644a2ae",
+    "title_en": "Israel’s policies threaten ‘very existence’ of Palestinians, Abbas tells UN",
+    "title_ar": "",
+    "excerpt_en": "Mahmoud Abbas says saving two-state solution begins with preserving Palestinian land, protecting those who live on it.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-09-24T19:02:50+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f11bf3711b2d",
     "title_en": "Gaza’s recovery needs reach $71.5bn amid ‘most severe economic crisis’: UN",
     "title_ar": "",
@@ -10,45 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-09-24T17:03:31+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0540ef8bcf50",
-    "title_en": "Mahmoud Abbas: What will it take to ‘protect’ Palestine?",
-    "title_ar": "",
-    "excerpt_en": "Palestinian President Mahmoud Abbas questioned how long the world would “remain silent” on Israel&#039;s actions.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-24T16:35:16+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/24/mahmoud-abbas-what-will-it-take-to-protect-palestine?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "7d13514dca28",
-    "title_en": "NAZA, Israeli film on Gaza, to stream for free after theatrical run",
-    "title_ar": "",
-    "excerpt_en": "Co-director Yuval Abraham says documentary exposing Israeli abuses will be available online in November.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-24T15:59:25+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/24/naza-israeli-film-on-gaza-to-stream-for-free-after-theatrical-run?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d33cd7dfa654",
-    "title_en": "Why are Ireland vs Israel football matches so controversial?",
-    "title_ar": "",
-    "excerpt_en": "Ireland and Israel will play two football matches despite growing Irish calls for a boycott due to the genocide in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-24T14:36:02+00:00",
-    "url": "https://www.aljazeera.com/sports/2026/9/24/ireland-vs-israel-football-match-nations-league-controversy-explained?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -153,19 +166,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-08T21:46:31+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "98ee3402ba2d",
-    "title_en": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
-    "title_ar": "",
-    "excerpt_en": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-08T15:36:34+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
