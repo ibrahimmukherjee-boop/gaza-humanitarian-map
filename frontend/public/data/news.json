@@ -1,5 +1,22 @@
 [
   {
+    "id": "1f0d1b343787",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Ukraine",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A heavily damaged",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-24T17:41:03+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-ukraine",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e1cfe5572ca9",
     "title_en": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
     "title_ar": "",
@@ -179,23 +196,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-21T23:14:35+00:00",
     "url": "https://www.unocha.org/support-behind-every-response",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "882b7dae62f8",
-    "title_en": "UN relief chief urges stronger humanitarian diplomacy to defend international humanitarian law",
-    "title_ar": "",
-    "excerpt_en": "<span>UN relief chief urges stronger humanitarian diplomacy to defend international humanitarian law</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\"",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-21T18:09:23+00:00",
-    "url": "https://www.unocha.org/news/un-relief-chief-urges-stronger-humanitarian-diplomacy-defend-international-humanitarian-law",
     "tags": [
       "humanitarian"
     ],
