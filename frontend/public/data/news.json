@@ -17,6 +17,41 @@
     "credibility": "high"
   },
   {
+    "id": "922ad96ebb16",
+    "title_en": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
+    "title_ar": "",
+    "excerpt_en": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-09-24T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168428",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "f13011fc8b98",
+    "title_en": "Palestinian existence under threat, Abbas tells UN, warning of ‘another Nakba’",
+    "title_ar": "",
+    "excerpt_en": "Israeli policies now threaten “the very life and existence of the Palestinian people on their homeland”, Palestinian President Mahmoud Abbas told the UN General Assembly on Thursday, urging the world not to allow “another Nakba”.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-09-24T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168426",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e1cfe5572ca9",
     "title_en": "Trump's Board of Peace unveils $2.45bn Gaza recovery plan",
     "title_ar": "",
@@ -283,24 +318,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "64b0adb25401",
-    "title_en": "West Bank: UN rights report warns of forcible displacement from three refugee camps",
-    "title_ar": "",
-    "excerpt_en": "Israeli security forces forcibly displaced the entire population of three Palestine refugee camps in the occupied West Bank in January and February last year – and continue to prevent their return, in violation of international law, according to a new report&nbsp;by the UN human rights office, OHCHR.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-09-04T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168282",
-    "tags": [
-      "displacement",
       "humanitarian"
     ],
     "location_tags": [
