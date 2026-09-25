@@ -1,31 +1,5 @@
 [
   {
-    "id": "6e4909dbb83f",
-    "title_en": "Mamdani plants olive tree with Gaza families",
-    "title_ar": "",
-    "excerpt_en": "New York Mayor Zohran Mamdani posted a video of himself planting an olive tree alongside Palestinian families from Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-25T07:55:41+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/mamdani-plants-olive-tree-with-gaza-families?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "fcda8adba909",
-    "title_en": "Jewish protestors join Free Palestine march to denounce Netanyahu",
-    "title_ar": "",
-    "excerpt_en": "Al Jazeera’s Emma Withrow reports from a Free Palestine march, where Jewish demonstrators rejected Netanyahu.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-25T03:49:43+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/jewish-protestors-join-free-palestine-march-to-denounce-netanyahu?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "922ad96ebb16",
     "title_en": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
     "title_ar": "",
@@ -153,19 +127,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-08T21:46:31+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "c1180cd61c92",
-    "title_en": "In Gaza, women-headed households face ‘impossible choices’ to survive",
-    "title_ar": "",
-    "excerpt_en": "In war-torn Gaza, a growing number of women-headed households face “impossible decisions” every day, amid ongoing Israeli airstrikes and still-scarce resources, UN humanitarians said on Tuesday.&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-08T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168291",
     "credibility": "high"
   }
 ]
