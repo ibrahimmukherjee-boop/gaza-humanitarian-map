@@ -1,5 +1,44 @@
 [
   {
+    "id": "f9187bfee101",
+    "title_en": "‘My hands are empty’: Displaced Palestinians struggle to survive",
+    "title_ar": "",
+    "excerpt_en": "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-27T10:26:21+00:00",
+    "url": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "9b8a5fadc5df",
+    "title_en": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-27T10:01:33+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "40ce8fb42a10",
+    "title_en": "Massive Attack singer arrested over pro-Palestine protest in UK",
+    "title_ar": "",
+    "excerpt_en": "Massive Attack singer arrested over pro-Palestine protest in UK",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-27T08:49:47+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/27/massive-attack-singer-arrested-over-pro-palestine-protest-in-uk?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "922ad96ebb16",
     "title_en": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
     "title_ar": "",

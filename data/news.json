@@ -1,39 +1,5 @@
 [
   {
-    "id": "952824a9d153",
-    "title_en": "Today's top news: Ethiopia, Democratic Republic of the Congo, Yemen, Occupied Palestinian Territory, Haiti",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Ethiopia, Democratic Republic of the Congo, Yemen, Occupied Palestinian Territory, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-25T16:37:40+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-ethiopia-democratic-republic-congo-yemen-occupied-palestinian-territory-haiti",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "1f0d1b343787",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Ukraine",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A heavily damaged",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-24T17:41:03+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-ukraine",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "922ad96ebb16",
     "title_en": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
     "title_ar": "",
@@ -86,74 +52,6 @@
     "credibility": "medium"
   },
   {
-    "id": "fbea94ca31c9",
-    "title_en": "“A declaration is not protection,” UN relief chief urges action for humanitarian workers",
-    "title_ar": "",
-    "excerpt_en": "<span>“A declaration is not protection,” UN relief chief urges action for humanitarian workers</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <im",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-23T23:06:58+00:00",
-    "url": "https://www.unocha.org/news/declaration-not-protection-un-relief-chief-urges-action-humanitarian-workers",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "c0c72be007fb",
-    "title_en": "“Children’s biggest dreams should not be about survival,” Deputy UN relief chief urges action for Palestinians",
-    "title_ar": "",
-    "excerpt_en": "<span>“Children’s biggest dreams should not be about survival,” Deputy UN relief chief urges action for Palestinians</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hid",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-23T21:34:13+00:00",
-    "url": "https://www.unocha.org/news/childrens-biggest-dreams-should-not-be-about-survival-deputy-un-relief-chief-urges-action",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e2c84cbbf880",
-    "title_en": "UN relief chief calls for practical diplomatic action to unlock humanitarian access",
-    "title_ar": "",
-    "excerpt_en": "<span>UN relief chief calls for practical diplomatic action to unlock humanitarian access</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-23T21:05:17+00:00",
-    "url": "https://www.unocha.org/news/un-relief-chief-calls-practical-diplomatic-action-unlock-humanitarian-access",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "1c77ff0577a7",
-    "title_en": "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon, Somalia",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field_",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-23T20:12:25+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-occupied-palestinian-territory-lebanon-somalia",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "0f81c8c7576e",
     "title_en": "Netanyahu calls Macron's remarks on West Bank in UN speech 'grotesque'",
     "title_ar": "",
@@ -186,41 +84,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "226efe677b76",
-    "title_en": "“We are able to lead”: Local humanitarians call for equal partnership",
-    "title_ar": "",
-    "excerpt_en": "<span>“We are able to lead”: Local humanitarians call for equal partnership</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Nour Hussein",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-22T20:17:23+00:00",
-    "url": "https://www.unocha.org/news/we-are-able-lead-local-humanitarians-call-equal-partnership",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "364278a8b766",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Somalia",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A displace",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-22T17:53:46+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-sudan-somalia",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "70c5a95ae86b",
