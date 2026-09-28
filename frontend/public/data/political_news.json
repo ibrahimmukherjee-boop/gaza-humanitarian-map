@@ -1,5 +1,31 @@
 [
   {
+    "id": "dd7dc4e3daa8",
+    "title_en": "Slovenia’s U-turn towards Israel",
+    "title_ar": "",
+    "excerpt_en": "Slovenia’s policy towards Palestine has changed sharply following a UNGA sideline meeting with Israeli PM Netanyahu.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-28T20:35:51+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/aje-onl-nf_slovenias-u-turn-towards-israel-280926?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "2a0d84f36250",
+    "title_en": "Gaza’s young inventors build robots with what they have",
+    "title_ar": "",
+    "excerpt_en": "At a youth hackathon in Gaza City, young inventors are developing robots.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-28T20:34:22+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/28/gazas-young-inventors-build-robots-with-what-they-have?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "35a5f311e506",
     "title_en": "Security Council LIVE: Ambassadors meet as West Bank tensions rise, Gaza plan stalls",
     "title_ar": "",
