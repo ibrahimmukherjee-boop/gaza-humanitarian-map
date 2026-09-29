@@ -1,5 +1,18 @@
 [
   {
+    "id": "006bbed4122c",
+    "title_en": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
+    "title_ar": "",
+    "excerpt_en": "In an interview with British broadcaster Piers Morgan, Qatar’s prime minister accused Israeli’s Netanyahu of war crimes",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-29T21:24:07+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "365c68f00540",
     "title_en": "Has Gaza broken the Israel consensus in the US?",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-09-29T18:51:30+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e4316bf82b7d",
-    "title_en": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
-    "title_ar": "",
-    "excerpt_en": "Dozens of mourners in Gaza grieve the loss of their loved ones as they bury the fragmented remains of relatives killed.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-29T16:57:59+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d542546551ff",
-    "title_en": "Ireland undecided on approach for next game against Israel, coach says",
-    "title_ar": "",
-    "excerpt_en": "Ireland played the first Nations League game despite unease among some players over Israel&#039;s genocidal war in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-29T15:33:42+00:00",
-    "url": "https://www.aljazeera.com/sports/2026/9/29/ireland-undecided-on-approach-for-next-game-against-israel-coach-says?traffic_source=rss",
     "credibility": "medium"
   },
   {
