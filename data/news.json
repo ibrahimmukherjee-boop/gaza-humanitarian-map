@@ -1,5 +1,22 @@
 [
   {
+    "id": "9fd529d6fd29",
+    "title_en": "Israeli settlers attack West Bank village and block Palestinian family's return home",
+    "title_ar": "",
+    "excerpt_en": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-09-29T12:39:18+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "1854aafa860e",
     "title_en": "Today's top news: Ethiopia, Yemen, Occupied Palestinian Territory, Sudan, Ukraine, Venezuela, Honduras, OCHA Appointment",
     "title_ar": "",
@@ -189,23 +206,6 @@
     "credibility": "high"
   },
   {
-    "id": "1c77ff0577a7",
-    "title_en": "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon, Somalia",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field_",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-23T20:12:25+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-democratic-republic-congo-occupied-palestinian-territory-lebanon-somalia",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "cccf4970655e",
     "title_en": "Reports of violence against women in Gaza surge, UN agency finds",
     "title_ar": "",
@@ -265,23 +265,6 @@
     "source": "UN News",
     "timestamp": "2026-09-15T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "a4f843e18379",
-    "title_en": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
-    "title_ar": "",
-    "excerpt_en": "Ola&nbsp;Ishtiwi&nbsp;sits with her children in front of&nbsp;the&nbsp;remains of her home in the Al-Tuffah neighbourhood in eastern Gaza City, a few metres away from&nbsp;a series of&nbsp;painted cement blocks&nbsp;Israel has&nbsp;placed to mark what has become known as the&nbsp;“yellow line”.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-09-12T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168320",
     "tags": [
       "humanitarian"
     ],
