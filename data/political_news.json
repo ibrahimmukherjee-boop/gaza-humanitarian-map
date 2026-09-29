@@ -1,5 +1,31 @@
 [
   {
+    "id": "76e3468a4199",
+    "title_en": "Jerusalem Daily: Israeli worshippers attack Palestinian man",
+    "title_ar": "",
+    "excerpt_en": "Settler pogroms intensify as a total lockdown of the occupied West Bank enters its third day.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-29T18:51:30+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/aje-onl-nf_j_daily_israeli-worshippers-attack-palestinian-man-290926?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e4316bf82b7d",
+    "title_en": "Mourners in Gaza bury remains of loved ones killed in 2023 Israeli strike",
+    "title_ar": "",
+    "excerpt_en": "Dozens of mourners in Gaza grieve the loss of their loved ones as they bury the fragmented remains of relatives killed.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-29T16:57:59+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/mourners-in-gaza-bury-remains-of-loved-ones-killed-in-2023-israeli-strike?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "d542546551ff",
     "title_en": "Ireland undecided on approach for next game against Israel, coach says",
     "title_ar": "",

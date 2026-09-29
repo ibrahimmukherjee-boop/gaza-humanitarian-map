@@ -1,5 +1,40 @@
 [
   {
+    "id": "c5b794166d22",
+    "title_en": "Today's top news: El Niño/CERF, Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Syria, Haiti",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: El Niño/CERF, Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Syria, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--la",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-29T16:49:47+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-el-ninocerf-democratic-republic-congo-sudan-occupied-palestinian-territory",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "8794a5cd8563",
+    "title_en": "Kenya: From survival to choice – how cash assistance helps refugees in Dadaab",
+    "title_ar": "",
+    "excerpt_en": "<span>Kenya: From survival to choice – how cash assistance helps refugees in Dadaab</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Fows",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-09-29T15:41:38+00:00",
+    "url": "https://www.unocha.org/news/kenya-survival-choice-how-cash-assistance-helps-refugees-dadaab",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "9fd529d6fd29",
     "title_en": "Israeli settlers attack West Bank village and block Palestinian family's return home",
     "title_ar": "",
@@ -163,40 +198,6 @@
     "source": "OCHA",
     "timestamp": "2026-09-23T23:06:58+00:00",
     "url": "https://www.unocha.org/news/declaration-not-protection-un-relief-chief-urges-action-humanitarian-workers",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "c0c72be007fb",
-    "title_en": "“Children’s biggest dreams should not be about survival,” Deputy UN relief chief urges action for Palestinians",
-    "title_ar": "",
-    "excerpt_en": "<span>“Children’s biggest dreams should not be about survival,” Deputy UN relief chief urges action for Palestinians</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hid",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-23T21:34:13+00:00",
-    "url": "https://www.unocha.org/news/childrens-biggest-dreams-should-not-be-about-survival-deputy-un-relief-chief-urges-action",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e2c84cbbf880",
-    "title_en": "UN relief chief calls for practical diplomatic action to unlock humanitarian access",
-    "title_ar": "",
-    "excerpt_en": "<span>UN relief chief calls for practical diplomatic action to unlock humanitarian access</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-23T21:05:17+00:00",
-    "url": "https://www.unocha.org/news/un-relief-chief-calls-practical-diplomatic-action-unlock-humanitarian-access",
     "tags": [
       "humanitarian"
     ],
