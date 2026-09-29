@@ -1,94 +1,16 @@
 [
   {
-    "id": "28c4bf14f504",
-    "title_en": "Palestine weekly: Israeli politicians vie to look toughest before election",
+    "id": "9fd529d6fd29",
+    "title_en": "Israeli settlers attack West Bank village and block Palestinian family's return home",
     "title_ar": "",
-    "excerpt_en": "With Israelis voting on October 27, ministers are staging illegal settlement launches as campaign events.",
+    "excerpt_en": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-29T10:50:31+00:00",
-    "url": "https://www.aljazeera.com/features/2026/9/29/palestine-weekly-israeli-politicians-vie-to-look-toughest-before-election?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "428d393a0192",
-    "title_en": "UNGA 81: Five key takeaways from general debate",
-    "title_ar": "",
-    "excerpt_en": "The 81st United Nations General Assembly ends with AI, Palestine and wars dominating speeches.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-29T08:30:40+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/29/unga-81-five-key-takeaways-from-general-debate?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "8baf0b33f224",
-    "title_en": "Israeli settlers attack Jalud village in occupied West Bank pogrom",
-    "title_ar": "",
-    "excerpt_en": "A group of settlers attacks two homes belonging to the Tubasi family in northern West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-29T08:01:14+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/29/israeli-settlers-attack-jalud-village-in-occupied-west-bank-torch-homes?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "69bb225a28d1",
-    "title_en": "Israel’s West Bank road closures turn routine journeys into long ordeals",
-    "title_ar": "",
-    "excerpt_en": "Palestinians face delayed medical care and long journeys as Israel tightens movement restrictions across the West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-29T07:44:06+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/29/israels-west-bank-road-closures-turn-routine-journeys-into-long-ordeals?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "4634b67e51c4",
-    "title_en": "Satellite images show Gaza in ruins three years into Israel’s genocidal war",
-    "title_ar": "",
-    "excerpt_en": "Google Maps images show scale of Israel&#039;s destruction of Gaza, where more than 74,000 Palestinians have been killed.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-29T07:41:59+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "7ec60c9dd3e4",
-    "title_en": "Israeli forces kill Hamas commander Izz al-Din al-Beik in Gaza attack",
-    "title_ar": "",
-    "excerpt_en": "Head of Hamas&#039;s armed wing in northern Gaza killed in ⁠an Israeli strike on an apartment building in Gaza City.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-09-29T07:34:50+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "2bb39e48e358",
-    "title_en": "Gaza doctors face tough decisions as patients face long waits for diagnoses",
-    "title_ar": "",
-    "excerpt_en": "Medical staff in Gaza struggle to treat patients with shortages in testing equipment.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-29T07:26:37+00:00",
-    "url": "https://www.aljazeera.com/features/2026/9/29/gaza-doctors-face-tough-decisions-as-patients-face-long-waits-for-diagnoses?traffic_source=rss",
-    "credibility": "medium"
+    "timestamp": "2026-09-29T12:39:18+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
   },
   {
     "id": "35a5f311e506",
@@ -192,19 +114,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-09-15T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
-    "credibility": "high"
-  },
-  {
-    "id": "a4f843e18379",
-    "title_en": "‘Where do we go?’: How Israel’s ‘yellow line’ is closing in on Palestinians",
-    "title_ar": "",
-    "excerpt_en": "Ola&nbsp;Ishtiwi&nbsp;sits with her children in front of&nbsp;the&nbsp;remains of her home in the Al-Tuffah neighbourhood in eastern Gaza City, a few metres away from&nbsp;a series of&nbsp;painted cement blocks&nbsp;Israel has&nbsp;placed to mark what has become known as the&nbsp;“yellow line”.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-12T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168320",
     "credibility": "high"
   }
 ]
