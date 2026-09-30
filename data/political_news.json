@@ -1,5 +1,57 @@
 [
   {
+    "id": "edafc82c3000",
+    "title_en": "Palestinian archaeologists race against time to save Gaza’s heritage",
+    "title_ar": "",
+    "excerpt_en": "A Palestinian team rescued Gaza&#039;s artefacts. The question now is where to store them.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-30T13:45:56+00:00",
+    "url": "https://www.aljazeera.com/features/2026/9/30/palestinian-archaeologists-race-against-time-to-save-gazas-heritage?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "faf85a9fa860",
+    "title_en": "Why Israel is interfering in Palestinian education",
+    "title_ar": "",
+    "excerpt_en": "The occupation authorities are trying to censor Palestinian school curricula because they teach national consciousness.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-30T13:22:33+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0f367f5b9719",
+    "title_en": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
+    "title_ar": "",
+    "excerpt_en": "At least six people killed in drone attack on passenger van and one person killed in strike on residential apartment.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-30T12:49:04+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "e40b3eb39a5d",
+    "title_en": "Settlers closing in on Ramallah",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers are encroaching ever closer to Ramallah,  the de facto capital of the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-09-30T12:43:27+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "da2b7a41d463",
     "title_en": "Girl has multiple surgeries to control infections after strike in Gaza",
     "title_ar": "",
