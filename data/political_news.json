@@ -1,5 +1,18 @@
 [
   {
+    "id": "980cc2fbd582",
+    "title_en": "US Senate blocks resolution seeking report on Americans killed in West Bank",
+    "title_ar": "",
+    "excerpt_en": "The resolution cites a &#039;lack of accountability&#039; by Israel&#039;s government and an &#039;inability to secure justice&#039; by the US.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-09-30T02:26:20+00:00",
+    "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a6853a2277af",
     "title_en": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-09-29T23:49:18+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "006bbed4122c",
-    "title_en": "‘Netanyahu targets Qatar to deflect from Gaza war crimes’",
-    "title_ar": "",
-    "excerpt_en": "In an interview with British broadcaster Piers Morgan, Qatar’s prime minister accused Israeli’s Netanyahu of war crimes",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-29T21:24:07+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/9/29/netanyahu-targets-qatar-to-deflect-from-gaza-war?traffic_source=rss",
     "credibility": "medium"
   },
   {
