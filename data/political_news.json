@@ -1,5 +1,18 @@
 [
   {
+    "id": "da2b7a41d463",
+    "title_en": "Girl has multiple surgeries to control infections after strike in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-09-30T05:02:50+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "980cc2fbd582",
     "title_en": "US Senate blocks resolution seeking report on Americans killed in West Bank",
     "title_ar": "",
@@ -10,32 +23,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-30T02:26:20+00:00",
     "url": "https://www.aljazeera.com/news/2026/9/30/us-senate-blocks-resolution-seeking-report-on-americans-killed-in-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a6853a2277af",
-    "title_en": "Morocco’s pro-Palestine protests challenge Rabat’s deepening Israel ties",
-    "title_ar": "",
-    "excerpt_en": "Protests across Morocco highlight gap between public opposition to normalisation and Rabat’s closer ties with Israel.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-30T01:46:53+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/30/moroccos-pro-palestine-protests-challenge-rabats-deepening-israel-ties?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "69f458ec97ff",
-    "title_en": "‘Nothing is justifying this’: Qatar’s PM slams Israel’s atrocities in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Qatar&#039;s top diplomat says Israel has undermined Doha&#039;s efforts to broker a ceasefire in Gaza from &#039;day one&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-29T23:49:18+00:00",
-    "url": "https://www.aljazeera.com/news/2026/9/29/nothing-is-justifying-this-qatari-pm-slams-atrocities-in-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
