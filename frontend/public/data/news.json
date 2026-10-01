@@ -35,6 +35,23 @@
     "credibility": "high"
   },
   {
+    "id": "69fdee32676d",
+    "title_en": "Palestinians yearn for ‘a return to normal life,’ says top Middle East peace envoy",
+    "title_ar": "",
+    "excerpt_en": "The UN is continuing efforts to support Palestinians in Gaza amid major challenges to humanitarian access, reconstruction and the restoration of essential services, according to Ramiz Alakbarov, Acting UN Special Coordinator for the Middle East Peace Process.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-09-30T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/09/1168497",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "7ad68e3dbbe8",
     "title_en": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
     "title_ar": "",
@@ -268,23 +285,6 @@
     "source": "UN News",
     "timestamp": "2026-09-16T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168346",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "18f4296f9fd1",
-    "title_en": "Gaza remains recovery points to possible war crimes, says UN rights chief",
-    "title_ar": "",
-    "excerpt_en": "Bodies are still being pulled from the rubble of Gaza, three years after Israeli bombardment flattened entire neighbourhoods – most of them women and children.&nbsp;&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-09-15T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168335",
     "tags": [
       "humanitarian"
     ],
