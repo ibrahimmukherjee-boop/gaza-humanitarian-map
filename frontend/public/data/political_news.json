@@ -1,5 +1,18 @@
 [
   {
+    "id": "4e02c98b68e9",
+    "title_en": "Activists protest Indian police raid over kite-flying event for Palestine",
+    "title_ar": "",
+    "excerpt_en": "Pro-Palestinian activists protested in Mumbai after police raided the home of a volunteer who took part in Gaza event.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-01T13:04:34+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "1924f3a1e89b",
     "title_en": "Jewish human rights barrister, 94, arrested for supporting Palestine Action",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-01T09:41:16+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/01-10-sv-konyaspor-palestine-tifo-tr?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "489ea14dc5d9",
-    "title_en": "Palestinians to bury remains of 105 people killed in Israeli attack on Gaza",
-    "title_ar": "",
-    "excerpt_en": "Coffins containing the remains of those killed will be carried in a funeral procession involving family members.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-01T07:23:18+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/1/palestinians-to-bury-remains-of-105-people-killed-in-israeli-attack-on-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
