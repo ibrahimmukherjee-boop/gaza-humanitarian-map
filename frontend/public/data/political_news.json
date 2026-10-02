@@ -1,5 +1,57 @@
 [
   {
+    "id": "0d805c5b299c",
+    "title_en": "Protests disrupt Ireland football match with ‘Palestine tennis balls’",
+    "title_ar": "",
+    "excerpt_en": "Protesters interrupted Ireland’s match against Austria with tennis balls and Palestine flags.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-02T10:35:21+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-sv-ireland-austria-game-tennis-balls-ie?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "73441676d6f8",
+    "title_en": "How can Jordan respond to Israel’s escalation across the West Bank?",
+    "title_ar": "",
+    "excerpt_en": "Settlement expansion, displacement and growing Israeli control would have direct consequences for Jordan.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-02T10:17:23+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/10/2/how-can-jordan-respond-to-israels-escalation-across-the-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "826a62151068",
+    "title_en": "Arab party leader forced to withdraw from Israeli elections",
+    "title_ar": "",
+    "excerpt_en": "Palestinian participation in upcoming Knesset vote continues to shrink with withdrawal of Sami Abu Shehadeh.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-02T09:25:23+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/2/arab-party-leader-forced-to-withdraw-from-israeli-elections?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ccfbca0e91c6",
+    "title_en": "Israeli court ruling a ‘new threshold’ in Palestinian suppression",
+    "title_ar": "",
+    "excerpt_en": "Israel’s top court told Palestinian politician Sami Abu Shehadeh to withdraw from the election or face disqualification.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-02T09:24:39+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/10-2-ziad-abu-rish-israel-politics-qt-mp4?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c3edaafadf93",
     "title_en": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
     "title_ar": "",
@@ -10,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-02T08:03:02+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "625d185f2be4",
-    "title_en": "FAO official says he lost his job for criticising Israeli policies in Gaza",
-    "title_ar": "",
-    "excerpt_en": "The FAO official said he was told his contract would not be renewed over an alleged breach of impartiality on Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-10-02T04:02:44+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/2/fao-official-says-he-lost-his-job-for-criticising-israeli-policies-in-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
