@@ -1,5 +1,44 @@
 [
   {
+    "id": "39e9a78339ae",
+    "title_en": "Arab party leader withdraws from Israeli elections",
+    "title_ar": "",
+    "excerpt_en": "Palestinian politician Sami Abu Shehadeh withdrew from Israel’s upcoming election.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-02T19:10:23+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/arab-party-leader-withdraws-from-israeli-elections?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d0b5ee3bfe12",
+    "title_en": "Israeli barrier cuts off water to West Bank Palestinians before elections",
+    "title_ar": "",
+    "excerpt_en": "Residents of Ras al-Ahmar say Israeli restrictions have cut access to water, animal feed, healthcare.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-02T18:18:42+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/2/israeli-barrier-cuts-off-water-to-west-bank-palestinians-before-elections?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "9ee698f10f6b",
+    "title_en": "Jerusalem Daily: Who gets to run in Israel’s elections?",
+    "title_ar": "",
+    "excerpt_en": "Palestinians in Israel are asking whether they will have a fair say in the upcoming Israeli elections.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-02T17:30:06+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/2/jerusalem-daily-who-gets-to-run-in-israels-elections?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f1c3e39f4cc5",
     "title_en": "Gaza: WHO appeals for massive aid influx ahead of winter",
     "title_ar": "",
