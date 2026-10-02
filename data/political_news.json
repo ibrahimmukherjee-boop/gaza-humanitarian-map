@@ -1,5 +1,31 @@
 [
   {
+    "id": "4cf95bc51347",
+    "title_en": "Israeli drone kills Palestinian in Gaza, settlers kill another in West Bank",
+    "title_ar": "",
+    "excerpt_en": "1,439 Palestinians have been killed in Gaza and 5,052 injured since the &#039;ceasefire&#039; began in October 2025.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-01T23:44:39+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/1/israeli-drone-kills-palestinian-in-gaza-settlers-kill-another-in-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a9092c22b552",
+    "title_en": "94-year-old Jewish barrister arrested for supporting Palestine Action",
+    "title_ar": "",
+    "excerpt_en": "A 94-year-old Jewish activist was detained at a pro-Palestine rally in the UK for supporting Palestine Action.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-01T22:44:56+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/94-year-old-jewish-barrister-arrested-for-supporting-palestine-action?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "8cca54980e7c",
     "title_en": "Protesters halt game as calls grow on Ireland to boycott second Israel game",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-01T20:45:04+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/1/funeral-held-for-palestinian-man-killed-in-the-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d9724dcbc5ec",
-    "title_en": "What’s driving Israeli settler violence in the occupied West Bank?",
-    "title_ar": "",
-    "excerpt_en": "Attacks on Palestinians in the area are growing at unprecedented levels.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-01T19:45:37+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/10/1/whats-driving-israeli-settler-violence-in-the-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
