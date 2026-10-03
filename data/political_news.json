@@ -1,5 +1,31 @@
 [
   {
+    "id": "ef3d30f25c65",
+    "title_en": "Israeli settlers attack Palestinian farmers during olive harvest",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers attack Palestinian farmers during olive harvest",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-03T21:15:05+00:00",
+    "url": "https://www.aljazeera.com/video/2026/10/3/israeli-settlers-attack-palestinian-farmers-during-olive-harvest-2?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7d6fd5d03f92",
+    "title_en": "Funeral held at Gaza church for mother and daughter killed in Gaza strike",
+    "title_ar": "",
+    "excerpt_en": "Funeral prayers were held at Gaza City’s Saint Porphyrius Greek Orthodox Church for a Palestinian mother and daughter.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-03T20:10:17+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/funeral-held-at-gaza-church-for-mother-and-daughter-killed-in-gaza-strike?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "155c4f92063f",
     "title_en": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-03T18:49:03+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "bd932d195c48",
-    "title_en": "Israel election double standard: Arab leader forced out, far right cleared",
-    "title_ar": "",
-    "excerpt_en": "Palestinian Israeli leader forced to withdraw candidature while far-right Israeli leaders allowed to run in polls.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-03T14:06:47+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
     "credibility": "medium"
   },
   {
