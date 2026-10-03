@@ -1,5 +1,18 @@
 [
   {
+    "id": "155c4f92063f",
+    "title_en": "Al Jazeera speaks to Palestinian schoolboy from viral photograph",
+    "title_ar": "",
+    "excerpt_en": "A photo went viral of a Palestinian boy hiding from Israeli forces on his way home from class in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-03T18:49:03+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/al-jazeera-speaks-to-palestinian-schoolboy-from-viral-photograph?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "bd932d195c48",
     "title_en": "Israel election double standard: Arab leader forced out, far right cleared",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-10-03T14:06:47+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/3/israel-election-double-standard-arab-leader-forced-out-far-right-cleared?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f04d663b8b21",
-    "title_en": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-03T12:18:24+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
