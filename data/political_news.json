@@ -1,5 +1,18 @@
 [
   {
+    "id": "8848a84d39d0",
+    "title_en": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+    "title_ar": "",
+    "excerpt_en": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-03T07:57:47+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "2d912fbf0500",
     "title_en": "Singer Zach Bryan wears Free Palestine shirt at Gillette Stadium",
     "title_ar": "",
@@ -36,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-03T04:54:20+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "bd2ed9e333a2",
-    "title_en": "Israeli air attack on Gaza City apartment kills at least five",
-    "title_ar": "",
-    "excerpt_en": "No warning was given before the deadly Israeli attack hit Remal, one of Gaza City&#039;s most crowded neighbourhoods.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-03T02:25:23+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
     "credibility": "medium"
   },
   {
