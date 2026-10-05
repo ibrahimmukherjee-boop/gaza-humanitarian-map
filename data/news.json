@@ -1,5 +1,22 @@
 [
   {
+    "id": "20e87b6a90f0",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Sudan, Ukraine, Yemen, Ethiopia, Lebanon",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Sudan, Ukraine, Yemen, Ethiopia, Lebanon</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-10-05T17:14:22+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-sudan-ukraine-yemen-ethiopia-lebanon",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "f1c3e39f4cc5",
     "title_en": "Gaza: WHO appeals for massive aid influx ahead of winter",
     "title_ar": "",
