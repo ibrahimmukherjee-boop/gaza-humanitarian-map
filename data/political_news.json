@@ -1,5 +1,18 @@
 [
   {
+    "id": "39031564ccd5",
+    "title_en": "US lawmakers call on Israel to release imprisoned doctor Hussam Abu Safia",
+    "title_ar": "",
+    "excerpt_en": "Progressive US representatives seek to bring attention to Israeli abuse and detention of Palestinian medical worker.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-06T20:42:42+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/6/us-lawmakers-call-on-israel-to-release-imprisoned-doctor-hussam-abu-safia?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c45476a55937",
     "title_en": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
     "title_ar": "",
@@ -11,19 +24,6 @@
     "timestamp": "2026-10-06T19:17:44+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "ba766b454313",
-    "title_en": "Birzeit University memorial destruction aims to crush Palestinian memory",
-    "title_ar": "",
-    "excerpt_en": "Israeli soldiers removed the monument to students and alumni killed by Israel and replaced it with a fig sapling.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-06T15:14:28+00:00",
-    "url": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "fb1cf272c376",
