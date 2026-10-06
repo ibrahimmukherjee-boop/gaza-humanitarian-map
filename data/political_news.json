@@ -1,5 +1,18 @@
 [
   {
+    "id": "c45476a55937",
+    "title_en": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+    "title_ar": "",
+    "excerpt_en": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-06T19:17:44+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "ba766b454313",
     "title_en": "Birzeit University memorial destruction aims to crush Palestinian memory",
     "title_ar": "",
@@ -11,32 +24,6 @@
     "timestamp": "2026-10-06T15:14:28+00:00",
     "url": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
     "credibility": "medium"
-  },
-  {
-    "id": "997b9e5b6f3b",
-    "title_en": "In Gaza, we cannot even begin to recover from trauma",
-    "title_ar": "",
-    "excerpt_en": "The genocide has killed many and left the rest broken. For us, survivors, recovery is not on the horizon.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-06T14:42:22+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/10/6/in-gaza-we-cannot-even-begin-to-recover-from-trauma?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c45476a55937",
-    "title_en": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-    "title_ar": "",
-    "excerpt_en": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-06T14:30:48+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "fb1cf272c376",

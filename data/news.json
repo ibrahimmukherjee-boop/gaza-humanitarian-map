@@ -6,7 +6,7 @@
     "excerpt_en": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
-    "timestamp": "2026-10-06T14:30:48+00:00",
+    "timestamp": "2026-10-06T19:17:44+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
@@ -15,6 +15,24 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
+  },
+  {
+    "id": "3fdee621dd8a",
+    "title_en": "Today's top news: Ethiopia, Ebola outbreak, Occupied Palestinian Territory",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Ethiopia, Ebola outbreak, Occupied Palestinian Territory</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"WHO-sup",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-10-06T16:57:52+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-ethiopia-ebola-outbreak-occupied-palestinian-territory",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
   },
   {
     "id": "20e87b6a90f0",
@@ -166,41 +184,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "c5b794166d22",
-    "title_en": "Today's top news: El Niño/CERF, Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Syria, Haiti",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: El Niño/CERF, Democratic Republic of the Congo, Sudan, Occupied Palestinian Territory, Syria, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--la",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-29T16:49:47+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-el-ninocerf-democratic-republic-congo-sudan-occupied-palestinian-territory",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "8794a5cd8563",
-    "title_en": "Kenya: From survival to choice – how cash assistance helps refugees in Dadaab",
-    "title_ar": "",
-    "excerpt_en": "<span>Kenya: From survival to choice – how cash assistance helps refugees in Dadaab</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Fows",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-29T15:41:38+00:00",
-    "url": "https://www.unocha.org/news/kenya-survival-choice-how-cash-assistance-helps-refugees-dadaab",
-    "tags": [
-      "displacement",
       "humanitarian"
     ],
     "location_tags": [
