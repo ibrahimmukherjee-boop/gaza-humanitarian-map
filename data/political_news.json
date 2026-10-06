@@ -1,15 +1,54 @@
 [
   {
-    "id": "5aeaa82a68e8",
-    "title_en": "Widowed twice: A Gaza mother’s story of loss and survival",
+    "id": "4dda2b51cc0f",
+    "title_en": "How Palestinian reporters defied Israel’s genocide to redefine journalism",
     "title_ar": "",
-    "excerpt_en": "A young mother has lost two husbands and two children during Israel&#039;s genocidal war on Gaza.",
+    "excerpt_en": "Western media under scrutiny for promoting Israeli narrative rather than standing up for vulnerable journalists in Gaza.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-10-06T05:44:39+00:00",
-    "url": "https://www.aljazeera.com/features/2026/10/6/widowed-twice-a-gaza-mothers-story-of-loss-and-survival?traffic_source=rss",
+    "timestamp": "2026-10-06T11:47:03+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/6/how-palestinian-reporters-defied-israels-genocide-to-redefine-journalism?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "f60ee2aa53f7",
+    "title_en": "Pro-Palestine Greens challenge Labour’s grip on Starmer’s former seat",
+    "title_ar": "",
+    "excerpt_en": "Green Party leader Zack Polanski hopes to shake Labour, which has held Holborn since the seat was created in 1983.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-06T11:01:43+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/6/pro-palestine-greens-challenge-labours-grip-on-starmers-former-seat?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "78b29174d018",
+    "title_en": "Palestine weekly: Olive harvest opens under assault",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers and forces beat Palestinians, set property on fire and steal crops across the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-06T09:22:09+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "41a14d0a79a2",
+    "title_en": "Gaza woman rescues books from rubble to keep education alive",
+    "title_ar": "",
+    "excerpt_en": "Amid the destruction of Gaza’s schools and universities, Niveen Al-Gharabli has built a makeshift book stall.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-06T08:43:07+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/6/gaza-woman-rescues-books-from-rubble-to-keep-education-alive?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -49,32 +88,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-30T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
-    "credibility": "high"
-  },
-  {
-    "id": "da2b7a41d463",
-    "title_en": "Girl has multiple surgeries to control infections after strike in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Witnesses say Raseel's tent was hit by an Israeli helicopter strike. Israel’s military says it has no record of the attack.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-30T05:02:50+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "9fd529d6fd29",
-    "title_en": "Israeli settlers attack West Bank village and block Palestinian family's return home",
-    "title_ar": "",
-    "excerpt_en": "Two homes belonging to the al-Tubasi family were set on fire and Israeli security forces were also targeted by settlers.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-09-29T12:39:18+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cvlylj41egxgo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
