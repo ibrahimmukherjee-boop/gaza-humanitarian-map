@@ -1,5 +1,22 @@
 [
   {
+    "id": "4635baa55193",
+    "title_en": "Today's top news: Israel/Occupied Palestinian Territory, Yemen, Ethiopia, Ukraine",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Israel/Occupied Palestinian Territory, Yemen, Ethiopia, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-10-07T16:42:48+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-israeloccupied-palestinian-territory-yemen-ethiopia-ukraine",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "c45476a55937",
     "title_en": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
     "title_ar": "",
@@ -149,24 +166,6 @@
     "timestamp": "2026-09-30T17:00:06+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-ethiopia-yemen-occupied-palestinian-territory-haiti-ukraine-central-emergency",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "075db83590e8",
-    "title_en": "Honduras Humanitarian Fund helps families access health services amid measles outbreak",
-    "title_ar": "",
-    "excerpt_en": "<span>Honduras Humanitarian Fund helps families access health services amid measles outbreak</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-09-30T15:27:09+00:00",
-    "url": "https://www.unocha.org/news/honduras-humanitarian-fund-helps-families-access-health-services-amid-measles-outbreak",
-    "tags": [
-      "health",
       "humanitarian"
     ],
     "location_tags": [
