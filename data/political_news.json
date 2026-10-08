@@ -1,5 +1,57 @@
 [
   {
+    "id": "d38913662ba8",
+    "title_en": "Israeli settlers take Palestinian olives, and their harvest traditions",
+    "title_ar": "",
+    "excerpt_en": "As Israeli settlers harvest olives on Palestinian land, farmers face growing violence and loss of an ancient tradition.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-08T19:57:29+00:00",
+    "url": "https://www.aljazeera.com/features/2026/10/8/israeli-settlers-take-palestinian-olives-and-their-harvest-traditions?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "6cfe578a4773",
+    "title_en": "Israeli settlers systematically target the Palestinian olive harvest",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers in the occupied West Bank are destroying olive trees.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-08T19:49:50+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/israeli-settlers-systematically-target-the-palestinian-olive-harvest?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "562d60e5f043",
+    "title_en": "‘War lives in me’: Gaza playwright Ali Abu Yasin wins English PEN award",
+    "title_ar": "",
+    "excerpt_en": "Honoured for his artistic resilience, Ali Abu Yasin continued writing for theatre amid the rubble.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-08T19:12:33+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/8/gaza-playwright-award?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "171fc79108d5",
+    "title_en": "Jerusalem Daily: Remembrance and mourning",
+    "title_ar": "",
+    "excerpt_en": "Thousands protest worldwide in solidarity with Gaza as Palestinians mourn those being killed in daily Israeli strikes.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-08T17:17:22+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/8/jerusalem-daily-remembrance-and-mourning?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f3f250921d77",
     "title_en": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
     "title_ar": "",
