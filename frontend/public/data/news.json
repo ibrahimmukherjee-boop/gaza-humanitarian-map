@@ -1,5 +1,58 @@
 [
   {
+    "id": "f3f250921d77",
+    "title_en": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
+    "title_ar": "",
+    "excerpt_en": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-10-08T07:06:15+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "31bf551e553e",
+    "title_en": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+    "title_ar": "",
+    "excerpt_en": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-10-08T05:06:09+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "998810adceef",
+    "title_en": "Israelis mourn 7 October attack victims three years after deadly Hamas raid",
+    "title_ar": "",
+    "excerpt_en": "Memorial events have taken place in Israel on the third anniversary of the Hamas-led attack that sparked the devastating Gaza war.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-10-07T20:27:03+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "4635baa55193",
     "title_en": "Today's top news: Israel/Occupied Palestinian Territory, Yemen, Ethiopia, Ukraine",
     "title_ar": "",
