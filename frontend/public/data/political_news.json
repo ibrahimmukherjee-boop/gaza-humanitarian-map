@@ -1,5 +1,31 @@
 [
   {
+    "id": "54fd009ca33e",
+    "title_en": "How October 7 changed Lebanon and Hezbollah’s political reality",
+    "title_ar": "",
+    "excerpt_en": "Analysts say Hezbollah&#039;s decision on October 8 to join a &#039;war of support&#039; for Gaza changed Lebanon&#039;s political reality.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-09T05:52:49+00:00",
+    "url": "https://www.aljazeera.com/news-analysis/2026/10/9/how-october-7-changed-lebanon-and-hezbollahs-political-reality?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "cfb9db36fe90",
+    "title_en": "Photos: Gaza before and after – a city transformed by war",
+    "title_ar": "",
+    "excerpt_en": "Archive and recent photos show how three years of war left Gaza&#039;s streets, landmarks and public spaces unrecognisable.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-09T05:22:16+00:00",
+    "url": "https://www.aljazeera.com/gallery/2026/10/9/gaza-before-and-after-a-city-transformed-by-war?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "e1be0f6a8f4b",
     "title_en": "A father’s agony after an Israeli air strike hits Gaza apartment",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-09T00:12:18+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/9/a-fathers-agony-after-an-israeli-air-strike-hits-gaza-apartment?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "1378fdbc9d47",
-    "title_en": "Israel kills or wounds Palestinian every 90 minutes in Gaza since ceasefire",
-    "title_ar": "",
-    "excerpt_en": "Islamic Relief calls for global action as deadly Israeli attacks in Gaza continue and humanitarian conditions worsen.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-08T22:54:23+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/8/israel-kills-or-wounds-palestinian-every-90-minutes-in-gaza-since-ceasefire?traffic_source=rss",
     "credibility": "medium"
   },
   {
