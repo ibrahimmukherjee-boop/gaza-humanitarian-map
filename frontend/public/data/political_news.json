@@ -1,5 +1,18 @@
 [
   {
+    "id": "b48f80accfbb",
+    "title_en": "With or without Hamas",
+    "title_ar": "",
+    "excerpt_en": "Hamas’s fate will not profoundly shape Gaza’s future.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-10T15:19:41+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "0230cb5a9ba6",
     "title_en": "Jerusalem Daily: Israeli settlers attack olive farmers",
     "title_ar": "",
@@ -40,7 +53,7 @@
   },
   {
     "id": "069590740d2f",
-    "title_en": "Child among seven killed by Israel in Gaza on ‘ceasefire’ anniversary",
+    "title_en": "Child among eight killed by Israel on Gaza ‘ceasefire’ anniversary",
     "title_ar": "",
     "excerpt_en": "At least 1,481 Palestinians killed in Israeli attacks since last year&#039;s &#039;ceasefire&#039;, Gaza&#039;s Health Ministry says.",
     "excerpt_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-10-10T12:40:57+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/10/israeli-forces-kill-six-in-gaza-including-a-child?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ad2825e9af2b",
-    "title_en": "What has Trump’s Board of Peace achieved in a year since Gaza ‘ceasefire’?",
-    "title_ar": "",
-    "excerpt_en": "Analysts say board has &#039;failed&#039; in its attempts to secure lasting peace in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-10T11:19:24+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/10/what-has-trumps-board-of-peace-achieved-in-a-year-since-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -101,19 +101,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-07T20:27:03+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cwkgj0g30m5jo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "c45476a55937",
-    "title_en": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-    "title_ar": "",
-    "excerpt_en": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-06T19:17:44+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
