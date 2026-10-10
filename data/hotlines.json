@@ -1,0 +1,80 @@
+[
+  {
+    "id": "hotline-prcs",
+    "name_en": "Palestine Red Crescent Society (PRCS)",
+    "name_ar": "جمعية الهلال الأحمر الفلسطيني",
+    "number": "",
+    "number_display": "101 (local emergency — verify locally)",
+    "description_en": "Emergency medical and ambulance services. Verify current numbers locally.",
+    "description_ar": "خدمات طوارئ طبية وإسعاف. تحقق من الأرقام محلياً.",
+    "category": "medical",
+    "available_24h": true,
+    "source": "PRCS",
+    "url": "https://www.palestinercs.org"
+  },
+  {
+    "id": "hotline-unrwa",
+    "name_en": "UNRWA",
+    "name_ar": "الأونروا",
+    "number": "+97025940400",
+    "number_display": "+970 2 589 0400",
+    "description_en": "UN agency for Palestine refugees — shelter and services.",
+    "description_ar": "وكالة الأمم المتحدة ل refugees الفلسطiniyين — الم shelter والخدمات.",
+    "category": "humanitarian",
+    "available_24h": false,
+    "source": "UNRWA",
+    "url": "https://www.unrwa.org"
+  },
+  {
+    "id": "hotline-unicef",
+    "name_en": "UNICEF — State of Palestine",
+    "name_ar": "يونيسف — دولة فلسطين",
+    "number": "",
+    "number_display": "unicef.org/state-of-palestine",
+    "description_en": "Child protection and family support resources.",
+    "description_ar": "موارد حماية الطفل ودعم الأسرة.",
+    "category": "children",
+    "available_24h": false,
+    "source": "UNICEF",
+    "url": "https://www.unicef.org/state-of-palestine"
+  },
+  {
+    "id": "hotline-who",
+    "name_en": "WHO Health Emergencies",
+    "name_ar": "منظمة الصحة العالمية — الطوارئ",
+    "number": "",
+    "number_display": "who.int/emergencies",
+    "description_en": "Health sector updates for occupied Palestinian territory.",
+    "description_ar": "تحديثات قطاع الصحة في الأراضي الفلسطiniyية.",
+    "category": "medical",
+    "available_24h": false,
+    "source": "WHO",
+    "url": "https://www.who.int/emergencies"
+  },
+  {
+    "id": "hotline-ocha",
+    "name_en": "UN OCHA oPt",
+    "name_ar": "مكتب الأمم المتحدة للشؤون الإنسانية",
+    "number": "",
+    "number_display": "ochaopt.org",
+    "description_en": "Humanitarian coordination and situation reports.",
+    "description_ar": "التنسيق الإنساني وتقارير الوضع.",
+    "category": "humanitarian",
+    "available_24h": false,
+    "source": "UN OCHA",
+    "url": "https://www.ochaopt.org"
+  },
+  {
+    "id": "hotline-icrc",
+    "name_en": "ICRC",
+    "name_ar": "اللجنة الدولية للصليب الأحمر",
+    "number": "+97235282828",
+    "number_display": "+972 3 528 2828",
+    "description_en": "Humanitarian protection and family links.",
+    "description_ar": "الحماية الإنسانية وصلات الأسرة.",
+    "category": "humanitarian",
+    "available_24h": false,
+    "source": "ICRC",
+    "url": "https://www.icrc.org"
+  }
+]
