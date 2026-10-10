@@ -1,5 +1,31 @@
 [
   {
+    "id": "5eba0556bf78",
+    "title_en": "Hundreds of doctors demand World Medical Association suspend Israel",
+    "title_ar": "",
+    "excerpt_en": "Physicians accuse Israeli Medical Association of remaining silent as Palestinian healthcare is systematically destroyed.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-10T21:12:04+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "5332e9997403",
+    "title_en": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
+    "title_ar": "",
+    "excerpt_en": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-10T20:14:01+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7d192afd3577",
     "title_en": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-10-10T18:26:13+00:00",
     "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b48f80accfbb",
-    "title_en": "With or without Hamas",
-    "title_ar": "",
-    "excerpt_en": "Hamas’s fate will not profoundly shape Gaza’s future.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-10T15:19:41+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/10/10/with-or-without-hamas?traffic_source=rss",
     "credibility": "medium"
   },
   {
