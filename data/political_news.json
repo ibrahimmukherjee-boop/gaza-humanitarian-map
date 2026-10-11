@@ -1,5 +1,18 @@
 [
   {
+    "id": "a6f18583bf3c",
+    "title_en": "How genocidal war on Gaza is shaping Israel’s election",
+    "title_ar": "",
+    "excerpt_en": "Israel’s election signals not a demand for change, but deeper entrenchment of the jingoism unleashed after October 7.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-11T05:35:09+00:00",
+    "url": "https://www.aljazeera.com/news-analysis/2026/10/11/how-genocidal-war-on-gaza-is-shaping-israels-election?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ab2c2c4c3e29",
     "title_en": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-10T21:12:04+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/10/hundreds-of-doctors-demand-world-medical-association-suspend-israel?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5332e9997403",
-    "title_en": "Israeli attack destroys building in Gaza one year into ‘ceasefire’",
-    "title_ar": "",
-    "excerpt_en": "An Israeli strike destroyed a residential building in the Al-Rimal neighbourhood in Gaza City.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-10T20:14:01+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/israeli-attack-destroys-building-in-gaza-one-year-into?traffic_source=rss",
     "credibility": "medium"
   },
   {
