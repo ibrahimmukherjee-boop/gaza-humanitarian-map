@@ -1,5 +1,18 @@
 [
   {
+    "id": "651c6113b52f",
+    "title_en": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+    "title_ar": "",
+    "excerpt_en": "Jerusalem Daily: Panicked Palestinians flee Israeli attacks on Gaza",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-11T18:25:42+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/jerusalem-daily-panicked-palestinians-flee-israeli-attacks-on-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "451c9a8ca646",
     "title_en": "Israel pushes its ‘Yellow Line’ deeper into Gaza",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-10-11T17:09:19+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/who-will-represent-us-palestinians-react-to-election-delay?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "fe57a39f6b40",
-    "title_en": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
-    "title_ar": "",
-    "excerpt_en": "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-11T13:41:57+00:00",
-    "url": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
     "credibility": "medium"
   },
   {
