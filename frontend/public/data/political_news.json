@@ -1,5 +1,31 @@
 [
   {
+    "id": "5407f14f057c",
+    "title_en": "Netanyahu demands probe into sources for award-winning Gaza film NAZA",
+    "title_ar": "",
+    "excerpt_en": "Documentary draws on 24 anonymous Israeli sources accusing military of killing Palestinians in Gaza using AI systems.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-12T04:24:18+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/12/netanyahu-demands-probe-into-sources-for-award-winning-gaza-film-naza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7a01d0c25c2c",
+    "title_en": "Sustaining livelihoods amid crisis in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Nidaa, Hanaa and Hanin have different stories, but share a common thread: the determination to build something of their own and keep it going despite extraordinary challenges facing them in war-ravaged Gaza.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-11T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168569",
+    "credibility": "high"
+  },
+  {
     "id": "f3f250921d77",
     "title_en": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
     "title_ar": "",
@@ -140,32 +166,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-24T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168426",
-    "credibility": "high"
-  },
-  {
-    "id": "cccf4970655e",
-    "title_en": "Reports of violence against women in Gaza surge, UN agency finds",
-    "title_ar": "",
-    "excerpt_en": "The UN Population Fund also says there has been a \"severe escalation\" in the number of early and forced marriages.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-23T05:02:26+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c94gm7dp40y0o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "70c5a95ae86b",
-    "title_en": "‘Time is running out’ for Israel-Palestine two-State solution",
-    "title_ar": "",
-    "excerpt_en": "The UN chief warned on Tuesday that the two-State solution for the Israel-Palestine conflict is at risk of collapse amid illegal Israeli settlement expansion and annexation.&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-22T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168401",
     "credibility": "high"
   }
 ]
