@@ -1,9 +1,22 @@
 [
   {
-    "id": "d557ff38b598",
-    "title_en": "Israeli forces raid Palestinian NGOs and hospital in occupied West Bank",
+    "id": "5b2dab493d3c",
+    "title_en": "Israel’s military raids NGO offices in Ramallah",
     "title_ar": "",
-    "excerpt_en": "Snipers have been deployed outside entrances to the Palestine Medical Complex, WAFA reported.",
+    "excerpt_en": "Al Jazeera’s Nida Ibrahim reports from Ramallah in the occupied West Bank where Israeli forces raided several NGOs.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-13T10:53:16+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/israels-military-raids-ngo-offices-in-ramallah?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d557ff38b598",
+    "title_en": "Israeli forces raid Palestinian NGOs in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Snipers deployed outside entrances to the Palestine Medical Complex, Wafa reported.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-13T09:04:47+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/13/qatars-emir-says-palestinian-cause-remains-highest?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d2ce4f85fed5",
-    "title_en": "Palestine weekly: Gaza marks year of ‘ceasefire’ with more Israeli killing",
-    "title_ar": "",
-    "excerpt_en": "A year after Gaza&#039;s ceasefire, Israeli attacks persist as settler violence disrupts West Bank&#039;s oil harvest.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-13T07:45:07+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/13/palestine-weekly-gaza-marks-year-of-ceasefire-with-more-israeli-killing?traffic_source=rss",
     "credibility": "medium"
   },
   {
