@@ -1,5 +1,23 @@
 [
   {
+    "id": "635571001f67",
+    "title_en": "WHO calls for urgent health action across the Eastern Mediterranean",
+    "title_ar": "",
+    "excerpt_en": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-10-14T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "bd886aa1e91a",
     "title_en": "Today's top news: Ethiopia, Democratic Republic of the Congo, Occupied Palestinian Territory, Yemen",
     "title_ar": "",
@@ -236,24 +254,6 @@
     "timestamp": "2026-09-28T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168464",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "922ad96ebb16",
-    "title_en": "UNRWA work and mandate in ‘jeopardy’, Guterres warns",
-    "title_ar": "",
-    "excerpt_en": "The UN Relief and Works Agency for Palestine refugees (UNRWA) continues to operate under “extraordinary pressure”, UN Secretary-General António Guterres said on Thursday.&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-09-24T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168428",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
