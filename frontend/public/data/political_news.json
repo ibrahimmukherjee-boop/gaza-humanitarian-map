@@ -1,28 +1,28 @@
 [
   {
-    "id": "cacad52f2dbb",
-    "title_en": "Colombia inaugurates embassy to Israel in Jerusalem",
+    "id": "3428514260ac",
+    "title_en": "Palestinian collective uses art to connect Gaza and the West Bank",
     "title_ar": "",
-    "excerpt_en": "Palestinian officials slam move by Colombian government that marked major shift after ex-president had cut Israel ties.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-10-14T14:08:45+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/14/colombia-inaugurates-embassy-to-israel-in-jerusalem?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b8e1b723a3b4",
-    "title_en": "UK restaurateur claims losses after video calling for Gaza destruction",
-    "title_ar": "",
-    "excerpt_en": "A UK restaurateur is claiming losses, weeks after posting a video appearing to urge Israel to destroy buildings in Gaza.",
+    "excerpt_en": "A Palestinian exhibition opening simultaneously in Bethlehem and Gaza is challenging Israeli restrictions.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-10-14T13:28:21+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/uk-restaurateur-claims-losses-after-video-calling-for-gaza-destruction?traffic_source=rss",
+    "timestamp": "2026-10-14T17:11:20+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/palestinian-collective-uses-art-to-connect-gaza-and-the-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "89c7d57f2b40",
+    "title_en": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+    "title_ar": "",
+    "excerpt_en": "Settlers attack Palestinian mosque near occupied East Jerusalem",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-14T17:05:01+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/settlers-attack-palestinian-mosque-near-occupied-east-jerusalem?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -39,45 +39,6 @@
     "credibility": "high"
   },
   {
-    "id": "4a46ced34d6e",
-    "title_en": "Do any of these Israeli candidates support a Palestinian state?",
-    "title_ar": "",
-    "excerpt_en": "Do any of these Israeli candidates support a Palestinian state?",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-14T11:43:29+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/do-any-of-these-israeli-candidates-support-a-palestinian-state?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "8b0691019004",
-    "title_en": "Settlers set fire to mosque in West Bank as Israeli forces raid villages",
-    "title_ar": "",
-    "excerpt_en": "Settlers also attacked a boy in a separate incident in the town of Beita, south of Nablus.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-14T10:57:35+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/14/settlers-set-fire-to-mosque-in-west-bank-as-israeli-forces-raid-villages?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "49de6ed2d85d",
-    "title_en": "Israeli plan to reopen settler ‘Route 463’ threatens to isolate Ramallah",
-    "title_ar": "",
-    "excerpt_en": "Israeli plans to reopen Route 463 for settlers threaten to isolate Palestinian villages and fragment Ramallah.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-14T10:49:40+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/14/israeli-plan-to-reopen-settler-route-463-threatens-to-isolate-ramallah?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "7a01d0c25c2c",
     "title_en": "Sustaining livelihoods amid crisis in Gaza",
     "title_ar": "",
@@ -88,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-11T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168569",
-    "credibility": "high"
-  },
-  {
-    "id": "f3f250921d77",
-    "title_en": "Most UK diplomats to leave East Jerusalem consulate, Israel says, as Miliband says 'vital services' to remain",
-    "title_ar": "",
-    "excerpt_en": "Israel said in September it would act in response to UK sanctions on illegal Israeli settlements in the West Bank.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-08T15:21:46+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cw33xd6vegnno?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
