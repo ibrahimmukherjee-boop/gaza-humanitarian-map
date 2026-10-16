@@ -1,5 +1,18 @@
 [
   {
+    "id": "ce9337c695aa",
+    "title_en": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+    "title_ar": "",
+    "excerpt_en": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-16T14:31:04+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "ac6e012f2256",
     "title_en": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
     "title_ar": "",
@@ -50,19 +63,6 @@
     "timestamp": "2026-10-16T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
     "credibility": "high"
-  },
-  {
-    "id": "b1ef1b01199c",
-    "title_en": "Palestinian olive trees torched as settler pogroms escalate during harvest",
-    "title_ar": "",
-    "excerpt_en": "It is Palestine’s olive harvest, but settlers have set their trees and vehicles on fire.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-16T10:27:20+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "72a13b7efa31",
