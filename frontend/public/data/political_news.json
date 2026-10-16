@@ -1,5 +1,31 @@
 [
   {
+    "id": "b2d3aa513492",
+    "title_en": "Food affordability fears plague Gaza as Israel halts commercial goods",
+    "title_ar": "",
+    "excerpt_en": "Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-16T20:37:22+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "03b87f960665",
+    "title_en": "UK PM adviser’s wife expresses ‘support’ for Palestine Action",
+    "title_ar": "",
+    "excerpt_en": "Police reviewing social media post by writer Sarah Helm, wife of Burnham&#039;s National Security Adviser Jonathan Powell.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-16T18:26:08+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/16/uk-pm-advisers-wife-expresses-support-for-palestine-action?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "58db9861384d",
     "title_en": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
     "title_ar": "",
@@ -10,32 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-16T17:28:41+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ef98e60e8416",
-    "title_en": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
-    "title_ar": "",
-    "excerpt_en": "We asked students what they think.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-16T16:54:49+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ebf172c13afd",
-    "title_en": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
-    "title_ar": "",
-    "excerpt_en": "About 67 percent of Gaza&#039;s population projected to face crisis-level food insecurity or worse through the end of 2026.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-10-16T15:37:25+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
     "credibility": "medium"
   },
   {
