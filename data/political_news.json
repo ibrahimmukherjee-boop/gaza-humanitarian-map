@@ -1,5 +1,57 @@
 [
   {
+    "id": "ac6e012f2256",
+    "title_en": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-16T13:52:48+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "c66f45f8a1a6",
+    "title_en": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-16T13:26:47+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "3681e43a3afb",
+    "title_en": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-16T13:04:32+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "87a44214764d",
+    "title_en": "Gaza: 340 children killed despite ceasefire agreement - UNICEF",
+    "title_ar": "",
+    "excerpt_en": "A little over one year since a ceasefire agreement was announced between Hamas fighters and Israel, more than 340 children have been reported killed and hundreds more injured, the UN Children’s Fund (UNICEF) said on Friday.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-16T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
+    "credibility": "high"
+  },
+  {
     "id": "b1ef1b01199c",
     "title_en": "Palestinian olive trees torched as settler pogroms escalate during harvest",
     "title_ar": "",
@@ -10,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-16T10:27:20+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "008834788e09",
-    "title_en": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
-    "title_ar": "",
-    "excerpt_en": "The UN is warning that nearly one million displaced Palestinians face flooding risks as winter approaches.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-16T10:12:34+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -37,45 +76,6 @@
     "timestamp": "2026-10-16T08:45:54+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "069e26aa6bf1",
-    "title_en": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
-    "title_ar": "",
-    "excerpt_en": "The review called for Norway&#039;s sovereign wealth fund to lift ethical risk limitations on its investments.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-16T08:36:13+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/16/norway-wealth-fund-urged-to-ease-nuclear-arms-ban-after-gaza-investment-row?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c274c7d6e741",
-    "title_en": "How Israel’s elections will affect Palestinians",
-    "title_ar": "",
-    "excerpt_en": "How Israel votes this month will shape the future of over 5.5 million Palestinians who have no say in the election.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-16T07:04:54+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israels-elections-will-affect-palestinians?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d8b78c90ac35",
-    "title_en": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
-    "title_ar": "",
-    "excerpt_en": "One man wanders Gaza in search of somewhere to sleep, having lost his family in an Israeli strike.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-16T05:55:23+00:00",
-    "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "4682352225f0",
@@ -192,19 +192,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-09-30T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
-    "credibility": "high"
-  },
-  {
-    "id": "35a5f311e506",
-    "title_en": "Security Council LIVE: Ambassadors meet as West Bank tensions rise, Gaza plan stalls",
-    "title_ar": "",
-    "excerpt_en": "The Security Council met Monday morning with prospects for peace in the Middle East under strain on two fronts. In the West Bank, settler violence and settlement expansion are raising fears for a two-State solution. In Gaza, a year-old peace plan has stalled while civilian suffering continues. The meeting comes as the plan’s remaining phases, including Hamas’ disarmament and Israel’s full withdraw",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-09-28T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168464",
     "credibility": "high"
   }
 ]
