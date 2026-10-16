@@ -1,5 +1,44 @@
 [
   {
+    "id": "58db9861384d",
+    "title_en": "Ukraine advances in occupied Donetsk as Trump hands Putin diesel deal",
+    "title_ar": "",
+    "excerpt_en": "Ukraine’s &#039;Operation Vivaldi&#039; reclaimed more occupied territory in Donetsk during a week when Trump sided with Russia.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-16T17:28:41+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/16/ukraine-repels-russian-forces-as-us-support-wavers-energy-strikes-escalate?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ef98e60e8416",
+    "title_en": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
+    "title_ar": "",
+    "excerpt_en": "We asked students what they think.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-16T16:54:49+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ebf172c13afd",
+    "title_en": "Gaza malnutrition and starvation at ‘catastrophic’ levels: Health Ministry",
+    "title_ar": "",
+    "excerpt_en": "About 67 percent of Gaza&#039;s population projected to face crisis-level food insecurity or worse through the end of 2026.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-16T15:37:25+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/16/gaza-malnutrition-and-starvation-at-catastrophic-levels-health-ministry?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ce9337c695aa",
     "title_en": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
     "title_ar": "",
@@ -11,45 +50,6 @@
     "timestamp": "2026-10-16T14:31:04+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c65ynk7212vqo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "ac6e012f2256",
-    "title_en": "Jerusalem Daily: Israeli settlers burn Palestinian olive groves",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers carry out violent pogroms on Palestinian olive groves in the towns of Abu Falah and Turmus Ayya.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-16T13:52:48+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/jerusalem-daily-israeli-settlers-burn-palestinian-olive-groves?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c66f45f8a1a6",
-    "title_en": "Palestinians, US journalist attacked in West Bank pogrom: What we know",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers attacked Palestinians harvesting olives and severely beat Washington Post photojournalist Heidi Levine.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-16T13:26:47+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/16/palestinians-us-journalist-attacked-in-west-bank-pogrom-what-we-know?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3681e43a3afb",
-    "title_en": "Israeli settlers continue pogrom amid olive harvest in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "At least two people, including Washington Post journalist, injured as settlers armed with clubs and guns attack.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-16T13:04:32+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/16/israeli-settlers-continue-progrom-amid-olive-harvest-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "87a44214764d",
