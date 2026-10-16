@@ -1,5 +1,44 @@
 [
   {
+    "id": "b1ef1b01199c",
+    "title_en": "Palestinian olive trees torched as settler pogroms escalate during harvest",
+    "title_ar": "",
+    "excerpt_en": "It is Palestine’s olive harvest, but settlers have set their trees and vehicles on fire.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-16T10:27:20+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/palestinian-olive-trees-torched-as-settler-pogroms-escalate-during-harvest?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "008834788e09",
+    "title_en": "UN warns nearly 1 million in Gaza face flood risks as winter approaches",
+    "title_ar": "",
+    "excerpt_en": "The UN is warning that nearly one million displaced Palestinians face flooding risks as winter approaches.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-16T10:12:34+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/un-warns-nearly-1-million-in-gaza-face-flood-risks-as-winter-approaches?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "72a13b7efa31",
+    "title_en": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+    "title_ar": "",
+    "excerpt_en": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-16T08:45:54+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "069e26aa6bf1",
     "title_en": "Norway wealth fund urged to ease nuclear arms ban after Gaza investment row",
     "title_ar": "",
@@ -36,19 +75,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-16T05:55:23+00:00",
     "url": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c3dfabff747f",
-    "title_en": "China tells Israel to stop ‘forced establishment’ of West Bank settlements",
-    "title_ar": "",
-    "excerpt_en": "&#039;The Palestinian question is the greatest historical injustice of this century,&#039; China&#039;s foreign minister said.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-16T02:56:21+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/16/china-tells-israel-to-stop-forced-establishment-of-west-bank-settlements?traffic_source=rss",
     "credibility": "medium"
   },
   {
