@@ -1,5 +1,44 @@
 [
   {
+    "id": "62dd30380229",
+    "title_en": "Gaza families fear food shortages as Israel halts commercial shipments",
+    "title_ar": "",
+    "excerpt_en": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-18T13:16:13+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "69384e44e1bd",
+    "title_en": "Why have settler pogroms surged during olive harvest season in West Bank?",
+    "title_ar": "",
+    "excerpt_en": "France and Belgium condemn settler attack on diplomats, but critics say EU needs to act beyond words of condemnation.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-18T12:35:56+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "f77abaf8e1d3",
+    "title_en": "European diplomats attacked by Israeli settlers in West Bank",
+    "title_ar": "",
+    "excerpt_en": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-18T12:16:14+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "288811585b32",
     "title_en": "Funeral held for 75 Palestinians after remains recovered from Gaza ruins",
     "title_ar": "",
@@ -37,19 +76,6 @@
     "timestamp": "2026-10-18T10:30:00+00:00",
     "url": "https://www.aljazeera.com/video/witness/2026/10/18/gaza-family-reunion-finding-each-other-after-the-ceasefire?traffic_source=rss",
     "credibility": "medium"
-  },
-  {
-    "id": "f77abaf8e1d3",
-    "title_en": "European diplomats attacked by Israeli settlers in West Bank",
-    "title_ar": "",
-    "excerpt_en": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-17T23:52:38+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "dade86b83d82",
