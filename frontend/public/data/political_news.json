@@ -1,15 +1,28 @@
 [
   {
-    "id": "41817ee5da90",
-    "title_en": "Is the US Embassy in Jerusalem for Israel or America?",
+    "id": "f9b2fcdd83d8",
+    "title_en": "Israeli settlers attack European diplomats in the occupied West Bank",
     "title_ar": "",
-    "excerpt_en": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+    "excerpt_en": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "diplomatic",
-    "timestamp": "2026-10-17T18:41:30+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+    "timestamp": "2026-10-18T01:02:37+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a242c04ec336",
+    "title_en": "Iran war live: Israeli settlers attack EU diplomats; drones target Riyadh",
+    "title_ar": "",
+    "excerpt_en": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-18T00:00:11+00:00",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -21,9 +34,35 @@
     "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-10-17T18:38:57+00:00",
+    "timestamp": "2026-10-17T23:52:38+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
+  },
+  {
+    "id": "4d19a212adeb",
+    "title_en": "US ambassador urges Israel to prosecute attackers of American journalist",
+    "title_ar": "",
+    "excerpt_en": "Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#039;despicable act of terror&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-17T23:40:59+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "41817ee5da90",
+    "title_en": "Is the US Embassy in Jerusalem for Israel or America?",
+    "title_ar": "",
+    "excerpt_en": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-17T18:41:30+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+    "credibility": "medium"
   },
   {
     "id": "7572c5519fea",
@@ -49,19 +88,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-17T17:18:50+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a74c9df029da",
-    "title_en": "Why are Latin American countries building closer ties with Israel?",
-    "title_ar": "",
-    "excerpt_en": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-17T16:54:44+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
     "credibility": "medium"
   },
   {
