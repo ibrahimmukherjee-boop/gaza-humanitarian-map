@@ -1,5 +1,18 @@
 [
   {
+    "id": "137344df92f8",
+    "title_en": "Israel’s ties with Europe are fraying. Can its election change that?",
+    "title_ar": "",
+    "excerpt_en": "European condemnation is mounting, but Israel’s election offers little prospect of a material change for Palestinians.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-18T07:05:00+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/18/israels-ties-with-europe-are-fraying-can-its-election-change-that?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "cb368af19550",
     "title_en": "UK police rule out probe into Palestine Action post by PM adviser’s wife",
     "title_ar": "",
@@ -10,32 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-18T04:46:17+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/18/uk-police-rule-out-probe-into-palestine-action-post-by-pm-advisers-wife?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f9b2fcdd83d8",
-    "title_en": "Israeli settlers attack European diplomats in the occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Masked Israeli settlers attacked European diplomats, a French mayor and Palestinians in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-18T01:02:37+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/israeli-settlers-attack-european-diplomats-in-the-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a242c04ec336",
-    "title_en": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
-    "title_ar": "",
-    "excerpt_en": "Fires reported on three tankers, as masked settlers attack European politicians in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-18T00:00:11+00:00",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
     "credibility": "medium"
   },
   {
