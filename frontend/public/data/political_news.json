@@ -1,5 +1,31 @@
 [
   {
+    "id": "72459e496f06",
+    "title_en": "Gaza bodybuilders find solace in strongman competition among the ruins",
+    "title_ar": "",
+    "excerpt_en": "Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-18T18:36:02+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "c9343b9bab7b",
+    "title_en": "JERUSALEM DAILY: Settlers attack EU diplomats",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers attacked an EU delegation in the occupied West Bank while it was visiting olive harvesters near Taybeh.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-18T17:52:37+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/aje-onl-nf_draft-2-yt-short-oct-18-p-daily-1-181026?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "79234781bd89",
     "title_en": "French mayor attacked by settlers during occupied West Bank olive harvest",
     "title_ar": "",
@@ -36,32 +62,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-10-18T14:42:01+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/18/a-timeline-of-west-bank-attacks-on-palestinians-and-foreign-officials?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "62dd30380229",
-    "title_en": "Gaza families fear food shortages as Israel halts commercial shipments",
-    "title_ar": "",
-    "excerpt_en": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-18T13:16:13+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "69384e44e1bd",
-    "title_en": "Why have settler pogroms surged during olive harvest season in West Bank?",
-    "title_ar": "",
-    "excerpt_en": "France and Belgium condemn settler attack on diplomats, but critics say EU needs to act beyond words of condemnation.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-18T12:35:56+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/18/why-have-settler-pogroms-surged-during-olive-harvest-season-in-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
