@@ -1,5 +1,57 @@
 [
   {
+    "id": "72f7321100dd",
+    "title_en": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+    "title_ar": "",
+    "excerpt_en": "It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-19T10:34:18+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "e2c0692fb9dd",
+    "title_en": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
+    "title_ar": "",
+    "excerpt_en": "The UN agency says funding shortages threaten to reverse &#039;modest and fragile&#039; progress on food security.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-19T10:08:06+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "1dca96860c99",
+    "title_en": "NFL’s Azeez Al-Shaair honours Palestinian children for fifth straight week",
+    "title_ar": "",
+    "excerpt_en": "Al-Shaair&#039;s eyeblack carried the name of Maryam Ghanem, a girl in Gaza who was forced to watch her mother burn alive.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-19T08:45:05+00:00",
+    "url": "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d7b367443711",
+    "title_en": "In pro-Palestine hub of Athens, Israeli buyers increase local resentment",
+    "title_ar": "",
+    "excerpt_en": "In Exarchia, residents say short-term rentals are driving up rents and eroding its character.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-19T06:51:10+00:00",
+    "url": "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a0ed54dd2dc4",
     "title_en": "Funding shortages force World Food Programme to cut aid to Gaza",
     "title_ar": "",
