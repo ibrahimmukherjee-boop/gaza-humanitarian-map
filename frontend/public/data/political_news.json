@@ -1,16 +1,16 @@
 [
   {
-    "id": "1418150cd5e4",
-    "title_en": "Gaza faces worsening hunger as WFP announces food aid cuts",
+    "id": "16a01648062f",
+    "title_en": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
     "title_ar": "",
-    "excerpt_en": "The World Food Programme has announced that funding shortages will force it to suspend food assistance in Gaza",
+    "excerpt_en": "Israeli attacks on war-torn Gaza over the weekend killed at least six Palestinians, including children, despite a year-old ceasefire agreement. Meanwhile, in the occupied West Bank, settler violence continued through the ongoing olive harvest, with UN independent experts on Monday urging Israel to protect Palestinian farmers.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-19T16:06:57+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/gaza-faces-worsening-hunger-as-wfp-announces-food-aid-cuts?traffic_source=rss",
-    "credibility": "medium"
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-19T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
+    "credibility": "high"
   },
   {
     "id": "d8ba4d089352",
@@ -218,19 +218,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-09-30T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/09/1168497",
-    "credibility": "high"
-  },
-  {
-    "id": "7ad68e3dbbe8",
-    "title_en": "World News in Brief: Storm clouds over Gaza, deadly obstacles face Mexican women rights defenders, Latvia booze ban proves lifesaver",
-    "title_ar": "",
-    "excerpt_en": "UN teams are racing to protect families in Gaza from the coming rainy season, but restricted access to land and shortages of critical supplies are hampering the effort, UN Spokesperson Stéphane Dujarric said on Wednesday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-09-30T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168496",
     "credibility": "high"
   }
 ]
