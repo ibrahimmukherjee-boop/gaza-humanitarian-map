@@ -1,5 +1,31 @@
 [
   {
+    "id": "d4391ae21a65",
+    "title_en": "The night watch: Palestinians protecting their homes from settler pogroms",
+    "title_ar": "",
+    "excerpt_en": "Palestinians in the occupied West Bank are organising to protect themselves from settler attacks.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-19T12:30:22+00:00",
+    "url": "https://www.aljazeera.com/features/2026/10/19/the-night-watch-palestinians-protecting-their-homes-from-settler-pogroms?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "8dc62a284966",
+    "title_en": "Al Jazeera investigation challenges Israeli account of Heidi Levine attack",
+    "title_ar": "",
+    "excerpt_en": "Analysis of map coordinates and timelines raises doubts over official Israeli accounts of West Bank settler pogrom.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-19T12:28:27+00:00",
+    "url": "https://www.aljazeera.com/features/2026/10/19/al-jazeera-investigation-challenges-israeli-account-of-heidi-levine-attack?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "72f7321100dd",
     "title_en": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
     "title_ar": "",
@@ -36,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-19T08:45:05+00:00",
     "url": "https://www.aljazeera.com/sports/2026/10/19/nfls-azeez-al-shaair-honours-palestinian-children-for-fifth-straight-week?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "d7b367443711",
-    "title_en": "In pro-Palestine hub of Athens, Israeli buyers increase local resentment",
-    "title_ar": "",
-    "excerpt_en": "In Exarchia, residents say short-term rentals are driving up rents and eroding its character.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-19T06:51:10+00:00",
-    "url": "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss",
     "credibility": "medium"
   },
   {
