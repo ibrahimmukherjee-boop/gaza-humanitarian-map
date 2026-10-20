@@ -1,28 +1,28 @@
 [
   {
-    "id": "c6cbf2e6e7f9",
-    "title_en": "Canadian opera singer replaced after he raised Palestinian flag",
+    "id": "27cc15856192",
+    "title_en": "Israeli attacks kill at least four Palestinians in Gaza",
     "title_ar": "",
-    "excerpt_en": "Calgary’s opera house has removed a singer from future performances after he raised a Palestinian flag on stage.",
+    "excerpt_en": "A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-10-20T09:24:16+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/10-20-calgary-opera-palestine-clip?traffic_source=rss",
+    "timestamp": "2026-10-20T12:59:58+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss",
     "credibility": "medium"
   },
   {
-    "id": "49803a5cef3b",
-    "title_en": "Palestine weekly: Israeli settlers attack journalist and diplomats",
+    "id": "4add752b3e92",
+    "title_en": "‘Every day could cost lives’: UK government blocks Gaza families’ reunion",
     "title_ar": "",
-    "excerpt_en": "Settler olive harvest attacks top 2025 total, journalist and diplomats attacked as Israel halts Gaza commercial imports.",
+    "excerpt_en": "Britain’s reopened refugee resettlement scheme offers no escape for Palestinians in Gaza.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-20T06:22:33+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/20/palestine-weekly-israeli-settlers-attack-journalist-and-diplomats?traffic_source=rss",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-20T12:58:49+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -231,19 +231,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-10-02T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
-    "credibility": "high"
-  },
-  {
-    "id": "69fdee32676d",
-    "title_en": "Palestinians yearn for ‘a return to normal life’, says top Middle East peace envoy",
-    "title_ar": "",
-    "excerpt_en": "The UN is continuing efforts to support Palestinians in Gaza amid major challenges to humanitarian access, reconstruction and the restoration of essential services, according to Ramiz Alakbarov, Acting UN Special Coordinator for the Middle East Peace Process.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-09-30T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/09/1168497",
     "credibility": "high"
   }
 ]
