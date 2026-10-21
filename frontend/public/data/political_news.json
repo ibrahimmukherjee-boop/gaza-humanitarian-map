@@ -1,5 +1,44 @@
 [
   {
+    "id": "7e0b0f37fb9f",
+    "title_en": "US congressional candidate Brad Lander freed after West Bank detention",
+    "title_ar": "",
+    "excerpt_en": "Lander says dozens remain in Israeli custody after being detained while helping Palestinian farmers harvest olives.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-21T14:12:15+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a224bd09b014",
+    "title_en": "From one house to villages: Israeli settlers have Palestinians surrounded",
+    "title_ar": "",
+    "excerpt_en": "A family in the South Hebron Hills has spent more than two weeks cut off by settlers camped outside.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-21T13:20:27+00:00",
+    "url": "https://www.aljazeera.com/features/2026/10/21/from-one-house-to-whole-villages-settlers-have-palestinians-surrounded?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "074984b429a2",
+    "title_en": "‘They try to break us’: Pro-Palestine activists in Czech custody",
+    "title_ar": "",
+    "excerpt_en": "As a group is accused of an attack on a weapons factory, activists allege growing crackdown on the solidarity movement.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-21T12:24:23+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "16a01648062f",
     "title_en": "‘Season of fear’: Escalating Israeli attacks on West Bank olive farmers, deadly strikes on Gaza",
     "title_ar": "",
