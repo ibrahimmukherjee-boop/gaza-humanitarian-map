@@ -1,5 +1,18 @@
 [
   {
+    "id": "6c9656e22dbd",
+    "title_en": "Video shows Israeli settler assaulting Palestinian child",
+    "title_ar": "",
+    "excerpt_en": "An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-21T22:03:54+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "ff8977d77a9f",
     "title_en": "Jason Alexander recalls Palestinian protection in Ramallah",
     "title_ar": "",
@@ -13,43 +26,17 @@
     "credibility": "medium"
   },
   {
-    "id": "3786602f300d",
-    "title_en": "Farmers blocked from olive harvest in occ. West Bank, volunteers detained",
+    "id": "a8308e2580af",
+    "title_en": "‘Ominous start’ to West Bank olive harvest amid settler attacks",
     "title_ar": "",
-    "excerpt_en": "Palestinian farmers are still being blocked from accessing their olive groves by Israeli settlers and the military",
+    "excerpt_en": "The use of&nbsp;live ammunition, arson and the destruction of centuries-old olive trees have marked the opening weeks of this year’s harvest in the occupied West Bank.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-21T18:51:07+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/farmers-blocked-from-olive-harvest-in-occ-west-bank-volunteers-detained?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "1ba6bbbf6d12",
-    "title_en": "Actors, writers condemn UK anti-terror law targeting Sally Rooney",
-    "title_ar": "",
-    "excerpt_en": "Dozens of leading figures term the UK law banning Palestine Action a ‘repressive absurdity’.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-10-21T18:35:03+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/21/actors-writers-condemn-uk-anti-terror-law-targeting-sally-rooney?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "09ebaa20eceb",
-    "title_en": "Jerusalem Daily: Israeli minister calls for settling the entire West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces are raiding Palestinian homes in the occupied West Bank and turning them into interrogation centres.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-21T18:24:42+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/jerusalem-daily-israeli-minister-calls-for-settling-the-entire-west-bank?traffic_source=rss",
-    "credibility": "medium"
+    "timestamp": "2026-10-21T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168644",
+    "credibility": "high"
   },
   {
     "id": "16a01648062f",
@@ -244,19 +231,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-10-05T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168530",
-    "credibility": "high"
-  },
-  {
-    "id": "f1c3e39f4cc5",
-    "title_en": "Gaza: WHO appeals for massive aid influx ahead of winter",
-    "title_ar": "",
-    "excerpt_en": "Repeated delays in bringing lifesaving medicines, prosthetics and more from Israel into Gaza risk having devastating consequences on Palestinians who urgently need them in the war-torn enclave, the UN World Health Organization (WHO) said on Friday.&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-02T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168508",
     "credibility": "high"
   }
 ]
