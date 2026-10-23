@@ -1,5 +1,18 @@
 [
   {
+    "id": "1efa0b463312",
+    "title_en": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+    "title_ar": "",
+    "excerpt_en": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-23T23:25:11+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "447c389d43a8",
     "title_en": "Israel locks down occupied West Bank after Hebron shooting",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-23T18:38:26+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0922defc1f2b",
-    "title_en": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-10-23T17:30:51+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
     "credibility": "medium"
   },
   {
