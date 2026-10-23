@@ -1,5 +1,31 @@
 [
   {
+    "id": "447c389d43a8",
+    "title_en": "Israel locks down occupied West Bank after Hebron shooting",
+    "title_ar": "",
+    "excerpt_en": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-23T18:38:26+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0922defc1f2b",
+    "title_en": "Jerusalem Daily: Israel to ‘lock down’ occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli Prime Minister Benjamin Netanyahu orders a “full lockdown” of the occupied West Bank following a shooting.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-23T17:30:51+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/jerusalem-daily-netanyahu-orders-a-full-lockdown-of-the-occupied-west-ba?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7d2670e110e0",
     "title_en": "Israeli roadblocks disrupt schools and medical care in West Bank village",
     "title_ar": "",
@@ -26,17 +52,17 @@
     "credibility": "high"
   },
   {
-    "id": "66ae7e4d201d",
-    "title_en": "Hundreds to defy Palestine Action ban in protest at US embassy in London",
+    "id": "a8577372b909",
+    "title_en": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
     "title_ar": "",
-    "excerpt_en": "Campaigners plan mass Halloween action before Supreme Court hearing on challenge to group&#039;s &#039;terrorist&#039; proscription.",
+    "excerpt_en": "The UN said on Friday it was “extremely alarmed” by intensifying violence in the occupied West Bank, as Israel moved to seal off the territory following a deadly attack on its soldiers in Hebron.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
     "statement_type": "diplomatic",
-    "timestamp": "2026-10-23T13:25:58+00:00",
-    "url": "https://www.aljazeera.com/features/2026/10/23/hundreds-to-defy-palestine-action-ban-in-protest-at-us-embassy-in-london?traffic_source=rss",
-    "credibility": "medium"
+    "timestamp": "2026-10-23T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168660",
+    "credibility": "high"
   },
   {
     "id": "a8308e2580af",
