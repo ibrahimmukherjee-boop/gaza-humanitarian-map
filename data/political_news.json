@@ -1,7 +1,33 @@
 [
   {
+    "id": "20eacf1ffe83",
+    "title_en": "Severe hunger stalks people in Gaza as bakeries close down",
+    "title_ar": "",
+    "excerpt_en": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-24T20:52:55+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "192a0a82329d",
+    "title_en": "Could Israel’s military crackdown influence Tuesday’s election?",
+    "title_ar": "",
+    "excerpt_en": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-24T20:37:02+00:00",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c39e4fc92870",
-    "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
+    "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
     "title_ar": "",
     "excerpt_en": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
     "excerpt_ar": "",
