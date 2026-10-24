@@ -1,5 +1,18 @@
 [
   {
+    "id": "2721856d4df2",
+    "title_en": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-24T03:47:14+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "1efa0b463312",
     "title_en": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-23T23:25:11+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "447c389d43a8",
-    "title_en": "Israel locks down occupied West Bank after Hebron shooting",
-    "title_ar": "",
-    "excerpt_en": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-23T18:38:26+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
     "credibility": "medium"
   },
   {
