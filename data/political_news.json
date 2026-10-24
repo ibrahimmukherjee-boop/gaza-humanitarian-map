@@ -1,5 +1,31 @@
 [
   {
+    "id": "c39e4fc92870",
+    "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+    "title_ar": "",
+    "excerpt_en": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-24T23:02:06+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "7bb10d481e9f",
+    "title_en": "How have Democrats’ policies shifted since the last major US election?",
+    "title_ar": "",
+    "excerpt_en": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-24T22:28:37+00:00",
+    "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "20eacf1ffe83",
     "title_en": "Severe hunger stalks people in Gaza as bakeries close down",
     "title_ar": "",
@@ -26,19 +52,6 @@
     "credibility": "medium"
   },
   {
-    "id": "c39e4fc92870",
-    "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-    "title_ar": "",
-    "excerpt_en": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-24T17:21:42+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "adee496869f9",
     "title_en": "More than 2,000 forced from homes in Hebron amid Israel’s West Bank raids",
     "title_ar": "",
@@ -49,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-24T15:50:49+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/24/more-than-2000-forced-from-homes-in-hebron-amid-israels-west-bank-raids?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "146d61059217",
-    "title_en": "Full lockdown of occupied West Bank begins",
-    "title_ar": "",
-    "excerpt_en": "The Israeli army begins its lockdown and military operations across the West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-24T14:24:19+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/full-lockdown-of-occupied-west-bank-begins-2?traffic_source=rss",
     "credibility": "medium"
   },
   {
