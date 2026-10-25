@@ -1,5 +1,44 @@
 [
   {
+    "id": "46e53328bbb5",
+    "title_en": "Israeli air strike on Gaza City university kills three people",
+    "title_ar": "",
+    "excerpt_en": "Two Israeli strikes hit students and security guards at the Islamic University in Gaza City.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-25T18:12:13+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-air-strike-on-gaza-city-university-kills-three-people?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "081830f12c03",
+    "title_en": "US and Israel elections: New leaders, same policies?",
+    "title_ar": "",
+    "excerpt_en": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-25T17:53:23+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "4675f489e446",
+    "title_en": "Israeli soldiers beat elderly Palestinian in Hebron",
+    "title_ar": "",
+    "excerpt_en": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-25T16:11:37+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a3e615ce0235",
     "title_en": "Seven killed in Gaza as Israel targets university campus and other sites",
     "title_ar": "",
@@ -10,45 +49,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-25T15:40:25+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "5feb6523c9b9",
-    "title_en": "Gaza content creator tells Al Jazeera how much her award win means",
-    "title_ar": "",
-    "excerpt_en": "Palestinian girl Nisreen Skaik tells Al Jazeera how much winning a Junior Digital Creator Award means",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-25T14:16:06+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/gaza-content-creator-tells-al-jazeera-how-much-her-award-win-means?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "942aafb0d5d8",
-    "title_en": "Gaza’s visually and hearing-impaired children miss school due to Israel war",
-    "title_ar": "",
-    "excerpt_en": "Children in Gaza with auditory and visual challenges often have no access to specialist education.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-25T13:46:51+00:00",
-    "url": "https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e76aa744114e",
-    "title_en": "Why Israel’s latest assault on Hebron is so significant for the West Bank",
-    "title_ar": "",
-    "excerpt_en": "Mass expulsions, blockades and expanding settler control in Hebron threaten to devastate the West Bank economy.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-25T12:17:39+00:00",
-    "url": "https://www.aljazeera.com/economy/2026/10/25/why-israels-latest-assault-on-hebron-is-so-significant-for-the-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
