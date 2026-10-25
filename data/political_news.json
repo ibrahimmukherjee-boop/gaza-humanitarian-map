@@ -1,5 +1,18 @@
 [
   {
+    "id": "a029c9115eca",
+    "title_en": "Israel to close West Bank crossings on election day as crackdown escalates",
+    "title_ar": "",
+    "excerpt_en": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-25T05:15:52+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "c39e4fc92870",
     "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
     "title_ar": "",
@@ -23,32 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-24T22:28:37+00:00",
     "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "20eacf1ffe83",
-    "title_en": "Severe hunger stalks people in Gaza as bakeries close down",
-    "title_ar": "",
-    "excerpt_en": "Bakeries across Gaza are struggling to find flour to make bread for people desperate for food.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-24T20:52:55+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/severe-hunger-stalks-people-in-gaza-as-bakeries-close-down?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "192a0a82329d",
-    "title_en": "Could Israel’s military crackdown influence Tuesday’s election?",
-    "title_ar": "",
-    "excerpt_en": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-24T20:37:02+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
     "credibility": "medium"
   },
   {
