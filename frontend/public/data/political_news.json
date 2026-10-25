@@ -1,5 +1,31 @@
 [
   {
+    "id": "ff5cbcaf762e",
+    "title_en": "Israeli forces turn Hebron homes into military posts amid lockdown",
+    "title_ar": "",
+    "excerpt_en": "Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-25T09:27:03+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "6ad5707c42c7",
+    "title_en": "Israel to close occupied West Bank crossings as it locks down Hebron",
+    "title_ar": "",
+    "excerpt_en": "Israel says it will close all land crossings with the West Bank when it holds a general election on Tuesday.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-25T07:20:36+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/25/israel-to-close-occupied-west-bank-crossings-as-hebron-lockdown-continues?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a029c9115eca",
     "title_en": "Israel to close West Bank crossings on election day as crackdown escalates",
     "title_ar": "",
@@ -24,19 +50,6 @@
     "timestamp": "2026-10-24T23:02:06+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "7bb10d481e9f",
-    "title_en": "How have Democrats’ policies shifted since the last major US election?",
-    "title_ar": "",
-    "excerpt_en": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-24T22:28:37+00:00",
-    "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "a8577372b909",
