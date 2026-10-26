@@ -174,41 +174,6 @@
     "credibility": "high"
   },
   {
-    "id": "72f7321100dd",
-    "title_en": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-    "title_ar": "",
-    "excerpt_en": "It comes after masked settlers attacked Palestinians and European officials visiting the West Bank during olive harvesting season.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-10-19T10:34:18+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqn7323p0dxyo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "a0ed54dd2dc4",
-    "title_en": "Funding shortages force World Food Programme to cut aid to Gaza",
-    "title_ar": "",
-    "excerpt_en": "The number of people helped by the UN agency in the Palestinian territory will drop by about a third - from 1.6 million to 1.1 million.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-10-19T06:00:18+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cm79plrvpl4vo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
     "id": "dade86b83d82",
     "title_en": "Flour sacks turned flood barriers: Gaza faces another winter without safe shelter",
     "title_ar": "",
@@ -295,6 +260,23 @@
       "Gaza Strip"
     ],
     "credibility": "high"
+  },
+  {
+    "id": "31bf551e553e",
+    "title_en": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
+    "title_ar": "",
+    "excerpt_en": "Many Palestinians are still living in cramped tent cities, with the US plan to end the war largely stalled.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-10-08T05:06:09+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cmx2qlz7qrd4o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
   },
   {
     "id": "1ee14c6081a8",
