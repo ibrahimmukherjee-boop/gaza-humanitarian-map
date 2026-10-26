@@ -1,5 +1,31 @@
 [
   {
+    "id": "44c9c91c7833",
+    "title_en": "Israel expands expulsions in occupied West Bank to cement control",
+    "title_ar": "",
+    "excerpt_en": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing &#039;new reality&#039;, analysts say.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-26T13:11:08+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "24b04de5e7cc",
+    "title_en": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+    "title_ar": "",
+    "excerpt_en": "The death toll in Israel&#039;s genocidal war on Gaza climbs to 74,555, including 1,559 killed since &#039;ceasefire&#039; last year.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-26T12:17:02+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "591473627efd",
     "title_en": "If Netanyahu loses, what changes for Palestinians?",
     "title_ar": "",
@@ -36,19 +62,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-26T09:45:25+00:00",
     "url": "https://www.aljazeera.com/news/2026/10/26/palestinians-are-opening-their-doors-to-the-displaced-of-besieged-hebron?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "f02bd95752d8",
-    "title_en": "Do Palestinians in Gaza expect anything to change after Israel’s election?",
-    "title_ar": "",
-    "excerpt_en": "After years of war, displacement and restrictions, Gazans ask whether Israel’s election will affect their future.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-26T08:43:39+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/26/do-palestinians-in-gaza-expect-anything-to-change-after-israels-election?traffic_source=rss",
     "credibility": "medium"
   },
   {
