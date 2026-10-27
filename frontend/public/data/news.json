@@ -1,5 +1,22 @@
 [
   {
+    "id": "731fd2a21f98",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Ukraine, Ethiopia, Sudan, South Sudan, Kenya",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Ukraine, Ethiopia, Sudan, South Sudan, Kenya</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\"",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-10-27T16:24:04+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-ukraine-ethiopia-sudan-south-sudan-kenya",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "ba9ff8e14205",
     "title_en": "What does Israel's election mean for Gaza and the wider world?",
     "title_ar": "",
