@@ -1,5 +1,44 @@
 [
   {
+    "id": "692ab819bf08",
+    "title_en": "Israel’s election: The battle between change and anti-Palestinian sentiment",
+    "title_ar": "",
+    "excerpt_en": "With both blocs short of a majority, parties face a choice: to break the taboo on Arab allies or return to the polls.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-28T12:22:20+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/28/israels-election-the-battle-between-change-and-anti-palestinian-sentiment?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "9a389f3f3e32",
+    "title_en": "Families brace for a fourth winter of wind, rain and floods in Gaza’s camps",
+    "title_ar": "",
+    "excerpt_en": "Gaza&#039;s impending winter is likely to lead to further devastation for Palestinians.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-28T11:36:04+00:00",
+    "url": "https://www.aljazeera.com/features/2026/10/28/gaza-families-brace-for-a-fourth-winter-of-wind-rain-and-floods-in-camps?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "bc802cf5f42c",
+    "title_en": "High voter turnout among Palestinian citizens of Israel threatens Netanyahu",
+    "title_ar": "",
+    "excerpt_en": "A historic turnout among Palestinian citizens of Israel positions Arab parties as kingmakers against the far right.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-28T11:33:13+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/28/high-voter-turnout-from-palestinian-citizens-of-israel-threatens-netanyahu?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "852856e581b5",
     "title_en": "Palestinian activist Mahmoud Khalil returns to Columbia after US detention",
     "title_ar": "",
@@ -10,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-28T11:00:37+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/palestinian-activist-mahmoud-khalil-returns-to-columbia-after-us-detention?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "50a7b1805e54",
-    "title_en": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
-    "title_ar": "",
-    "excerpt_en": "UN agency expresses &#039;grave concern&#039; in Hebron and warns of echoes of 2025 &#039;Iron Wall&#039; operation.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-28T10:41:07+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
     "credibility": "medium"
   },
   {
