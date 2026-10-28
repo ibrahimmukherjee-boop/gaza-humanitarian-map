@@ -1,16 +1,42 @@
 [
   {
-    "id": "3ec662400b50",
-    "title_en": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+    "id": "852856e581b5",
+    "title_en": "Palestinian activist Mahmoud Khalil returns to Columbia after US detention",
     "title_ar": "",
-    "excerpt_en": "Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents",
+    "excerpt_en": "Pro-Palestinian activist Mahmoud Khalil returned to Columbia University for the first time since his US detention.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-10-28T04:13:28+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
+    "timestamp": "2026-10-28T11:00:37+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/palestinian-activist-mahmoud-khalil-returns-to-columbia-after-us-detention?traffic_source=rss",
     "credibility": "medium"
+  },
+  {
+    "id": "50a7b1805e54",
+    "title_en": "Israeli forces continue West Bank raids as Hebron lockdown enters sixth day",
+    "title_ar": "",
+    "excerpt_en": "UN agency expresses &#039;grave concern&#039; in Hebron and warns of echoes of 2025 &#039;Iron Wall&#039; operation.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-28T10:41:07+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/28/israeli-forces-continue-west-bank-raids-as-hebron-lockdown-enters-sixth-day?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "45d1f939a751",
+    "title_en": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
+    "title_ar": "",
+    "excerpt_en": "Families in Gaza are bracing for a fourth winter in tents and makeshift shelters as UN aid operations face mounting obstacles, with transport suspended on Tuesday due to Israel’s closure of the key Kerem Shalom crossing for election day.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-27T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+    "credibility": "high"
   },
   {
     "id": "ba9ff8e14205",
@@ -179,19 +205,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-10-11T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168569",
-    "credibility": "high"
-  },
-  {
-    "id": "1ee14c6081a8",
-    "title_en": "Israeli demolition in East Jerusalem displaces 69 Palestinians",
-    "title_ar": "",
-    "excerpt_en": "Sixty-nine Palestinians – more than half of them children – were displaced on Tuesday after Israeli authorities green lit the demolition of their residential building in the At Tur area of East Jerusalem, the UN aid coordination office (OCHA) has reported.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-06T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168539",
     "credibility": "high"
   }
 ]
