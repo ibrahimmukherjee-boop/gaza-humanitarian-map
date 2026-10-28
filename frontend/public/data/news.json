@@ -1,5 +1,22 @@
 [
   {
+    "id": "a5d7b0a0fabc",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Ethiopia/Kenya, Sudan, Democratic Republic of the Congo, Haiti",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Ethiopia/Kenya, Sudan, Democratic Republic of the Congo, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-10-28T15:28:52+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-ethiopiakenya-sudan-democratic-republic",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "731fd2a21f98",
     "title_en": "Today's top news: Occupied Palestinian Territory, Ukraine, Ethiopia, Sudan, South Sudan, Kenya",
     "title_ar": "",
@@ -150,23 +167,6 @@
     "url": "https://www.unocha.org/news/aid-community-gearing-deeper-food-insecurity",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "61f22c874dac",
-    "title_en": "Today's top news: Yemen, Sudan, Occupied Palestinian Territory, Ukraine",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Sudan, Occupied Palestinian Territory, Ukraine</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A burned-o",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-10-22T15:53:51+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-sudan-occupied-palestinian-territory-ukraine",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
