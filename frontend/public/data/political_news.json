@@ -1,5 +1,44 @@
 [
   {
+    "id": "d717a5c59f33",
+    "title_en": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+    "title_ar": "",
+    "excerpt_en": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-29T21:16:26+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "2ca14b5953b9",
+    "title_en": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-29T21:10:13+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a7db7fd27575",
+    "title_en": "Palestinians injured, arrested in Israeli raids across West Bank",
+    "title_ar": "",
+    "excerpt_en": "This comes as more than 3,300 Palestinians are forced from homes in Hebron as Israel&#039;s military offensive continues.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-29T20:40:03+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-injured-arrested-in-israeli-raids-across-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "5a37607f3662",
     "title_en": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
     "title_ar": "",
@@ -39,6 +78,19 @@
     "credibility": "high"
   },
   {
+    "id": "ba9ff8e14205",
+    "title_en": "What does Israel's election mean for Gaza and the wider world?",
+    "title_ar": "",
+    "excerpt_en": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-27T10:17:36+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "58e7f2ad7dac",
     "title_en": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
     "title_ar": "",
@@ -62,19 +114,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-25T05:15:52+00:00",
     "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "c39e4fc92870",
-    "title_en": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-    "title_ar": "",
-    "excerpt_en": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-24T23:02:06+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
