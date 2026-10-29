@@ -1,15 +1,28 @@
 [
   {
-    "id": "18f9ae6eeca2",
-    "title_en": "What are the implications of Israel’s elections?",
+    "id": "707fcfad10f9",
+    "title_en": "Activists accuse Israeli settlers of assault in occupied West Bank",
     "title_ar": "",
-    "excerpt_en": "No clear winner in Israel&#039;s first election since the October 7 attacks and genocidal war in Gaza.",
+    "excerpt_en": "Footage shows men, some armed, beating a US journalist and an Israeli-Russian activist in Umm al-Khair.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-10-28T19:03:03+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/10/28/what-are-the-implications-of-israels-elections?traffic_source=rss",
+    "timestamp": "2026-10-29T03:12:47+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/29/activists-accuse-israeli-settlers-of-assault-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "30dc8d7e17c1",
+    "title_en": "Israeli settlers savagely attack journalists in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Videos circulating on social media show Israeli settlers assaulting three foreign journalists in the West Bank",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-29T02:43:29+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
