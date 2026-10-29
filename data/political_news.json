@@ -1,5 +1,18 @@
 [
   {
+    "id": "6dcb0bd01eba",
+    "title_en": "Former US officials call on 2028 candidates to denounce Biden’s Gaza policy",
+    "title_ar": "",
+    "excerpt_en": "Biden-era officials who quit over Gaza urge Democratic candidates for next presidential race to denounce the policy.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-29T07:41:04+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/29/former-us-officials-call-on-2028-candidates-to-denounce-bidens-gaza-policy?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "707fcfad10f9",
     "title_en": "Activists accuse Israeli settlers of assault in occupied West Bank",
     "title_ar": "",
@@ -13,19 +26,6 @@
     "credibility": "medium"
   },
   {
-    "id": "30dc8d7e17c1",
-    "title_en": "Israeli settlers savagely attack journalists in occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Videos circulating on social media show Israeli settlers assaulting three foreign journalists in the West Bank",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-29T02:43:29+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settlers-savagely-attack-journalists-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "45d1f939a751",
     "title_en": "Gaza: Families brace for fourth winter in tents as aid operations remain stymied",
     "title_ar": "",
@@ -36,19 +36,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-27T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
-    "credibility": "high"
-  },
-  {
-    "id": "ba9ff8e14205",
-    "title_en": "What does Israel's election mean for Gaza and the wider world?",
-    "title_ar": "",
-    "excerpt_en": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-27T10:17:36+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
