@@ -1,5 +1,31 @@
 [
   {
+    "id": "5f12f43d87ee",
+    "title_en": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+    "title_ar": "",
+    "excerpt_en": "Prime Minister claims the parties accepted foreign funding.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-10-30T19:34:36+00:00",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "29d42c8e35f8",
+    "title_en": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
+    "title_ar": "",
+    "excerpt_en": "Troops hold at least 12 Palestinians near demolished homes as nearly 5,000 remain displaced from Hebron neighbourhoods",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-30T18:35:44+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "bd361251f8cb",
     "title_en": "Jerusalem Daily: Israel’s siege on Hebron displaces thousands",
     "title_ar": "",
@@ -23,32 +49,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-30T15:06:00+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/israeli-forces-blow-up-homes-of-palestinians-accused-of-killing-soldiers?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3ba2a737b2e0",
-    "title_en": "Ethnic cleansing fears rise as Israel squeezes space in Gaza: UN",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces are treating the &#039;Yellow Line&#039;, which is encroaching westward, as &#039;a kill zone&#039;, the OHCHR says.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-30T14:18:07+00:00",
-    "url": "https://www.aljazeera.com/news/2026/10/30/ethnic-cleansing-fears-rise-as-israel-squeezes-space-in-gaza-un?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "234eb46fd689",
-    "title_en": "Palestinian child survives Israeli gunshot to the head",
-    "title_ar": "",
-    "excerpt_en": "Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-30T13:32:24+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss",
     "credibility": "medium"
   },
   {
