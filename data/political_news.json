@@ -1,15 +1,41 @@
 [
   {
-    "id": "97054d23770b",
-    "title_en": "Netanyahu attacks Israel’s Arab parties as he falls short of majority",
+    "id": "266a1804ee3a",
+    "title_en": "Britain must sanction Israel, not just its settlers",
     "title_ar": "",
-    "excerpt_en": "Israel’s Prime Minister accused Palestinian-Israeli parties of election fraud.",
+    "excerpt_en": "Israeli forces detained our parliamentary delegation and barred us from the West Bank. The violence is state policy.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-10-30T02:40:26+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/netanyahu-attacks-israels-arab-parties-as-he-falls-short-of-majority?traffic_source=rss",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-30T07:10:50+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/10/30/britain-must-sanction-israel-not-just-its-settlers?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a65c394a366e",
+    "title_en": "How Israel choked off Hebron at 10 entrances, as 5,000 forced to flee",
+    "title_ar": "",
+    "excerpt_en": "Our analysis exposes the heavy humanitarian and economic toll of the military siege suffocating Palestinians in Hebron.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-10-30T07:07:36+00:00",
+    "url": "https://www.aljazeera.com/economy/2026/10/30/how-israel-choked-off-hebron-at-10-entrances-as-5000-forced-to-flee?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a9a01706861f",
+    "title_en": "UK denies entry to Swedish academic due to speak at Palestine event",
+    "title_ar": "",
+    "excerpt_en": "Home Office cancels Andreas Malm&#039;s planned travel to the UK, saying his presence &#039;not conducive to the public good&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-10-30T06:50:35+00:00",
+    "url": "https://www.aljazeera.com/news/2026/10/30/swedish-academic-says-denied-entry-to-uk-over-palestine-event?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -49,19 +75,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-26T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-    "credibility": "high"
-  },
-  {
-    "id": "a029c9115eca",
-    "title_en": "Israel to close West Bank crossings on election day as crackdown escalates",
-    "title_ar": "",
-    "excerpt_en": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-25T05:15:52+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
