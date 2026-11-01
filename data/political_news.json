@@ -1,5 +1,18 @@
 [
   {
+    "id": "bbbfad660a50",
+    "title_en": "Thousands displaced from Hebron as Israel carries on siege",
+    "title_ar": "",
+    "excerpt_en": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-01T21:28:47+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "69c664577521",
     "title_en": "Hebron siege continues for 10th day as Israel threatens wider offensive",
     "title_ar": "",
@@ -24,19 +37,6 @@
     "timestamp": "2026-11-01T17:06:32+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "50a094b24c8b",
-    "title_en": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
-    "title_ar": "",
-    "excerpt_en": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-01T15:38:12+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "fbdd668a07fd",
