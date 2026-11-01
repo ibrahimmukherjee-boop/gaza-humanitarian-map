@@ -1,5 +1,31 @@
 [
   {
+    "id": "69c664577521",
+    "title_en": "Hebron siege continues for 10th day as Israel threatens wider offensive",
+    "title_ar": "",
+    "excerpt_en": "Hebron&#039;s economic losses surpass $3.8m as Israeli forces demolish West Bank homes and close hundreds of businesses.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-01T17:30:45+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/1/hebron-siege-continues-for-10th-day-as-israel-threatens-wider-offensive?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "bded956aea97",
+    "title_en": "Israeli strikes in Gaza kill eight including child, hospitals say",
+    "title_ar": "",
+    "excerpt_en": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-01T17:06:32+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "50a094b24c8b",
     "title_en": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
     "title_ar": "",
@@ -10,58 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-01T15:38:12+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "6d02b1ae5f99",
-    "title_en": "Israeli attacks on Gaza kill at least nine people",
-    "title_ar": "",
-    "excerpt_en": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-01T14:10:59+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "fe6165cb7c0a",
-    "title_en": "Macklemore concludes ‘Free Palestine’ tour with solidarity message",
-    "title_ar": "",
-    "excerpt_en": "Macklemore’s ‘Free Palestine’ tour ended with a sold-out show in London.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-01T13:47:53+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/macklemore-concludes-free-palestine-tour-with-solidarity-message?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b1162fdbc9d3",
-    "title_en": "At least eight Palestinians killed in Israeli attacks across Gaza",
-    "title_ar": "",
-    "excerpt_en": "Four-year-old among eight Palestinians killed in Israeli drone attacks across the Gaza Strip.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-01T13:36:16+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "ef830738d9a5",
-    "title_en": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
-    "title_ar": "",
-    "excerpt_en": "As one of Lebanon&#039;s most vulnerable communities, Palestinians are struggling to make ends meet.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-01T13:25:27+00:00",
-    "url": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -88,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-27T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
-    "credibility": "high"
-  },
-  {
-    "id": "ba9ff8e14205",
-    "title_en": "What does Israel's election mean for Gaza and the wider world?",
-    "title_ar": "",
-    "excerpt_en": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-27T10:17:36+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
