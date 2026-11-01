@@ -1,5 +1,57 @@
 [
   {
+    "id": "6d02b1ae5f99",
+    "title_en": "Israeli attacks on Gaza kill at least nine people",
+    "title_ar": "",
+    "excerpt_en": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-01T14:10:59+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "fe6165cb7c0a",
+    "title_en": "Macklemore concludes ‘Free Palestine’ tour with solidarity message",
+    "title_ar": "",
+    "excerpt_en": "Macklemore’s ‘Free Palestine’ tour ended with a sold-out show in London.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-01T13:47:53+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/macklemore-concludes-free-palestine-tour-with-solidarity-message?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "b1162fdbc9d3",
+    "title_en": "At least eight Palestinians killed in Israeli attacks across Gaza",
+    "title_ar": "",
+    "excerpt_en": "Four-year-old among eight Palestinians killed in Israeli drone attacks across the Gaza Strip.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-01T13:36:16+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/1/at-least-eight-palestinians-killed-in-israeli-attacks-across-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "ef830738d9a5",
+    "title_en": "Palestinians in Lebanon suffering worsened by high energy prices, inflation",
+    "title_ar": "",
+    "excerpt_en": "As one of Lebanon&#039;s most vulnerable communities, Palestinians are struggling to make ends meet.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-01T13:25:27+00:00",
+    "url": "https://www.aljazeera.com/features/2026/11/1/palestinians-in-lebanon-suffering-worsened-by-high-energy-prices-inflation?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "fbdd668a07fd",
     "title_en": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
     "title_ar": "",
