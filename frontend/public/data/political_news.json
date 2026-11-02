@@ -1,15 +1,15 @@
 [
   {
-    "id": "bbbfad660a50",
-    "title_en": "Thousands displaced from Hebron as Israel carries on siege",
+    "id": "7a0a37e8facf",
+    "title_en": "The future of the Palestinian vote in Israel",
     "title_ar": "",
-    "excerpt_en": "Almost 5,000 people have been displaced as a result of Israel’s military siege on the city of Hebron in the West Bank.",
+    "excerpt_en": "The backlash against the high Palestinian turnout reveals much about the state of Israeli democracy and its future.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-01T21:28:47+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-02T07:14:44+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -49,6 +49,19 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-27T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
+    "credibility": "high"
+  },
+  {
+    "id": "ba9ff8e14205",
+    "title_en": "What does Israel's election mean for Gaza and the wider world?",
+    "title_ar": "",
+    "excerpt_en": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-10-27T10:17:36+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
