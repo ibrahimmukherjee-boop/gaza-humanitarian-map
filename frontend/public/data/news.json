@@ -1,5 +1,22 @@
 [
   {
+    "id": "ca95dba35f93",
+    "title_en": "Today's top news: Yemen, Ukraine, Sudan, Occupied Palestinian Territory, Insurance",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Ukraine, Sudan, Occupied Palestinian Territory, Insurance</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-02T17:57:08+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-ukraine-sudan-occupied-palestinian-territory-insurance",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "bded956aea97",
     "title_en": "Israeli strikes in Gaza kill eight including child, hospitals say",
     "title_ar": "",
@@ -120,23 +137,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "9a88e6af1d98",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Sudan, Democratic Republic of the Congo</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__ite",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-10-26T16:48:35+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-sudan-democratic-republic-congo",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "58e7f2ad7dac",
