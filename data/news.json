@@ -1,5 +1,22 @@
 [
   {
+    "id": "7c263c0ee00a",
+    "title_en": "Today's top news: Yemen, Ukraine, Ethiopia, Occupied Palestinian Territory",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Ukraine, Ethiopia, Occupied Palestinian Territory</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A fathe",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-03T18:00:47+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-ukraine-ethiopia-occupied-palestinian-territory",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "ca95dba35f93",
     "title_en": "Today's top news: Yemen, Ukraine, Sudan, Occupied Palestinian Territory, Insurance",
     "title_ar": "",
@@ -61,23 +78,6 @@
     "source": "OCHA",
     "timestamp": "2026-10-29T16:41:38+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-ukraine-occupied-palestinian-territory-democratic-republic-congo-haiti",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "a5d7b0a0fabc",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Ethiopia/Kenya, Sudan, Democratic Republic of the Congo, Haiti",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Ethiopia/Kenya, Sudan, Democratic Republic of the Congo, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-10-28T15:28:52+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-ethiopiakenya-sudan-democratic-republic",
     "tags": [
       "humanitarian"
     ],
