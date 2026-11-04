@@ -1,5 +1,56 @@
 [
   {
+    "id": "1d75db5bd884",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Sudan, Somalia",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Sudan, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden f",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-04T16:59:25+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-sudan-somalia",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "7c263c0ee00a",
+    "title_en": "Today's top news: Yemen, Ukraine, Ethiopia, Occupied Palestinian Territory",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Ukraine, Ethiopia, Occupied Palestinian Territory</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A fathe",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-03T18:00:47+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-ukraine-ethiopia-occupied-palestinian-territory",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "ca95dba35f93",
+    "title_en": "Today's top news: Yemen, Ukraine, Sudan, Occupied Palestinian Territory, Insurance",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Ukraine, Sudan, Occupied Palestinian Territory, Insurance</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-02T17:57:08+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-ukraine-sudan-occupied-palestinian-territory-insurance",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "bded956aea97",
     "title_en": "Israeli strikes in Gaza kill eight including child, hospitals say",
     "title_ar": "",
