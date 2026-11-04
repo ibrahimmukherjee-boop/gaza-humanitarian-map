@@ -1,15 +1,28 @@
 [
   {
-    "id": "fff59335fe0d",
-    "title_en": "Palestinians return to ruined Hebron homes after Israel’s 10-day siege",
+    "id": "57829417bdd5",
+    "title_en": "UK Supreme Court hears appeal against Palestine Action’s proscription",
     "title_ar": "",
-    "excerpt_en": "Returning Hebron residents face significant economic and structural devastation after Israeli military operation.",
+    "excerpt_en": "Rights activists say UK decision against Palestine Action is a &#039;misuse of terrorism powers&#039;.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-04T08:22:15+00:00",
-    "url": "https://www.aljazeera.com/features/2026/11/4/palestinians-return-to-ruined-hebron-homes-after-israels-10-day-siege?traffic_source=rss",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-04T12:43:47+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d7a486754baf",
+    "title_en": "From education to housing protests, Palestine’s flag spreads across Europe",
+    "title_ar": "",
+    "excerpt_en": "Symbols such as the flag and keffiyeh represent anti-colonial struggles but some question their use amid mass rallies.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-04T10:10:08+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/4/palestinian-flag-in-eu-demonstrations?traffic_source=rss",
     "credibility": "medium"
   },
   {
