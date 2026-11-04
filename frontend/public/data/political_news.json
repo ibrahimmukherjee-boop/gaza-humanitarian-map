@@ -1,5 +1,31 @@
 [
   {
+    "id": "12e4d7095560",
+    "title_en": "Palestinians, Israelis react after Democrats sweep US midterms",
+    "title_ar": "",
+    "excerpt_en": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-04T22:06:24+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "682a2dd01c05",
+    "title_en": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+    "title_ar": "",
+    "excerpt_en": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-04T21:13:56+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f3ee85d2b2e8",
     "title_en": "Palestinian citizens of Israel face intimidation after election success",
     "title_ar": "",
@@ -10,45 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-04T17:14:21+00:00",
     "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "fa30d2cddb95",
-    "title_en": "The new Congress may struggle to push a progressive agenda",
-    "title_ar": "",
-    "excerpt_en": "Major change on key issues, such as Israel-Palestine, will be limited by the president and the Democratic establishment.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-11-04T17:05:09+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "79bc4e71011e",
-    "title_en": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers have expanded in Hebron&#039;s Old City, with Palestinian residents&#039; presence under threat.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-04T13:40:52+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/4/hebrons-israeli-rooftop-settlers-threaten-the-citys-palestinian-identity?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "cd4f4256be86",
-    "title_en": "Gaza volunteer Adam Hamawy wins historic US Congress seat",
-    "title_ar": "",
-    "excerpt_en": "Egyptian-American surgeon Adam Hamawy has won New Jersey’s 12th Congressional District.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-04T13:33:05+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
     "credibility": "medium"
   },
   {
