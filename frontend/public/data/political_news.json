@@ -1,5 +1,31 @@
 [
   {
+    "id": "f3ee85d2b2e8",
+    "title_en": "Palestinian citizens of Israel face intimidation after election success",
+    "title_ar": "",
+    "excerpt_en": "After winning a record number of parliament seats, Palestinian-led parties face campaign against them.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-04T17:14:21+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/4/palestinians-face-intimidation-after-election-success?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "fa30d2cddb95",
+    "title_en": "The new Congress may struggle to push a progressive agenda",
+    "title_ar": "",
+    "excerpt_en": "Major change on key issues, such as Israel-Palestine, will be limited by the president and the Democratic establishment.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-11-04T17:05:09+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/11/4/the-new-congress-may-struggle-to-push-a-progressive-agenda?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "79bc4e71011e",
     "title_en": "Hebron’s Israeli rooftop settlers threaten the city’s Palestinian identity",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-04T13:33:05+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/gaza-volunteer-adam-hamawy-wins-historic-us-congress-seat?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9fbb46c3b1e2",
-    "title_en": "Jerusalem Daily: Mass arrests across occupied West Bank",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces bomb Gaza displacement camps and arrest 45 people in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-04T13:29:40+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/jerusalem-daily-mass-arrests-across-occupied-west-bank?traffic_source=rss",
     "credibility": "medium"
   },
   {
