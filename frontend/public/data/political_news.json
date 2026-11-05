@@ -1,5 +1,31 @@
 [
   {
+    "id": "a0832ee01734",
+    "title_en": "Four people, including a child, killed in Israeli attacks on Gaza",
+    "title_ar": "",
+    "excerpt_en": "Gaza officials say more than 1,600 Palestinians have been killed since the so-called &#039;ceasefire&#039; took effect.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-11-05T13:04:52+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/5/four-people-including-a-child-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "2fb3bdbad874",
+    "title_en": "Iran, Gaza, Ukraine: What will US midterm results mean for these conflicts?",
+    "title_ar": "",
+    "excerpt_en": "Despite wins, Democrats lack the two-thirds majority needed to overturn a presidential veto and push through a law.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-11-05T11:32:40+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/5/iran-gaza-ukraine-what-will-us-midterm-results-mean-for-these-conflicts?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7bd1b3401c58",
     "title_en": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-05T09:52:02+00:00",
     "url": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0b4f9f3c444a",
-    "title_en": "It’s Gaza, stupid",
-    "title_ar": "",
-    "excerpt_en": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-05T09:44:33+00:00",
-    "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
     "credibility": "medium"
   },
   {
