@@ -1,15 +1,41 @@
 [
   {
-    "id": "8817fa1d4a4b",
-    "title_en": "Former Israeli generals help Palestinian olive farmers",
+    "id": "7bd1b3401c58",
+    "title_en": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
     "title_ar": "",
-    "excerpt_en": "A group of former Israeli military generals offered their help to Palestinian olive farmers in the occupied West Bank.",
+    "excerpt_en": "An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-05T02:52:30+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/former-israeli-generals-help-palestinian-olive-farmers?traffic_source=rss",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-05T10:25:28+00:00",
+    "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "991cdf3dfe6d",
+    "title_en": "Israel extends detention of Palestinian journalist Abed Abou Shhadeh",
+    "title_ar": "",
+    "excerpt_en": "Rights group says the journalist&#039;s arrest over an interview with Azmi Bishara is an attempt to silence Palestinians.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-05T09:52:02+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/5/israel-extends-detention-of-palestinian-journalist-abed-abou-shhadeh?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0b4f9f3c444a",
+    "title_en": "It’s Gaza, stupid",
+    "title_ar": "",
+    "excerpt_en": "The midterms sent a warning to both parties: Voters enraged by Gaza are rejecting politicians who back Israel’s wars.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-05T09:44:33+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/11/5/its-gaza-stupid?traffic_source=rss",
     "credibility": "medium"
   },
   {
