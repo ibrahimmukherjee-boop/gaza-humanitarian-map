@@ -1,5 +1,31 @@
 [
   {
+    "id": "e8a0c6e9b624",
+    "title_en": "Israeli settlers seize 8 Palestinian homes in Jericho, displacing dozens",
+    "title_ar": "",
+    "excerpt_en": "UN says settlers reportedly used live ammunition and beat Palestinians, forcing families to flee for their safety.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-11-06T04:30:26+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/6/israeli-settlers-seize-8-palestinian-homes-in-jericho-displacing-dozens?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "630819d48cf9",
+    "title_en": "Building wind turbines out of parts found in Gaza’s rubble",
+    "title_ar": "",
+    "excerpt_en": "Palestinians in Gaza have made wind turbines to generate electricity, using scraps found in the rubble.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-06T04:20:22+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/building-wind-turbines-out-of-parts-found-in-gazas-rubble?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "2ed7cc91b354",
     "title_en": "Gaza turns discarded cooking pots into seawalls",
     "title_ar": "",
