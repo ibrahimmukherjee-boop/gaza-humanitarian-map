@@ -1,5 +1,31 @@
 [
   {
+    "id": "2ed7cc91b354",
+    "title_en": "Gaza turns discarded cooking pots into seawalls",
+    "title_ar": "",
+    "excerpt_en": "As winter approaches, Palestinians in Gaza are turning damaged cooking pots into makeshift seawalls to avoid flooding.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-06T02:03:47+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/gaza-turns-discarded-cooking-pots-into-seawalls?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "146e7d5dc5de",
+    "title_en": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-06T00:19:57+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "41f437952ef0",
     "title_en": "Israeli demolitions displace more than 100 Palestinians in Biddu",
     "title_ar": "",
