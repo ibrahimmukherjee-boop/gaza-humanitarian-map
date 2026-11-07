@@ -1,5 +1,31 @@
 [
   {
+    "id": "5feb64e2eea3",
+    "title_en": "Rains flood thousands of displaced families’ tents in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Civil Defence says it received 1,500 distress calls in 10 hours as a storm swept through displacement camps.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-07T11:10:02+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/7/rains-flood-thousands-of-tents-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "52116db307ba",
+    "title_en": "Palestinian citizens of Israel put to ‘loyalty test’ after election wins",
+    "title_ar": "",
+    "excerpt_en": "Palestinian citizens of Israel say Arab parties&#039; success in recent elections has led to growing pressure.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-07T09:48:11+00:00",
+    "url": "https://www.aljazeera.com/features/2026/11/7/palestinian-citizens-of-israel-put-to-loyalty-test-after-election-wins?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "06151a5cfc10",
     "title_en": "Gunfire damages tents at Rafah displacement site in Gaza, as aid teams prepare for winter storms",
     "title_ar": "",
