@@ -1,0 +1,198 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "hosp-1",
+      "geometry": { "type": "Point", "coordinates": [34.466, 31.523] },
+      "properties": {
+        "id": "hosp-1",
+        "type": "hospitals",
+        "title_en": "Al-Shifa Hospital (reported status)",
+        "title_ar": "مستشفى الشفاء (حالة مبلغ عنها)",
+        "description_en": "Major medical facility. Status based on publicly reported humanitarian updates.",
+        "description_ar": "منشأة طبية رئيسية. الحالة بناءً على تحديثات إنسانية علنية.",
+        "lat": 31.523,
+        "lng": 34.466,
+        "source": "WHO / OCHA",
+        "timestamp": "2026-06-28T10:00:00Z",
+        "verification_status": "verified",
+        "confidence": "medium",
+        "url": "https://www.who.int/emergencies"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "clinic-1",
+      "geometry": { "type": "Point", "coordinates": [34.445, 31.501] },
+      "properties": {
+        "id": "clinic-1",
+        "type": "clinics",
+        "title_en": "Primary Health Clinic — Gaza City",
+        "title_ar": "عيادة الرعاية الأولية — مدينة غزة",
+        "description_en": "Community clinic listed in humanitarian facility databases.",
+        "description_ar": "عيادة مجتمعية مدرجة في قواعد بيانات المنشآت الإنسانية.",
+        "lat": 31.501,
+        "lng": 34.445,
+        "source": "UNICEF",
+        "timestamp": "2026-06-29T08:30:00Z",
+        "verification_status": "verified",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "shelter-1",
+      "geometry": { "type": "Point", "coordinates": [34.42, 31.48] },
+      "properties": {
+        "id": "shelter-1",
+        "type": "shelters",
+        "title_en": "UNRWA Shelter — Middle Area",
+        "title_ar": "ملجأ الأونروا — المنطقة الوسطى",
+        "description_en": "Displacement shelter reported by UNRWA humanitarian updates.",
+        "description_ar": "ملجأ للنازحين وفق تحديثات الأونروا الإنسانية.",
+        "lat": 31.48,
+        "lng": 34.42,
+        "source": "UNRWA",
+        "timestamp": "2026-06-30T14:00:00Z",
+        "verification_status": "verified",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "water-1",
+      "geometry": { "type": "Point", "coordinates": [34.35, 31.42] },
+      "properties": {
+        "id": "water-1",
+        "type": "water",
+        "title_en": "Water Distribution Point — Khan Younis",
+        "title_ar": "نقطة توزيع مياه — خان يونس",
+        "description_en": "Reported water access point from humanitarian coordination updates.",
+        "description_ar": "نقطة وصول للمياه مبلغ عنها من تحديثات التنسيق الإنساني.",
+        "lat": 31.42,
+        "lng": 34.35,
+        "source": "OCHA",
+        "timestamp": "2026-07-01T06:00:00Z",
+        "verification_status": "unverified",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "food-1",
+      "geometry": { "type": "Point", "coordinates": [34.38, 31.45] },
+      "properties": {
+        "id": "food-1",
+        "type": "food",
+        "title_en": "Food Distribution — Rafah Area",
+        "title_ar": "توزيع غذاء — منطقة رفح",
+        "description_en": "Aid distribution site from WFP coordination reports.",
+        "description_ar": "موقع توزيع مساعدات من تقارير تنسيق برنامج الأغذية العالمي.",
+        "lat": 31.45,
+        "lng": 34.38,
+        "source": "WFP",
+        "timestamp": "2026-07-01T09:00:00Z",
+        "verification_status": "verified",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "sanitation-1",
+      "geometry": { "type": "Point", "coordinates": [34.44, 31.51] },
+      "properties": {
+        "id": "sanitation-1",
+        "type": "sanitation",
+        "title_en": "Sanitation Station — North Gaza",
+        "title_ar": "محطة صرف صحي — شمال غزة",
+        "description_en": "Sanitation facility from infrastructure assessment reports.",
+        "description_ar": "منشأة صرف صحي من تقارير تقييم البنية التحتية.",
+        "lat": 31.51,
+        "lng": 34.44,
+        "source": "UNICEF",
+        "timestamp": "2026-06-27T12:00:00Z",
+        "verification_status": "unverified",
+        "confidence": "low"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "road-1",
+      "geometry": { "type": "Point", "coordinates": [34.40, 31.47] },
+      "properties": {
+        "id": "road-1",
+        "type": "roads",
+        "title_en": "Salah al-Din Road — reported obstruction",
+        "title_ar": "شارع صلاح الدين — عرقلة مبلغ عنها",
+        "description_en": "Road status from humanitarian access reports. Not a routing recommendation.",
+        "description_ar": "حالة الطريق من تقارير الوصول الإنساني. وليس توصية مسار.",
+        "lat": 31.47,
+        "lng": 34.40,
+        "source": "OCHA",
+        "timestamp": "2026-07-01T11:00:00Z",
+        "verification_status": "disputed",
+        "confidence": "medium"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "damage-1",
+      "geometry": { "type": "Point", "coordinates": [34.46, 31.52] },
+      "properties": {
+        "id": "damage-1",
+        "type": "damage",
+        "title_en": "Infrastructure damage report — Gaza City",
+        "title_ar": "تقرير أضرار بنية تحتية — مدينة غزة",
+        "description_en": "Reported structural damage from satellite and ground observations.",
+        "description_ar": "أضرار هيكلية مبلغ عنها من ملاحظات الأقمار الصناعية والأرض.",
+        "lat": 31.52,
+        "lng": 34.46,
+        "source": "UNOSAT",
+        "timestamp": "2026-06-30T18:00:00Z",
+        "verification_status": "verified",
+        "confidence": "high"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "incident-1",
+      "geometry": { "type": "Point", "coordinates": [34.43, 31.49] },
+      "properties": {
+        "id": "incident-1",
+        "type": "incidents",
+        "title_en": "Incident report — humanitarian impact",
+        "title_ar": "تقرير حادث — أثر إنساني",
+        "description_en": "Reported incident affecting civilian infrastructure. Source-attributed only.",
+        "description_ar": "حادث مبلغ عنه يؤثر على البنية التحتية المدنية. منسوب للمصدر فقط.",
+        "lat": 31.49,
+        "lng": 34.43,
+        "source": "ReliefWeb",
+        "timestamp": "2026-07-01T07:30:00Z",
+        "verification_status": "unverified",
+        "confidence": "low",
+        "url": "https://reliefweb.int"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "news-geo-1",
+      "geometry": { "type": "Point", "coordinates": [34.36, 31.44] },
+      "properties": {
+        "id": "news-geo-1",
+        "type": "news",
+        "title_en": "Aid convoy update — southern Gaza",
+        "title_ar": "تحديث convoy مساعدات — جنوب غزة",
+        "description_en": "Geolocated news item from humanitarian RSS feed.",
+        "description_ar": "خبر محدد جغرافياً من خلاصة RSS إنسانية.",
+        "lat": 31.44,
+        "lng": 34.36,
+        "source": "ReliefWeb RSS",
+        "timestamp": "2026-07-01T12:00:00Z",
+        "verification_status": "verified",
+        "confidence": "high",
+        "url": "https://reliefweb.int"
+      }
+    }
+  ]
+}
