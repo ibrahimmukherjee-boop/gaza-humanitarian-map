@@ -1,28 +1,28 @@
 [
   {
-    "id": "0d7c1b034e13",
-    "title_en": "Floods in Gaza leave tens of thousands without shelter",
+    "id": "c077248146ab",
+    "title_en": "Israeli forces release Palestinian journalist Abou Shhadeh",
     "title_ar": "",
-    "excerpt_en": "Civil Defence reports over 1,500 emergency calls as thousands of tents and shelters destroyed after heavy rains.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-08T09:28:52+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/8/floods-in-gaza-leave-tens-of-thousands-without-shelter?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "cc71d4881d87",
-    "title_en": "Former Palestinian detainees at mercy of Israel amid perpetual detention",
-    "title_ar": "",
-    "excerpt_en": "Former Palestinian detainees in the West Bank are being repeatedly detained by Israeli forces, affecting their families.",
+    "excerpt_en": "Abed Abou Shhadeh says his detention was part of Israel&#039;s political measures &#039;to intimidate Arab society as a whole&#039;.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-11-08T09:09:59+00:00",
-    "url": "https://www.aljazeera.com/features/2026/11/8/former-palestinian-detainees-at-mercy-of-israel-amid-perpetual-detention?traffic_source=rss",
+    "timestamp": "2026-11-08T16:18:09+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/8/israeli-forces-release-palestinian-journalist-abou-shhadeh?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "c723123fbe06",
+    "title_en": "Palestinian journalist Abed Abou Shhadeh released after 5 days in detention",
+    "title_ar": "",
+    "excerpt_en": "Palestinian journalist Abed Abou Shhadeh released after 5 days detention",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-08T14:53:29+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/palestinian-journalist-abed-abou-shhadeh-released-after-5-days-in-detention?traffic_source=rss",
     "credibility": "medium"
   },
   {
