@@ -1,5 +1,44 @@
 [
   {
+    "id": "18afefeeed76",
+    "title_en": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Heavy rain floods tents housing displaced Palestinians in Gaza as Israeli restrictions on aid hamper response.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-08T06:55:24+00:00",
+    "url": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "2f42015279a6",
+    "title_en": "Gaza wedding festival sees 250 couples married at the same time",
+    "title_ar": "",
+    "excerpt_en": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-07T17:58:41+00:00",
+    "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "f87a708f5b1e",
+    "title_en": "Tens of thousands of tents flooded after heavy rains in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-07T16:25:55+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "4448d225e83e",
     "title_en": "‘For the first time I have my own chair’: Gaza siblings find new freedom",
     "title_ar": "",
