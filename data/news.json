@@ -1,5 +1,23 @@
 [
   {
+    "id": "886dfb7a755c",
+    "title_en": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
+    "title_ar": "",
+    "excerpt_en": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-09T10:41:57+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "2f42015279a6",
     "title_en": "Gaza wedding festival sees 250 couples married at the same time",
     "title_ar": "",
@@ -154,24 +172,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "bded956aea97",
-    "title_en": "Israeli strikes in Gaza kill eight including child, hospitals say",
-    "title_ar": "",
-    "excerpt_en": "Five officers from the Hamas-run police have been killed in Khan Younis and three people, including a child, killed in Gaza City, officials say.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-01T17:06:32+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "fbdd668a07fd",
