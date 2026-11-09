@@ -1,5 +1,22 @@
 [
   {
+    "id": "56c4640be490",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Syria",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Syria</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__i",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-09T17:07:21+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-ukraine-democratic-republic-congo-syria",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "886dfb7a755c",
     "title_en": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
     "title_ar": "",
@@ -148,23 +165,6 @@
     "source": "OCHA",
     "timestamp": "2026-11-03T18:00:47+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-yemen-ukraine-ethiopia-occupied-palestinian-territory",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "ca95dba35f93",
-    "title_en": "Today's top news: Yemen, Ukraine, Sudan, Occupied Palestinian Territory, Insurance",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Ukraine, Sudan, Occupied Palestinian Territory, Insurance</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-02T17:57:08+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-ukraine-sudan-occupied-palestinian-territory-insurance",
     "tags": [
       "humanitarian"
     ],
