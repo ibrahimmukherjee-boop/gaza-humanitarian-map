@@ -1,5 +1,44 @@
 [
   {
+    "id": "d73f31da146b",
+    "title_en": "Palestine Weekly: West Bank on fire – and Gaza’s tents under water",
+    "title_ar": "",
+    "excerpt_en": "More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-11-10T06:37:13+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "4da40bdcd185",
+    "title_en": "Firms tied to West Bank settlements win $15m UK deals despite sanctions",
+    "title_ar": "",
+    "excerpt_en": "Former Labour leader Jeremy Corbyn called the findings ‘outrageous and frankly insulting to the public’.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-10T05:39:50+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/10/firms-tied-to-west-bank-settlements-win-15m-uk-deals-despite-sanctions?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0ffe67ec27ee",
+    "title_en": "Israeli forces kill 14-year-old Palestinian boy in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "Israel&#039;s military says its soldiers opened fire to prevent Palestinians from throwing stones at vehicles in Burqa.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-10T05:23:57+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/10/israeli-forces-kill-14-year-old-palestinian-boy-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "886dfb7a755c",
     "title_en": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
     "title_ar": "",
