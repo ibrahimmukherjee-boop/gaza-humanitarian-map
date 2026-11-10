@@ -1,15 +1,28 @@
 [
   {
-    "id": "faddf2cc6b93",
-    "title_en": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+    "id": "6f765357e29a",
+    "title_en": "F1 champion Lewis Hamilton visits Gaza border",
     "title_ar": "",
-    "excerpt_en": "Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.",
+    "excerpt_en": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-11-10T15:49:36+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-10T20:14:34+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "9a8933b51440",
+    "title_en": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+    "title_ar": "",
+    "excerpt_en": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-10T18:58:05+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -24,19 +37,6 @@
     "timestamp": "2026-11-10T15:21:18+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "ba9457d3e828",
-    "title_en": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
-    "title_ar": "",
-    "excerpt_en": "Lewis Hamilton visits Rafah crossing to witness Gaza aid efforts",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-10T15:21:11+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/lewis-hamilton-visits-rafah-crossing-to-witness-gaza-aid-efforts?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "5b9f203b0201",
