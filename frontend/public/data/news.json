@@ -1,5 +1,22 @@
 [
   {
+    "id": "b66678c08827",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Mali, Somalia, Democratic Republic of the Congo, Sudan, Haiti",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Mali, Somalia, Democratic Republic of the Congo, Sudan, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hi",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-11T17:37:06+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-mali-somalia-democratic-republic-congo-sudan",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "dc8b44054999",
     "title_en": "“No more delay,” UN relief chief urges immediate entry of winter supplies into Gaza",
     "title_ar": "",
@@ -185,23 +202,6 @@
     "url": "https://www.unocha.org/media-centre/haiti-displaced-violence-4-november-2026",
     "tags": [
       "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "1d75db5bd884",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Sudan, Somalia",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Sudan, Somalia</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden f",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-04T16:59:25+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-sudan-somalia",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
