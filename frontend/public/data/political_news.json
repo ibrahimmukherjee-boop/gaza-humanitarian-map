@@ -1,5 +1,57 @@
 [
   {
+    "id": "98ca326bf8bc",
+    "title_en": "Rights group raises concerns about jailed Dr Abu Safia amid strikes on Gaza",
+    "title_ar": "",
+    "excerpt_en": "PHRI says the arbitrary detention of Gaza doctors violates individual rights and undermines healthcare system.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-11T12:05:51+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/11/rights-group-raises-concerns-about-jailed-dr-abu-safia-amid-strikes-on-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "36769448b913",
+    "title_en": "Israel kills Gaza goalkeeper days after playing in cup for slain athletes",
+    "title_ar": "",
+    "excerpt_en": "Mahmoud Abdel-Malek, a 20-year-old goalkeeper for Gaza Sports Club, was killed in an Israeli airstrike on Gaza City.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-11T10:57:39+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/israel-kills-gaza-goalkeeper-days-after-playing-in-cup-for-slain-athletes?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "3a62856b77c0",
+    "title_en": "Gaza’s infrastructure collapse leaves residents defenceless against floods",
+    "title_ar": "",
+    "excerpt_en": "Winter weather has continued to wreak havoc in Gaza, with flooding and strong winds.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-11T10:12:37+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/11/gaza-infrastructure-collapse-leaves-residents-defenceless-against-floods?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "20edbb8ae4e2",
+    "title_en": "Gaza Grad: A Palestinian-Russian family’s longing for home",
+    "title_ar": "",
+    "excerpt_en": "Forced from Gaza, a Palestinian-Russian family rebuilds their lives across Russia and Egypt, longing to return home.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-11T09:39:19+00:00",
+    "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/11/11/gaza-grad-a-palestinian-russian-familys-longing-for-home?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "2218f53c1d1b",
     "title_en": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
     "title_ar": "",
