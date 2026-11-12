@@ -1,5 +1,23 @@
 [
   {
+    "id": "d3b520921be1",
+    "title_en": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+    "title_ar": "",
+    "excerpt_en": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-12T09:43:11+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "b66678c08827",
     "title_en": "Today's top news: Occupied Palestinian Territory, Mali, Somalia, Democratic Republic of the Congo, Sudan, Haiti",
     "title_ar": "",
@@ -115,41 +133,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
     "tags": [
       "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "2f42015279a6",
-    "title_en": "Gaza wedding festival sees 250 couples married at the same time",
-    "title_ar": "",
-    "excerpt_en": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-07T17:58:41+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "f87a708f5b1e",
-    "title_en": "Tens of thousands of tents flooded after heavy rains in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-07T16:25:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
@@ -397,24 +380,6 @@
     "timestamp": "2026-10-15T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "635571001f67",
-    "title_en": "WHO calls for urgent health action across the Eastern Mediterranean",
-    "title_ar": "",
-    "excerpt_en": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-10-14T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
-    "tags": [
-      "health",
       "humanitarian"
     ],
     "location_tags": [
