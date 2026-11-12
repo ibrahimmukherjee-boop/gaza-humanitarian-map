@@ -1,5 +1,18 @@
 [
   {
+    "id": "1f876d634034",
+    "title_en": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+    "title_ar": "",
+    "excerpt_en": "The baby&#039;s father said he died of hypothermia overnight in their family&#039;s tent in southern Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-12T19:56:26+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "d76b7c19ee64",
     "title_en": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
     "title_ar": "",
@@ -76,19 +89,6 @@
     "timestamp": "2026-11-12T16:54:12+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "880600e6266b",
-    "title_en": "BDS claims win as energy giants quit Israeli gas project off Gaza",
-    "title_ar": "",
-    "excerpt_en": "The Boycott, Divest and Sanctions movement is claiming victory after a company left an Israeli-led gas project off Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-12T16:07:16+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/bds-claims-win-as-energy-giants-quit-israeli-gas-project-off-gaza?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "2218f53c1d1b",
