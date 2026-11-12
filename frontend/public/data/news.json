@@ -1,12 +1,29 @@
 [
   {
+    "id": "e740ce06d5e9",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Yemen",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Yemen</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Two children walk through ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-12T17:14:45+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-yemen",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "d3b520921be1",
     "title_en": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
     "title_ar": "",
     "excerpt_en": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
-    "timestamp": "2026-11-12T12:26:01+00:00",
+    "timestamp": "2026-11-12T16:54:12+00:00",
     "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "health",
@@ -167,24 +184,6 @@
     "timestamp": "2026-11-05T18:01:55+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-yemen-sudan-ukraine-occupied-palestinian-territory",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "b1c02fbcd0a4",
-    "title_en": "Haiti - Displaced by violence - 4 November 2026",
-    "title_ar": "",
-    "excerpt_en": "<span>Haiti - Displaced by violence - 4 November 2026</span>\n\n            <div class=\"field field--name-body field--type-text-with-summary field--label-hidden field__item\"><p>Description<br />STORY: OCHA / HAITI DISPLACED BY VIOLENCE<br />TRT: 03:49<br />SOURCE: OCHA<br />RESTRICTIONS: PLEASE CREDIT OCHA ON SCREEN<br />LANGUAGES: FRENCH / NATS</p>\n<p>DATELINE: OCTOBER 2026, PORT-AU-PRINCE, HAITI</",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-04T20:56:18+00:00",
-    "url": "https://www.unocha.org/media-centre/haiti-displaced-violence-4-november-2026",
-    "tags": [
-      "displacement",
       "humanitarian"
     ],
     "location_tags": [
