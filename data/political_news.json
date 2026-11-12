@@ -1,42 +1,16 @@
 [
   {
-    "id": "90a2b629ca5b",
-    "title_en": "Israel strikes intensive care at Gaza’s Nasser Hospital",
+    "id": "d3b520921be1",
+    "title_en": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
     "title_ar": "",
-    "excerpt_en": "Gaza&#039;s Civil Defence says an Israeli strike on Nasser Hospital has killed at least six people.",
+    "excerpt_en": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-11-12T01:20:55+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "113104f55355",
-    "title_en": "Iran war live: Iran warns of Europe retaliation, Israel attacks Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israel orders military to step up preparations for possible attack on Iran as Tehran says it will retaliate if attacked.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-12T00:00:44+00:00",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/12/iran-war-live-tehran-warns-of-wider-retaliation-israel-kills-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "9da7f36b2669",
-    "title_en": "Israeli strikes hit medical complex as nine killed across Gaza",
-    "title_ar": "",
-    "excerpt_en": "Nasser Medical Complex in Khan Younis attacked as UN appeals for urgent aid to deal with heavy rains in the enclave.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-11T22:55:37+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/11/israeli-strikes-hit-tent-camp-as-five-killed-in-gaza?traffic_source=rss",
-    "credibility": "medium"
+    "timestamp": "2026-11-12T12:03:47+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
   },
   {
     "id": "2218f53c1d1b",
@@ -75,32 +49,6 @@
     "statement_type": "official_statement",
     "timestamp": "2026-11-09T10:41:57+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "2f42015279a6",
-    "title_en": "Gaza wedding festival sees 250 couples married at the same time",
-    "title_ar": "",
-    "excerpt_en": "A mass wedding for Palestinian brides and grooms has taken place in the rubble-strewn streets of Gaza.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-07T17:58:41+00:00",
-    "url": "https://www.bbc.co.uk/news/videos/ckr5ygm78j76o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "f87a708f5b1e",
-    "title_en": "Tens of thousands of tents flooded after heavy rains in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Heavy rain has flooded temporary shelters used by Palestinians displaced during Israel's war with Hamas.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-07T16:25:55+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cx240e5py64jo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
@@ -257,19 +205,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-15T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
-    "credibility": "high"
-  },
-  {
-    "id": "635571001f67",
-    "title_en": "WHO calls for urgent health action across the Eastern Mediterranean",
-    "title_ar": "",
-    "excerpt_en": "The head of the World Health Organization (WHO) has called for promoting, providing and protecting health in the Eastern Mediterranean region, home to some of the world’s top humanitarian crises such as Sudan, Yemen and the Occupied Palestinian Territory.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-10-14T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168590",
     "credibility": "high"
   }
 ]
