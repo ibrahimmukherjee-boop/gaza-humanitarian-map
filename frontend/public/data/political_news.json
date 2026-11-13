@@ -39,45 +39,6 @@
     "credibility": "medium"
   },
   {
-    "id": "0e4f266b0c3d",
-    "title_en": "Al Jazeera reports from Gaza hospital attacked by Israel",
-    "title_ar": "",
-    "excerpt_en": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-12T18:03:02+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e054eda72c16",
-    "title_en": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
-    "title_ar": "",
-    "excerpt_en": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-12T17:18:13+00:00",
-    "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "6da76d65f97c",
-    "title_en": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
-    "title_ar": "",
-    "excerpt_en": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-12T16:55:10+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "d3b520921be1",
     "title_en": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
     "title_ar": "",
