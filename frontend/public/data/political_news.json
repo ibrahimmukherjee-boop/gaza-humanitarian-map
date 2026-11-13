@@ -1,5 +1,31 @@
 [
   {
+    "id": "296cbb7b1d5c",
+    "title_en": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
+    "title_ar": "",
+    "excerpt_en": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-13T18:28:03+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "768233dbf7d9",
+    "title_en": "Eisenkot slams Netanyahu’s ‘racist’ campaign against Palestinian Israelis",
+    "title_ar": "",
+    "excerpt_en": "Prime ministerial hopeful calls attempts to marginalise and smear Palestinian citizens of Israel &#039;an anti-state act&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-11-13T18:04:22+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/13/eisenkot-slams-netanyahus-racist-campaign-against-palestinian-israelis?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "56194e48a21c",
     "title_en": "Jerusalem Daily: Baby dies from cold in Gaza",
     "title_ar": "",
@@ -13,17 +39,17 @@
     "credibility": "medium"
   },
   {
-    "id": "6bb79f6ad527",
-    "title_en": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
+    "id": "b1e1656139ce",
+    "title_en": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
     "title_ar": "",
-    "excerpt_en": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
+    "excerpt_en": "Winter supplies must enter the Gaza Strip where “lives are at stake”, the UN and partners said in an urgent appeal on Friday, in the wake of deadly rainfall this past weekend.&nbsp;",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "UN News",
     "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-13T13:19:26+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-    "credibility": "medium"
+    "statement_type": "diplomatic",
+    "timestamp": "2026-11-13T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
+    "credibility": "high"
   },
   {
     "id": "d3b520921be1",
@@ -231,19 +257,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-10-16T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168611",
-    "credibility": "high"
-  },
-  {
-    "id": "4682352225f0",
-    "title_en": "Security Council LIVE: Deaths, demolitions spike in Gaza, West Bank",
-    "title_ar": "",
-    "excerpt_en": "Amid a rise in lethal Israeli strikes, demolitions and violence in Gaza and the West Bank, the Security Council held an open debate on Thursday focusing on the current situation in the Occupied Palestinian Territory.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-15T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168599",
     "credibility": "high"
   }
 ]
