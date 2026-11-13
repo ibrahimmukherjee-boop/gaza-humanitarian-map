@@ -35,6 +35,24 @@
     "credibility": "medium"
   },
   {
+    "id": "2171f3fe5baf",
+    "title_en": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+    "title_ar": "",
+    "excerpt_en": "An Israeli airstrike on Gaza’s Nasser Hospital on Wednesday night killed six people, injured 27 others and caused extensive damage.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-11-12T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "b66678c08827",
     "title_en": "Today's top news: Occupied Palestinian Territory, Mali, Somalia, Democratic Republic of the Congo, Sudan, Haiti",
     "title_ar": "",
