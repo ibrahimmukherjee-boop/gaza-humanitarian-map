@@ -1,5 +1,9 @@
 {
-  "last_updated": "2026-11-14T09:16:50.247321+00:00",
+  "last_updated": "2026-11-14T09:25:35.436640+00:00",
+  "refresh_heartbeat": "2026-11-14T09:25:35.436640+00:00",
+  "news_last_updated": "2026-11-14T09:25:35.436640+00:00",
+  "political_last_updated": "2026-11-14T09:25:35.436640+00:00",
+  "latest_headline_at": "2026-11-13T18:00:33+00:00",
   "sources": [
     "OpenStreetMap",
     "ReliefWeb",
