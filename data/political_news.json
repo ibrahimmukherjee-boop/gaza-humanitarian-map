@@ -1,5 +1,18 @@
 [
   {
+    "id": "eb480ffeac45",
+    "title_en": "Who can force Israel to implement Gaza ceasefire deal?",
+    "title_ar": "",
+    "excerpt_en": "Storms batter Palestinian territory as Israel restricts entry of aid.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-11-15T20:37:43+00:00",
+    "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "0f8c0562734c",
     "title_en": "Christian priest says US denied him a visa for being Palestinian",
     "title_ar": "",
@@ -23,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-15T15:32:43+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "0ec781af0a7f",
-    "title_en": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
-    "title_ar": "",
-    "excerpt_en": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-15T15:01:54+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
     "credibility": "medium"
   },
   {
