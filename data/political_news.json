@@ -1,5 +1,31 @@
 [
   {
+    "id": "632d431a1438",
+    "title_en": "Israeli air strike kills senior Hamas commander in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-15T01:00:42+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "999604162dc5",
+    "title_en": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
+    "title_ar": "",
+    "excerpt_en": "Israel has pledged to continue its &#039;offensive policy&#039; on Gaza, as fighting in Yemen grips the region.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-15T00:00:08+00:00",
+    "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "3de7eaa93619",
     "title_en": "Palestinian stories set for major presence at 2027 Oscars",
     "title_ar": "",
