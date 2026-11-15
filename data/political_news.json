@@ -1,5 +1,31 @@
 [
   {
+    "id": "d3467e158b86",
+    "title_en": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+    "title_ar": "",
+    "excerpt_en": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-15T22:06:38+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "a802e8a4a36c",
+    "title_en": "Palestinians reclaim Gaza’s shores with a swim for hope",
+    "title_ar": "",
+    "excerpt_en": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-15T20:50:15+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "eb480ffeac45",
     "title_en": "Who can force Israel to implement Gaza ceasefire deal?",
     "title_ar": "",
@@ -23,19 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-15T18:07:32+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/christian-priest-says-us-denied-him-a-visa-for-being-palestinian?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e1eeb6d8bc43",
-    "title_en": "70 bodies recovered from Gaza rubble, thousands still missing",
-    "title_ar": "",
-    "excerpt_en": "70 bodies recovered from Gaza rubble, thousands still missing",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-15T15:32:43+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
     "credibility": "medium"
   },
   {
