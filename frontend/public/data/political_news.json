@@ -1,5 +1,18 @@
 [
   {
+    "id": "5f0372caedb2",
+    "title_en": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
+    "title_ar": "",
+    "excerpt_en": "Italian artist Eduardo Castaldo has unveiled an artwork titled ‘Holy Mothers of Gaza’ inside Naples’ Pappacoda Chapel.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-15T03:30:29+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "632d431a1438",
     "title_en": "Israeli air strike kills senior Hamas commander in Gaza",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-11-15T01:00:42+00:00",
     "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "999604162dc5",
-    "title_en": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-    "title_ar": "",
-    "excerpt_en": "Israel has pledged to continue its &#039;offensive policy&#039; on Gaza, as fighting in Yemen grips the region.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-15T00:00:08+00:00",
-    "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
     "credibility": "medium"
   },
   {
