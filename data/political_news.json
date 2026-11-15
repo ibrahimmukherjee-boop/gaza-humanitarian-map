@@ -1,5 +1,31 @@
 [
   {
+    "id": "e1eeb6d8bc43",
+    "title_en": "70 bodies recovered from Gaza rubble, thousands still missing",
+    "title_ar": "",
+    "excerpt_en": "70 bodies recovered from Gaza rubble, thousands still missing",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-15T15:32:43+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/70-bodies-recovered-from-gaza-rubble-thousands-still-missing?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "0ec781af0a7f",
+    "title_en": "Jerusalem Daily: Mass funeral in Gaza as Netanyahu clings to power",
+    "title_ar": "",
+    "excerpt_en": "A mass funeral was held in Gaza for 70 Palestinians whose bodies were trapped under the rubble.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-15T15:01:54+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/jerusalem-daily-mass-funeral-in-gaza-as-netanyahu-clings-to-power?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "f36f6a2eb819",
     "title_en": "Gaza families bury bodies of loved ones trapped for years under rubble",
     "title_ar": "",
@@ -10,19 +36,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-15T13:45:02+00:00",
     "url": "https://www.aljazeera.com/features/2026/11/15/gaza-families-bury-bodies-of-loved-ones-trapped-for-years-under-rubble?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "e7bda391a680",
-    "title_en": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
-    "title_ar": "",
-    "excerpt_en": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-15T12:02:45+00:00",
-    "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
     "credibility": "medium"
   },
   {
