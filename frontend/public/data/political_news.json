@@ -1,5 +1,18 @@
 [
   {
+    "id": "7416dcd060b5",
+    "title_en": "Israel: Making the Holy Land burn",
+    "title_ar": "",
+    "excerpt_en": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-15T06:49:14+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "5f0372caedb2",
     "title_en": "Italian artist reimagines Madonna paintings to expose Gaza’s pain",
     "title_ar": "",
@@ -10,32 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-15T03:30:29+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_italian-artist-rips-madonna-painting-to-reveal-gaza-141126?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "632d431a1438",
-    "title_en": "Israeli air strike kills senior Hamas commander in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-15T01:00:42+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3de7eaa93619",
-    "title_en": "Palestinian stories set for major presence at 2027 Oscars",
-    "title_ar": "",
-    "excerpt_en": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-14T22:28:47+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
     "credibility": "medium"
   },
   {
