@@ -1,42 +1,16 @@
 [
   {
-    "id": "d3467e158b86",
-    "title_en": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
+    "id": "61a3a9acd205",
+    "title_en": "Israel kills Hamas commander in strike on Gaza camp, officials say",
     "title_ar": "",
-    "excerpt_en": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
+    "excerpt_en": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "BBC Middle East",
     "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-15T22:06:38+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a802e8a4a36c",
-    "title_en": "Palestinians reclaim Gaza’s shores with a swim for hope",
-    "title_ar": "",
-    "excerpt_en": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-15T20:50:15+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "eb480ffeac45",
-    "title_en": "Who can force Israel to implement Gaza ceasefire deal?",
-    "title_ar": "",
-    "excerpt_en": "Storms batter Palestinian territory as Israel restricts entry of aid.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-15T20:37:43+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/11/15/who-can-force-israel-to-implement-gaza-ceasefire-deal?traffic_source=rss",
-    "credibility": "medium"
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-15T08:17:41+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
   },
   {
     "id": "b1e1656139ce",
@@ -78,19 +52,6 @@
     "credibility": "high"
   },
   {
-    "id": "2218f53c1d1b",
-    "title_en": "Board of Peace says Israel's aid response after Gaza floods 'insufficent'",
-    "title_ar": "",
-    "excerpt_en": "The group, formed by Trump, issues rare criticism of Israel, while also blaming Hamas for the suffering of civilians in Gaza.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-10T15:21:18+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cw4g1g4ll5m1o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
     "id": "5b9f203b0201",
     "title_en": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
     "title_ar": "",
@@ -101,19 +62,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-11-10T11:23:18+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "886dfb7a755c",
-    "title_en": "Four killed in Gaza after sand embankment collapses onto tents, health ministry says",
-    "title_ar": "",
-    "excerpt_en": "Three children are among those killed in the incident that came a day after heavy rain reportedly flooded tens of thousands of tents across Gaza.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-11-09T10:41:57+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqd090ee8px5o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
