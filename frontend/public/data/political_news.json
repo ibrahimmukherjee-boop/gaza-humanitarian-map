@@ -1,5 +1,44 @@
 [
   {
+    "id": "9210b6846d2e",
+    "title_en": "Jericho settlers harass Al Jazeera reporter after stealing Palestinian home",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers who took over 8 homes in Jericho harassed Al Jazeera’s Nour Odeh.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-16T12:25:54+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jericho-settlers-harass-al-jazeera-reporter-after-stealing-palestinian-home?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "97d31ba50fde",
+    "title_en": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
+    "title_ar": "",
+    "excerpt_en": "A Palestinian citizen of Israel, Tibi was an aide to Yasser Arafat and has been a legislator for 27 years.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-16T11:40:25+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/16/who-is-ahmad-tibi-the-arab-mp-elected-israels-knesset-deputy-speaker?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "309fbf01537e",
+    "title_en": "As homes seized, Jericho’s Palestinian residents fear settler takeover",
+    "title_ar": "",
+    "excerpt_en": "Palestinians are assaulted and their homes are levelled in pogrom in occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-16T11:23:43+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/16/jerichos-palestinian-residents-lay-in-wait-of-an-israeli-settler-takeover?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "7cdd3a555516",
     "title_en": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
     "title_ar": "",
@@ -11,19 +50,6 @@
     "timestamp": "2026-11-16T08:56:04+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "8bd5028aab09",
-    "title_en": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
-    "title_ar": "",
-    "excerpt_en": "Leader of alliance representing Palestinian citizens of Israel says election is &#039;rightful achievement&#039; for Joint List.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-16T08:45:07+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "61a3a9acd205",
