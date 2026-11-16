@@ -1,5 +1,73 @@
 [
   {
+    "id": "73c8974bcf9c",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Syria",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Syria</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A mother and her 17",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-16T17:56:10+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-syria",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "c06e8f559c06",
+    "title_en": "Humanitarian Networks and Partnerships Week 2027",
+    "title_ar": "",
+    "excerpt_en": "<span>Humanitarian Networks and Partnerships Week 2027</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"HNPW is a global forum for the hu",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-16T14:01:25+00:00",
+    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-week-2027",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "cd32de0d39b0",
+    "title_en": "Humanitarian Networks and Partnerships Weeks 2025",
+    "title_ar": "",
+    "excerpt_en": "<span>Humanitarian Networks and Partnerships Weeks 2025</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"HNPW 2025 participants connect, ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-16T13:53:09+00:00",
+    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-2025",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "7bbcec704a22",
+    "title_en": "Humanitarian Networks and Partnerships Weeks 2026",
+    "title_ar": "",
+    "excerpt_en": "<span>Humanitarian Networks and Partnerships Weeks 2026</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Panel discussion on the Humanita",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-16T13:27:37+00:00",
+    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "7cdd3a555516",
     "title_en": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
     "title_ar": "",
@@ -34,6 +102,40 @@
     "credibility": "medium"
   },
   {
+    "id": "4584fc1faa39",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Haiti",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__i",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-13T18:00:33+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-ukraine-democratic-republic-congo-haiti-0",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "cddcde3d568f",
+    "title_en": "Dr. Mehmet Güllüoğlu",
+    "title_ar": "",
+    "excerpt_en": "<span>Dr. Mehmet Güllüoğlu</span>\n\n            <div class=\"field field--name-field-leader-title field--type-string field--label-hidden field__item\">Director of the Humanitarian Sector Division and Head of OCHA in Geneva</div>\n      <span><span>Elayne Wangalwa</span></span>\n<span><time datetime=\"2026-11-13T16:44:09+00:00\" title=\"13 November 2026 4.44 p.m.\">13 Nov. 2026 4.44 p.m.</time>\n</span>\n\n   ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-13T16:44:09+00:00",
+    "url": "https://www.unocha.org/dr-mehmet-gulluoglu",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "b1e1656139ce",
     "title_en": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
     "title_ar": "",
@@ -44,6 +146,23 @@
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
     "tags": [
       "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "e740ce06d5e9",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Yemen",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Yemen</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Two children walk through ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-12T17:14:45+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-yemen",
+    "tags": [
       "humanitarian"
     ],
     "location_tags": [
