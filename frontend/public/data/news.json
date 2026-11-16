@@ -1,5 +1,22 @@
 [
   {
+    "id": "7cdd3a555516",
+    "title_en": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
+    "title_ar": "",
+    "excerpt_en": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-16T08:56:04+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "61a3a9acd205",
     "title_en": "Israel kills Hamas commander in strike on Gaza camp, officials say",
     "title_ar": "",
@@ -17,40 +34,6 @@
     "credibility": "medium"
   },
   {
-    "id": "4584fc1faa39",
-    "title_en": "Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Haiti",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__i",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-13T18:00:33+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-ukraine-democratic-republic-congo-haiti-0",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "cddcde3d568f",
-    "title_en": "Dr. Mehmet Güllüoğlu",
-    "title_ar": "",
-    "excerpt_en": "<span>Dr. Mehmet Güllüoğlu</span>\n\n            <div class=\"field field--name-field-leader-title field--type-string field--label-hidden field__item\">Director of the Humanitarian Sector Division and Head of OCHA in Geneva</div>\n      <span><span>Elayne Wangalwa</span></span>\n<span><time datetime=\"2026-11-13T16:44:09+00:00\" title=\"13 November 2026 4.44 p.m.\">13 Nov. 2026 4.44 p.m.</time>\n</span>\n\n   ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-13T16:44:09+00:00",
-    "url": "https://www.unocha.org/dr-mehmet-gulluoglu",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "b1e1656139ce",
     "title_en": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
     "title_ar": "",
@@ -61,23 +44,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168799",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e740ce06d5e9",
-    "title_en": "Today's top news: Occupied Palestinian Territory, Yemen",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Yemen</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Two children walk through ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-12T17:14:45+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-yemen",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
@@ -114,93 +80,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
     "tags": [
       "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "b66678c08827",
-    "title_en": "Today's top news: Occupied Palestinian Territory, Mali, Somalia, Democratic Republic of the Congo, Sudan, Haiti",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Mali, Somalia, Democratic Republic of the Congo, Sudan, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hi",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-11T17:37:06+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-mali-somalia-democratic-republic-congo-sudan",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "dc8b44054999",
-    "title_en": "“No more delay,” UN relief chief urges immediate entry of winter supplies into Gaza",
-    "title_ar": "",
-    "excerpt_en": "<span>“No more delay,” UN relief chief urges immediate entry of winter supplies into Gaza</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-11T14:33:09+00:00",
-    "url": "https://www.unocha.org/news/no-more-delay-un-relief-chief-urges-immediate-entry-winter-supplies-gaza",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "355942f41779",
-    "title_en": "Today's top news: Mali, Occupied Palestinian Territory, Yemen, Haiti",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Mali, Occupied Palestinian Territory, Yemen, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A displaced w",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-10T17:53:13+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-mali-occupied-palestinian-territory-yemen-haiti",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "5b9f203b0201",
-    "title_en": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-    "title_ar": "",
-    "excerpt_en": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-10T11:23:18+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "56c4640be490",
-    "title_en": "Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Syria",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Syria</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__i",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-09T17:07:21+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-ukraine-democratic-republic-congo-syria",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [

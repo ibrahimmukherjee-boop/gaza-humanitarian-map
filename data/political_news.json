@@ -1,5 +1,31 @@
 [
   {
+    "id": "7cdd3a555516",
+    "title_en": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
+    "title_ar": "",
+    "excerpt_en": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-16T08:56:04+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "8bd5028aab09",
+    "title_en": "Ahmad Tibi elected deputy speaker of Israel’s Knesset",
+    "title_ar": "",
+    "excerpt_en": "Leader of alliance representing Palestinian citizens of Israel says election is &#039;rightful achievement&#039; for Joint List.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-16T08:45:07+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/16/ahmed-tibi-appointed-as-deputy-speaker-of-israels-knesset?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "61a3a9acd205",
     "title_en": "Israel kills Hamas commander in strike on Gaza camp, officials say",
     "title_ar": "",
@@ -49,19 +75,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-11-12T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168796",
-    "credibility": "high"
-  },
-  {
-    "id": "5b9f203b0201",
-    "title_en": "Israeli forces kill Palestinian boy in West Bank, health ministry says",
-    "title_ar": "",
-    "excerpt_en": "The Israeli military says its soldiers opened fire at individuals “who intended to hurl stones” at a road used by Israelis.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-10T11:23:18+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqpvgv318yyeo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
   },
   {
