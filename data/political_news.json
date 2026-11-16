@@ -1,5 +1,44 @@
 [
   {
+    "id": "8692f3b8c838",
+    "title_en": "London Palestine Film Festival returns for 27th year",
+    "title_ar": "",
+    "excerpt_en": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-16T20:36:25+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "eea2df2d4302",
+    "title_en": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+    "title_ar": "",
+    "excerpt_en": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-16T18:38:16+00:00",
+    "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "295402bbd02a",
+    "title_en": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
+    "title_ar": "",
+    "excerpt_en": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-16T17:49:16+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "c26d71c0febc",
     "title_en": "Israeli forces demolish the homes of two Palestinian prisoners",
     "title_ar": "",
@@ -10,19 +49,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-11-16T16:56:54+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "c7057af9f7ac",
-    "title_en": "‘My arms are empty’: Tragedy strikes Gaza family after baby dies from cold",
-    "title_ar": "",
-    "excerpt_en": "A nine-month-old baby has died from hypothermia inside his family’s displacement tent in Gaza, as winter returns.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-16T14:20:43+00:00",
-    "url": "https://www.aljazeera.com/features/2026/11/16/my-arms-are-empty-gaza-mothers-brace-for-another-winter-of-cold-and-fear?traffic_source=rss",
     "credibility": "medium"
   },
   {
@@ -192,19 +218,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-10-19T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168625",
-    "credibility": "high"
-  },
-  {
-    "id": "d8ba4d089352",
-    "title_en": "Gaza: Funding cuts leave half a million without food assistance",
-    "title_ar": "",
-    "excerpt_en": "Funding shortages have forced the World Food Programme (WFP) to slash assistance to hungry families in the Gaza Strip by roughly one third – a move that will affect some 500,000 people as winter approaches, the UN agency announced on Monday.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-10-19T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168622",
     "credibility": "high"
   }
 ]
