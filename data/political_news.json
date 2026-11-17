@@ -1,15 +1,54 @@
 [
   {
+    "id": "388c238fdde4",
+    "title_en": "UK sanctions eight Israeli construction firms over West Bank settlements",
+    "title_ar": "",
+    "excerpt_en": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for &#039;protecting the two-state solution&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-17T14:09:08+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "99eb64536a45",
+    "title_en": "UK sanctions firms over Israeli West Bank settlements",
+    "title_ar": "",
+    "excerpt_en": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-17T13:10:06+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "66b1f531c035",
-    "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, ministry says",
+    "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
     "title_ar": "",
     "excerpt_en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
     "excerpt_ar": "",
     "source": "BBC Middle East",
     "source_region": "international",
     "statement_type": "military_announcement",
-    "timestamp": "2026-11-17T12:39:45+00:00",
+    "timestamp": "2026-11-17T13:02:17+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "c5340db25657",
+    "title_en": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
+    "title_ar": "",
+    "excerpt_en": "Gaza is facing a deepening shelter, sanitation and food security crisis as winter rains flood makeshift shelters, destroy scarce food supplies and leave displaced families struggling to stay warm and fed.&nbsp;",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-17T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
     "credibility": "high"
   },
   {
