@@ -1,29 +1,16 @@
 [
   {
-    "id": "54b2f004b6b0",
-    "title_en": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
+    "id": "66b1f531c035",
+    "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, ministry says",
     "title_ar": "",
-    "excerpt_en": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
+    "excerpt_en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "BBC Middle East",
     "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-11-17T06:06:58+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "b6a440fe547f",
-    "title_en": "Gunfire erupts in occupied West Bank settler attack",
-    "title_ar": "",
-    "excerpt_en": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-17T04:00:08+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
-    "credibility": "medium"
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-17T12:39:45+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
   },
   {
     "id": "7cdd3a555516",
