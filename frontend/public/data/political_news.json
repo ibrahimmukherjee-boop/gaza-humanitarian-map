@@ -1,5 +1,57 @@
 [
   {
+    "id": "99eb64536a45",
+    "title_en": "UK sanctions firms over Israeli West Bank settlements",
+    "title_ar": "",
+    "excerpt_en": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-17T17:41:49+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "f98ae5326b73",
+    "title_en": "Religious ruling revives memories in Israel of Rabin assassination",
+    "title_ar": "",
+    "excerpt_en": "Hostility towards Palestinian participation in Israel&#039;s government fuels fears of far-right political violence.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-11-17T17:33:18+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/17/religious-ruling-revives-memories-in-israel-of-rabin-assassination?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "d355bd9fa8fd",
+    "title_en": "Jerusalem Daily: Deadly settler pogroms persist",
+    "title_ar": "",
+    "excerpt_en": "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-17T15:49:11+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "66b1f531c035",
+    "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "title_ar": "",
+    "excerpt_en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-17T15:36:11+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
     "id": "388c238fdde4",
     "title_en": "UK sanctions eight Israeli construction firms over West Bank settlements",
     "title_ar": "",
@@ -11,32 +63,6 @@
     "timestamp": "2026-11-17T14:09:08+00:00",
     "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
     "credibility": "medium"
-  },
-  {
-    "id": "99eb64536a45",
-    "title_en": "UK sanctions firms over Israeli West Bank settlements",
-    "title_ar": "",
-    "excerpt_en": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-17T13:10:06+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
-  },
-  {
-    "id": "66b1f531c035",
-    "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "title_ar": "",
-    "excerpt_en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-17T13:02:17+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "c5340db25657",
