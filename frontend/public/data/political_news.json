@@ -1,15 +1,28 @@
 [
   {
-    "id": "8692f3b8c838",
-    "title_en": "London Palestine Film Festival returns for 27th year",
+    "id": "54b2f004b6b0",
+    "title_en": "Palestine Weekly: Israel’s political reshuffle as the occupation grinds on",
     "title_ar": "",
-    "excerpt_en": "Since 1999, the London Palestine Film Festival has brought Palestinian stories to the big screen.",
+    "excerpt_en": "As Eisenkot’s bloc moves to form a government and courts the ultra-Orthodox, Gaza genocide and settler pogroms continue.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-11-17T06:06:58+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/17/palestine-weekly-israels-political-reshuffle-as-the-occupation-grinds-on?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "b6a440fe547f",
+    "title_en": "Gunfire erupts in occupied West Bank settler attack",
+    "title_ar": "",
+    "excerpt_en": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-11-16T20:36:25+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/london-palestine-film-festival-returns-for-27th-year?traffic_source=rss",
+    "timestamp": "2026-11-17T04:00:08+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
     "credibility": "medium"
   },
   {
