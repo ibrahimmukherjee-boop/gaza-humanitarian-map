@@ -1,5 +1,23 @@
 [
   {
+    "id": "66b1f531c035",
+    "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+    "title_ar": "",
+    "excerpt_en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-17T20:30:20+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "ba5a456bae15",
     "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia, Ukraine, Afghanistan, El Niño",
     "title_ar": "",
@@ -26,24 +44,6 @@
     "timestamp": "2026-11-17T18:27:27+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "66b1f531c035",
-    "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "title_ar": "",
-    "excerpt_en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-17T15:36:11+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
       "humanitarian"
     ],
     "location_tags": [
