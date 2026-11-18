@@ -1,5 +1,57 @@
 [
   {
+    "id": "9e09e1d4ec00",
+    "title_en": "WFP Tajikistan Country Brief, November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Tajikistan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2b/c0/2bc0fea6-e3ae-4b61-87aa-5a40e25efbbd.png\" /></p>\n                     ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-18T04:51:14+00:00",
+    "url": "https://reliefweb.int/report/tajikistan/wfp-tajikistan-country-brief-november-2026",
+    "credibility": "medium"
+  },
+  {
+    "id": "013082122c08",
+    "title_en": "Kenya: Supporting displaced families in Moyale with water, hygiene and non-food interventions",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Kenya, Ethiopia</div>\n                                      <div class=\"tag source\">Source: Dorcas</div>\n                                                                                              <p><strong>A resurgence of violence is causing a new influx of displacement in Moyale, Kenya. People sheltering in schools and temporary camps need safe water, basic",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-18T04:30:45+00:00",
+    "url": "https://reliefweb.int/report/kenya/supporting-displaced-families-moyale-water-hygiene-and-non-food-interventions",
+    "credibility": "medium"
+  },
+  {
+    "id": "de3f81e8504e",
+    "title_en": "UNHCR statement on High Commissioner’s participation in meeting with five European governments and Rwanda in Vienna",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Rwanda, World</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                                              <p>GENEVA – UN High Commissioner for Refugees Barham Salih participated in a meeting in Vienna with representatives of the governments of Au",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "official_statement",
+    "timestamp": "2026-11-18T04:18:32+00:00",
+    "url": "https://reliefweb.int/report/rwanda/unhcr-statement-high-commissioners-participation-meeting-five-european-governments-and-rwanda-vienna",
+    "credibility": "medium"
+  },
+  {
+    "id": "465d375cbbf1",
+    "title_en": "HeRAMS occupied Palestinian territory: Gaza infographics October 2026 [EN/AR]",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: World Health Organization</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/62/f1/62f1e0c0-fd7d-4e70-8554-576479e0868f.png\" /><",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-18T02:02:49+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/herams-occupied-palestinian-territory-gaza-infographics-october-2026-enar",
+    "credibility": "medium"
+  },
+  {
     "id": "1846b0100166",
     "title_en": "Board of Peace warns Gaza ceasefire faces imminent collapse without action",
     "title_ar": "",

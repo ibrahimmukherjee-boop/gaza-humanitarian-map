@@ -1,5 +1,77 @@
 [
   {
+    "id": "9e09e1d4ec00",
+    "title_en": "WFP Tajikistan Country Brief, November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Tajikistan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2b/c0/2bc0fea6-e3ae-4b61-87aa-5a40e25efbbd.png\" /></p>\n                     ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-18T04:51:14+00:00",
+    "url": "https://reliefweb.int/report/tajikistan/wfp-tajikistan-country-brief-november-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "013082122c08",
+    "title_en": "Kenya: Supporting displaced families in Moyale with water, hygiene and non-food interventions",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Kenya, Ethiopia</div>\n                                      <div class=\"tag source\">Source: Dorcas</div>\n                                                                                              <p><strong>A resurgence of violence is causing a new influx of displacement in Moyale, Kenya. People sheltering in schools and temporary camps need safe water, basic",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-18T04:30:45+00:00",
+    "url": "https://reliefweb.int/report/kenya/supporting-displaced-families-moyale-water-hygiene-and-non-food-interventions",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "de3f81e8504e",
+    "title_en": "UNHCR statement on High Commissioner’s participation in meeting with five European governments and Rwanda in Vienna",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Rwanda, World</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                                              <p>GENEVA – UN High Commissioner for Refugees Barham Salih participated in a meeting in Vienna with representatives of the governments of Au",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-18T04:18:32+00:00",
+    "url": "https://reliefweb.int/report/rwanda/unhcr-statement-high-commissioners-participation-meeting-five-european-governments-and-rwanda-vienna",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "465d375cbbf1",
+    "title_en": "HeRAMS occupied Palestinian territory: Gaza infographics October 2026 [EN/AR]",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: World Health Organization</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/62/f1/62f1e0c0-fd7d-4e70-8554-576479e0868f.png\" /><",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-18T02:02:49+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/herams-occupied-palestinian-territory-gaza-infographics-october-2026-enar",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "66b1f531c035",
     "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
     "title_ar": "",
@@ -16,6 +88,23 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
+  },
+  {
+    "id": "ba5a456bae15",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia, Ukraine, Afghanistan, El Niño",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia, Ukraine, Afghanistan, El Niño</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-ima",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-17T18:29:35+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-somalia-ukraine",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
   },
   {
     "id": "99eb64536a45",
@@ -35,6 +124,23 @@
     "credibility": "medium"
   },
   {
+    "id": "9e84ce6fad15",
+    "title_en": "Transforming humanitarian response in Nigeria, one family at a time",
+    "title_ar": "",
+    "excerpt_en": "<span>Transforming humanitarian response in Nigeria, one family at a time</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Fatima Abubaka",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-17T13:35:16+00:00",
+    "url": "https://www.unocha.org/news/transforming-humanitarian-response-nigeria-one-family-time",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "c5340db25657",
     "title_en": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
     "title_ar": "",
@@ -45,6 +151,74 @@
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
     "tags": [
       "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "73c8974bcf9c",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Syria",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Syria</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A mother and her 17",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-16T17:56:10+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-syria",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "c06e8f559c06",
+    "title_en": "Humanitarian Networks and Partnerships Week 2027",
+    "title_ar": "",
+    "excerpt_en": "<span>Humanitarian Networks and Partnerships Week 2027</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"HNPW is a global forum for the hu",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-16T14:01:25+00:00",
+    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-week-2027",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "cd32de0d39b0",
+    "title_en": "Humanitarian Networks and Partnerships Weeks 2025",
+    "title_ar": "",
+    "excerpt_en": "<span>Humanitarian Networks and Partnerships Weeks 2025</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"HNPW 2025 participants connect, ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-16T13:53:09+00:00",
+    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-2025",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "7bbcec704a22",
+    "title_en": "Humanitarian Networks and Partnerships Weeks 2026",
+    "title_ar": "",
+    "excerpt_en": "<span>Humanitarian Networks and Partnerships Weeks 2026</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Panel discussion on the Humanita",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-16T13:27:37+00:00",
+    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-2026",
+    "tags": [
       "humanitarian"
     ],
     "location_tags": [
@@ -85,6 +259,40 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
+  },
+  {
+    "id": "4584fc1faa39",
+    "title_en": "Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Haiti",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Occupied Palestinian Territory, Ukraine, Democratic Republic of the Congo, Haiti</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__i",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-13T18:00:33+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-occupied-palestinian-territory-ukraine-democratic-republic-congo-haiti-0",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "cddcde3d568f",
+    "title_en": "Dr. Mehmet Güllüoğlu",
+    "title_ar": "",
+    "excerpt_en": "<span>Dr. Mehmet Güllüoğlu</span>\n\n            <div class=\"field field--name-field-leader-title field--type-string field--label-hidden field__item\">Director of the Humanitarian Sector Division and Head of OCHA in Geneva</div>\n      <span><span>Elayne Wangalwa</span></span>\n<span><time datetime=\"2026-11-13T16:44:09+00:00\" title=\"13 November 2026 4.44 p.m.\">13 Nov. 2026 4.44 p.m.</time>\n</span>\n\n   ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-13T16:44:09+00:00",
+    "url": "https://www.unocha.org/dr-mehmet-gulluoglu",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
   },
   {
     "id": "b1e1656139ce",
