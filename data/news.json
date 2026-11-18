@@ -1,5 +1,74 @@
 [
   {
+    "id": "365cea70e285",
+    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Haiti, South Sudan",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Haiti, South Sudan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Gaza\" ",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-18T17:42:11+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-haiti-south-sudan",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "19a21607f3cc",
+    "title_en": "Central African Republic: Overview of population movements (August 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/59/45/5945fb87-27bb-410b-bfb3-a94b45a04bc0.png\" /></p>\n         ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-18T17:18:35+00:00",
+    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-overview-population-movements-august-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "030ce5e351b5",
+    "title_en": "Ecuador | Severe weather, floods and landslides - DG ECHO Daily Map | 18/11/2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Ecuador</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-18T17:17:27+00:00",
+    "url": "https://reliefweb.int/map/ecuador/ecuador-severe-weather-floods-and-landslides-dg-echo-daily-map-18112026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "e133b687bcb2",
+    "title_en": "Cameroon: Humanitarian Dashboard (as of 30 September 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Cameroon, Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b7/bc/b7bc30c8-6",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-18T16:40:57+00:00",
+    "url": "https://reliefweb.int/report/cameroon/cameroon-humanitarian-dashboard-30-september-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "0797d6a7a131",
     "title_en": "World: Start Fund Monthly Risk Bulletin (Issued: November 2026)",
     "title_ar": "",
@@ -9,41 +78,6 @@
     "timestamp": "2026-11-18T11:28:37+00:00",
     "url": "https://reliefweb.int/report/world/start-fund-monthly-risk-bulletin-issued-november-2026",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "dd431cec8155",
-    "title_en": "Philippines: Remarks by UNICEF Deputy Executive Director, ASG Ted Chaiban, at the Second Global Ministerial Conference on Ending Violence Against Children",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Philippines</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                              <p><strong>MANILA, 18 November 2026</strong> <strong>–</strong> \"Excellencies, children, young people, survivors and partners. UNICEF is proud to co host the 2",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T11:03:05+00:00",
-    "url": "https://reliefweb.int/report/philippines/remarks-unicef-deputy-executive-director-asg-ted-chaiban-second-global-ministerial-conference-ending-violence-against-children",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "47bf6ef45995",
-    "title_en": "oPt: Gaza's Education Crisis: A System-Wide Collapse Threatening an Entire Generation",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: American Near East Refugee Aid</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d6/e7/d6e7c3b1-e273-40a7-a9b4-8930da054a06.png",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T09:27:46+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gazas-education-crisis-system-wide-collapse-threatening-entire-generation",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
