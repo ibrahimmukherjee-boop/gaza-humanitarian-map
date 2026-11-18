@@ -1,5 +1,18 @@
 [
   {
+    "id": "2e645ac5c607",
+    "title_en": "UK sanctions Israeli settlement firms to protect two-state solution",
+    "title_ar": "",
+    "excerpt_en": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-17T21:28:31+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "66b1f531c035",
     "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
     "title_ar": "",
@@ -11,19 +24,6 @@
     "timestamp": "2026-11-17T20:30:20+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
     "credibility": "high"
-  },
-  {
-    "id": "c789966a25fd",
-    "title_en": "Israeli settler pogrom kills Palestinian woman, wounds 10 people",
-    "title_ar": "",
-    "excerpt_en": "The Palestinian Health Ministry says Fadda Mohammed Fheidat, 72, was shot dead by Israeli settlers.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-11-17T18:43:46+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/17/israeli-settler-pogrom-kills-palestinian-woman-wounds-10-people?traffic_source=rss",
-    "credibility": "medium"
   },
   {
     "id": "99eb64536a45",
