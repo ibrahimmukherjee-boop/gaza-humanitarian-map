@@ -1,5 +1,44 @@
 [
   {
+    "id": "515d5ed2c8be",
+    "title_en": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+    "title_ar": "",
+    "excerpt_en": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-18T22:34:56+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "dde86d3a3feb",
+    "title_en": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
+    "title_ar": "",
+    "excerpt_en": "Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-18T20:38:06+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "b81afc9d9eb9",
+    "title_en": "Israeli settler kills Palestinian grandmother in occupied West Bank",
+    "title_ar": "",
+    "excerpt_en": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-18T19:27:42+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "4bf8a410ae56",
     "title_en": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
     "title_ar": "",
@@ -75,19 +114,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-11-18T16:40:57+00:00",
     "url": "https://reliefweb.int/report/cameroon/cameroon-humanitarian-dashboard-30-september-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "ae0b46a15d1c",
-    "title_en": "Three killed as Israel launches first ground push since ‘ceasefire’ began",
-    "title_ar": "",
-    "excerpt_en": "Many Palestinians started to flee refugee camps as the Israeli offensive got underway.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-18T14:39:09+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/18/palestinians-flee-refugee-camp-as-israel-begins-operation-in-central-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
