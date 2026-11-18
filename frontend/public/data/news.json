@@ -1,5 +1,22 @@
 [
   {
+    "id": "0797d6a7a131",
+    "title_en": "World: Start Fund Monthly Risk Bulletin (Issued: November 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Burundi, Democratic Republic of the Congo, Ethiopia, Lebanon, Mozambique, occupied Palestinian territory, South Sudan, Syrian Arab Republic, Uganda, United Republic of Tanzania, Zambia, Zimbabwe</div>\n                                      <div class=\"tag source\">Source: Start Network</div>\n                                                                  ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-18T11:28:37+00:00",
+    "url": "https://reliefweb.int/report/world/start-fund-monthly-risk-bulletin-issued-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "47bf6ef45995",
     "title_en": "oPt: Gaza's Education Crisis: A System-Wide Collapse Threatening an Entire Generation",
     "title_ar": "",
@@ -56,7 +73,7 @@
     "id": "a13471061edd",
     "title_en": "World: Protection negotiations with armed actors",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Centre of Competence on Humanitarian Negotiation</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f3/2d/f32da7cf-1242-4606-a2ef-f33a2b25863e.png\" /></p>\n                        <p>Please ",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Centre of Competence on Humanitarian Negotiation</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f3/2d/f32da7cf-1242-4606-a2ef-f33a2b25863e.png\" /></p",
     "excerpt_ar": "",
     "source": "ReliefWeb",
     "timestamp": "2026-11-18T08:28:43+00:00",
@@ -132,42 +149,6 @@
     "timestamp": "2026-11-18T07:37:35+00:00",
     "url": "https://reliefweb.int/report/world/qatar-charitys-information-and-crisis-management-center-supports-faster-humanitarian-response-enar",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "9e09e1d4ec00",
-    "title_en": "WFP Tajikistan Country Brief, November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Tajikistan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2b/c0/2bc0fea6-e3ae-4b61-87aa-5a40e25efbbd.png\" /></p>\n                     ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T04:51:14+00:00",
-    "url": "https://reliefweb.int/report/tajikistan/wfp-tajikistan-country-brief-november-2026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "013082122c08",
-    "title_en": "Kenya: Supporting displaced families in Moyale with water, hygiene and non-food interventions",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Kenya, Ethiopia</div>\n                                      <div class=\"tag source\">Source: Dorcas</div>\n                                                                                              <p><strong>A resurgence of violence is causing a new influx of displacement in Moyale, Kenya. People sheltering in schools and temporary camps need safe water, basic",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T04:30:45+00:00",
-    "url": "https://reliefweb.int/report/kenya/supporting-displaced-families-moyale-water-hygiene-and-non-food-interventions",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
