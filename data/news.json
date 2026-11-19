@@ -17,126 +17,6 @@
     "credibility": "medium"
   },
   {
-    "id": "e5cfbe570571",
-    "title_en": "OCHA @COP31",
-    "title_ar": "",
-    "excerpt_en": "<span>OCHA @COP31</span>\n\n            <div class=\"field field--name-field-basic-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Panellists at the launch of the UN Disaster Risk Financing Platform at",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-18T21:30:59+00:00",
-    "url": "https://www.unocha.org/ocha-cop31",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "365cea70e285",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Haiti, South Sudan",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Haiti, South Sudan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Gaza\" ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-18T17:42:11+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-haiti-south-sudan",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "7097666d1a36",
-    "title_en": "18 November: First day at OCHA's pop-up hub",
-    "title_ar": "",
-    "excerpt_en": "<span>18 November: First day at OCHA's pop-up hub</span>\n\n            <div class=\"field field--name-field-basic-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A presentation at the session, &quot;G",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-18T17:35:05+00:00",
-    "url": "https://www.unocha.org/18-november-first-day-ochas-pop-hub",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "19a21607f3cc",
-    "title_en": "Central African Republic: Overview of population movements (August 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/59/45/5945fb87-27bb-410b-bfb3-a94b45a04bc0.png\" /></p>\n         ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T17:18:35+00:00",
-    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-overview-population-movements-august-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "030ce5e351b5",
-    "title_en": "Ecuador | Severe weather, floods and landslides - DG ECHO Daily Map | 18/11/2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Ecuador</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T17:17:27+00:00",
-    "url": "https://reliefweb.int/map/ecuador/ecuador-severe-weather-floods-and-landslides-dg-echo-daily-map-18112026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "e133b687bcb2",
-    "title_en": "Cameroon: Humanitarian Dashboard (as of 30 September 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Cameroon, Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b7/bc/b7bc30c8-6",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T16:40:57+00:00",
-    "url": "https://reliefweb.int/report/cameroon/cameroon-humanitarian-dashboard-30-september-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "0797d6a7a131",
-    "title_en": "World: Start Fund Monthly Risk Bulletin (Issued: November 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: World, Burundi, Democratic Republic of the Congo, Ethiopia, Lebanon, Mozambique, occupied Palestinian territory, South Sudan, Syrian Arab Republic, Uganda, United Republic of Tanzania, Zambia, Zimbabwe</div>\n                                      <div class=\"tag source\">Source: Start Network</div>\n                                                                  ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T11:28:37+00:00",
-    "url": "https://reliefweb.int/report/world/start-fund-monthly-risk-bulletin-issued-november-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "66b1f531c035",
     "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
     "title_ar": "",
@@ -153,23 +33,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "ba5a456bae15",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia, Ukraine, Afghanistan, El Niño",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo, Somalia, Ukraine, Afghanistan, El Niño</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-ima",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-17T18:29:35+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-democratic-republic-congo-somalia-ukraine",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "99eb64536a45",
@@ -189,23 +52,6 @@
     "credibility": "medium"
   },
   {
-    "id": "9e84ce6fad15",
-    "title_en": "Transforming humanitarian response in Nigeria, one family at a time",
-    "title_ar": "",
-    "excerpt_en": "<span>Transforming humanitarian response in Nigeria, one family at a time</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Fatima Abubaka",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-17T13:35:16+00:00",
-    "url": "https://www.unocha.org/news/transforming-humanitarian-response-nigeria-one-family-time",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
     "id": "c5340db25657",
     "title_en": "Winter rains deepen Gaza crisis amid restricted access and aid cuts",
     "title_ar": "",
@@ -216,74 +62,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168821",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "73c8974bcf9c",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Syria",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Syria</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A mother and her 17",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-16T17:56:10+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-syria",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "c06e8f559c06",
-    "title_en": "Humanitarian Networks and Partnerships Week 2027",
-    "title_ar": "",
-    "excerpt_en": "<span>Humanitarian Networks and Partnerships Week 2027</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"HNPW is a global forum for the hu",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-16T14:01:25+00:00",
-    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-week-2027",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "cd32de0d39b0",
-    "title_en": "Humanitarian Networks and Partnerships Weeks 2025",
-    "title_ar": "",
-    "excerpt_en": "<span>Humanitarian Networks and Partnerships Weeks 2025</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"HNPW 2025 participants connect, ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-16T13:53:09+00:00",
-    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-2025",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "7bbcec704a22",
-    "title_en": "Humanitarian Networks and Partnerships Weeks 2026",
-    "title_ar": "",
-    "excerpt_en": "<span>Humanitarian Networks and Partnerships Weeks 2026</span>\n\n            <div class=\"field field--name-field-event-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Panel discussion on the Humanita",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-16T13:27:37+00:00",
-    "url": "https://www.unocha.org/events/humanitarian-networks-and-partnerships-weeks-2026",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
