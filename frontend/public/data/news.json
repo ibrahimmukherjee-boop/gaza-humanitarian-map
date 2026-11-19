@@ -1,5 +1,23 @@
 [
   {
+    "id": "c8cc9cc8882e",
+    "title_en": "oPt: Beyond Compliance: Strengthening Environmental, Social, Governance and Technical Assurance in Fragile Contexts for Accountable Delivery and Sustainable Impact (Project Insight Note #17)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: International Water Management Institute</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/94/20/942084ff-334c-4281-8c3d-f366e5",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-19T04:51:56+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/beyond-compliance-strengthening-environmental-social-governance-and-technical-assurance-fragile-contexts-accountable-delivery-and-sustainable-impact-project-insight-note-17",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "515d5ed2c8be",
     "title_en": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
     "title_ar": "",
@@ -25,23 +43,6 @@
     "source": "OCHA",
     "timestamp": "2026-11-18T21:30:59+00:00",
     "url": "https://www.unocha.org/ocha-cop31",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "34941308f506",
-    "title_en": "Atrocity Alert No. 503: Israel and the Occupied Palestinian Territory, Ethiopia and Afghanistan",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: occupied Palestinian territory, Afghanistan, Eritrea, Ethiopia</div>\n                                      <div class=\"tag source\">Source: Global Centre for the Responsibility to Protect</div>\n                                                                                                                <p><em>Atrocity Alert is a weekly publication by the Global",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-18T19:33:04+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/atrocity-alert-no-503-israel-and-occupied-palestinian-territory-ethiopia-and-afghanistan",
     "tags": [
       "humanitarian"
     ],
@@ -290,24 +291,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "d3b520921be1",
-    "title_en": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-    "title_ar": "",
-    "excerpt_en": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-12T16:54:12+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "2171f3fe5baf",
