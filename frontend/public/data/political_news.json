@@ -1,5 +1,18 @@
 [
   {
+    "id": "5b86fb02b9d6",
+    "title_en": "Settler rams into Palestinians at multiple locations in central Israel",
+    "title_ar": "",
+    "excerpt_en": "At least eight Palestinians were injured after a settler driver was caught on camera running them over.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-19T01:13:45+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "fcc3f6dd3d02",
     "title_en": "Israel uses Gaza swimming video to minimise winter hardships",
     "title_ar": "",
@@ -26,19 +39,6 @@
     "credibility": "high"
   },
   {
-    "id": "dde86d3a3feb",
-    "title_en": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-    "title_ar": "",
-    "excerpt_en": "Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-18T20:38:06+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "34941308f506",
     "title_en": "Atrocity Alert No. 503: Israel and the Occupied Palestinian Territory, Ethiopia and Afghanistan",
     "title_ar": "",
@@ -49,32 +49,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-18T19:33:04+00:00",
     "url": "https://reliefweb.int/report/occupied-palestinian-territory/atrocity-alert-no-503-israel-and-occupied-palestinian-territory-ethiopia-and-afghanistan",
-    "credibility": "medium"
-  },
-  {
-    "id": "030ce5e351b5",
-    "title_en": "Ecuador | Severe weather, floods and landslides - DG ECHO Daily Map | 18/11/2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Ecuador</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-18T17:17:27+00:00",
-    "url": "https://reliefweb.int/map/ecuador/ecuador-severe-weather-floods-and-landslides-dg-echo-daily-map-18112026",
-    "credibility": "medium"
-  },
-  {
-    "id": "e133b687bcb2",
-    "title_en": "Cameroon: Humanitarian Dashboard (as of 30 September 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Cameroon, Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b7/bc/b7bc30c8-6",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-18T16:40:57+00:00",
-    "url": "https://reliefweb.int/report/cameroon/cameroon-humanitarian-dashboard-30-september-2026",
     "credibility": "medium"
   },
   {
