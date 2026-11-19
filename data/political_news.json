@@ -1,5 +1,44 @@
 [
   {
+    "id": "b3b9f30b03c1",
+    "title_en": "Save the Children: Gaza’s children face ‘unmatched dangers’",
+    "title_ar": "",
+    "excerpt_en": "Aid group says one third of violations against children worldwide were in occupied Palestinian territory.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-19T19:23:45+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/19/save-the-children-gazas-children-face-unmatched-dangers?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "735ff02198e9",
+    "title_en": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+    "title_ar": "",
+    "excerpt_en": "Families flee Gaza’s Bureij camp as Israel launches new offensive",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-19T19:01:00+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/families-flee-gazas-bureij-camp-as-israel-launches-new-offensive?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "88202e34aad5",
+    "title_en": "Palestinians in Gaza face new displacement after Israeli army operation",
+    "title_ar": "",
+    "excerpt_en": "Families in Nuseirat spend the night without shelter, while many fear returning despite Israel ending offensive.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-19T18:46:10+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/19/palestinians-in-gaza-face-new-displacement-after-israeli-army-operation?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "515d5ed2c8be",
     "title_en": "Israeli military completes ground operation in Gaza beyond Yellow Line",
     "title_ar": "",
@@ -36,19 +75,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-11-19T15:17:26+00:00",
     "url": "https://reliefweb.int/map/world/dg-echo-funded-wash-projects-2026-dg-echo-daily-map-19112026",
-    "credibility": "medium"
-  },
-  {
-    "id": "7b016f86796f",
-    "title_en": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
-    "title_ar": "",
-    "excerpt_en": "The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-19T13:54:10+00:00",
-    "url": "https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss",
     "credibility": "medium"
   },
   {
