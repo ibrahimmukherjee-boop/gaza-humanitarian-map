@@ -1,5 +1,18 @@
 [
   {
+    "id": "fcc3f6dd3d02",
+    "title_en": "Israel uses Gaza swimming video to minimise winter hardships",
+    "title_ar": "",
+    "excerpt_en": "Israel shared an Al Jazeera video of Palestinians swimming, to suggest winter storms in Gaza can’t be that bad.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-18T23:53:21+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israel-uses-gaza-swimming-video-to-minimise-winter-hardships?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "515d5ed2c8be",
     "title_en": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
     "title_ar": "",
@@ -26,68 +39,16 @@
     "credibility": "medium"
   },
   {
-    "id": "b81afc9d9eb9",
-    "title_en": "Israeli settler kills Palestinian grandmother in occupied West Bank",
+    "id": "34941308f506",
+    "title_en": "Atrocity Alert No. 503: Israel and the Occupied Palestinian Territory, Ethiopia and Afghanistan",
     "title_ar": "",
-    "excerpt_en": "A Palestinian grandmother was killed by an Israeli settler in the occupied West Bank.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-18T19:27:42+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-settler-kills-palestinian-grandmother-in-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "4bf8a410ae56",
-    "title_en": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
-    "title_ar": "",
-    "excerpt_en": "An Israeli court extended the detention of Abu Safia nearly two years after Israel&#039;s army detained him.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-18T18:22:26+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/18/israeli-court-extends-gaza-doctor-abu-safias-detention-without-charge?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "2506d62b0dfa",
-    "title_en": "Israeli forces launch new military operation in central Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-18T18:12:42+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "592014310f56",
-    "title_en": "What has happened to the $18bn pledged to Trump’s Board of Peace for Gaza?",
-    "title_ar": "",
-    "excerpt_en": "Billions have been pledged for Gaza since a 2025 &#039;ceasefire&#039;, but rebuilding hasn’t begun and Israeli attacks continue.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-18T17:45:09+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/18/what-has-happened-to-the-18bn-pledged-to-trumps-board-of-peace-for-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "19a21607f3cc",
-    "title_en": "Central African Republic: Overview of population movements (August 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/59/45/5945fb87-27bb-410b-bfb3-a94b45a04bc0.png\" /></p>\n         ",
+    "excerpt_en": "<div class=\"tag country\">Countries: occupied Palestinian territory, Afghanistan, Eritrea, Ethiopia</div>\n                                      <div class=\"tag source\">Source: Global Centre for the Responsibility to Protect</div>\n                                                                                                                <p><em>Atrocity Alert is a weekly publication by the Global",
     "excerpt_ar": "",
     "source": "ReliefWeb",
     "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-18T17:18:35+00:00",
-    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-overview-population-movements-august-2026",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-18T19:33:04+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/atrocity-alert-no-503-israel-and-occupied-palestinian-territory-ethiopia-and-afghanistan",
     "credibility": "medium"
   },
   {
@@ -114,19 +75,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-11-18T16:40:57+00:00",
     "url": "https://reliefweb.int/report/cameroon/cameroon-humanitarian-dashboard-30-september-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "0797d6a7a131",
-    "title_en": "World: Start Fund Monthly Risk Bulletin (Issued: November 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: World, Burundi, Democratic Republic of the Congo, Ethiopia, Lebanon, Mozambique, occupied Palestinian territory, South Sudan, Syrian Arab Republic, Uganda, United Republic of Tanzania, Zambia, Zimbabwe</div>\n                                      <div class=\"tag source\">Source: Start Network</div>\n                                                                  ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-18T11:28:37+00:00",
-    "url": "https://reliefweb.int/report/world/start-fund-monthly-risk-bulletin-issued-november-2026",
     "credibility": "medium"
   },
   {
