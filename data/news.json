@@ -1,5 +1,39 @@
 [
   {
+    "id": "c67977ae0442",
+    "title_en": "oPt: Gaza Strip | Learning Spaces Assessment Report (November 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Education Cluster</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/54/0a/540a00ed-46e4-449d-af68-226a30523849.png\" /></p>\n                        <p>Please refer ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-20T22:27:27+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-strip-learning-spaces-assessment-report-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "7d463321bc7c",
+    "title_en": "Ecuador: Latin America & The Caribbean Weekly Situation Update as of 20 November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Ecuador, Bolivia (Plurinational State of), El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama, Peru, United States of America</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-20T18:55:46+00:00",
+    "url": "https://reliefweb.int/report/ecuador/latin-america-caribbean-weekly-situation-update-20-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "e5e8d64d8d3c",
     "title_en": "Today's top news: Ukraine, Yemen, Occupied Palestinian Territory, Democratic Republic of the Congo",
     "title_ar": "",
@@ -80,23 +114,6 @@
     "url": "https://reliefweb.int/report/ecuador/wfp-ecuador-country-brief-november-2026",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "26f39d967e33",
-    "title_en": "occupied Palestinian territory (oPt) Situation Analysis: [2/11/2026] - [8/11/2026]",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Data Friendly Space</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/51/4c/514cec08-5f8c-534f-a7c9-bb927c9f87a8.png\" /></p>\n  ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-20T11:33:00+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/occupied-palestinian-territory-opt-situation-analysis-2112026-8112026",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
