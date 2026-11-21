@@ -1,5 +1,18 @@
 [
   {
+    "id": "8bf6ec2b7b4d",
+    "title_en": "oPt: WFP Palestine External Situation Report, 21 November (Reporting Period: 1- 31 October 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/75/be/75be5e9c-71a0-4d20-b0a5-f4694aa4268d.png\" /></p>\n                        <p>Please ref",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-21T00:52:50+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-external-situation-report-21-november-reporting-period-1-31-october-2026",
+    "credibility": "medium"
+  },
+  {
     "id": "16f2b09a7bbc",
     "title_en": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
     "title_ar": "",
@@ -39,45 +52,6 @@
     "credibility": "medium"
   },
   {
-    "id": "8fb905101e84",
-    "title_en": "Israeli drone attacks kill seven Palestinians in central Gaza",
-    "title_ar": "",
-    "excerpt_en": "Drones cause &#039;fear and panic&#039; among Palestinians as Israel continues attacks on the Strip despite &#039;ceasefire&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-20T20:14:56+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "45eed7c4da64",
-    "title_en": "Palestinian anti-Hamas groups accused of role in Israel Gaza operation",
-    "title_ar": "",
-    "excerpt_en": "Israeli-backed Palestinian militias accused of expanding operations, raising concerns over their role in Gaza’s security",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-20T19:57:05+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/20/palestinian-anti-hamas-groups-accused-of-role-in-israel-gaza-operation?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "dfe305e2dbbf",
-    "title_en": "What are the implications of the ICJ Rohingya genocide ruling?",
-    "title_ar": "",
-    "excerpt_en": "Verdict against Myanmar may have implications for Israel&#039;s genocide in Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-20T19:12:14+00:00",
-    "url": "https://www.aljazeera.com/video/inside-story/2026/11/20/what-are-the-implications-of-the-icj-rohingya-genocide-ruling?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "7d463321bc7c",
     "title_en": "Ecuador: Latin America & The Caribbean Weekly Situation Update as of 20 November 2026",
     "title_ar": "",
@@ -88,19 +62,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-11-20T18:55:46+00:00",
     "url": "https://reliefweb.int/report/ecuador/latin-america-caribbean-weekly-situation-update-20-november-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "33d153653a7a",
-    "title_en": "Former US national security adviser confronted by students on Gaza",
-    "title_ar": "",
-    "excerpt_en": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-20T18:51:26+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
     "credibility": "medium"
   },
   {
