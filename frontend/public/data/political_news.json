@@ -1,5 +1,18 @@
 [
   {
+    "id": "ed993c8e5400",
+    "title_en": "Israeli attacks on Gaza kill at least four Palestinians",
+    "title_ar": "",
+    "excerpt_en": "Israeli drone attack kills three people in Gaza City, another shot dead by Israeli forces in Jabalia.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-21T12:29:49+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "775c2171a814",
     "title_en": "Demolition notices for buildings in Hebron provoke fear among Palestinians",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-21T10:38:13+00:00",
     "url": "https://www.aljazeera.com/news/2026/11/21/demolition-notices-for-buildings-in-area-a-of-hebron-spark-fear-among-palestinians?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a9e88b8922cb",
-    "title_en": "Spain court grants bail to pro-Palestinian activist James ‘Fergie’ Chambers",
-    "title_ar": "",
-    "excerpt_en": "Spain’s High Court granted conditional bail to James ‘Fergie’ Chambers, a pro-Palestinian philanthropist.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-21T08:26:22+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/spain-court-grants-bail-to-pro-palestinian-activist-james-fergie-chambers-2?traffic_source=rss",
     "credibility": "medium"
   },
   {
