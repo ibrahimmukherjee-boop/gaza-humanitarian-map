@@ -1,5 +1,18 @@
 [
   {
+    "id": "6766b8f76171",
+    "title_en": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israeli forces continue to destroy residential buildings as part of a &#039;gradual displacement&#039; policy, a Gaza mayor says.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-22T02:14:18+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "730b0a0b4cec",
     "title_en": "Impunity fuels surge in settler violence across occupied West Bank",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-21T21:11:54+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "8a396261f11d",
-    "title_en": "Israeli strike hits food aid vehicle in Gaza, killing three",
-    "title_ar": "",
-    "excerpt_en": "Three Palestinians were killed in an Israeli air attack on a vehicle carrying food.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-21T17:54:19+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-israel-targets-gaza-food-truck?traffic_source=rss",
     "credibility": "medium"
   },
   {
