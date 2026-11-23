@@ -1,5 +1,76 @@
 [
   {
+    "id": "7f17d5f91e6d",
+    "title_en": "Colombia: Ten years after peace deal, civilians see rising violence | NRC",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Colombia</div>\n                                      <div class=\"tag source\">Source: Norwegian Refugee Council</div>\n                                                                                              <p>“A decade after the signing of the peace agreement, conflict in Colombia has again intensified and continues to tear lives apart – and for millions of C",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-23T07:33:18+00:00",
+    "url": "https://reliefweb.int/report/colombia/colombia-ten-years-after-peace-deal-civilians-see-rising-violence-nrc",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "e7b3c1ee0453",
+    "title_en": "WFP Kenya External Situation Report on Moyale Emergency Response, 20 November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Kenya, Ethiopia</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/32/77/32771240-b3f6-475f-847a-4127dee87e90.png\" /></p>\n              ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-23T07:19:31+00:00",
+    "url": "https://reliefweb.int/report/kenya/wfp-kenya-external-situation-report-moyale-emergency-response-20-november-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "5bbfd186dd73",
+    "title_en": "Five key lessons from multi-hazard preparedness in Nigeria",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Nigeria</div>\n                                      <div class=\"tag source\">Source: ODI - Humanitarian Practice Network</div>\n                                                                                              <p><strong>Olayinka Afolabi</strong></p>\n<p>Nigeria does not lack information about humanitarian risk. Flood forecasts, conflict analysis, disease",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-23T05:29:41+00:00",
+    "url": "https://reliefweb.int/report/nigeria/five-key-lessons-multi-hazard-preparedness-nigeria",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "00e7119979dc",
+    "title_en": "World: Evaluation of Disability Inclusion In EU-Funded Humanitarian Aid Operations, 2020-2025 - Final Report",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: European Commission</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d9/b1/d9b1df47-16fc-467b-a121-5ce6cb5bd2aa.png\" /></p>\n                        <p>",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-23T03:40:20+00:00",
+    "url": "https://reliefweb.int/report/world/evaluation-disability-inclusion-eu-funded-humanitarian-aid-operations-2020-2025-final-report",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "ac922bca0680",
     "title_en": "oPt: Reported impact snapshot | Gaza Strip (18 November 2026) at 15:00",
     "title_ar": "",
@@ -335,23 +406,6 @@
     "source": "BBC Middle East",
     "timestamp": "2026-11-16T08:56:04+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "61a3a9acd205",
-    "title_en": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-    "title_ar": "",
-    "excerpt_en": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-15T08:17:41+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
