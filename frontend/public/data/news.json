@@ -69,67 +69,14 @@
     "credibility": "high"
   },
   {
-    "id": "b004e9cf6927",
+    "id": "524b98f61e4c",
     "title_en": "India, Bangladesh | Tropical storm AKVAN - DG ECHO Daily Map | 20/11/2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Bangladesh, India</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/",
+    "excerpt_en": "<div class=\"tag country\">Countries: India, Bangladesh</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/",
     "excerpt_ar": "",
     "source": "ReliefWeb",
     "timestamp": "2026-11-20T16:17:23+00:00",
-    "url": "https://reliefweb.int/map/bangladesh/india-bangladesh-tropical-storm-akvan-dg-echo-daily-map-20112026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "acde70cb1f99",
-    "title_en": "Central African Republic: Situation Report No. 94, as of 17 November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/dd/e0/dde04af6-f932-492f-b87",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-20T15:14:28+00:00",
-    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-situation-report-no-94-17-november-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "428be906a12b",
-    "title_en": "Côte d'Ivoire: WFP Côte d’Ivoire Country Brief, October 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Côte d'Ivoire</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/cd/dc/cddcb98f-5fc5-42bd-b450-aa691083a128.png\" /></p>\n                  ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-20T12:58:33+00:00",
-    "url": "https://reliefweb.int/report/cote-divoire/wfp-cote-divoire-country-brief-october-2026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "2fd7c83d3acf",
-    "title_en": "WFP Ecuador Country Brief - November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Ecuador</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/9d/be/9dbede64-4179-4a3c-a022-fcb6808e98c0.png\" /></p>\n      ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-20T12:56:45+00:00",
-    "url": "https://reliefweb.int/report/ecuador/wfp-ecuador-country-brief-november-2026",
+    "url": "https://reliefweb.int/map/india/india-bangladesh-tropical-storm-akvan-dg-echo-daily-map-20112026",
     "tags": [
       "aid",
       "humanitarian"
