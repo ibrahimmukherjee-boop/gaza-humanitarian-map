@@ -1,5 +1,23 @@
 [
   {
+    "id": "1595c01b2d2a",
+    "title_en": "Türkiye: Basic Needs Sector Dashboard - Field - October 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Türkiye</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/cc/13/cc13a086-8a37-538b-850f-f72d465cad04.png\" /></p>\n           ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-23T08:03:12+00:00",
+    "url": "https://reliefweb.int/report/turkiye/turkiye-basic-needs-sector-dashboard-field-october-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "7f17d5f91e6d",
     "title_en": "Colombia: Ten years after peace deal, civilians see rising violence | NRC",
     "title_ar": "",
@@ -130,23 +148,6 @@
     "source": "ReliefWeb",
     "timestamp": "2026-11-23T01:35:07+00:00",
     "url": "https://reliefweb.int/report/nigeria/unicef-nigeria-humanitarian-flash-update-no-2-ebola-bundibugyo-virus-disease-13-november-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "682217ab74a2",
-    "title_en": "oPt: Environmental War Crimes: How Israel’s military assault has turned Gaza into a toxic wasteland, threatening human survival (November 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Oxfam</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/1b/20/1b20bd76-31eb-4db8-ae67-685ba9684e35.png\" /></p>\n                ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T01:03:05+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/environmental-war-crimes-how-israels-military-assault-has-turned-gaza-toxic-wasteland-threatening-human-survival-november-2026",
     "tags": [
       "humanitarian"
     ],
