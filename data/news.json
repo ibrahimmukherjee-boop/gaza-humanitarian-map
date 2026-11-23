@@ -1,31 +1,13 @@
 [
   {
-    "id": "8bf6ec2b7b4d",
-    "title_en": "oPt: WFP Palestine External Situation Report, 21 November (Reporting Period: 1- 31 October 2026)",
+    "id": "ac922bca0680",
+    "title_en": "oPt: Reported impact snapshot | Gaza Strip (18 November 2026) at 15:00",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/75/be/75be5e9c-71a0-4d20-b0a5-f4694aa4268d.png\" /></p>\n                        <p>Please ref",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/60/52/6052c599-c61f-4f",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-21T00:52:50+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/wfp-palestine-external-situation-report-21-november-reporting-period-1-31-october-2026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "c67977ae0442",
-    "title_en": "oPt: Gaza Strip | Learning Spaces Assessment Report (November 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Education Cluster</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/54/0a/540a00ed-46e4-449d-af68-226a30523849.png\" /></p>\n                        <p>Please refer ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-20T22:27:27+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-strip-learning-spaces-assessment-report-november-2026",
+    "timestamp": "2026-11-23T02:42:33+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/reported-impact-snapshot-gaza-strip-18-november-2026-1500",
     "tags": [
       "humanitarian"
     ],
@@ -35,14 +17,65 @@
     "credibility": "high"
   },
   {
-    "id": "7d463321bc7c",
-    "title_en": "Ecuador: Latin America & The Caribbean Weekly Situation Update as of 20 November 2026",
+    "id": "e223e3b480d2",
+    "title_en": "oPt: Israeli authorities must urgently act on repeated calls to protect Palestinian olive harvesters amid unprecedented violence [EN/AR/HE]",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Ecuador, Bolivia (Plurinational State of), El Salvador, Guatemala, Haiti, Honduras, Mexico, Panama, Peru, United States of America</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                ",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/0a/12/0a12c9b6-b410-4d",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-20T18:55:46+00:00",
-    "url": "https://reliefweb.int/report/ecuador/latin-america-caribbean-weekly-situation-update-20-november-2026",
+    "timestamp": "2026-11-23T02:34:01+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/israeli-authorities-must-urgently-act-repeated-calls-protect-palestinian-olive-harvesters-amid-unprecedented-violence-enarhe",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "5bc78d59a899",
+    "title_en": "oPt: Humanitarian Situation Report | 18 November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/04/5",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-23T02:22:40+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/opt-humanitarian-situation-report-18-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "59d1a64f8c34",
+    "title_en": "UNICEF Nigeria Humanitarian Flash Update No. 2 (Ebola Bundibugyo Virus Disease), 13 November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Nigeria</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e4/0d/e40d48df-7a69-4b7e-8ec8-3ed87da828a8.png\" /></p>\n        ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-23T01:35:07+00:00",
+    "url": "https://reliefweb.int/report/nigeria/unicef-nigeria-humanitarian-flash-update-no-2-ebola-bundibugyo-virus-disease-13-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "682217ab74a2",
+    "title_en": "oPt: Environmental War Crimes: How Israel’s military assault has turned Gaza into a toxic wasteland, threatening human survival (November 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Oxfam</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/1b/20/1b20bd76-31eb-4db8-ae67-685ba9684e35.png\" /></p>\n                ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-23T01:03:05+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/environmental-war-crimes-how-israels-military-assault-has-turned-gaza-toxic-wasteland-threatening-human-survival-november-2026",
     "tags": [
       "humanitarian"
     ],
@@ -61,24 +94,6 @@
     "timestamp": "2026-11-20T17:16:48+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-ukraine-yemen-occupied-palestinian-territory-democratic-republic-congo",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "524b98f61e4c",
-    "title_en": "India, Bangladesh | Tropical storm AKVAN - DG ECHO Daily Map | 20/11/2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: India, Bangladesh</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-20T16:17:23+00:00",
-    "url": "https://reliefweb.int/map/india/india-bangladesh-tropical-storm-akvan-dg-echo-daily-map-20112026",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
