@@ -1,5 +1,44 @@
 [
   {
+    "id": "5620f6e48424",
+    "title_en": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "title_ar": "",
+    "excerpt_en": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-23T17:07:25+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "bc96832409f2",
+    "title_en": "Israeli strikes kill at least three, including UNRWA worker, in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Israel continues to launch attacks across the enclave, despite an October 2025 &#039;ceasefire&#039; deal.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-23T16:36:22+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/23/israeli-drone-strike-kills-unrwa-worker-in-gaza?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7f32510dc1b6",
+    "title_en": "Gaza mourns UNRWA worker killed in Israeli strike",
+    "title_ar": "",
+    "excerpt_en": "Palestinians mourned UNRWA employee Adel al-Helou, who was killed on Monday in an Israeli airstrike while on duty",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-23T16:35:28+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-mourns-unrwa-worker-killed-in-israeli-strike?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "fbf768a42e39",
     "title_en": "Israeli soldiers assault Palestinian after raiding his home",
     "title_ar": "",
@@ -65,19 +104,6 @@
     "credibility": "medium"
   },
   {
-    "id": "9f6c1dafca31",
-    "title_en": "Israeli restrictions cut off vital hearing aid supplies in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israeli restrictions have left Gaza facing a severe shortage of hearing aid batteries.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-23T13:54:48+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-restrictions-cut-off-vital-hearing-aid-supplies-in-gaza?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "0366edd801dc",
     "title_en": "Indonesia: ASEAN Weekly Disaster Update Week 47 | 16 – 22 November 2026",
     "title_ar": "",
@@ -128,19 +154,6 @@
     "timestamp": "2026-11-23T12:33:05+00:00",
     "url": "https://reliefweb.int/report/occupied-palestinian-territory/italy-and-un-agencies-partner-strengthen-integrated-services-children-and-young-people-across-gaza-strip",
     "credibility": "medium"
-  },
-  {
-    "id": "5620f6e48424",
-    "title_en": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "title_ar": "",
-    "excerpt_en": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-23T11:57:33+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "credibility": "high"
   },
   {
     "id": "c6725b554724",

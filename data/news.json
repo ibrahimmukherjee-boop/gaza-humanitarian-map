@@ -1,5 +1,39 @@
 [
   {
+    "id": "06516804cdeb",
+    "title_en": "Today's top news: Ukraine, Yemen, Sudan, Occupied Palestinian Territory",
+    "title_ar": "",
+    "excerpt_en": "<span>Today's top news: Ukraine, Yemen, Sudan, Occupied Palestinian Territory</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"A child fi",
+    "excerpt_ar": "",
+    "source": "OCHA",
+    "timestamp": "2026-11-23T18:11:35+00:00",
+    "url": "https://www.unocha.org/news/todays-top-news-ukraine-yemen-sudan-occupied-palestinian-territory",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "5620f6e48424",
+    "title_en": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+    "title_ar": "",
+    "excerpt_en": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-23T17:07:25+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
     "id": "a84beabfe8fd",
     "title_en": "WFP Niger Country Brief, November 2026",
     "title_ar": "",
@@ -138,23 +172,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "5620f6e48424",
-    "title_en": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-    "title_ar": "",
-    "excerpt_en": "The report says there are signs of possible contamination across almost all of Gaza as a result of Israel's actions.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-23T11:57:33+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "e5e8d64d8d3c",
@@ -345,23 +362,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "9e84ce6fad15",
-    "title_en": "Transforming humanitarian response in Nigeria, one family at a time",
-    "title_ar": "",
-    "excerpt_en": "<span>Transforming humanitarian response in Nigeria, one family at a time</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Fatima Abubaka",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-17T13:35:16+00:00",
-    "url": "https://www.unocha.org/news/transforming-humanitarian-response-nigeria-one-family-time",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "c5340db25657",
