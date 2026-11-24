@@ -1,5 +1,40 @@
 [
   {
+    "id": "7d8af312f783",
+    "title_en": "Israeli air strike kills Hamas internal security chief in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-24T15:35:53+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "1ccc7c8f69f9",
+    "title_en": "World: Local Leadership in the Age of AI: How Artificial Intelligence is Transforming Locally Led Humanitarian Action.",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Humanitarian Advisory Group</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ca/fc/cafc4de9-d1cb-410d-b21f-c4917394580c.png\" /></p>\n                   ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-24T14:27:31+00:00",
+    "url": "https://reliefweb.int/report/world/local-leadership-age-ai-how-artificial-intelligence-transforming-locally-led-humanitarian-action",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "06516804cdeb",
     "title_en": "Today's top news: Ukraine, Yemen, Sudan, Occupied Palestinian Territory",
     "title_ar": "",
@@ -258,23 +293,6 @@
       "Gaza Strip"
     ],
     "credibility": "high"
-  },
-  {
-    "id": "7cdd3a555516",
-    "title_en": "UK and allies urge Israel to allow rapid humanitarian access to Gaza",
-    "title_ar": "",
-    "excerpt_en": "The UK, Australia, Canada and Italy say Israeli authorities are holding back vital supplies at the borders, including 150,00 tents.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-16T08:56:04+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cwm2mllj1pp8o?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
   },
   {
     "id": "b1e1656139ce",
