@@ -1,5 +1,75 @@
 [
   {
+    "id": "b7acc048b35f",
+    "title_en": "Nepal: Rasuwa Flood Situation Report No. 13 (As of 20 November 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Nepal</div>\n                                      <div class=\"tag source\">Sources: UN Office for the Coordination of Humanitarian Affairs, UN Resident Coordinator in Nepal</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/78/e1/78e12585-5264-4cda-b254-9e11efec8a6f.png\" ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-24T05:17:54+00:00",
+    "url": "https://reliefweb.int/report/nepal/nepal-rasuwa-flood-situation-report-no-13-20-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "a6f30b1c83ae",
+    "title_en": "Occupied Palestinian Territory Emergency Response Activity Update #61, 1 - 31 October 2026 [EN/AR]",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: International Organization for Migration</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/7d/3e/7d3eb905-ba5",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-24T01:46:20+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/occupied-palestinian-territory-emergency-response-activity-update-61-1-31-october-2026-enar",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "5e6545fc9c11",
+    "title_en": "World: Food & Nutrition Security Update (November 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Algeria, Argentina, Armenia, Bangladesh, Bhutan, Brazil, Burkina Faso, Chad, Ethiopia, Fiji, Georgia, Guatemala, Guinea, Haiti, India, Kenya, Lao People's Democratic Republic (the), Lebanon, Libya, Mali, Mozambique, Myanmar, Nepal, Niger, Nigeria, occupied Palestinian territory, Papua New Guinea, Peru, Philippines, Somalia, South Africa, South Sudan, Sri ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-24T00:39:11+00:00",
+    "url": "https://reliefweb.int/report/world/food-nutrition-security-update-november-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "c05a8e1a3a0d",
+    "title_en": "World: Speed, Scale and Disregard: How new technology and changing tactics are driving civilian harm",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Democratic Republic of the Congo, Iran (Islamic Republic of), Lebanon, occupied Palestinian territory, Sudan, Ukraine</div>\n                                      <div class=\"tag source\">Source: Norwegian Refugee Council</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/de",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-24T00:33:07+00:00",
+    "url": "https://reliefweb.int/report/world/speed-scale-and-disregard-how-new-technology-and-changing-tactics-are-driving-civilian-harm",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "06516804cdeb",
     "title_en": "Today's top news: Ukraine, Yemen, Sudan, Occupied Palestinian Territory",
     "title_ar": "",
@@ -32,92 +102,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "a84beabfe8fd",
-    "title_en": "WFP Niger Country Brief, November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Niger</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/09/c6/09c639a9-aa58-4bf2-a542-1c95e18e7c68.png\" /></p>\n                        <p",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T14:53:57+00:00",
-    "url": "https://reliefweb.int/report/niger/wfp-niger-country-brief-november-2026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "477dc14326c3",
-    "title_en": "Colombia: Informe de Tendencias e Impacto Humanitario en 2026 | Datos acumulados entre enero - agosto de 2026 | Fecha de publicación: 23 de noviembre de 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Colombia</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/32/1e/321ee476-feb4-4f1b-8",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T14:51:02+00:00",
-    "url": "https://reliefweb.int/report/colombia/colombia-informe-de-tendencias-e-impacto-humanitario-en-2026-datos-acumulados-entre-enero-agosto-de-2026-fecha-de-publicacion-23-de-noviembre-de-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "effc4ace5911",
-    "title_en": "Syrian Arab Republic: Humanitarian Update No. 8 | September - October 2026 [EN/AR]",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/3f/64/3f648fb1-3d26-42ea-b0ea-f2",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T14:10:12+00:00",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-humanitarian-update-no-8-september-october-2026-enar",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "0c9e86fd00f2",
-    "title_en": "oPt: Gaza: Working alongside communities to prepare for winter rains",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: International Committee of the Red Cross</div>\n                                                                                                                <p><em><strong>The first week of November brought heavy rains to Gaza. Raed Al-Ramlawi, 55, woke in ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T13:57:06+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-working-alongside-communities-prepare-winter-rains",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "0366edd801dc",
-    "title_en": "Indonesia: ASEAN Weekly Disaster Update Week 47 | 16 – 22 November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Indonesia, Malaysia, Thailand, Timor-Leste</div>\n                                      <div class=\"tag source\">Source: ASEAN Coordinating Centre for Humanitarian Assistance</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f3/5d/f35",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T13:46:41+00:00",
-    "url": "https://reliefweb.int/report/indonesia/asean-weekly-disaster-update-week-47-16-22-november-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "c3557b942b48",
