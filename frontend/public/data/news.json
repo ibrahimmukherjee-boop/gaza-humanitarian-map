@@ -37,7 +37,7 @@
     "id": "a84beabfe8fd",
     "title_en": "WFP Niger Country Brief, November 2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Niger</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/09/c6/09c639a9-aa58-4bf2-a542-1c95e18e7c68.png\" /></p>\n                        <p>Please refer to the attached file.<",
+    "excerpt_en": "<div class=\"tag country\">Country: Niger</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/09/c6/09c639a9-aa58-4bf2-a542-1c95e18e7c68.png\" /></p>\n                        <p",
     "excerpt_ar": "",
     "source": "ReliefWeb",
     "timestamp": "2026-11-23T14:53:57+00:00",
@@ -72,7 +72,7 @@
     "id": "effc4ace5911",
     "title_en": "Syrian Arab Republic: Humanitarian Update No. 8 | September - October 2026 [EN/AR]",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/40/72/407284f6-3b75-4adb-ade1-e3",
+    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/3f/64/3f648fb1-3d26-42ea-b0ea-f2",
     "excerpt_ar": "",
     "source": "ReliefWeb",
     "timestamp": "2026-11-23T14:10:12+00:00",
@@ -106,7 +106,7 @@
     "id": "0366edd801dc",
     "title_en": "Indonesia: ASEAN Weekly Disaster Update Week 47 | 16 – 22 November 2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Indonesia, Malaysia, Thailand</div>\n                                      <div class=\"tag source\">Source: ASEAN Coordinating Centre for Humanitarian Assistance</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f3/5d/f35d02ab-b774-4c",
+    "excerpt_en": "<div class=\"tag country\">Countries: Indonesia, Malaysia, Thailand, Timor-Leste</div>\n                                      <div class=\"tag source\">Source: ASEAN Coordinating Centre for Humanitarian Assistance</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/f3/5d/f35",
     "excerpt_ar": "",
     "source": "ReliefWeb",
     "timestamp": "2026-11-23T13:46:41+00:00",
@@ -120,52 +120,16 @@
     "credibility": "high"
   },
   {
-    "id": "f6eece7b010c",
-    "title_en": "UNHCR Jordan: Zaatari Informal Market Dynamics (2024 – 2026)",
+    "id": "c3557b942b48",
+    "title_en": "Gaza war has undone 77 years of human development, UN warns",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Jordan, Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/39/4a/394a9ab8-ef05-58dc-9df2-ab9deebd909d.",
+    "excerpt_en": "The UN deputy chief urged renewed international support for a two-State solution to the Israel-Palestine conflict on Monday, warning that Palestinians continue to face violence, displacement and dire living conditions despite the October 2025 ceasefire in Gaza.",
     "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T13:03:28+00:00",
-    "url": "https://reliefweb.int/report/jordan/unhcr-jordan-zaatari-informal-market-dynamics-2024-2026",
+    "source": "UN News",
+    "timestamp": "2026-11-23T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168862",
     "tags": [
       "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "31aa5e863562",
-    "title_en": "oPt: Palestine Logistics Cluster - Concept of Operations (ConOps) November, 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Sources: Logistics Cluster, World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/8b/4a/8b4ae8d4-7ea",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T12:40:06+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/palestine-logistics-cluster-concept-operations-conops-november-2026",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "bc36697b8b6a",
-    "title_en": "oPt: Italy and UN agencies partner to strengthen integrated services for children and young people across the Gaza Strip",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: occupied Palestinian territory, Italy</div>\n                                      <div class=\"tag source\">Sources: Government of Italy, World Health Organization</div>\n                                                                                              <p><strong>23 November 2026, Jerusalem</strong> – The Government of Italy and UN agencies in the occup",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-23T12:33:05+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/italy-and-un-agencies-partner-strengthen-integrated-services-children-and-young-people-across-gaza-strip",
-    "tags": [
-      "health",
       "humanitarian"
     ],
     "location_tags": [
@@ -498,24 +462,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/10/1168685",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "58e7f2ad7dac",
-    "title_en": "West Bank: Hebron crackdown displaces thousands, Türk warns of ethnic cleansing",
-    "title_ar": "",
-    "excerpt_en": "Israel’s “aggressive operation” in the West Bank city of Hebron raises serious concerns of ethnic cleansing, UN human rights chief Volker Türk warned on Monday, as the number of Palestinians forced from their homes passed 3,000 on the eve of Israeli elections.",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-10-26T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168672",
-    "tags": [
-      "displacement",
       "humanitarian"
     ],
     "location_tags": [
