@@ -1,13 +1,47 @@
 [
   {
-    "id": "4245d9e3187a",
-    "title_en": "oPt: Gaza: Basic winter survival items out of reach for families | NRC",
+    "id": "bbc40de9cc49",
+    "title_en": "Central African Republic: Overview of incidents affecting humanitarian workers (october 2026)",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Norwegian Refugee Council</div>\n                                                                                                                <p>Israeli restrictions and insufficient humanitarian funding have caused prices in Gaza’s local market to increase",
+    "excerpt_en": "<div class=\"tag country\">Country: Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/29/e2/29e2325c-a70e-45d4-8e4b-333b0d4ecf98.png\" /></p>\n         ",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-25T08:03:07+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-basic-winter-survival-items-out-reach-families-nrc",
+    "timestamp": "2026-11-25T14:46:38+00:00",
+    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-overview-incidents-affecting-humanitarian-workers-october-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "a851cafa2644",
+    "title_en": "Israeli strike kills senior Hamas security official and family in Gaza City",
+    "title_ar": "",
+    "excerpt_en": "Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-25T14:06:13+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "25a0e5d721f1",
+    "title_en": "UNHCR Ecuador - Operational Update No. 10 | October 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Ecuador, Colombia, Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b5/f2/b5f24f62-686",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-25T14:03:13+00:00",
+    "url": "https://reliefweb.int/report/ecuador/unhcr-ecuador-operational-update-no-10-october-2026",
     "tags": [
       "displacement",
       "humanitarian"
@@ -18,15 +52,16 @@
     "credibility": "high"
   },
   {
-    "id": "93e2b88bbf32",
-    "title_en": "UNICEF Cambodia Situation Report No.2 (El Nino 2026-2027 Preparedness), November 2026",
+    "id": "701536982c92",
+    "title_en": "Ethiopia launches polio vaccination campaign to protect more than 11 million children: WHO deployed 28 staff to support the vaccination campaign",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Cambodia</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/90/92/9092ee2e-3cef-43bd-8fae-92e430ab7bed.png\" /></p>\n       ",
+    "excerpt_en": "<div class=\"tag country\">Country: Ethiopia</div>\n                                      <div class=\"tag source\">Source: World Health Organization</div>\n                                                                                              <p><strong>Addis Ababa, Ethiopia, 21 November 2026</strong> – The Government of Ethiopia, in collaboration with the World Health Organization (WHO), UNICEF",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-25T07:02:23+00:00",
-    "url": "https://reliefweb.int/report/cambodia/unicef-cambodia-situation-report-no2-el-nino-2026-2027-preparedness-november-2026",
+    "timestamp": "2026-11-25T13:37:29+00:00",
+    "url": "https://reliefweb.int/report/ethiopia/ethiopia-launches-polio-vaccination-campaign-protect-more-11-million-children-who-deployed-28-staff-support-vaccination-campaign",
     "tags": [
+      "health",
       "humanitarian"
     ],
     "location_tags": [
@@ -35,15 +70,16 @@
     "credibility": "high"
   },
   {
-    "id": "d7708a345f5a",
-    "title_en": "World: ICRC president: No weapon, technology or method of war should put the conduct of hostilities beyond the limits of human control [EN/AR]",
+    "id": "aaed7fb3c486",
+    "title_en": "WFP Malawi Country Brief November 2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: International Committee of the Red Cross</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/05/0a/050aa845-ff89-4bd4-bc57-c3b53a6f33ea.png\" /></p>\n      ",
+    "excerpt_en": "<div class=\"tag country\">Country: Malawi</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/9c/ef/9ceff4a4-60a9-4adb-9c97-e80471242e89.png\" /></p>\n       ",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-25T05:36:29+00:00",
-    "url": "https://reliefweb.int/report/world/icrc-president-no-weapon-technology-or-method-war-should-put-conduct-hostilities-beyond-limits-human-control-enar",
+    "timestamp": "2026-11-25T12:47:01+00:00",
+    "url": "https://reliefweb.int/report/malawi/wfp-malawi-country-brief-november-2026",
     "tags": [
+      "aid",
       "humanitarian"
     ],
     "location_tags": [
@@ -52,38 +88,21 @@
     "credibility": "high"
   },
   {
-    "id": "fed008c55863",
-    "title_en": "Burundi: Humanitarian Action for Children 2026 - Protecting children amid overlapping crises in the Great Lakes, Revision 1 (November 2026)",
+    "id": "4eb30bb6f3aa",
+    "title_en": "Protesters call on Israel to free Palestinian student held without charge",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Burundi, Rwanda, Uganda, United Republic of Tanzania</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d2/ee/d2eeab83-4",
+    "excerpt_en": "Mahdi Tunsi, 26, was taken from his university dormitory earlier this month and has since been held without charge.",
     "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-25T05:29:31+00:00",
-    "url": "https://reliefweb.int/report/burundi/humanitarian-action-children-2026-protecting-children-amid-overlapping-crises-great-lakes-revision-1-november-2026",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-25T10:03:42+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "humanitarian"
     ],
     "location_tags": [
       "Gaza Strip"
     ],
-    "credibility": "high"
-  },
-  {
-    "id": "90ef72a27cc1",
-    "title_en": "Humanitarian Action for Children 2026 - Colombia, Revision 1 (November 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Colombia</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/4d/dd/4ddd7456-1508-4aa2-8d2f-0a44c638bb24.png\" /></p>\n       ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-25T05:26:00+00:00",
-    "url": "https://reliefweb.int/report/colombia/humanitarian-action-children-2026-colombia-revision-1-november-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
+    "credibility": "medium"
   },
   {
     "id": "d9b8c7e23ec7",
@@ -268,23 +287,6 @@
     "source": "OCHA",
     "timestamp": "2026-11-18T21:30:59+00:00",
     "url": "https://www.unocha.org/ocha-cop31",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "365cea70e285",
-    "title_en": "Today's top news: Yemen, Occupied Palestinian Territory, Haiti, South Sudan",
-    "title_ar": "",
-    "excerpt_en": "<span>Today's top news: Yemen, Occupied Palestinian Territory, Haiti, South Sudan</span>\n\n            <div class=\"field field--name-field-story-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Gaza\" ",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-18T17:42:11+00:00",
-    "url": "https://www.unocha.org/news/todays-top-news-yemen-occupied-palestinian-territory-haiti-south-sudan",
     "tags": [
       "humanitarian"
     ],
