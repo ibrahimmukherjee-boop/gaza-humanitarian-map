@@ -17,6 +17,23 @@
     "credibility": "medium"
   },
   {
+    "id": "0179896dff2c",
+    "title_en": "Türk warns of widening risk of atrocity crimes against Palestinians",
+    "title_ar": "",
+    "excerpt_en": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "timestamp": "2026-11-25T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168879",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "47a84167ae20",
     "title_en": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
     "title_ar": "",
@@ -257,24 +274,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "fbdd668a07fd",
-    "title_en": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "timestamp": "2026-10-30T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
-    "tags": [
-      "displacement",
       "humanitarian"
     ],
     "location_tags": [
