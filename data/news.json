@@ -3,7 +3,7 @@
     "id": "9681f846ffd8",
     "title_en": "Kenya | Ongoing short rainy season (Vuli) October – December 2026 - DG ECHO Daily Map | 24/11/2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Kenya</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/preview",
+    "excerpt_en": "<div class=\"tag country\">Country: Kenya</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbn",
     "excerpt_ar": "",
     "source": "ReliefWeb",
     "timestamp": "2026-11-24T17:17:28+00:00",
@@ -51,6 +51,24 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
+  },
+  {
+    "id": "95f86e64b494",
+    "title_en": "Nearly 20,000 Displaced as Deadly Storm Destroys Homes Across Southern Brazil",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Brazil</div>\n                                      <div class=\"tag source\">Source: International Organization for Migration</div>\n                                                                                                                <p><strong>Brasília, 24 November 2026</strong> – Nearly 20,000 people have been displaced after a deadly storm damaged or de",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-24T15:03:06+00:00",
+    "url": "https://reliefweb.int/report/brazil/nearly-20000-displaced-deadly-storm-destroys-homes-across-southern-brazil",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
   },
   {
     "id": "1ccc7c8f69f9",
