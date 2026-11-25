@@ -1,13 +1,13 @@
 [
   {
-    "id": "9da6f477410b",
-    "title_en": "World: Statement by Principals of the Inter-Agency Standing Committee: Humanitarian Transitions",
+    "id": "93e2b88bbf32",
+    "title_en": "UNICEF Cambodia Situation Report No.2 (El Nino 2026-2027 Preparedness), November 2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Inter-Agency Standing Committee</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c4/7e/c47e0a74-8c47-4b3e-aa32-65d55c4c0174.png\" /></p>\n               ",
+    "excerpt_en": "<div class=\"tag country\">Country: Cambodia</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/90/92/9092ee2e-3cef-43bd-8fae-92e430ab7bed.png\" /></p>\n       ",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-25T02:59:50+00:00",
-    "url": "https://reliefweb.int/report/world/statement-principals-inter-agency-standing-committee-humanitarian-transitions",
+    "timestamp": "2026-11-25T07:02:23+00:00",
+    "url": "https://reliefweb.int/report/cambodia/unicef-cambodia-situation-report-no2-el-nino-2026-2027-preparedness-november-2026",
     "tags": [
       "humanitarian"
     ],
@@ -17,14 +17,48 @@
     "credibility": "high"
   },
   {
-    "id": "f78431548810",
-    "title_en": "oPt: No conditions for life: Women, girls and the gendered dimensions of Israel’s genocide against Palestinians in Gaza",
+    "id": "d7708a345f5a",
+    "title_en": "World: ICRC president: No weapon, technology or method of war should put the conduct of hostilities beyond the limits of human control [EN/AR]",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Amnesty International</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2a/eb/2aebd78d-9ea9-476d-9a9c-75fd87af77e3.png\" /></p>\n",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: International Committee of the Red Cross</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/05/0a/050aa845-ff89-4bd4-bc57-c3b53a6f33ea.png\" /></p>\n      ",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-25T02:45:30+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/no-conditions-life-women-girls-and-gendered-dimensions-israels-genocide-against-palestinians-gaza",
+    "timestamp": "2026-11-25T05:36:29+00:00",
+    "url": "https://reliefweb.int/report/world/icrc-president-no-weapon-technology-or-method-war-should-put-conduct-hostilities-beyond-limits-human-control-enar",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "fed008c55863",
+    "title_en": "Burundi: Humanitarian Action for Children 2026 - Protecting children amid overlapping crises in the Great Lakes, Revision 1 (November 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Burundi, Rwanda, Uganda, United Republic of Tanzania</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d2/ee/d2eeab83-4",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-25T05:29:31+00:00",
+    "url": "https://reliefweb.int/report/burundi/humanitarian-action-children-2026-protecting-children-amid-overlapping-crises-great-lakes-revision-1-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "90ef72a27cc1",
+    "title_en": "Humanitarian Action for Children 2026 - Colombia, Revision 1 (November 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Colombia</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/4d/dd/4ddd7456-1508-4aa2-8d2f-0a44c638bb24.png\" /></p>\n       ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-25T05:26:00+00:00",
+    "url": "https://reliefweb.int/report/colombia/humanitarian-action-children-2026-colombia-revision-1-november-2026",
     "tags": [
       "humanitarian"
     ],
