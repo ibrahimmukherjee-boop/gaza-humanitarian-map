@@ -1,5 +1,39 @@
 [
   {
+    "id": "9da6f477410b",
+    "title_en": "World: Statement by Principals of the Inter-Agency Standing Committee: Humanitarian Transitions",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Inter-Agency Standing Committee</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/c4/7e/c47e0a74-8c47-4b3e-aa32-65d55c4c0174.png\" /></p>\n               ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-25T02:59:50+00:00",
+    "url": "https://reliefweb.int/report/world/statement-principals-inter-agency-standing-committee-humanitarian-transitions",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "f78431548810",
+    "title_en": "oPt: No conditions for life: Women, girls and the gendered dimensions of Israel’s genocide against Palestinians in Gaza",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Amnesty International</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2a/eb/2aebd78d-9ea9-476d-9a9c-75fd87af77e3.png\" /></p>\n",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-25T02:45:30+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/no-conditions-life-women-girls-and-gendered-dimensions-israels-genocide-against-palestinians-gaza",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "d9b8c7e23ec7",
     "title_en": "Today's top news: Ukraine, Yemen, Sudan, Occupied Palestinian Territory, Democratic Republic of the Congo",
     "title_ar": "",
