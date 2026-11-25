@@ -1,5 +1,18 @@
 [
   {
+    "id": "a76d4061c323",
+    "title_en": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
+    "title_ar": "",
+    "excerpt_en": "Palestinian farmer and human rights defender Ghassan Najjar was arrested by Israeli forces.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-25T16:34:42+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a11c01472525",
     "title_en": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-11-25T16:02:22+00:00",
     "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "bbc40de9cc49",
-    "title_en": "Central African Republic: Overview of incidents affecting humanitarian workers (october 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/29/e2/29e2325c-a70e-45d4-8e4b-333b0d4ecf98.png\" /></p>\n         ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-25T14:46:38+00:00",
-    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-overview-incidents-affecting-humanitarian-workers-october-2026",
     "credibility": "medium"
   },
   {
@@ -39,43 +39,17 @@
     "credibility": "high"
   },
   {
-    "id": "25a0e5d721f1",
-    "title_en": "UNHCR Ecuador - Operational Update No. 10 | October 2026",
+    "id": "47a84167ae20",
+    "title_en": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Ecuador, Colombia, Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b5/f2/b5f24f62-686",
+    "excerpt_en": "For women in Gaza who lost their husbands in the war, providing for a family no longer means just putting food on the table. Now it also means finding shelter, hauling water and keeping children in school – all from a tent.",
     "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-25T14:03:13+00:00",
-    "url": "https://reliefweb.int/report/ecuador/unhcr-ecuador-operational-update-no-10-october-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "701536982c92",
-    "title_en": "Ethiopia launches polio vaccination campaign to protect more than 11 million children: WHO deployed 28 staff to support the vaccination campaign",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Ethiopia</div>\n                                      <div class=\"tag source\">Source: World Health Organization</div>\n                                                                                              <p><strong>Addis Ababa, Ethiopia, 21 November 2026</strong> – The Government of Ethiopia, in collaboration with the World Health Organization (WHO), UNICEF",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-11-25T13:37:29+00:00",
-    "url": "https://reliefweb.int/report/ethiopia/ethiopia-launches-polio-vaccination-campaign-protect-more-11-million-children-who-deployed-28-staff-support-vaccination-campaign",
-    "credibility": "medium"
-  },
-  {
-    "id": "aaed7fb3c486",
-    "title_en": "WFP Malawi Country Brief November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Malawi</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/9c/ef/9ceff4a4-60a9-4adb-9c97-e80471242e89.png\" /></p>\n       ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
+    "source": "UN News",
     "source_region": "international",
     "statement_type": "media_report",
-    "timestamp": "2026-11-25T12:47:01+00:00",
-    "url": "https://reliefweb.int/report/malawi/wfp-malawi-country-brief-november-2026",
-    "credibility": "medium"
+    "timestamp": "2026-11-25T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168875",
+    "credibility": "high"
   },
   {
     "id": "4eb30bb6f3aa",
