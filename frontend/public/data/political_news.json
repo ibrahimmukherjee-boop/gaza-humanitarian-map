@@ -1,28 +1,41 @@
 [
   {
-    "id": "a76d4061c323",
-    "title_en": "Why did Israel arrest human rights defender Ghassan Al Najjar?",
+    "id": "fe36b2732270",
+    "title_en": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 10 (as of 25 November 2026, 12:00)",
     "title_ar": "",
-    "excerpt_en": "Palestinian farmer and human rights defender Ghassan Najjar was arrested by Israeli forces.",
+    "excerpt_en": "<div class=\"tag country\">Country: Panama</div>\n                                      <div class=\"tag source\">Sources: UN Country Team in Panama, UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/",
     "excerpt_ar": "",
-    "source": "Al Jazeera",
+    "source": "ReliefWeb",
     "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-25T16:34:42+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/why-did-israel-arrest-human-rights-defender-ghassan-al-najjar?traffic_source=rss",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-11-25T23:53:33+00:00",
+    "url": "https://reliefweb.int/report/panama/panama-earthquake-azuero-veraguas-situation-report-no-10-25-november-2026-1200",
     "credibility": "medium"
   },
   {
-    "id": "a11c01472525",
-    "title_en": "Jerusalem Daily: Israel kills Hamas’s Gaza security chief",
+    "id": "35d1e4634d02",
+    "title_en": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
     "title_ar": "",
-    "excerpt_en": "Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike",
+    "excerpt_en": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
     "excerpt_ar": "",
     "source": "Al Jazeera",
     "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-25T16:02:22+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-25T21:03:51+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "c497baf18b90",
+    "title_en": "oPt: Palestine - Logistics Cluster Meeting Minutes, Jerusalem, 29 October 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Sources: Logistics Cluster, World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ad/c9/adc9be46-6818-5c88-8b88-b5c9a5",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-25T15:40:07+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/palestine-logistics-cluster-meeting-minutes-jerusalem-29-october-2026",
     "credibility": "medium"
   },
   {
@@ -36,6 +49,19 @@
     "statement_type": "military_announcement",
     "timestamp": "2026-11-25T14:06:13+00:00",
     "url": "https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss",
+    "credibility": "high"
+  },
+  {
+    "id": "0179896dff2c",
+    "title_en": "Türk warns of widening risk of atrocity crimes against Palestinians",
+    "title_ar": "",
+    "excerpt_en": "UN human rights chief Volker Türk on Wednesday warned of a widening risk of further atrocity crimes by Israel against Palestinians, saying violence in the occupied West Bank in recent months has heightened existential fears.",
+    "excerpt_ar": "",
+    "source": "UN News",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-11-25T12:00:00+00:00",
+    "url": "https://news.un.org/feed/view/en/story/2026/11/1168879",
     "credibility": "high"
   },
   {
@@ -218,19 +244,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-11-04T12:00:00+00:00",
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168740",
-    "credibility": "high"
-  },
-  {
-    "id": "fbdd668a07fd",
-    "title_en": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
-    "title_ar": "",
-    "excerpt_en": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites, the UN human rights office, OHCHR, warned on Friday amid concerns of ethnic cleansing.&nbsp;",
-    "excerpt_ar": "",
-    "source": "UN News",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-10-30T12:00:00+00:00",
-    "url": "https://news.un.org/feed/view/en/story/2026/10/1168707",
     "credibility": "high"
   }
 ]
