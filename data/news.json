@@ -52,6 +52,24 @@
     "credibility": "high"
   },
   {
+    "id": "f93043324e9f",
+    "title_en": "Japan and World Food Programme Partner to Provide Nutritious School Meals for 50,000 Young Children in Lesotho",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Lesotho, Japan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                              <p>MASERU, Lesotho – The United Nations World Food Programme (WFP) welcomes a JPY 200 million contribution, equivalent to USD 1.2 million, from the Gove",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-26T09:33:07+00:00",
+    "url": "https://reliefweb.int/report/lesotho/japan-and-world-food-programme-partner-provide-nutritious-school-meals-50000-young-children-lesotho",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "8a4178287f7c",
     "title_en": "Humanitarian Needs and Response Trends in Northeast Nigeria, 2022-2026: A Five-Year Retrospective Analysis (November 2026)",
     "title_ar": "",
@@ -61,24 +79,6 @@
     "timestamp": "2026-11-26T08:49:29+00:00",
     "url": "https://reliefweb.int/report/nigeria/humanitarian-needs-and-response-trends-northeast-nigeria-2022-2026-five-year-retrospective-analysis-november-2026",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "8c4ff681980c",
-    "title_en": "oPt: West Bank and Gaza Strip: FAO Humanitarian response update, November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Food and Agriculture Organization of the United Nations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e1/2e/e12e84fd-4145-4",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-26T05:07:17+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/west-bank-and-gaza-strip-fao-humanitarian-response-update-november-2026",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
