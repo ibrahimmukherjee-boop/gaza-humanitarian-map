@@ -1,13 +1,31 @@
 [
   {
-    "id": "fe36b2732270",
-    "title_en": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 10 (as of 25 November 2026, 12:00)",
+    "id": "8c4ff681980c",
+    "title_en": "oPt: West Bank and Gaza Strip: FAO Humanitarian response update, November 2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Panama</div>\n                                      <div class=\"tag source\">Sources: UN Country Team in Panama, UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Food and Agriculture Organization of the United Nations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e1/2e/e12e84fd-4145-4",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-25T23:53:33+00:00",
-    "url": "https://reliefweb.int/report/panama/panama-earthquake-azuero-veraguas-situation-report-no-10-25-november-2026-1200",
+    "timestamp": "2026-11-26T05:07:17+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/west-bank-and-gaza-strip-fao-humanitarian-response-update-november-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "4ae5d21cb03b",
+    "title_en": "UNICEF Nepal Humanitarian Situation Report No. 9 - 23 November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Nepal</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/67/2f/672f9546-83c1-493d-8e90-a3bd07c7a827.png\" /></p>\n          ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-26T03:23:36+00:00",
+    "url": "https://reliefweb.int/report/nepal/unicef-nepal-humanitarian-situation-report-no-9-23-november-2026",
     "tags": [
       "humanitarian"
     ],
@@ -44,24 +62,6 @@
     "timestamp": "2026-11-25T17:26:16+00:00",
     "url": "https://www.unocha.org/news/todays-top-news-yemen-sudan-occupied-palestinian-territory-somalia",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "c497baf18b90",
-    "title_en": "oPt: Palestine - Logistics Cluster Meeting Minutes, Jerusalem, 29 October 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Sources: Logistics Cluster, World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ad/c9/adc9be46-6818-5c88-8b88-b5c9a5",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-25T15:40:07+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/palestine-logistics-cluster-meeting-minutes-jerusalem-29-october-2026",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
@@ -306,23 +306,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
     "tags": [
       "health",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "99eb64536a45",
-    "title_en": "UK sanctions firms over Israeli West Bank settlements",
-    "title_ar": "",
-    "excerpt_en": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-17T18:27:27+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
