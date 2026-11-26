@@ -1,13 +1,13 @@
 [
   {
-    "id": "8c4ff681980c",
-    "title_en": "oPt: West Bank and Gaza Strip: FAO Humanitarian response update, November 2026",
+    "id": "ab9d29404468",
+    "title_en": "WFP Guatemala Country Brief November 2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Food and Agriculture Organization of the United Nations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e1/2e/e12e84fd-4145-4",
+    "excerpt_en": "<div class=\"tag country\">Country: Guatemala</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b7/f4/b7f41a05-314d-4bf0-be39-885e48c90c69.png\" /></p>\n                        <p>Please refer to the attached fi",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-26T05:07:17+00:00",
-    "url": "https://reliefweb.int/report/occupied-palestinian-territory/west-bank-and-gaza-strip-fao-humanitarian-response-update-november-2026",
+    "timestamp": "2026-11-26T10:21:43+00:00",
+    "url": "https://reliefweb.int/report/guatemala/wfp-guatemala-country-brief-november-2026",
     "tags": [
       "aid",
       "humanitarian"
@@ -18,15 +18,67 @@
     "credibility": "high"
   },
   {
-    "id": "4ae5d21cb03b",
-    "title_en": "UNICEF Nepal Humanitarian Situation Report No. 9 - 23 November 2026",
+    "id": "343453e23d60",
+    "title_en": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Nepal</div>\n                                      <div class=\"tag source\">Source: UN Children's Fund</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/67/2f/672f9546-83c1-493d-8e90-a3bd07c7a827.png\" /></p>\n          ",
+    "excerpt_en": "The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.",
+    "excerpt_ar": "",
+    "source": "BBC Middle East",
+    "timestamp": "2026-11-26T10:14:08+00:00",
+    "url": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "medium"
+  },
+  {
+    "id": "04f030fccaaf",
+    "title_en": "Central African Republic: Situation Report No. 95, as of 24 November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/18/3b/183bf756-c486-40d9-bcd9-29662239815a.png\" /></p>\n         ",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-26T03:23:36+00:00",
-    "url": "https://reliefweb.int/report/nepal/unicef-nepal-humanitarian-situation-report-no-9-23-november-2026",
+    "timestamp": "2026-11-26T09:54:55+00:00",
+    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-situation-report-no-95-24-november-2026",
     "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "8a4178287f7c",
+    "title_en": "Humanitarian Needs and Response Trends in Northeast Nigeria, 2022-2026: A Five-Year Retrospective Analysis (November 2026)",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Nigeria</div>\n                                      <div class=\"tag source\">Source: Voices and Evidence Frontiers</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e0/ae/e0aee117-b1c0-47db-948e-16bc23aa768a.png\" /></p>\n               ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-26T08:49:29+00:00",
+    "url": "https://reliefweb.int/report/nigeria/humanitarian-needs-and-response-trends-northeast-nigeria-2022-2026-five-year-retrospective-analysis-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "8c4ff681980c",
+    "title_en": "oPt: West Bank and Gaza Strip: FAO Humanitarian response update, November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: Food and Agriculture Organization of the United Nations</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e1/2e/e12e84fd-4145-4",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-26T05:07:17+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/west-bank-and-gaza-strip-fao-humanitarian-response-update-november-2026",
+    "tags": [
+      "aid",
       "humanitarian"
     ],
     "location_tags": [
@@ -288,24 +340,6 @@
     "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "medium"
-  },
-  {
-    "id": "66b1f531c035",
-    "title_en": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-    "title_ar": "",
-    "excerpt_en": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
-    "excerpt_ar": "",
-    "source": "BBC Middle East",
-    "timestamp": "2026-11-17T20:30:20+00:00",
-    "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
-    "tags": [
-      "health",
       "humanitarian"
     ],
     "location_tags": [
