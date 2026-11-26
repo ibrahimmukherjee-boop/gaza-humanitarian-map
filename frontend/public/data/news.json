@@ -1,15 +1,66 @@
 [
   {
-    "id": "ab9d29404468",
-    "title_en": "WFP Guatemala Country Brief November 2026",
+    "id": "180aa82003a2",
+    "title_en": "World: Asia and the Pacific | DG ECHO Civil Protection and Humanitarian Aid Operations from January 2026 to November 2026 - DG ECHO Daily Map | 26/11/2026",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Guatemala</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b7/f4/b7f41a05-314d-4bf0-be39-885e48c90c69.png\" /></p>\n                        <p>Please refer to the attached fi",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                            <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e5/ae/e5ae5a01-8",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-26T10:21:43+00:00",
-    "url": "https://reliefweb.int/report/guatemala/wfp-guatemala-country-brief-november-2026",
+    "timestamp": "2026-11-26T15:17:31+00:00",
+    "url": "https://reliefweb.int/map/world/asia-and-pacific-dg-echo-civil-protection-and-humanitarian-aid-operations-january-2026-november-2026-dg-echo-daily-map-26112026",
     "tags": [
       "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "7dc4e5f12996",
+    "title_en": "oPt: Humanitarian Situation Report | 26 November 2026\\",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e8/e",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-26T14:01:46+00:00",
+    "url": "https://reliefweb.int/report/occupied-palestinian-territory/opt-humanitarian-situation-report-26-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "4d78cd795884",
+    "title_en": "World: Mixed Migration Review 2026 - Migration in the age of polycrisis",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Bangladesh, Burkina Faso, Burundi, Chad, Colombia, Costa Rica, Ecuador, Egypt, Ethiopia, Iran (Islamic Republic of), Kenya, Lebanon, Libya, Mali, Morocco, Niger, occupied Palestinian territory, Panama, Peru, Somalia, South Sudan, Syrian Arab Republic, Tunisia, Venezuela (Bolivarian Republic of), Yemen</div>\n                                      <div class",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-26T13:26:06+00:00",
+    "url": "https://reliefweb.int/report/world/mixed-migration-review-2026-migration-age-polycrisis",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "1c9d44f13f36",
+    "title_en": "Disaster Management Reference Handbook (November 2026) - Bangladesh",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Bangladesh</div>\n                                      <div class=\"tag source\">Source: Center for Excellence in Disaster Management and Humanitarian Assistance</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2a/e8/",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-26T13:05:18+00:00",
+    "url": "https://reliefweb.int/report/bangladesh/disaster-management-reference-handbook-november-2026-bangladesh",
+    "tags": [
       "humanitarian"
     ],
     "location_tags": [
@@ -33,58 +84,6 @@
       "Gaza Strip"
     ],
     "credibility": "medium"
-  },
-  {
-    "id": "04f030fccaaf",
-    "title_en": "Central African Republic: Situation Report No. 95, as of 24 November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Central African Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/18/3b/183bf756-c486-40d9-bcd9-29662239815a.png\" /></p>\n         ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-26T09:54:55+00:00",
-    "url": "https://reliefweb.int/report/central-african-republic/central-african-republic-situation-report-no-95-24-november-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "f93043324e9f",
-    "title_en": "Japan and World Food Programme Partner to Provide Nutritious School Meals for 50,000 Young Children in Lesotho",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Lesotho, Japan</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                                              <p>MASERU, Lesotho – The United Nations World Food Programme (WFP) welcomes a JPY 200 million contribution, equivalent to USD 1.2 million, from the Gove",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-26T09:33:07+00:00",
-    "url": "https://reliefweb.int/report/lesotho/japan-and-world-food-programme-partner-provide-nutritious-school-meals-50000-young-children-lesotho",
-    "tags": [
-      "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "8a4178287f7c",
-    "title_en": "Humanitarian Needs and Response Trends in Northeast Nigeria, 2022-2026: A Five-Year Retrospective Analysis (November 2026)",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Nigeria</div>\n                                      <div class=\"tag source\">Source: Voices and Evidence Frontiers</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e0/ae/e0aee117-b1c0-47db-948e-16bc23aa768a.png\" /></p>\n               ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-26T08:49:29+00:00",
-    "url": "https://reliefweb.int/report/nigeria/humanitarian-needs-and-response-trends-northeast-nigeria-2022-2026-five-year-retrospective-analysis-november-2026",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
   },
   {
     "id": "c37af567dba5",
