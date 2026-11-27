@@ -1,5 +1,44 @@
 [
   {
+    "id": "bbc7a09249e9",
+    "title_en": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
+    "title_ar": "",
+    "excerpt_en": "Hamas leader Khalil al-Hayya&#039;s last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-27T20:18:45+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "38f371ba95eb",
+    "title_en": "UN Gaza rapporteur Francesca Albanese denied entry into Costa Rica",
+    "title_ar": "",
+    "excerpt_en": "Costa Rica has barred UN special rapporteur Francesca Albanese, citing unfounded ‘links to terrorist acts’.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "diplomatic",
+    "timestamp": "2026-11-27T20:10:30+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/un-gaza-rapporteur-francesca-albanese-denied-entry-into-costa-rica?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
+    "id": "7c25e5a54ed5",
+    "title_en": "Israel kills four in Gaza as Hamas chief al-Hayya’s son survives strike",
+    "title_ar": "",
+    "excerpt_en": "Four of Khalil al-Hayya&#039;s other sons were previously killed by Israeli forces, according to the Palestinian group.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-27T19:53:25+00:00",
+    "url": "https://www.aljazeera.com/news/2026/11/27/israel-kills-four-in-gaza-as-hamas-chief-al-hayyas-son-survives-strike?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "a19cdfef913b",
     "title_en": "Angola: Southern Africa and Indian Ocean (SAIO) region | Food insecurity (October 2026 – May 2027) - DG ECHO Daily Map | 27/11/2026",
     "title_ar": "",
@@ -13,19 +52,6 @@
     "credibility": "medium"
   },
   {
-    "id": "531223d95baf",
-    "title_en": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
-    "title_ar": "",
-    "excerpt_en": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness&#039;.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-27T16:01:44+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "02c570310874",
     "title_en": "Venezuela: Humanitarian Response - Who does what, where, when and for whom? (As of 31 October 2026)",
     "title_ar": "",
@@ -36,19 +62,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-11-27T15:41:19+00:00",
     "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-humanitarian-response-who-does-what-where-when-and-whom-31-october-2026",
-    "credibility": "medium"
-  },
-  {
-    "id": "17f85430ad96",
-    "title_en": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
-    "title_ar": "",
-    "excerpt_en": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel&#039;s genocidal war on Gaza.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-27T14:17:25+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
     "credibility": "medium"
   },
   {
