@@ -1,5 +1,31 @@
 [
   {
+    "id": "a19cdfef913b",
+    "title_en": "Angola: Southern Africa and Indian Ocean (SAIO) region | Food insecurity (October 2026 – May 2027) - DG ECHO Daily Map | 27/11/2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Angola, Lesotho, Madagascar, Mozambique, Malawi, Eswatini, Zambia, Zimbabwe</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"h",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "source_region": "international",
+    "statement_type": "military_announcement",
+    "timestamp": "2026-11-27T16:17:25+00:00",
+    "url": "https://reliefweb.int/map/angola/southern-africa-and-indian-ocean-saio-region-food-insecurity-october-2026-may-2027-dg-echo-daily-map-27112026",
+    "credibility": "medium"
+  },
+  {
+    "id": "531223d95baf",
+    "title_en": "Jerusalem Daily: Kushner calls Gaza rebuilding ‘act of kindness’",
+    "title_ar": "",
+    "excerpt_en": "As Gaza remains under Israeli bombardment, US envoy Jared Kushner calls its reconstruction a ‘huge act of kindness&#039;.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-27T16:01:44+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/jerusalem-daily-kushner-calls-gaza-rebuilding-act-of?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "02c570310874",
     "title_en": "Venezuela: Humanitarian Response - Who does what, where, when and for whom? (As of 31 October 2026)",
     "title_ar": "",
@@ -52,32 +78,6 @@
     "credibility": "medium"
   },
   {
-    "id": "ae35643ffe4f",
-    "title_en": "Why did Georgian police clash with Turkish football fans over Palestine?",
-    "title_ar": "",
-    "excerpt_en": "Georgia&#039;s Interior Ministry says 16 people were detained and three employees injured during clashes.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "official_statement",
-    "timestamp": "2026-11-27T13:32:55+00:00",
-    "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "a1b7a8a19776",
-    "title_en": "Sentence served, still detained: Palestinian families waiting for reunions",
-    "title_ar": "",
-    "excerpt_en": "Palestinian families say their loved ones remain in Israeli prisons despite having completed their sentences.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-27T13:14:52+00:00",
-    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/sentence-served-still-detained-palestinian-families-waiting-for-reunions?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
     "id": "8d977deb49b0",
     "title_en": "Guinea-Bissau: WFP Guinea Bissau Country Brief, November 2026",
     "title_ar": "",
@@ -101,32 +101,6 @@
     "statement_type": "diplomatic",
     "timestamp": "2026-11-27T11:33:08+00:00",
     "url": "https://reliefweb.int/report/world/protection-and-solutions-cannot-wait-unhcr-launches-71-billion-global-appeal-2027",
-    "credibility": "medium"
-  },
-  {
-    "id": "aad9e5d8a8d0",
-    "title_en": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-    "title_ar": "",
-    "excerpt_en": "Israel seeking &#039;to prevent births&#039; and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "media_report",
-    "timestamp": "2026-11-27T11:15:03+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "eb857e3b25fb",
-    "title_en": "UNHCR Brazil Fact Sheet, November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Brazil, Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/83/30/8330b955-4767-457f-a153",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "source_region": "international",
-    "statement_type": "diplomatic",
-    "timestamp": "2026-11-27T11:02:46+00:00",
-    "url": "https://reliefweb.int/report/brazil/unhcr-brazil-fact-sheet-november-2026",
     "credibility": "medium"
   },
   {
