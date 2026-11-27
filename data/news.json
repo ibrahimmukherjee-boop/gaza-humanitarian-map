@@ -1,5 +1,23 @@
 [
   {
+    "id": "eb857e3b25fb",
+    "title_en": "UNHCR Brazil Fact Sheet, November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Brazil, Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/83/30/8330b955-4767-457f-a153",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T11:02:46+00:00",
+    "url": "https://reliefweb.int/report/brazil/unhcr-brazil-fact-sheet-november-2026",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "5846b4d47667",
     "title_en": "Syrian Arab Republic: Overview of humanitarian response (January - October 2026) [EN/AR]",
     "title_ar": "",
@@ -9,24 +27,6 @@
     "timestamp": "2026-11-27T10:28:37+00:00",
     "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-overview-humanitarian-response-january-october-2026-enar",
     "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "b25a5fde297b",
-    "title_en": "WFP Indonesia Country Brief, September 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Indonesia</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/1c/b2/1cb24126-d256-41e6-bc06-1227b0ed3b9f.png\" /></p>\n                      ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-27T08:15:46+00:00",
-    "url": "https://reliefweb.int/report/indonesia/wfp-indonesia-country-brief-september-2026",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
