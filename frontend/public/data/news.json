@@ -1,5 +1,23 @@
 [
   {
+    "id": "a19cdfef913b",
+    "title_en": "Angola: Southern Africa and Indian Ocean (SAIO) region | Food insecurity (October 2026 – May 2027) - DG ECHO Daily Map | 27/11/2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: Angola, Lesotho, Madagascar, Mozambique, Malawi, Eswatini, Zambia, Zimbabwe</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                                              <p><img alt=\"alt\" src=\"h",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T16:17:25+00:00",
+    "url": "https://reliefweb.int/map/angola/southern-africa-and-indian-ocean-saio-region-food-insecurity-october-2026-may-2027-dg-echo-daily-map-27112026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "02c570310874",
     "title_en": "Venezuela: Humanitarian Response - Who does what, where, when and for whom? (As of 31 October 2026)",
     "title_ar": "",
@@ -78,24 +96,6 @@
     "source": "ReliefWeb",
     "timestamp": "2026-11-27T11:33:08+00:00",
     "url": "https://reliefweb.int/report/world/protection-and-solutions-cannot-wait-unhcr-launches-71-billion-global-appeal-2027",
-    "tags": [
-      "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "eb857e3b25fb",
-    "title_en": "UNHCR Brazil Fact Sheet, November 2026",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: Brazil, Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/83/30/8330b955-4767-457f-a153",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-27T11:02:46+00:00",
-    "url": "https://reliefweb.int/report/brazil/unhcr-brazil-fact-sheet-november-2026",
     "tags": [
       "displacement",
       "humanitarian"
@@ -341,23 +341,6 @@
     "url": "https://news.un.org/feed/view/en/story/2026/11/1168849",
     "tags": [
       "aid",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "9e923392b86a",
-    "title_en": "19 November: Second day at OCHA's pop-up Hub",
-    "title_ar": "",
-    "excerpt_en": "<span>19 November: Second day at OCHA's pop-up Hub</span>\n\n            <div class=\"field field--name-field-basic-image field--type-entity-reference field--label-hidden field__item\"><article>\n      <div class=\"js-media-library-item-preview\">\n      \n            <div class=\"field field--name-thumbnail field--type-image field--label-hidden field__item\">  <img alt=\"Participants at the event, &quot;From",
-    "excerpt_ar": "",
-    "source": "OCHA",
-    "timestamp": "2026-11-19T19:44:40+00:00",
-    "url": "https://www.unocha.org/19-november-second-day-ochas-pop-hub",
-    "tags": [
       "humanitarian"
     ],
     "location_tags": [
