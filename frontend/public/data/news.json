@@ -1,5 +1,41 @@
 [
   {
+    "id": "5e275ed853a0",
+    "title_en": "WFP Cameroon Country Brief, November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Cameroon</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ae/9d/ae9da94c-edb4-4332-bd2d-8e158072ca97.png\" /></p>\n                        <p>Please refer to the attached fil",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T11:51:22+00:00",
+    "url": "https://reliefweb.int/report/cameroon/wfp-cameroon-country-brief-november-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "a63824d38ea5",
+    "title_en": "World: Protection and solutions cannot wait: UNHCR launches $7.1 billion Global Appeal for 2027",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                                              <p>GENEVA – UNHCR, the UN Refugee Agency, has just released its <a href=\"https://www.unhcr.org/publications/global-appeal-2027\" rel=\"noreferrer noopen",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T11:33:08+00:00",
+    "url": "https://reliefweb.int/report/world/protection-and-solutions-cannot-wait-unhcr-launches-71-billion-global-appeal-2027",
+    "tags": [
+      "displacement",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "eb857e3b25fb",
     "title_en": "UNHCR Brazil Fact Sheet, November 2026",
     "title_ar": "",
@@ -27,6 +63,24 @@
     "timestamp": "2026-11-27T10:28:37+00:00",
     "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-overview-humanitarian-response-january-october-2026-enar",
     "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "6d5adb0f21f1",
+    "title_en": "World: Hunger Hotspots FAO-WFP early warnings on acute food insecurity December 2026 to May 2027 outlook",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Afghanistan, Chad, Democratic Republic of the Congo, Guatemala, Haiti, Honduras, Madagascar, Mali, Myanmar, Nigeria, occupied Palestinian territory, Somalia, South Sudan, Sudan, Uganda, Yemen</div>\n                                      <div class=\"tag source\">Sources: Food and Agriculture Organization of the United Nations, World Food Programme</div>\n    ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T10:03:05+00:00",
+    "url": "https://reliefweb.int/report/world/hunger-hotspots-fao-wfp-early-warnings-acute-food-insecurity-december-2026-may-2027-outlook",
+    "tags": [
+      "aid",
       "humanitarian"
     ],
     "location_tags": [
