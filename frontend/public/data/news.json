@@ -1,13 +1,65 @@
 [
   {
-    "id": "5e275ed853a0",
-    "title_en": "WFP Cameroon Country Brief, November 2026",
+    "id": "02c570310874",
+    "title_en": "Venezuela: Humanitarian Response - Who does what, where, when and for whom? (As of 31 October 2026)",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Cameroon</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ae/9d/ae9da94c-edb4-4332-bd2d-8e158072ca97.png\" /></p>\n                        <p>Please refer to the attached fil",
+    "excerpt_en": "<div class=\"tag country\">Country: Venezuela (Bolivarian Republic of)</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/60/c1/60c15196-4f3",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-27T11:51:22+00:00",
-    "url": "https://reliefweb.int/report/cameroon/wfp-cameroon-country-brief-november-2026",
+    "timestamp": "2026-11-27T15:41:19+00:00",
+    "url": "https://reliefweb.int/report/venezuela-bolivarian-republic/venezuela-humanitarian-response-who-does-what-where-when-and-whom-31-october-2026",
+    "tags": [
+      "health",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "979d11be1f9f",
+    "title_en": "World: Leadership in Humanitarian Action: Handbook for Humanitarian Coordinators, November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: Inter-Agency Standing Committee</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/ce/1d/ce1d5b62-9718-46e0-8e59-672d45d2ffbb.png\" /></p>\n               ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T14:00:34+00:00",
+    "url": "https://reliefweb.int/report/world/leadership-humanitarian-action-handbook-humanitarian-coordinators-november-2026",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "b9b5b587ebfa",
+    "title_en": "World: AI and M&E in humanitarian action",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: ALNAP</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/46/37/463755e2-70ed-46d6-bc40-fc2d6adc4520.png\" /></p>\n                        <p>Please refer t",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T13:53:00+00:00",
+    "url": "https://reliefweb.int/report/world/ai-and-me-humanitarian-action",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "8d977deb49b0",
+    "title_en": "Guinea-Bissau: WFP Guinea Bissau Country Brief, November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Guinea-Bissau</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/b9/e1/b9e14d50-1a0e-4394-bd52-69b76fce027f.png\" /></p>\n                  ",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T12:39:39+00:00",
+    "url": "https://reliefweb.int/report/guinea-bissau/wfp-guinea-bissau-country-brief-november-2026",
     "tags": [
       "aid",
       "humanitarian"
@@ -19,9 +71,9 @@
   },
   {
     "id": "a63824d38ea5",
-    "title_en": "World: Protection and solutions cannot wait: UNHCR launches $7.1 billion Global Appeal for 2027",
+    "title_en": "World: Protection and Solutions cannot wait: UNHCR launches $7.1 billion Global Appeal for 2027",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                                              <p>GENEVA – UNHCR, the UN Refugee Agency, has just released its <a href=\"https://www.unhcr.org/publications/global-appeal-2027\" rel=\"noreferrer noopen",
+    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: UN High Commissioner for Refugees</div>\n                                                                                              <p>GENEVA – UNHCR, the UN Refugee Agency, has just released its <a href=\"https://reliefweb.int/report/world/unhcr-global-appeal-2027\">2027 Global Appe",
     "excerpt_ar": "",
     "source": "ReliefWeb",
     "timestamp": "2026-11-27T11:33:08+00:00",
@@ -46,41 +98,6 @@
     "url": "https://reliefweb.int/report/brazil/unhcr-brazil-fact-sheet-november-2026",
     "tags": [
       "displacement",
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "5846b4d47667",
-    "title_en": "Syrian Arab Republic: Overview of humanitarian response (January - October 2026) [EN/AR]",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Syrian Arab Republic</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                              <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/d4/32/d432bba9-83e1-4fa8-8dd2-2a",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-27T10:28:37+00:00",
-    "url": "https://reliefweb.int/report/syrian-arab-republic/syrian-arab-republic-overview-humanitarian-response-january-october-2026-enar",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "6d5adb0f21f1",
-    "title_en": "World: Hunger Hotspots FAO-WFP early warnings on acute food insecurity December 2026 to May 2027 outlook",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Countries: World, Afghanistan, Chad, Democratic Republic of the Congo, Guatemala, Haiti, Honduras, Madagascar, Mali, Myanmar, Nigeria, occupied Palestinian territory, Somalia, South Sudan, Sudan, Uganda, Yemen</div>\n                                      <div class=\"tag source\">Sources: Food and Agriculture Organization of the United Nations, World Food Programme</div>\n    ",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-27T10:03:05+00:00",
-    "url": "https://reliefweb.int/report/world/hunger-hotspots-fao-wfp-early-warnings-acute-food-insecurity-december-2026-may-2027-outlook",
-    "tags": [
-      "aid",
       "humanitarian"
     ],
     "location_tags": [
