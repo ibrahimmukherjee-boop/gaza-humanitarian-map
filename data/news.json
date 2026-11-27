@@ -1,5 +1,40 @@
 [
   {
+    "id": "7e38671a2f67",
+    "title_en": "WFP Bangladesh Country Brief, November 2026",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Country: Bangladesh</div>\n                                      <div class=\"tag source\">Source: World Food Programme</div>\n                                          <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/53/ba/53ba3b7d-1c20-41f4-b21a-6ab00d2ef4c9.png\" /></p>\n                        <p>Please refer to the attached f",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T01:12:01+00:00",
+    "url": "https://reliefweb.int/report/bangladesh/wfp-bangladesh-country-brief-november-2026",
+    "tags": [
+      "aid",
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
+    "id": "576a8a09a498",
+    "title_en": "One Girl Married Every Three Seconds as World Falls Behind on Promise to End Child Marriage",
+    "title_ar": "",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Bangladesh, occupied Palestinian territory, Sierra Leone</div>\n                                      <div class=\"tag source\">Source: Save the Children</div>\n                                                                                              <p><strong>LONDON/GENEVA, 27 November 2026</strong> – Nearly one girl every three seconds is married befor",
+    "excerpt_ar": "",
+    "source": "ReliefWeb",
+    "timestamp": "2026-11-27T00:01:00+00:00",
+    "url": "https://reliefweb.int/report/world/one-girl-married-every-three-seconds-world-falls-behind-promise-end-child-marriage",
+    "tags": [
+      "humanitarian"
+    ],
+    "location_tags": [
+      "Gaza Strip"
+    ],
+    "credibility": "high"
+  },
+  {
     "id": "de55590df2fb",
     "title_en": "WFP Ghana Country Brief, October 2026",
     "title_ar": "",
@@ -18,16 +53,16 @@
     "credibility": "high"
   },
   {
-    "id": "180aa82003a2",
-    "title_en": "World: Asia and the Pacific | DG ECHO Civil Protection and Humanitarian Aid Operations from January 2026 to November 2026 - DG ECHO Daily Map | 26/11/2026",
+    "id": "7e1e189a496f",
+    "title_en": "World: From forecasts to action: strengthening Africa's response to El Niño",
     "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: World</div>\n                                      <div class=\"tag source\">Source: European Commission's Directorate-General for European Civil Protection and Humanitarian Aid Operations</div>\n                                                            <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e5/ae/e5ae5a01-8",
+    "excerpt_en": "<div class=\"tag country\">Countries: World, Malawi</div>\n                                      <div class=\"tag source\">Source: Norwegian Refugee Council</div>\n                                                                                                                <p>As the latest El Niño threatens extreme weather across Africa, NORCAP climate experts are turning weather and climate data into",
     "excerpt_ar": "",
     "source": "ReliefWeb",
-    "timestamp": "2026-11-26T15:17:31+00:00",
-    "url": "https://reliefweb.int/map/world/asia-and-pacific-dg-echo-civil-protection-and-humanitarian-aid-operations-january-2026-november-2026-dg-echo-daily-map-26112026",
+    "timestamp": "2026-11-26T15:03:11+00:00",
+    "url": "https://reliefweb.int/report/world/forecasts-action-strengthening-africas-response-el-nino",
     "tags": [
-      "aid",
+      "displacement",
       "humanitarian"
     ],
     "location_tags": [
@@ -37,7 +72,7 @@
   },
   {
     "id": "7dc4e5f12996",
-    "title_en": "oPt: Humanitarian Situation Report | 26 November 2026\\",
+    "title_en": "oPt: Humanitarian Situation Report | 26 November 2026",
     "title_ar": "",
     "excerpt_en": "<div class=\"tag country\">Country: occupied Palestinian territory</div>\n                                      <div class=\"tag source\">Source: UN Office for the Coordination of Humanitarian Affairs</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/e8/e",
     "excerpt_ar": "",
@@ -61,23 +96,6 @@
     "source": "ReliefWeb",
     "timestamp": "2026-11-26T13:26:06+00:00",
     "url": "https://reliefweb.int/report/world/mixed-migration-review-2026-migration-age-polycrisis",
-    "tags": [
-      "humanitarian"
-    ],
-    "location_tags": [
-      "Gaza Strip"
-    ],
-    "credibility": "high"
-  },
-  {
-    "id": "1c9d44f13f36",
-    "title_en": "Disaster Management Reference Handbook (November 2026) - Bangladesh",
-    "title_ar": "",
-    "excerpt_en": "<div class=\"tag country\">Country: Bangladesh</div>\n                                      <div class=\"tag source\">Source: Center for Excellence in Disaster Management and Humanitarian Assistance</div>\n                                                                                                <p><img alt=\"alt\" src=\"https://reliefweb.int/sites/default/files/styles/thumbnail/public/previews/2a/e8/",
-    "excerpt_ar": "",
-    "source": "ReliefWeb",
-    "timestamp": "2026-11-26T13:05:18+00:00",
-    "url": "https://reliefweb.int/report/bangladesh/disaster-management-reference-handbook-november-2026-bangladesh",
     "tags": [
       "humanitarian"
     ],
