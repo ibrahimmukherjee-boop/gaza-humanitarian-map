@@ -1,5 +1,18 @@
 [
   {
+    "id": "2651df96e14d",
+    "title_en": "Security tries to remove Palestinian flag at Selfridges on Black Friday",
+    "title_ar": "",
+    "excerpt_en": "Pro-Palestinian protesters demonstrated in a Selfridges department store in London on Black Friday.",
+    "excerpt_ar": "",
+    "source": "Al Jazeera",
+    "source_region": "international",
+    "statement_type": "media_report",
+    "timestamp": "2026-11-28T11:30:07+00:00",
+    "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/security-tries-to-remove-palestinian-flag-at-selfridges-on-black-friday?traffic_source=rss",
+    "credibility": "medium"
+  },
+  {
     "id": "3d6e8ea77294",
     "title_en": "Gaza’s chess players survive a genocide and rebuild a community",
     "title_ar": "",
@@ -10,19 +23,6 @@
     "statement_type": "media_report",
     "timestamp": "2026-11-28T09:41:45+00:00",
     "url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
-    "credibility": "medium"
-  },
-  {
-    "id": "3e4402d787cd",
-    "title_en": "Israeli ‘direct hit ‘on Doctors Without Borders Gaza clinic kills 2 staff",
-    "title_ar": "",
-    "excerpt_en": "MSF says premises &#039;clearly marked&#039; with its logos, location communicated to and known by Israeli military.",
-    "excerpt_ar": "",
-    "source": "Al Jazeera",
-    "source_region": "international",
-    "statement_type": "military_announcement",
-    "timestamp": "2026-11-28T03:45:58+00:00",
-    "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
     "credibility": "medium"
   },
   {
